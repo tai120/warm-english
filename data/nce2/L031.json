@@ -1,0 +1,279 @@
+{
+  "id": "L031",
+  "title": "Lesson 31 · Success story",
+  "titleZh": "第31课 成功者的故事",
+  "words": [
+    {
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "meaning": "n. 成功",
+      "examples": [
+        { "en": "Success story.", "zh": "成功者的故事。" },
+        { "en": "The play was a great success.", "zh": "这出戏大获成功。" }
+      ]
+    },
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "meaning": "n. 经历",
+      "examples": [
+        { "en": "Frank was telling me about his experiences as a young man.", "zh": "弗兰克向我讲述了他年轻时的经历。" },
+        { "en": "He told us about his experiences in Africa.", "zh": "他向我们讲述了他在非洲的经历。" }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meaning": "v. 退休",
+      "examples": [
+        { "en": "Before he retired, Frank was the head of a large company.", "zh": "在退休前，弗兰克是一家大公司的经理。" },
+        { "en": "My father retired last year.", "zh": "我父亲去年退休了。" }
+      ]
+    },
+    {
+      "word": "company",
+      "phonetic": "/ˈkʌmpəni/",
+      "meaning": "n. 公司",
+      "examples": [
+        { "en": "Frank was the head of a very large business company.", "zh": "弗兰克是一家非常大的商业公司的经理。" },
+        { "en": "She works for a big company.", "zh": "她在一家大公司工作。" }
+      ]
+    },
+    {
+      "word": "workshop",
+      "phonetic": "/ˈwɜːkʃɒp/",
+      "meaning": "n. 车间",
+      "examples": [
+        { "en": "He bought a small workshop of his own.", "zh": "他买下了自己的一个小铺子。" },
+        { "en": "The workshop makes spare parts.", "zh": "这个车间生产零配件。" }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meaning": "v. 修理",
+      "examples": [
+        { "en": "It was his job to repair bicycles.", "zh": "他那时的工作是修理自行车。" },
+        { "en": "He repaired my watch yesterday.", "zh": "他昨天修好了我的表。" }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "/ˈbaɪsɪkl/",
+      "meaning": "n. 自行车",
+      "examples": [
+        { "en": "It was his job to repair bicycles.", "zh": "他那时的工作是修理自行车。" },
+        { "en": "She rides her bicycle to school.", "zh": "她骑自行车上学。" }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/speə(r)/",
+      "meaning": "adj. 备用的",
+      "examples": [
+        { "en": "Frank used to make spare parts for aeroplanes.", "zh": "弗兰克曾生产飞机零配件。" },
+        { "en": "Take a spare tyre with you.", "zh": "带一个备用轮胎。" }
+      ]
+    },
+    {
+      "word": "part",
+      "phonetic": "/pɑːt/",
+      "meaning": "n. 零件",
+      "examples": [
+        { "en": "Frank used to make spare parts for aeroplanes.", "zh": "弗兰克曾生产飞机零配件。" },
+        { "en": "This part needs repairing.", "zh": "这个零件需要修理。" }
+      ]
+    },
+    {
+      "word": "helper",
+      "phonetic": "/ˈhelpə(r)/",
+      "meaning": "n. 帮手，助手",
+      "examples": [
+        { "en": "At that time he had two helpers.", "zh": "那时他有两个帮手。" },
+        { "en": "The cook has two helpers in the kitchen.", "zh": "厨师在厨房里有两个帮手。" }
+      ]
+    },
+    {
+      "word": "factory",
+      "phonetic": "/ˈfæktri/",
+      "meaning": "n. 工厂",
+      "examples": [
+        { "en": "The small workshop had become a large factory.", "zh": "小铺子已经发展成一个大工厂。" },
+        { "en": "The factory employs hundreds of workers.", "zh": "这家工厂雇用了数百名工人。" }
+      ]
+    },
+    {
+      "word": "employ",
+      "phonetic": "/ɪmˈplɔɪ/",
+      "meaning": "v. 雇用",
+      "examples": [
+        { "en": "The factory employed seven hundred and twenty-eight people.", "zh": "这家工厂雇用了728人。" },
+        { "en": "The company employs fifty workers.", "zh": "这家公司雇用了50名工人。" }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meaning": "v. 记得",
+      "examples": [
+        { "en": "Frank smiled when he remembered his hard early years.", "zh": "弗兰克回想着他早年的艰难经历，微笑了。" },
+        { "en": "I remember my first day at school.", "zh": "我记得我上学的第一天。" }
+      ]
+    },
+    {
+      "word": "grandson",
+      "phonetic": "/ˈɡrænsʌn/",
+      "meaning": "n. 孙子",
+      "examples": [
+        { "en": "She wanted him to repair their grandson's bicycle.", "zh": "她叫他去修理孙子的自行车。" },
+        { "en": "His grandson is five years old.", "zh": "他的孙子五岁了。" }
+      ]
+    },
+    {
+      "word": "save",
+      "phonetic": "/seɪv/",
+      "meaning": "v. 储蓄，节省",
+      "examples": [
+        { "en": "He saved money for years.", "zh": "他靠多年积蓄。" },
+        { "en": "She saves half of her salary every month.", "zh": "她每月存下一半工资。" }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "/hɑːd/",
+      "meaning": "adj. 艰苦的",
+      "examples": [
+        { "en": "Frank smiled when he remembered his hard early years.", "zh": "弗兰克回想着他早年的艰难经历，微笑了。" },
+        { "en": "They lived a hard life.", "zh": "他们过着艰苦的生活。" }
+      ]
+    },
+    {
+      "word": "road",
+      "phonetic": "/rəʊd/",
+      "meaning": "n. 道路",
+      "examples": [
+        { "en": "He remembered the long road to success.", "zh": "他回想着走过的漫长的成功之路。" },
+        { "en": "The road to the village is narrow.", "zh": "通往村庄的路很窄。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Before he retired, Frank was the head of a very large business company.",
+      "zh": "在退休前，弗兰克是一家非常大的商业公司的经理。",
+      "analysis": [
+        { "text": "Before", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "retired", "roles": ["谓语"] },
+        { "text": "Frank", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "head", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "business", "roles": ["定语"] },
+        { "text": "company", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "But as a boy he used to work in a small shop.",
+      "zh": "但他小时候却在一家小铺里做工。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "boy", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "used", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "work", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "shop", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He saved money for years and in 1958 he bought a small workshop of his own.",
+      "zh": "他靠多年积蓄，于1958年买下了自己的一个小铺子。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "saved", "roles": ["谓语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "years", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "1958", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "bought", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "workshop", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "own", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+      "zh": "几年之后，小铺子已经发展成了一个雇有728人的大工厂。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "few", "roles": ["定语"] },
+        { "text": "years", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "workshop", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "become", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "factory", "roles": ["表语"] },
+        { "text": "which", "roles": ["连词"] },
+        { "text": "employed", "roles": ["谓语"] },
+        { "text": "seven", "roles": ["定语"] },
+        { "text": "hundred", "roles": ["定语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "twenty-eight", "roles": ["定语"] },
+        { "text": "people", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "zh": "弗兰克回想着他早年的艰难经历和走过的漫长的成功之路，微笑了。",
+      "analysis": [
+        { "text": "Frank", "roles": ["主语"] },
+        { "text": "smiled", "roles": ["谓语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "remembered", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "hard", "roles": ["定语"] },
+        { "text": "early", "roles": ["定语"] },
+        { "text": "years", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "long", "roles": ["定语"] },
+        { "text": "road", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "success", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.", "zh": "昨天下午弗兰克·霍金斯向我讲述了他年轻时的经历。" },
+    { "en": "Before he retired, Frank was the head of a very large business company.", "zh": "在退休前，弗兰克是一家非常大的商业公司的经理。" },
+    { "en": "But as a boy he used to work in a small shop.", "zh": "但他小时候却在一家小铺里做工。" },
+    { "en": "It was his job to repair bicycles and at that time he used to work fourteen hours a day.", "zh": "他那时的工作是修理自行车，并且通常是一天工作14个小时。" },
+    { "en": "He saved money for years and in 1958 he bought a small workshop of his own.", "zh": "他靠多年积蓄，于1958年买下了自己的一个小铺子。" },
+    { "en": "In his twenties Frank used to make spare parts for aeroplanes.", "zh": "20多岁的时候，弗兰克曾生产飞机零配件。" },
+    { "en": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.", "zh": "几年之后，小铺子已经发展成了一个雇有728人的大工厂。" },
+    { "en": "Frank smiled when he remembered his hard early years and the long road to success.", "zh": "弗兰克回想着他早年的艰难经历和走过的漫长的成功之路，微笑了。" },
+    { "en": "He was still smiling when the door opened and his wife came in.", "zh": "他正笑着的时候门开了，他的妻子走了进来。" },
+    { "en": "She wanted him to repair their grandson's bicycle!", "zh": "她叫他去修理孙子的自行车！" }
+  ]
+}

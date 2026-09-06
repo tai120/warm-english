@@ -1,0 +1,208 @@
+{
+  "id": "L129",
+  "title": "Lesson 129 · Seventy miles an hour",
+  "titleZh": "第129课 时速七十英里",
+  "words": [
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meaning": "n. 警察",
+      "examples": [
+        { "en": "That policeman's waving to you.", "zh": "那位警察在向你招手。" }
+      ]
+    },
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meaning": "v. 招手，挥手",
+      "examples": [
+        { "en": "That policeman's waving to you.", "zh": "那位警察在向你招手。" }
+      ]
+    },
+    {
+      "word": "track",
+      "phonetic": "/træk/",
+      "meaning": "n. 跑道，赛道",
+      "examples": [
+        { "en": "Where do you think you are? On a race track?", "zh": "你以为你在哪儿？在赛车道上吗？" }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "/maɪl/",
+      "meaning": "n. 英里",
+      "examples": [
+        { "en": "You must have been driving at seventy miles an hour.", "zh": "你刚才一定是以每小时七十英里的速度在开车。" }
+      ]
+    },
+    {
+      "word": "seventy",
+      "phonetic": "/ˈsevnti/",
+      "meaning": "num. 七十",
+      "examples": [
+        { "en": "You must have been driving at seventy miles an hour.", "zh": "你刚才一定是以每小时七十英里的速度在开车。" }
+      ]
+    },
+    {
+      "word": "eighty",
+      "phonetic": "/ˈeɪti/",
+      "meaning": "num. 八十",
+      "examples": [
+        { "en": "I was doing eighty when I overtook you.", "zh": "我追上你时，我的时速是八十英里。" }
+      ]
+    },
+    {
+      "word": "overtake",
+      "phonetic": "/ˌəʊvəˈteɪk/",
+      "meaning": "v. 超过，追上",
+      "examples": [
+        { "en": "I was doing eighty when I overtook you.", "zh": "我追上你时，我的时速是八十英里。" }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meaning": "n. 速度",
+      "examples": [
+        { "en": "Didn't you see the speed limit?", "zh": "你没看到限速牌吗？" }
+      ]
+    },
+    {
+      "word": "limit",
+      "phonetic": "/ˈlɪmɪt/",
+      "meaning": "n. 限度，限制",
+      "examples": [
+        { "en": "Didn't you see the speed limit?", "zh": "你没看到限速牌吗？" }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meaning": "v. 做梦",
+      "examples": [
+        { "en": "I must have been dreaming.", "zh": "我一定是在做梦。" }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "n. 标志，牌子",
+      "examples": [
+        { "en": "That's why I didn't see the sign.", "zh": "所以我才没看到标志。" }
+      ]
+    },
+    {
+      "word": "licence",
+      "phonetic": "/ˈlaɪsns/",
+      "meaning": "n. 执照，驾驶执照",
+      "examples": [
+        { "en": "Let me see your driving licence.", "zh": "让我看看你的驾驶执照。" }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "meaning": "v. 收费，罚款",
+      "examples": [
+        { "en": "I won't charge you this time.", "zh": "这次我就不罚你了。" }
+      ]
+    },
+    {
+      "word": "careful",
+      "phonetic": "/ˈkeəfl/",
+      "meaning": "adj. 小心的",
+      "examples": [
+        { "en": "I'll certainly be more careful.", "zh": "我一定会更加小心的。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He wants you to stop.",
+      "zh": "他想让你停车。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "wants", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stop", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "You must have been driving at seventy miles an hour.",
+      "zh": "你刚才一定是以每小时七十英里的速度在开车。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "driving", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "seventy", "roles": ["定语"] },
+        { "text": "miles", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "hour", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I can't have been.",
+      "zh": "我不可能开那么快。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Didn't you see the speed limit?",
+      "zh": "你没看到限速牌吗？",
+      "analysis": [
+        { "text": "Didn't", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "speed", "roles": ["定语"] },
+        { "text": "limit", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I must have been dreaming.",
+      "zh": "我一定是在做梦。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "dreaming", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I was telling him to drive slowly.",
+      "zh": "我刚才一直在让他开慢点。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "telling", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "drive", "roles": ["补语"] },
+        { "text": "slowly", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "That policeman's waving to you.", "zh": "那位警察在向你招手。" },
+    { "en": "He wants you to stop.", "zh": "他想让你停车。" },
+    { "en": "You must have been driving at seventy miles an hour.", "zh": "你刚才一定是以每小时七十英里的速度在开车。" },
+    { "en": "I can't have been.", "zh": "我不可能开那么快。" },
+    { "en": "I was doing eighty when I overtook you.", "zh": "我追上你时，我的时速是八十英里。" },
+    { "en": "Didn't you see the speed limit?", "zh": "你没看到限速牌吗？" },
+    { "en": "I'm afraid I didn't, officer.", "zh": "恐怕我没看到，警官。" },
+    { "en": "I must have been dreaming.", "zh": "我一定是在做梦。" },
+    { "en": "I was telling him to drive slowly.", "zh": "我刚才一直在让他开慢点。" },
+    { "en": "That's why I didn't see the sign.", "zh": "所以我才没看到标志。" },
+    { "en": "I won't charge you this time.", "zh": "这次我就不罚你了。" },
+    { "en": "I'll certainly be more careful.", "zh": "我一定会更加小心的。" }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "L091",
+  "title": "Lesson 91 · Three men in a basket",
+  "titleZh": "第91课 三人同篮",
+  "words": [
+    {
+      "word": "balloon",
+      "phonetic": "/bəˈluːn/",
+      "meaning": "n. 气球",
+      "examples": [
+        { "en": "The pilot noticed a balloon.", "zh": "飞行员注意到一个气球。" }
+      ]
+    },
+    {
+      "word": "basket",
+      "phonetic": "/ˈbɑːskɪt/",
+      "meaning": "n. 篮子",
+      "examples": [
+        { "en": "Three men were standing in a basket.", "zh": "三个人站在吊篮里。" }
+      ]
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meaning": "n. 飞行员",
+      "examples": [
+        { "en": "The pilot managed to circle the balloon.", "zh": "飞行员设法绕着气球飞行。" }
+      ]
+    },
+    {
+      "word": "royal",
+      "phonetic": "/ˈrɔɪəl/",
+      "meaning": "adj. 皇家的",
+      "examples": [
+        { "en": "The balloon was making for a Royal Air Force Station.", "zh": "气球正飞向皇家空军基地。" }
+      ]
+    },
+    {
+      "word": "force",
+      "phonetic": "/fɔːs/",
+      "meaning": "n. 军队，力量",
+      "examples": [
+        { "en": "He works at a Royal Air Force Station.", "zh": "他在一个皇家空军基地工作。" }
+      ]
+    },
+    {
+      "word": "nearby",
+      "phonetic": "/ˌnɪəˈbaɪ/",
+      "meaning": "adv. 在附近",
+      "examples": [
+        { "en": "There is an airfield nearby.", "zh": "附近有一个机场。" }
+      ]
+    },
+    {
+      "word": "mystery",
+      "phonetic": "/ˈmɪstri/",
+      "meaning": "n. 谜",
+      "examples": [
+        { "en": "No one was able to explain the mystery.", "zh": "没有人能解开这个谜。" }
+      ]
+    },
+    {
+      "word": "tower",
+      "phonetic": "/ˈtaʊə(r)/",
+      "meaning": "n. 塔",
+      "examples": [
+        { "en": "The officer was in the control tower.", "zh": "军官在指挥塔里。" }
+      ]
+    },
+    {
+      "word": "aircraft",
+      "phonetic": "/ˈeəkrɑːft/",
+      "meaning": "n. 飞机",
+      "examples": [
+        { "en": "Balloons can be a great danger to aircraft.", "zh": "气球对飞机会造成极大的危险。" }
+      ]
+    },
+    {
+      "word": "spy",
+      "phonetic": "/spaɪ/",
+      "meaning": "v. 侦察，窥探",
+      "examples": [
+        { "en": "Someone might be spying on the station.", "zh": "可能有人在侦察这个基地。" }
+      ]
+    },
+    {
+      "word": "track",
+      "phonetic": "/træk/",
+      "meaning": "n. 踪迹；轨道",
+      "examples": [
+        { "en": "The pilot kept track of the strange object.", "zh": "飞行员一直跟踪着那个奇怪的物体。" }
+      ]
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "v. 环绕",
+      "examples": [
+        { "en": "The pilot circled the balloon for some time.", "zh": "飞行员绕着气球飞了一会儿。" }
+      ]
+    },
+    {
+      "word": "binoculars",
+      "phonetic": "/bɪˈnɒkjələz/",
+      "meaning": "n. 望远镜",
+      "examples": [
+        { "en": "One of the men was holding a pair of binoculars.", "zh": "其中一个人正拿着一副望远镜。" }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meaning": "n. 照片",
+      "examples": [
+        { "en": "One of the men was taking photographs.", "zh": "其中一个人正在拍照。" }
+      ]
+    },
+    {
+      "word": "descend",
+      "phonetic": "/dɪˈsend/",
+      "meaning": "v. 下降",
+      "examples": [
+        { "en": "The balloon began to descend.", "zh": "气球开始下降。" }
+      ]
+    },
+    {
+      "word": "airfield",
+      "phonetic": "/ˈeəfiːld/",
+      "meaning": "n. 机场",
+      "examples": [
+        { "en": "The balloon landed near an airfield.", "zh": "气球在一个机场附近着陆了。" }
+      ]
+    },
+    {
+      "word": "unsolved",
+      "phonetic": "/ˌʌnˈsɒlvd/",
+      "meaning": "adj. 未解决的",
+      "examples": [
+        { "en": "The mystery is still unsolved.", "zh": "这个谜仍然没有解开。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.",
+      "zh": "一名飞行员注意到一个气球，它似乎正飞往附近的皇家空军基地。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "pilot", "roles": ["主语"] },
+        { "text": "noticed", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "balloon", "roles": ["宾语"] },
+        { "text": "which", "roles": ["连词"] },
+        { "text": "seemed", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "making", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "Royal", "roles": ["定语"] },
+        { "text": "Air", "roles": ["定语"] },
+        { "text": "Force", "roles": ["定语"] },
+        { "text": "Station", "roles": ["状语"] },
+        { "text": "nearby", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The officer in the control tower was very angry when he heard the news.",
+      "zh": "指挥塔里的军官听到这个消息非常生气，因为气球对飞机会造成极大的危险。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "officer", "roles": ["主语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "control", "roles": ["定语"] },
+        { "text": "tower", "roles": ["定语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "angry", "roles": ["表语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "heard", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "news", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "zh": "不久，气球开始下降，并在一个机场附近着陆了。",
+      "analysis": [
+        { "text": "Soon", "roles": ["状语"] },
+        { "text": "afterwards", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "balloon", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "descend", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "landed", "roles": ["谓语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "airfield", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The police have been called in, but they have not yet made any arrests.",
+      "zh": "警察被叫来了，但他们尚未逮捕任何人。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "called", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "yet", "roles": ["状语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "arrests", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The mystery of the three men in the basket is still unsolved.",
+      "zh": "吊篮里三个人的谜仍然没有解开。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "mystery", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "men", "roles": ["定语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "basket", "roles": ["定语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "unsolved", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.", "zh": "一名飞行员注意到一个气球，它似乎正飞往附近的皇家空军基地。" },
+    { "en": "He informed the station at once, but no one there was able to explain the mystery.", "zh": "他立即报告了基地，但那里没有人能解开这个谜。" },
+    { "en": "The officer in the control tower was very angry when he heard the news.", "zh": "指挥塔里的军官听到这个消息非常生气，因为气球对飞机会造成极大的危险。" },
+    { "en": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.", "zh": "他说可能有人在侦察这个基地，于是命令飞行员跟踪这个奇怪的物体。" },
+    { "en": "The pilot managed to circle the balloon for some time.", "zh": "飞行员设法绕着气球飞了一段时间。" },
+    { "en": "He could make out three men in a basket under it, and one of them was holding a pair of binoculars.", "zh": "他能辨认出气球下面吊篮里有三个人，其中一人正拿着一副望远镜。" },
+    { "en": "When the balloon was over the station, the pilot saw one of the men taking photographs.", "zh": "当气球飞到基地上空时，飞行员看见其中一人在拍照。" },
+    { "en": "Soon afterwards, the balloon began to descend and it landed near an airfield.", "zh": "不久，气球开始下降，并在一个机场附近着陆了。" },
+    { "en": "The police have been called in, but they have not yet made any arrests.", "zh": "警察被叫来了，但他们尚未逮捕任何人。" },
+    { "en": "The mystery of the three men in the basket is still unsolved.", "zh": "吊篮里三个人的谜仍然没有解开。" }
+  ]
+}

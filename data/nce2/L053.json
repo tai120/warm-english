@@ -1,0 +1,247 @@
+{
+  "id": "L053",
+  "title": "Lesson 53 · Hot snake",
+  "titleZh": "第53课 触电的蛇",
+  "words": [
+    {
+      "word": "fireman",
+      "phonetic": "/ˈfaɪəmən/",
+      "meaning": "n. 消防员",
+      "examples": [
+        { "en": "The firemen have put out a big forest fire.", "zh": "消防员扑灭了一场森林大火。" }
+      ]
+    },
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meaning": "n. 森林",
+      "examples": [
+        { "en": "A big forest fire broke out in California.", "zh": "加利福尼亚发生了一场森林大火。" }
+      ]
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "meaning": "v. 引起，造成",
+      "examples": [
+        { "en": "A cigarette end did not cause the fire.", "zh": "烟头没有引起这场火灾。" }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meaning": "v. 检查",
+      "examples": [
+        { "en": "The firemen examined the ground carefully.", "zh": "消防员仔细检查了地面。" }
+      ]
+    },
+    {
+      "word": "accidentally",
+      "phonetic": "/ˌæksɪˈdentəli/",
+      "meaning": "adv. 偶然地",
+      "examples": [
+        { "en": "A fireman accidentally discovered the cause.", "zh": "一名消防员偶然发现了起火原因。" }
+      ]
+    },
+    {
+      "word": "remains",
+      "phonetic": "/rɪˈmeɪnz/",
+      "meaning": "n. 残骸，遗骸",
+      "examples": [
+        { "en": "He noticed the remains of a snake.", "zh": "他发现了蛇的残骸。" }
+      ]
+    },
+    {
+      "word": "wire",
+      "phonetic": "/ˈwaɪə(r)/",
+      "meaning": "n. 电线",
+      "examples": [
+        { "en": "The snake was wound round the electric wires.", "zh": "蛇缠在电线上。" }
+      ]
+    },
+    {
+      "word": "volt",
+      "phonetic": "/vəʊlt/",
+      "meaning": "n. 伏特（电压单位）",
+      "examples": [
+        { "en": "The power line carried 16,000 volts.", "zh": "高压线带有16000伏的电压。" }
+      ]
+    },
+    {
+      "word": "power",
+      "phonetic": "/ˈpaʊə(r)/",
+      "meaning": "n. 电力，力量",
+      "examples": [
+        { "en": "The snake was on a power line.", "zh": "蛇在一条高压线上。" }
+      ]
+    },
+    {
+      "word": "solve",
+      "phonetic": "/sɒlv/",
+      "meaning": "v. 解决",
+      "examples": [
+        { "en": "He was able to solve the mystery.", "zh": "他解开了这个谜。" }
+      ]
+    },
+    {
+      "word": "mystery",
+      "phonetic": "/ˈmɪstri/",
+      "meaning": "n. 谜，神秘的事",
+      "examples": [
+        { "en": "The cause of the fire was a mystery.", "zh": "火灾的原因是个谜。" }
+      ]
+    },
+    {
+      "word": "snatch",
+      "phonetic": "/snætʃ/",
+      "meaning": "v. 抓起，抢夺",
+      "examples": [
+        { "en": "A bird had snatched up the snake.", "zh": "一只鸟抓起了那条蛇。" }
+      ]
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːk/",
+      "meaning": "n. 火花",
+      "examples": [
+        { "en": "The snake sent sparks down to the ground.", "zh": "蛇向地面迸出火花。" }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meaning": "n. 香烟",
+      "examples": [
+        { "en": "People carelessly throw away cigarette ends.", "zh": "人们随手扔掉烟头。" }
+      ]
+    },
+    {
+      "word": "wind",
+      "phonetic": "/waɪnd/",
+      "meaning": "v. 缠绕，蜿蜒",
+      "examples": [
+        { "en": "The snake wound itself round the wires.", "zh": "蛇缠在电线上。" },
+        { "en": "The river winds through the valley.", "zh": "河流蜿蜒穿过山谷。" }
+      ]
+    },
+    {
+      "word": "California",
+      "phonetic": "/ˌkælɪˈfɔːniə/",
+      "meaning": "n. 加利福尼亚州（美国州名）",
+      "examples": [
+        { "en": "The fire broke out in California.", "zh": "火灾发生在加利福尼亚。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "At last firemen have put out a big forest fire in California.",
+      "zh": "消防员终于扑灭了加利福尼亚的一场森林大火。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "last", "roles": ["状语"] },
+        { "text": "firemen", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "big", "roles": ["定语"] },
+        { "text": "forest", "roles": ["定语"] },
+        { "text": "fire", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "California", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Yesterday the firemen examined the ground carefully, but they were not able to find any broken glass.",
+      "zh": "昨天消防员仔细检查了地面，但没有找到任何碎玻璃。",
+      "analysis": [
+        { "text": "Yesterday", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "firemen", "roles": ["主语"] },
+        { "text": "examined", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ground", "roles": ["宾语"] },
+        { "text": "carefully", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "able", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "find", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "broken", "roles": ["定语"] },
+        { "text": "glass", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "They were also quite sure that a cigarette end did not start the fire.",
+      "zh": "他们也非常肯定烟头没有引起这场火灾。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "also", "roles": ["状语"] },
+        { "text": "quite", "roles": ["状语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cigarette", "roles": ["定语"] },
+        { "text": "end", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "start", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "fire", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "zh": "一只鸟从地上抓起这条蛇，然后把它扔到了电线上。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "bird", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "snatched", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "snake", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ground", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "dropped", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wires", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "These sparks immediately started a fire.",
+      "zh": "这些火花立刻引起了火灾。",
+      "analysis": [
+        { "text": "These", "roles": ["定语"] },
+        { "text": "sparks", "roles": ["主语"] },
+        { "text": "immediately", "roles": ["状语"] },
+        { "text": "started", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fire", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "At last firemen have put out a big forest fire in California.", "zh": "消防员终于扑灭了加利福尼亚的一场森林大火。" },
+    { "en": "Since then, they have been trying to find out how the fire began.", "zh": "从那以后，他们一直在设法查明火灾的起因。" },
+    { "en": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.", "zh": "森林火灾常常是由碎玻璃或人们随手扔掉的烟头引起的。" },
+    { "en": "Yesterday the firemen examined the ground carefully, but they were not able to find any broken glass.", "zh": "昨天消防员仔细检查了地面，但没有找到任何碎玻璃。" },
+    { "en": "They were also quite sure that a cigarette end did not start the fire.", "zh": "他们也非常肯定烟头没有引起这场火灾。" },
+    { "en": "This morning, however, a fireman accidentally discovered the cause.", "zh": "然而今天早上，一名消防员偶然发现了起火的原因。" },
+    { "en": "He noticed the remains of a snake which was wound round the electric wires of a power line.", "zh": "他发现了缠在高压电线上的蛇的残骸。" },
+    { "en": "A bird had snatched up the snake from the ground and then dropped it on to the wires.", "zh": "一只鸟从地上抓起这条蛇，然后把它扔到了电线上。" },
+    { "en": "The snake wound itself round the wires and sent sparks down to the ground.", "zh": "蛇缠在电线上，向地面迸出火花。" },
+    { "en": "These sparks immediately started a fire.", "zh": "这些火花立刻引起了火灾。" }
+  ]
+}

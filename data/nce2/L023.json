@@ -1,0 +1,253 @@
+{
+  "id": "L023",
+  "title": "Lesson 23 · A new house",
+  "titleZh": "第23课 新居",
+  "words": [
+    {
+      "word": "sister",
+      "phonetic": "/ˈsɪstə(r)/",
+      "meaning": "n. 姐，妹",
+      "examples": [
+        { "en": "I had a letter from my sister yesterday.", "zh": "昨天我收到了姐姐的一封信。" },
+        { "en": "My sister is a teacher.", "zh": "我姐姐是一名教师。" }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meaning": "n. 信",
+      "examples": [
+        { "en": "I had a letter from my sister yesterday.", "zh": "昨天我收到了姐姐的一封信。" },
+        { "en": "She wrote me a long letter.", "zh": "她给我写了一封长信。" }
+      ]
+    },
+    {
+      "word": "Nigeria",
+      "phonetic": "/naɪˈdʒɪəriə/",
+      "meaning": "n. 尼日利亚",
+      "examples": [
+        { "en": "She lives in Nigeria.", "zh": "她住在尼日利亚。" },
+        { "en": "He comes from Nigeria.", "zh": "他来自尼日利亚。" }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meaning": "n. 惊奇，惊喜",
+      "examples": [
+        { "en": "If she comes, she will get a surprise.", "zh": "如果她来了，她会感到非常惊奇。" },
+        { "en": "What a pleasant surprise!", "zh": "真是意外的惊喜！" }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 美丽的",
+      "examples": [
+        { "en": "We are now living in a beautiful new house.", "zh": "我们现在住在一栋漂亮的新住宅里。" },
+        { "en": "The garden is very beautiful.", "zh": "这个花园非常美丽。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 乡村",
+      "examples": [
+        { "en": "We are now living in the country.", "zh": "我们现在住在乡下。" },
+        { "en": "They prefer the country to the city.", "zh": "他们喜欢乡村胜过城市。" }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meaning": "v. 完成",
+      "examples": [
+        { "en": "The house was completed five months ago.", "zh": "这栋房子是在5个月以前竣工的。" },
+        { "en": "The work will be completed next week.", "zh": "这项工作下周完成。" }
+      ]
+    },
+    {
+      "word": "room",
+      "phonetic": "/ruːm/",
+      "meaning": "n. 房间",
+      "examples": [
+        { "en": "The house has many large rooms.", "zh": "这栋房子里有许多大房间。" },
+        { "en": "My room is on the second floor.", "zh": "我的房间在二楼。" }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meaning": "adj. 可爱的，美好的",
+      "examples": [
+        { "en": "There is a lovely garden.", "zh": "还有一个漂亮的花园。" },
+        { "en": "What a lovely day!", "zh": "多么美好的一天！" }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "n. 花园",
+      "examples": [
+        { "en": "There is a lovely garden.", "zh": "还有一个漂亮的花园。" },
+        { "en": "The garden is full of flowers.", "zh": "花园里开满了花。" }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "/ˈmɒdn/",
+      "meaning": "adj. 现代的，新式的",
+      "examples": [
+        { "en": "It is a very modern house.", "zh": "这是一栋非常现代化的住宅。" },
+        { "en": "They live in a modern flat.", "zh": "他们住在一套现代化的公寓里。" }
+      ]
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meaning": "adj. 奇怪的",
+      "examples": [
+        { "en": "It looks strange to some people.", "zh": "它在某些人看来很古怪。" },
+        { "en": "I heard a strange noise.", "zh": "我听到了一种奇怪的声音。" }
+      ]
+    },
+    {
+      "word": "district",
+      "phonetic": "/ˈdɪstrɪkt/",
+      "meaning": "n. 地区",
+      "examples": [
+        { "en": "It must be the only modern house in the district.", "zh": "它肯定是这个地区唯一的一栋现代化住宅。" },
+        { "en": "This district is very quiet.", "zh": "这个地区很安静。" }
+      ]
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meaning": "v. 开始",
+      "examples": [
+        { "en": "Work on it had begun before my sister left.", "zh": "这栋房子在我姐姐离开之前就已动工了。" },
+        { "en": "The meeting began at nine.", "zh": "会议九点开始。" }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meaning": "v. 暂住，停留",
+      "examples": [
+        { "en": "I told her that she could stay with us.", "zh": "我告诉她她可以住在我们家。" },
+        { "en": "He stayed with his friends in London.", "zh": "他在伦敦和朋友住在一起。" }
+      ]
+    },
+    {
+      "word": "only",
+      "phonetic": "/ˈəʊnli/",
+      "meaning": "adj. 唯一的",
+      "examples": [
+        { "en": "It is the only modern house in the district.", "zh": "它是这个地区唯一的一栋现代化住宅。" },
+        { "en": "She is the only child in the family.", "zh": "她是家里唯一的孩子。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I had a letter from my sister yesterday.",
+      "zh": "昨天我收到了姐姐的一封信。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "sister", "roles": ["宾语"] },
+        { "text": "yesterday", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "In her letter, she said that she would come to England next year.",
+      "zh": "她在信中说，她明年将到英国来。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "England", "roles": ["宾语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We are now living in a beautiful new house in the country.",
+      "zh": "我们现在住在乡间的一栋漂亮的新住宅里。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "living", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "beautiful", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "house", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "country", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The house has many large rooms and there is a lovely garden.",
+      "zh": "这栋房子里有许多大房间，还有一个漂亮的花园。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "house", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "rooms", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lovely", "roles": ["定语"] },
+        { "text": "garden", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "It is a very modern house, so it looks strange to some people.",
+      "zh": "这是一栋非常现代化的住宅，因此在某些人看来很古怪。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "modern", "roles": ["定语"] },
+        { "text": "house", "roles": ["表语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "looks", "roles": ["谓语"] },
+        { "text": "strange", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "people", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I had a letter from my sister yesterday.", "zh": "昨天我收到了姐姐的一封信。" },
+    { "en": "She lives in Nigeria.", "zh": "她住在尼日利亚。" },
+    { "en": "In her letter, she said that she would come to England next year.", "zh": "她在信中说，她明年将到英国来。" },
+    { "en": "If she comes, she will get a surprise.", "zh": "如果她来了，她会感到非常惊奇。" },
+    { "en": "We are now living in a beautiful new house in the country.", "zh": "我们现在住在乡间的一栋漂亮的新住宅里。" },
+    { "en": "Work on it had begun before my sister left.", "zh": "这栋房子在我姐姐离开之前就已动工了。" },
+    { "en": "The house was completed five months ago.", "zh": "这栋房子是在5个月以前竣工的。" },
+    { "en": "The house has many large rooms and there is a lovely garden.", "zh": "这栋房子里有许多大房间，还有一个漂亮的花园。" },
+    { "en": "It is a very modern house, so it looks strange to some people.", "zh": "这是一栋非常现代化的住宅，因此在某些人看来很古怪。" },
+    { "en": "It must be the only modern house in the district.", "zh": "它肯定是这个地区唯一的一栋现代化住宅。" }
+  ]
+}

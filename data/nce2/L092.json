@@ -1,0 +1,258 @@
+{
+  "id": "L092",
+  "title": "Lesson 92 · Asking for trouble",
+  "titleZh": "第92课 自找麻烦",
+  "words": [
+    {
+      "word": "trouble",
+      "phonetic": "/ˈtrʌbl/",
+      "meaning": "n. 麻烦",
+      "examples": [
+        { "en": "He was asking for trouble.", "zh": "他是在自找麻烦。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 返回",
+      "examples": [
+        { "en": "I returned home at about two in the morning.", "zh": "我凌晨两点左右回到家。" }
+      ]
+    },
+    {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "meaning": "v. 醒来；唤醒",
+      "examples": [
+        { "en": "I tried to wake up my wife.", "zh": "我试图叫醒我的妻子。" }
+      ]
+    },
+    {
+      "word": "doorbell",
+      "phonetic": "/ˈdɔːbel/",
+      "meaning": "n. 门铃",
+      "examples": [
+        { "en": "I rang the doorbell again and again.", "zh": "我一遍又一遍地按门铃。" }
+      ]
+    },
+    {
+      "word": "ladder",
+      "phonetic": "/ˈlædə(r)/",
+      "meaning": "n. 梯子",
+      "examples": [
+        { "en": "I got a ladder from the shed.", "zh": "我从棚子里搬来一架梯子。" }
+      ]
+    },
+    {
+      "word": "shed",
+      "phonetic": "/ʃed/",
+      "meaning": "n. 棚子",
+      "examples": [
+        { "en": "The ladder was in the shed in the garden.", "zh": "梯子在花园的棚子里。" }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "v. 爬",
+      "examples": [
+        { "en": "I began climbing towards the bedroom window.", "zh": "我开始朝卧室的窗户爬去。" }
+      ]
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meaning": "n. 卧室",
+      "examples": [
+        { "en": "The bedroom window was open.", "zh": "卧室的窗户开着。" }
+      ]
+    },
+    {
+      "word": "sarcastic",
+      "phonetic": "/sɑːˈkæstɪk/",
+      "meaning": "adj. 讽刺的",
+      "examples": [
+        { "en": "A sarcastic voice said something below.", "zh": "下面传来一个讽刺的声音。" }
+      ]
+    },
+    {
+      "word": "interrupt",
+      "phonetic": "/ˌɪntəˈrʌpt/",
+      "meaning": "v. 打断",
+      "examples": [
+        { "en": "Excuse my interrupting you.", "zh": "请原谅我打断你。" }
+      ]
+    },
+    {
+      "word": "tone",
+      "phonetic": "/təʊn/",
+      "meaning": "n. 语气",
+      "examples": [
+        { "en": "The policeman answered in the same tone.", "zh": "警察用同样的语气回答。" }
+      ]
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜː(r)/",
+      "meaning": "v. 更喜欢",
+      "examples": [
+        { "en": "I would prefer to stay here.", "zh": "我宁愿待在这里。" }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fəˈɡet/",
+      "meaning": "v. 忘记",
+      "examples": [
+        { "en": "I have forgotten my key.", "zh": "我忘了带钥匙。" }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "/kiː/",
+      "meaning": "n. 钥匙",
+      "examples": [
+        { "en": "I could not find my key.", "zh": "我找不到我的钥匙了。" }
+      ]
+    },
+    {
+      "word": "regret",
+      "phonetic": "/rɪˈɡret/",
+      "meaning": "v. 后悔",
+      "examples": [
+        { "en": "I immediately regretted answering him.", "zh": "我立刻后悔回答了他。" }
+      ]
+    },
+    {
+      "word": "clean",
+      "phonetic": "/kliːn/",
+      "meaning": "v. 清洁，打扫",
+      "examples": [
+        { "en": "I enjoy cleaning windows at night.", "zh": "我喜欢在夜里擦窗户。" }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meaning": "n. 窗户",
+      "examples": [
+        { "en": "The windows need cleaning.", "zh": "窗户需要擦一擦。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It must have been about two in the morning when I returned home.",
+      "zh": "我回到家时一定是凌晨两点左右。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "two", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "returned", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep.",
+      "zh": "我按门铃想叫醒妻子，但她睡得很熟。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "wake", "roles": ["宾语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "wife", "roles": ["宾语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "ringing", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "doorbell", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "fast", "roles": ["状语"] },
+        { "text": "asleep", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "I put it against the wall and began climbing towards the bedroom window.",
+      "zh": "我把梯子靠在墙上，开始朝卧室的窗户爬去。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "against", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wall", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "climbing", "roles": ["宾语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bedroom", "roles": ["定语"] },
+        { "text": "window", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I looked down and nearly fell off the ladder when I saw a policeman.",
+      "zh": "我朝下一看，看见一名警察，差点从梯子上摔下来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "down", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "nearly", "roles": ["状语"] },
+        { "text": "fell", "roles": ["谓语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ladder", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "policeman", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I told him I would prefer to stay there, because I had forgotten my key.",
+      "zh": "我告诉他我宁愿待在这里，因为我忘了带钥匙。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "prefer", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stay", "roles": ["宾语"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "forgotten", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "key", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "It must have been about two in the morning when I returned home.", "zh": "我回到家时一定是凌晨两点左右。" },
+    { "en": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep.", "zh": "我按门铃想叫醒妻子，但她睡得很熟。" },
+    { "en": "So I got a ladder from the shed in the garden.", "zh": "于是我从花园的棚子里搬来一架梯子。" },
+    { "en": "I put it against the wall and began climbing towards the bedroom window.", "zh": "我把梯子靠在墙上，开始朝卧室的窗户爬去。" },
+    { "en": "I was almost there when a sarcastic voice below said, 'I don't think the windows need cleaning at this time of the night.'", "zh": "快爬到窗口时，下面一个讽刺的声音说：“我看夜里这个时候不需要擦窗户吧。”" },
+    { "en": "I looked down and nearly fell off the ladder when I saw a policeman.", "zh": "我朝下一看，看见一名警察，差点从梯子上摔下来。" },
+    { "en": "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.'", "zh": "我立刻后悔自己那样回答，可我还是说：“我喜欢在夜里擦窗户。”" },
+    { "en": "'Excuse my interrupting you,' the policeman said in the same tone.", "zh": "“请原谅我打断了你，”警察用同样的语气说。" },
+    { "en": "I told him I would prefer to stay there, because I had forgotten my key.", "zh": "我告诉他我宁愿待在这里，因为我忘了带钥匙。" },
+    { "en": "He asked me what I had said, and I shouted, 'My key!'", "zh": "他问我刚才说了什么，我大声喊道：“我的钥匙！”" }
+  ]
+}

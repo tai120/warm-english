@@ -1,0 +1,201 @@
+{
+  "id": "L105",
+  "title": "Lesson 105 · Full of mistakes",
+  "titleZh": "第105课 错误百出",
+  "words": [
+    {
+      "word": "spell",
+      "phonetic": "/spel/",
+      "meaning": "v. 拼写",
+      "examples": [
+        { "en": "How do you spell intelligent?", "zh": "“聪明的”怎么拼写？" },
+        { "en": "Can you spell your name?", "zh": "你能拼写你的名字吗？" }
+      ]
+    },
+    {
+      "word": "intelligent",
+      "phonetic": "/ɪnˈtelɪdʒənt/",
+      "meaning": "adj. 聪明的，有智慧的",
+      "examples": [
+        { "en": "How do you spell intelligent?", "zh": "“聪明的”怎么拼写？" },
+        { "en": "She is an intelligent girl.", "zh": "她是个聪明的女孩。" }
+      ]
+    },
+    {
+      "word": "mistake",
+      "phonetic": "/mɪˈsteɪk/",
+      "meaning": "n. 错误",
+      "examples": [
+        { "en": "This letter's full of mistakes.", "zh": "这封信里错误百出。" },
+        { "en": "You've made a mistake.", "zh": "你犯了一个错误。" }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/ˈpreznt/",
+      "meaning": "n. 礼物",
+      "examples": [
+        { "en": "And here's a little present for you.", "zh": "这里还有一件小礼物送给你。" },
+        { "en": "This present is for you.", "zh": "这件礼物是给你的。" }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "phonetic": "/ˈdɪkʃənri/",
+      "meaning": "n. 词典",
+      "examples": [
+        { "en": "It's a dictionary.", "zh": "是一本词典。" },
+        { "en": "I hope it'll help you.", "zh": "我希望它能帮到你。" }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meaning": "n. 办公室",
+      "examples": [
+        { "en": "I want her to come to my office.", "zh": "我要她到我的办公室来。" },
+        { "en": "My office is on the third floor.", "zh": "我的办公室在三楼。" }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "/taɪp/",
+      "meaning": "v. 打字",
+      "examples": [
+        { "en": "I want you to type it again.", "zh": "我要你把它再打一遍。" },
+        { "en": "She types very fast.", "zh": "她打字很快。" }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meaning": "n. 信",
+      "examples": [
+        { "en": "This letter's full of mistakes.", "zh": "这封信里错误百出。" },
+        { "en": "I'll write a letter soon.", "zh": "我很快会写信的。" }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡen/",
+      "meaning": "adv. 又一次，再",
+      "examples": [
+        { "en": "I want you to type it again.", "zh": "我要你把它再打一遍。" },
+        { "en": "Please say it again.", "zh": "请再说一遍。" }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meaning": "adj. 抱歉的",
+      "examples": [
+        { "en": "I'm sorry about that.", "zh": "对此我很抱歉。" },
+        { "en": "I'm sorry, sir.", "zh": "先生，对不起。" }
+      ]
+    },
+    {
+      "word": "little",
+      "phonetic": "/ˈlɪtl/",
+      "meaning": "adj. 小的",
+      "examples": [
+        { "en": "And here's a little present for you.", "zh": "这里还有一件小礼物送给你。" },
+        { "en": "She has a little dog.", "zh": "她有一只小狗。" }
+      ]
+    },
+    {
+      "word": "full",
+      "phonetic": "/fʊl/",
+      "meaning": "adj. 充满的，完全的",
+      "examples": [
+        { "en": "This letter's full of mistakes.", "zh": "这封信里错误百出。" },
+        { "en": "The bottle is full of water.", "zh": "瓶子里装满了水。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where's Sandra, Bob?",
+      "zh": "鲍勃，桑德拉在哪儿？",
+      "analysis": [
+        { "text": "Where's", "roles": ["表语"] },
+        { "text": "Sandra", "roles": ["主语"] },
+        { "text": "Bob", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I want her to come to my office.",
+      "zh": "我要她到我的办公室来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "come", "roles": ["补语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "office", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Tell her to come at once.",
+      "zh": "叫她马上来。",
+      "analysis": [
+        { "text": "Tell", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "come", "roles": ["补语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "once", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "How do you spell intelligent?",
+      "zh": "“聪明的”怎么拼写？",
+      "analysis": [
+        { "text": "How", "roles": ["状语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "spell", "roles": ["谓语"] },
+        { "text": "intelligent", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This letter's full of mistakes.",
+      "zh": "这封信里错误百出。",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "letter's", "roles": ["主语"] },
+        { "text": "full", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "mistakes", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "I want you to type it again.",
+      "zh": "我要你把它再打一遍。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "type", "roles": ["补语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "again", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where's Sandra, Bob?", "zh": "鲍勃，桑德拉在哪儿？" },
+    { "en": "I want her.", "zh": "我要找她。" },
+    { "en": "Do you want to speak to her?", "zh": "您要跟她说话吗？" },
+    { "en": "I want her to come to my office.", "zh": "我要她到我的办公室来。" },
+    { "en": "Tell her to come at once.", "zh": "叫她马上来。" },
+    { "en": "Did you want to see me?", "zh": "您找我吗？" },
+    { "en": "How do you spell intelligent?", "zh": "“聪明的”怎么拼写？" },
+    { "en": "Can you tell me?", "zh": "您能告诉我吗？" },
+    { "en": "That's right.", "zh": "对的。" },
+    { "en": "You've typed it with only one L.", "zh": "你只打了一个L。" },
+    { "en": "This letter's full of mistakes.", "zh": "这封信里错误百出。" },
+    { "en": "I want you to type it again.", "zh": "我要你把它再打一遍。" }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "L002",
+  "title": "Lesson 2 · Breakfast or lunch?",
+  "titleZh": "第2课 早餐还是午餐？",
+  "words": [
+    {
+      "word": "until",
+      "phonetic": "/ənˈtɪl/",
+      "meaning": "prep. 直到",
+      "examples": [
+        { "en": "I sometimes stay in bed until lunchtime.", "zh": "有时我要一直躺到吃午饭的时候。" }
+      ]
+    },
+    {
+      "word": "outside",
+      "phonetic": "/ˌaʊtˈsaɪd/",
+      "meaning": "adv. 在外面",
+      "examples": [
+        { "en": "It was dark outside.", "zh": "外面一片昏暗。" }
+      ]
+    },
+    {
+      "word": "ring",
+      "phonetic": "/rɪŋ/",
+      "meaning": "v. （铃、电话等）响",
+      "examples": [
+        { "en": "The telephone rang.", "zh": "电话铃响了。" }
+      ]
+    },
+    {
+      "word": "aunt",
+      "phonetic": "/ɑːnt/",
+      "meaning": "n. 姑，姨，婶，舅妈",
+      "examples": [
+        { "en": "It was my aunt Lucy.", "zh": "是我姑母露西打来的。" }
+      ]
+    },
+    {
+      "word": "repeat",
+      "phonetic": "/rɪˈpiːt/",
+      "meaning": "v. 重复",
+      "examples": [
+        { "en": "I repeated that I was having breakfast.", "zh": "我重复说我在吃早饭。" },
+        { "en": "Please repeat the sentence after me.", "zh": "请跟我重复这个句子。" }
+      ]
+    },
+    {
+      "word": "lunchtime",
+      "phonetic": "/ˈlʌntʃtaɪm/",
+      "meaning": "n. 午餐时间",
+      "examples": [
+        { "en": "I sometimes stay in bed until lunchtime.", "zh": "有时我要一直躺到吃午饭的时候。" }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meaning": "adv. 迟，晚",
+      "examples": [
+        { "en": "Last Sunday I got up very late.", "zh": "上个星期天，我起得很晚。" }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "/dɑːk/",
+      "meaning": "adj. 黑暗的",
+      "examples": [
+        { "en": "It was dark outside.", "zh": "外面一片昏暗。" }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meaning": "n. 火车",
+      "examples": [
+        { "en": "She had just arrived by train.", "zh": "她刚下火车。" }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "n. 早餐",
+      "examples": [
+        { "en": "I was still having breakfast.", "zh": "我还在吃早饭。" }
+      ]
+    },
+    {
+      "word": "Lucy",
+      "phonetic": "/ˈluːsi/",
+      "meaning": "n. 露西（人名）",
+      "examples": [
+        { "en": "It was my aunt Lucy.", "zh": "是我姑母露西打来的。" }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "adv. 总是",
+      "examples": [
+        { "en": "Do you always get up so late?", "zh": "你总是起得这么晚吗？" }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnevə/",
+      "meaning": "adv. 从不",
+      "examples": [
+        { "en": "I never get up early on Sundays.", "zh": "星期天我从来不早起。" }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "meaning": "adv. 有时",
+      "examples": [
+        { "en": "I sometimes stay in bed until lunchtime.", "zh": "有时我要一直躺到吃午饭的时候。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I never get up early on Sundays.",
+      "zh": "星期天我从来不早起。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "early", "roles": ["状语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "Sundays", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I sometimes stay in bed until lunchtime.",
+      "zh": "有时我要一直躺到吃午饭的时候。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "sometimes", "roles": ["状语"] },
+        { "text": "stay", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "bed", "roles": ["状语"] },
+        { "text": "until", "roles": ["状语"] },
+        { "text": "lunchtime", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Last Sunday I got up very late.",
+      "zh": "上个星期天，我起得很晚。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "Sunday", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "late", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Just then, the telephone rang.",
+      "zh": "正在这时，电话铃响了。",
+      "analysis": [
+        { "text": "Just", "roles": ["状语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "telephone", "roles": ["主语"] },
+        { "text": "rang", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "She said that she had just arrived by train.",
+      "zh": "她说她刚下火车。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "train", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She was coming to see me, but I was still having breakfast.",
+      "zh": "她这就来看我，可我还在吃早饭。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "coming", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "having", "roles": ["谓语"] },
+        { "text": "breakfast", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "It was Sunday.", "zh": "那是个星期天。" },
+    { "en": "I never get up early on Sundays.", "zh": "星期天我从来不早起。" },
+    { "en": "I sometimes stay in bed until lunchtime.", "zh": "有时我要一直躺到吃午饭的时候。" },
+    { "en": "Last Sunday I got up very late.", "zh": "上个星期天，我起得很晚。" },
+    { "en": "I looked out of the window and saw that it was dark outside.", "zh": "我向窗外望去，只见外面一片昏暗。" },
+    { "en": "Just then, the telephone rang.", "zh": "正在这时，电话铃响了。" },
+    { "en": "It was my aunt Lucy.", "zh": "是我姑母露西打来的。" },
+    { "en": "She said that she had just arrived by train.", "zh": "她说她刚下火车。" },
+    { "en": "She was coming to see me, but I was still having breakfast.", "zh": "她这就来看我，可我还在吃早饭。" },
+    { "en": "She asked me, 'Do you always get up so late? It is one o'clock!'", "zh": "她问我：“你总是起得这么晚吗？现在都一点钟了！”" }
+  ]
+}

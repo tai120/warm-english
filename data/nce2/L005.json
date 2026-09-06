@@ -1,0 +1,198 @@
+{
+  "id": "L005",
+  "title": "Lesson 5 · No wrong numbers",
+  "titleZh": "第5课 无错号之虞",
+  "words": [
+    {
+      "word": "pigeon",
+      "phonetic": "/ˈpɪdʒɪn/",
+      "meaning": "n. 鸽子",
+      "examples": [
+        { "en": "He has just bought twelve pigeons.", "zh": "他刚刚买了十二只鸽子。" }
+      ]
+    },
+    {
+      "word": "message",
+      "phonetic": "/ˈmesɪdʒ/",
+      "meaning": "n. 信息，消息",
+      "examples": [
+        { "en": "A pigeon carried the first message.", "zh": "一只鸽子捎去了第一封信。" }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə/",
+      "meaning": "v. 越过，走过（距离）",
+      "examples": [
+        { "en": "The bird covered the distance in three minutes.", "zh": "这只鸟只用了三分钟就飞完了全程。" }
+      ]
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "meaning": "n. 距离",
+      "examples": [
+        { "en": "Pinhurst is only five miles from Silbury.", "zh": "平赫斯特离锡尔伯里只有五英里。" }
+      ]
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meaning": "n. 要求，请求",
+      "examples": [
+        { "en": "He has sent a great many requests for spare parts.", "zh": "他发送了大量索取备件的信件。" }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/speə/",
+      "meaning": "adj. 备用的",
+      "examples": [
+        { "en": "He sent many requests for spare parts.", "zh": "他发送了许多索取备件的信件。" }
+      ]
+    },
+    {
+      "word": "service",
+      "phonetic": "/ˈsɜːvɪs/",
+      "meaning": "n. 业务，服务",
+      "examples": [
+        { "en": "He has begun his own private telephone service.", "zh": "他开始经营自己的私人电话业务。" }
+      ]
+    },
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meaning": "n. 汽车修理厂，车库",
+      "examples": [
+        { "en": "Mr Scott has a garage in Silbury.", "zh": "斯科特先生在锡尔伯里有一个汽车修理部。" }
+      ]
+    },
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːdʒənt/",
+      "meaning": "adj. 紧急的",
+      "examples": [
+        { "en": "He sent other urgent messages too.", "zh": "他还发送了其他紧急函件。" }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meaning": "n. 分钟",
+      "examples": [
+        { "en": "The bird covered the distance in three minutes.", "zh": "这只鸟只用了三分钟就飞完了全程。" }
+      ]
+    },
+    {
+      "word": "Silbury",
+      "phonetic": "/ˈsɪlbəri/",
+      "meaning": "n. 锡尔伯里（地名）",
+      "examples": [
+        { "en": "Mr Scott has a garage in Silbury.", "zh": "斯科特先生在锡尔伯里有一个汽车修理部。" }
+      ]
+    },
+    {
+      "word": "Pinhurst",
+      "phonetic": "/ˈpɪnhɜːst/",
+      "meaning": "n. 平赫斯特（地名）",
+      "examples": [
+        { "en": "He has just bought another garage in Pinhurst.", "zh": "他刚在平赫斯特又买了一个汽车修理部。" }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "/maɪl/",
+      "meaning": "n. 英里",
+      "examples": [
+        { "en": "Pinhurst is only five miles from Silbury.", "zh": "平赫斯特离锡尔伯里只有五英里。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Mr James Scott has a garage in Silbury.",
+      "zh": "詹姆斯·斯科特先生在锡尔伯里有一个汽车修理部。",
+      "analysis": [
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "James", "roles": ["定语"] },
+        { "text": "Scott", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "garage", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Silbury", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Pinhurst is only five miles from Silbury.",
+      "zh": "平赫斯特离锡尔伯里只有五英里。",
+      "analysis": [
+        { "text": "Pinhurst", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "miles", "roles": ["表语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "Silbury", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "zh": "昨天，一只鸽子把第一封信从平赫斯特带到锡尔伯里。",
+      "analysis": [
+        { "text": "Yesterday", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "pigeon", "roles": ["主语"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "first", "roles": ["定语"] },
+        { "text": "message", "roles": ["宾语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "Pinhurst", "roles": ["定语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "Silbury", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "The bird covered the distance in three minutes.",
+      "zh": "这只鸟只用了三分钟就飞完了全程。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bird", "roles": ["主语"] },
+        { "text": "covered", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "distance", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "minutes", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "In this way, he has begun his own private telephone service.",
+      "zh": "就这样，他开始经营自己的私人电话业务。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "way", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "begun", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "own", "roles": ["定语"] },
+        { "text": "private", "roles": ["定语"] },
+        { "text": "telephone", "roles": ["定语"] },
+        { "text": "service", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Mr James Scott has a garage in Silbury.", "zh": "詹姆斯·斯科特先生在锡尔伯里有一个汽车修理部。" },
+    { "en": "Now he has just bought another garage in Pinhurst.", "zh": "现在他刚在平赫斯特又买了一个汽车修理部。" },
+    { "en": "Pinhurst is only five miles from Silbury.", "zh": "平赫斯特离锡尔伯里只有五英里。" },
+    { "en": "Mr Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.", "zh": "斯科特先生未能为他的新汽车修理部搞到一部电话机，所以他刚刚买了十二只鸽子。" },
+    { "en": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.", "zh": "昨天，一只鸽子把第一封信从平赫斯特带到锡尔伯里。" },
+    { "en": "The bird covered the distance in three minutes.", "zh": "这只鸟只用了三分钟就飞完了全程。" },
+    { "en": "Up to now, Mr Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.", "zh": "到目前为止，斯科特先生已经从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。" },
+    { "en": "In this way, he has begun his own private telephone service.", "zh": "就这样，他开始经营自己的私人电话业务。" }
+  ]
+}

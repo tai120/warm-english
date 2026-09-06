@@ -1,0 +1,199 @@
+{
+  "id": "L117",
+  "title": "Lesson 117 · Tommy's breakfast",
+  "titleZh": "第117课 汤米的早餐",
+  "words": [
+    {
+      "word": "coin",
+      "phonetic": "/kɔɪn/",
+      "meaning": "n. 硬币",
+      "examples": [
+        { "en": "He dropped some coins on the floor.", "zh": "他把一些硬币掉在了地上。" }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meaning": "v. 掉下，使落下",
+      "examples": [
+        { "en": "He dropped some coins on the floor.", "zh": "他把一些硬币掉在了地上。" }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flɔː(r)/",
+      "meaning": "n. 地板",
+      "examples": [
+        { "en": "There were coins everywhere.", "zh": "到处都是硬币。" }
+      ]
+    },
+    {
+      "word": "everywhere",
+      "phonetic": "/ˈevriweə(r)/",
+      "meaning": "adv. 到处",
+      "examples": [
+        { "en": "There were coins everywhere.", "zh": "到处都是硬币。" }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "n. 早饭",
+      "examples": [
+        { "en": "While we were having breakfast, Tommy found two small coins on the floor.", "zh": "我们吃早饭时，汤米在地板上找到了两枚小硬币。" }
+      ]
+    },
+    {
+      "word": "mouth",
+      "phonetic": "/maʊθ/",
+      "meaning": "n. 嘴",
+      "examples": [
+        { "en": "He put them both into his mouth.", "zh": "他把两枚硬币都放进了嘴里。" }
+      ]
+    },
+    {
+      "word": "swallow",
+      "phonetic": "/ˈswɒləʊ/",
+      "meaning": "v. 吞下，咽下",
+      "examples": [
+        { "en": "Tommy had already swallowed them!", "zh": "汤米已经把硬币咽了下去！" }
+      ]
+    },
+    {
+      "word": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meaning": "n. 家务",
+      "examples": [
+        { "en": "When I was doing the housework, my husband phoned me.", "zh": "我做家务时，我丈夫给我打来电话。" }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meaning": "n. 丈夫",
+      "examples": [
+        { "en": "My husband phoned me from the office.", "zh": "我丈夫从办公室给我打来电话。" }
+      ]
+    },
+    {
+      "word": "phone",
+      "phonetic": "/fəʊn/",
+      "meaning": "v. 给……打电话",
+      "examples": [
+        { "en": "My husband phoned me from the office.", "zh": "我丈夫从办公室给我打来电话。" }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meaning": "n. 办公室",
+      "examples": [
+        { "en": "My husband phoned me from the office.", "zh": "我丈夫从办公室给我打来电话。" }
+      ]
+    },
+    {
+      "word": "toilet",
+      "phonetic": "/ˈtɔɪlɪt/",
+      "meaning": "n. 厕所",
+      "examples": [
+        { "en": "Tommy's been to the toilet three times this morning.", "zh": "汤米今天上午已经上了三次厕所。" }
+      ]
+    },
+    {
+      "word": "while",
+      "phonetic": "/waɪl/",
+      "meaning": "conj. 当……的时候",
+      "examples": [
+        { "en": "While we were having breakfast, Tommy found two small coins.", "zh": "我们吃早饭时，汤米找到了两枚小硬币。" }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "n. 零钱",
+      "examples": [
+        { "en": "I haven't had any change yet!", "zh": "我还没拿到零钱呢！" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There were coins everywhere.",
+      "zh": "到处都是硬币。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "coins", "roles": ["主语"] },
+        { "text": "everywhere", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He put them both into his mouth.",
+      "zh": "他把两枚硬币都放进了嘴里。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "them", "roles": ["宾语"] },
+        { "text": "both", "roles": ["状语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "mouth", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We both tried to get the coins, but it was too late.",
+      "zh": "我们俩都试图把硬币取出来，但太迟了。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "both", "roles": ["状语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "coins", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "late", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Tommy had already swallowed them!",
+      "zh": "汤米已经把硬币咽了下去！",
+      "analysis": [
+        { "text": "Tommy", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "swallowed", "roles": ["谓语"] },
+        { "text": "them", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "But I haven't had any change yet!",
+      "zh": "但我还没拿到零钱呢！",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "haven't", "roles": ["谓语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "change", "roles": ["宾语"] },
+        { "text": "yet", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "When my husband was going into the dining room this morning, he dropped some coins on the floor.", "zh": "今天早晨，我丈夫走进饭厅时，把一些硬币掉在了地上。" },
+    { "en": "There were coins everywhere.", "zh": "到处都是硬币。" },
+    { "en": "We looked for them, but we could not find them all.", "zh": "我们找遍了，但没能把它们都找到。" },
+    { "en": "While we were having breakfast, our little boy, Tommy, found two small coins on the floor.", "zh": "我们吃早饭时，我们的小儿子汤米在地板上找到了两枚小硬币。" },
+    { "en": "He put them both into his mouth.", "zh": "他把两枚硬币都放进了嘴里。" },
+    { "en": "We both tried to get the coins, but it was too late.", "zh": "我们俩都试图把硬币取出来，但太迟了。" },
+    { "en": "Tommy had already swallowed them!", "zh": "汤米已经把硬币咽了下去！" },
+    { "en": "Later that morning, when I was doing the housework, my husband phoned me from the office.", "zh": "那天上午晚些时候，我做家务时，我丈夫从办公室给我打来电话。" },
+    { "en": "'How's Tommy?' he asked.", "zh": "'汤米怎么样？'他问道。" },
+    { "en": "Tommy's been to the toilet three times this morning.", "zh": "汤米今天上午已经上了三次厕所。" },
+    { "en": "But I haven't had any change yet!", "zh": "但我还没拿到零钱呢！" }
+  ]
+}

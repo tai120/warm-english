@@ -1,0 +1,196 @@
+{
+  "id": "L027",
+  "title": "Lesson 27 · Mrs. Smith's living room",
+  "titleZh": "第27课 史密斯太太的客厅",
+  "words": [
+    {
+      "word": "living room",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meaning": "n. 客厅",
+      "examples": [
+        { "en": "Mrs. Smith's living room is large.", "zh": "史密斯太太的客厅很大。" }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "meaning": "adj. 大的",
+      "examples": [
+        { "en": "The living room is large.", "zh": "客厅很大。" },
+        { "en": "The kitchen is small, but the living room is large.", "zh": "厨房小，但客厅大。" }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meaning": "n. 电视机",
+      "examples": [
+        { "en": "There is a television in the room.", "zh": "房间里有一台电视机。" }
+      ]
+    },
+    {
+      "word": "near",
+      "phonetic": "/nɪə(r)/",
+      "meaning": "prep. 靠近，在……附近",
+      "examples": [
+        { "en": "The television is near the window.", "zh": "电视机靠近窗户。" }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meaning": "n. 窗户",
+      "examples": [
+        { "en": "The television is near the window.", "zh": "电视机靠近窗户。" }
+      ]
+    },
+    {
+      "word": "magazine",
+      "phonetic": "/ˌmæɡəˈziːn/",
+      "meaning": "n. 杂志",
+      "examples": [
+        { "en": "There are some magazines on the television.", "zh": "电视机上有几本杂志。" }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə(r)/",
+      "meaning": "n. 报纸",
+      "examples": [
+        { "en": "There are some newspapers on the table.", "zh": "桌子上有几份报纸。" }
+      ]
+    },
+    {
+      "word": "armchair",
+      "phonetic": "/ˈɑːmtʃeə(r)/",
+      "meaning": "n. 扶手椅",
+      "examples": [
+        { "en": "The armchairs are near the table.", "zh": "扶手椅在桌子旁边。" }
+      ]
+    },
+    {
+      "word": "stereo",
+      "phonetic": "/ˈsteriəʊ/",
+      "meaning": "n. 立体声音响",
+      "examples": [
+        { "en": "There is a stereo in the room.", "zh": "房间里有一套立体声音响。" }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː(r)/",
+      "meaning": "n. 门",
+      "examples": [
+        { "en": "The stereo is near the door.", "zh": "音响在门旁边。" }
+      ]
+    },
+    {
+      "word": "picture",
+      "phonetic": "/ˈpɪktʃə(r)/",
+      "meaning": "n. 图画，照片",
+      "examples": [
+        { "en": "There are some pictures in the room.", "zh": "房间里挂着几幅画。" },
+        { "en": "The pictures are on the wall.", "zh": "画挂在墙上。" }
+      ]
+    },
+    {
+      "word": "wall",
+      "phonetic": "/wɔːl/",
+      "meaning": "n. 墙",
+      "examples": [
+        { "en": "The pictures are on the wall.", "zh": "画挂在墙上。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Mrs. Smith's living room is large.",
+      "zh": "史密斯太太的客厅很大。",
+      "analysis": [
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Smith's", "roles": ["定语"] },
+        { "text": "living", "roles": ["定语"] },
+        { "text": "room", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "large", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "There is a television in the room.",
+      "zh": "房间里有一台电视机。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "television", "roles": ["主语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "room", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The television is near the window.",
+      "zh": "电视机靠近窗户。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "television", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "near", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "window", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "There are some magazines on the television.",
+      "zh": "电视机上有几本杂志。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "magazines", "roles": ["主语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "television", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "There are some armchairs in the room.",
+      "zh": "房间里有几把扶手椅。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "armchairs", "roles": ["主语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "room", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The pictures are on the wall.",
+      "zh": "画挂在墙上。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "pictures", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "on", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wall", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Mrs. Smith's living room is large.", "zh": "史密斯太太的客厅很大。" },
+    { "en": "There is a television in the room.", "zh": "房间里有一台电视机。" },
+    { "en": "The television is near the window.", "zh": "电视机靠近窗户。" },
+    { "en": "There are some magazines on the television.", "zh": "电视机上有几本杂志。" },
+    { "en": "There are some newspapers on the table.", "zh": "桌子上有几份报纸。" },
+    { "en": "There are some armchairs in the room.", "zh": "房间里有几把扶手椅。" },
+    { "en": "The armchairs are near the table.", "zh": "扶手椅在桌子旁边。" },
+    { "en": "There is a stereo in the room.", "zh": "房间里有一套立体声音响。" },
+    { "en": "The stereo is near the door.", "zh": "音响在门旁边。" },
+    { "en": "There are some books on the stereo.", "zh": "音响上有几本书。" },
+    { "en": "There are some pictures in the room.", "zh": "房间里挂着几幅画。" },
+    { "en": "The pictures are on the wall.", "zh": "画挂在墙上。" }
+  ]
+}

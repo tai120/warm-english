@@ -1,0 +1,237 @@
+{
+  "id": "L056",
+  "title": "Lesson 56 · Faster than sound!",
+  "titleZh": "第56课 比声音还快！",
+  "words": [
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meaning": "n. 比赛，竞赛",
+      "examples": [
+        { "en": "A race is held for old cars once a year.", "zh": "每年举行一次旧式汽车比赛。" }
+      ]
+    },
+    {
+      "word": "excitement",
+      "phonetic": "/ɪkˈsaɪtmənt/",
+      "meaning": "n. 激动，兴奋",
+      "examples": [
+        { "en": "There was a great deal of excitement before the race.", "zh": "比赛开始前人们非常激动。" }
+      ]
+    },
+    {
+      "word": "handsome",
+      "phonetic": "/ˈhænsəm/",
+      "meaning": "adj. 漂亮的，美观的",
+      "examples": [
+        { "en": "One of the most handsome cars was a Rolls-Royce.", "zh": "其中最漂亮的一辆是劳斯莱斯。" }
+      ]
+    },
+    {
+      "word": "Rolls-Royce",
+      "phonetic": "/ˌrəʊlz ˈrɔɪs/",
+      "meaning": "n. 劳斯莱斯（汽车名）",
+      "examples": [
+        { "en": "The Rolls-Royce Silver Ghost is very handsome.", "zh": "劳斯莱斯银鬼牌汽车非常漂亮。" }
+      ]
+    },
+    {
+      "word": "Benz",
+      "phonetic": "/benz/",
+      "meaning": "n. 奔驰牌汽车",
+      "examples": [
+        { "en": "The Benz had only three wheels.", "zh": "这辆奔驰汽车只有三个轮子。" }
+      ]
+    },
+    {
+      "word": "wheel",
+      "phonetic": "/wiːl/",
+      "meaning": "n. 轮子",
+      "examples": [
+        { "en": "The Benz had only three wheels.", "zh": "这辆奔驰汽车只有三个轮子。" }
+      ]
+    },
+    {
+      "word": "explosion",
+      "phonetic": "/ɪkˈspləʊʒn/",
+      "meaning": "n. 爆炸，轰响",
+      "examples": [
+        { "en": "After many loud explosions, the race began.", "zh": "在阵阵巨响之后，比赛开始了。" }
+      ]
+    },
+    {
+      "word": "course",
+      "phonetic": "/kɔːs/",
+      "meaning": "n. 跑道，路线",
+      "examples": [
+        { "en": "Many cars broke down on the course.", "zh": "许多汽车在途中抛锚了。" }
+      ]
+    },
+    {
+      "word": "rival",
+      "phonetic": "/ˈraɪvl/",
+      "meaning": "n. 对手",
+      "examples": [
+        { "en": "The winning car was faster than its rivals.", "zh": "获胜的汽车比它的对手都快。" }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meaning": "n. 速度",
+      "examples": [
+        { "en": "The winning car reached a speed of forty miles an hour.", "zh": "获胜的汽车时速达到四十英里。" }
+      ]
+    },
+    {
+      "word": "downhill",
+      "phonetic": "/ˌdaʊnˈhɪl/",
+      "meaning": "adv. 下坡",
+      "examples": [
+        { "en": "The car sped downhill at the end of the race.", "zh": "比赛结束时汽车冲下山坡。" }
+      ]
+    },
+    {
+      "word": "pleasure",
+      "phonetic": "/ˈpleʒə(r)/",
+      "meaning": "n. 乐趣，快乐",
+      "examples": [
+        { "en": "The race gave everyone a great deal of pleasure.", "zh": "比赛给大家带来了极大的乐趣。" }
+      ]
+    },
+    {
+      "word": "break",
+      "phonetic": "/breɪk/",
+      "meaning": "v. 损坏，抛锚",
+      "examples": [
+        { "en": "Many of the cars broke down on the course.", "zh": "许多汽车在途中抛锚了。" }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meaning": "v. 完成",
+      "examples": [
+        { "en": "A few cars completed the race.", "zh": "有几辆汽车跑完了全程。" }
+      ]
+    },
+    {
+      "word": "sound",
+      "phonetic": "/saʊnd/",
+      "meaning": "n. 声音",
+      "examples": [
+        { "en": "Sound travels at 340 metres a second.", "zh": "声音每秒传播340米。" }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic": "/ˈdraɪvə(r)/",
+      "meaning": "n. 司机",
+      "examples": [
+        { "en": "Some drivers spent more time under their cars.", "zh": "有些司机在车底下的时间更多。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Once a year, a race is held for old cars.",
+      "zh": "每年举行一次旧式汽车比赛。",
+      "analysis": [
+        { "text": "Once", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "race", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "held", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "cars", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "zh": "其中最漂亮的一辆是劳斯莱斯银鬼牌汽车。",
+      "analysis": [
+        { "text": "One", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "handsome", "roles": ["定语"] },
+        { "text": "cars", "roles": ["定语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "Rolls-Royce", "roles": ["定语"] },
+        { "text": "Silver", "roles": ["定语"] },
+        { "text": "Ghost", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The most unusual car was a Benz which had only three wheels.",
+      "zh": "最不寻常的一辆是只有三个轮子的奔驰汽车。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "unusual", "roles": ["定语"] },
+        { "text": "car", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "Benz", "roles": ["表语"] },
+        { "text": "which", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "wheels", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A few cars, however, completed the race.",
+      "zh": "然而有少数几辆汽车跑完了全程。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "few", "roles": ["定语"] },
+        { "text": "cars", "roles": ["主语"] },
+        { "text": "however", "roles": ["状语"] },
+        { "text": "completed", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "race", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The winning car reached a speed of forty miles an hour, much faster than any of its rivals.",
+      "zh": "获胜的汽车时速达到四十英里，比它的任何对手都快得多。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "winning", "roles": ["定语"] },
+        { "text": "car", "roles": ["主语"] },
+        { "text": "reached", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "speed", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "forty", "roles": ["定语"] },
+        { "text": "miles", "roles": ["定语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "hour", "roles": ["定语"] },
+        { "text": "much", "roles": ["状语"] },
+        { "text": "faster", "roles": ["状语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "any", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "its", "roles": ["定语"] },
+        { "text": "rivals", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Once a year, a race is held for old cars.", "zh": "每年举行一次旧式汽车比赛。" },
+    { "en": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.", "zh": "去年很多汽车参加了比赛，比赛开始前人们非常激动。" },
+    { "en": "One of the most handsome cars was a Rolls-Royce Silver Ghost.", "zh": "其中最漂亮的一辆是劳斯莱斯银鬼牌汽车。" },
+    { "en": "The most unusual car was a Benz which had only three wheels.", "zh": "最不寻常的一辆是只有三个轮子的奔驰汽车。" },
+    { "en": "Built in 1885, it was the oldest car taking part.", "zh": "它制造于1885年，是参赛汽车中最古老的。" },
+    { "en": "After a great many loud explosions, the race began.", "zh": "在一阵巨大的爆响声之后，比赛开始了。" },
+    { "en": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!", "zh": "许多汽车在途中抛锚，有些司机在车底下的时间比在车里的时间还长！" },
+    { "en": "A few cars, however, completed the race.", "zh": "然而有少数几辆汽车跑完了全程。" },
+    { "en": "The winning car reached a speed of forty miles an hour, much faster than any of its rivals.", "zh": "获胜的汽车时速达到四十英里，比它的任何对手都快得多。" },
+    { "en": "The race gave everyone a great deal of pleasure.", "zh": "这次比赛给大家带来了极大的乐趣。" }
+  ]
+}

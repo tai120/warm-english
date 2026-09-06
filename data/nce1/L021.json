@@ -1,0 +1,155 @@
+{
+  "id": "L021",
+  "title": "Lesson 21 · Which book?",
+  "titleZh": "第21课 哪一本书？",
+  "words": [
+    {
+      "word": "give",
+      "phonetic": "/ɡɪv/",
+      "meaning": "v. 给",
+      "examples": [
+        { "en": "Give me a book please, Jane.", "zh": "请给我一本书，简。" },
+        { "en": "Please give me the red one.", "zh": "请把红色的那个给我。" }
+      ]
+    },
+    {
+      "word": "one",
+      "phonetic": "/wʌn/",
+      "meaning": "pron. 一个（指代前面提到的人或物）",
+      "examples": [
+        { "en": "Which one?", "zh": "哪一个？" },
+        { "en": "The red one.", "zh": "红色的那个。" }
+      ]
+    },
+    {
+      "word": "which",
+      "phonetic": "/wɪtʃ/",
+      "meaning": "pron. 哪一个",
+      "examples": [
+        { "en": "Which book?", "zh": "哪一本书？" }
+      ]
+    },
+    {
+      "word": "red",
+      "phonetic": "/red/",
+      "meaning": "adj. 红色的",
+      "examples": [
+        { "en": "The red one.", "zh": "红色的那个。" },
+        { "en": "This book is red.", "zh": "这本书是红色的。" }
+      ]
+    },
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meaning": "n. 书",
+      "examples": [
+        { "en": "Which book?", "zh": "哪一本书？" },
+        { "en": "Give me a book, please.", "zh": "请给我一本书。" }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meaning": "int. 请",
+      "examples": [
+        { "en": "Yes, please.", "zh": "好的，请。" }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə(r)/",
+      "meaning": "adv. 这里",
+      "examples": [
+        { "en": "Here you are.", "zh": "给你。" }
+      ]
+    },
+    {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "meaning": "pron. 这，这个",
+      "examples": [
+        { "en": "This one?", "zh": "这个吗？" }
+      ]
+    },
+    {
+      "word": "thank",
+      "phonetic": "/θæŋk/",
+      "meaning": "v. 感谢",
+      "examples": [
+        { "en": "Thank you.", "zh": "谢谢你。" }
+      ]
+    },
+    {
+      "word": "you",
+      "phonetic": "/juː/",
+      "meaning": "pron. 你，你们",
+      "examples": [
+        { "en": "Here you are.", "zh": "给你。" },
+        { "en": "Thank you.", "zh": "谢谢你。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Which book?",
+      "zh": "哪一本书？",
+      "analysis": [
+        { "text": "Which", "roles": ["定语"] },
+        { "text": "book", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This one?",
+      "zh": "这本吗？",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "one", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The red one.",
+      "zh": "红色的那本。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "red", "roles": ["定语"] },
+        { "text": "one", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Yes, please.",
+      "zh": "好的，请。",
+      "analysis": [
+        { "text": "Yes", "roles": ["感叹词"] },
+        { "text": "please", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Here you are.",
+      "zh": "给你。",
+      "analysis": [
+        { "text": "Here", "roles": ["状语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Thank you.",
+      "zh": "谢谢。",
+      "analysis": [
+        { "text": "Thank", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Give me a book please, Jane.", "zh": "请给我一本书，简。" },
+    { "en": "Which book?", "zh": "哪一本书？" },
+    { "en": "This one?", "zh": "这本吗？" },
+    { "en": "No, not that one.", "zh": "不，不是那本。" },
+    { "en": "The red one.", "zh": "红色的那本。" },
+    { "en": "This one?", "zh": "这本吗？" },
+    { "en": "Yes, please.", "zh": "好的，请。" },
+    { "en": "Here you are.", "zh": "给你。" },
+    { "en": "Thank you.", "zh": "谢谢。" }
+  ]
+}

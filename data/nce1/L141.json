@@ -1,0 +1,225 @@
+{
+  "id": "L141",
+  "title": "Lesson 141 · Sally's first train ride",
+  "titleZh": "第141课 萨莉第一次乘火车旅行",
+  "words": [
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meaning": "n. 女儿",
+      "examples": [
+        { "en": "My four-year-old daughter, Sally, was invited to a children's party.", "zh": "我四岁的女儿萨莉被邀请参加一个儿童聚会。" }
+      ]
+    },
+    {
+      "word": "party",
+      "phonetic": "/ˈpɑːti/",
+      "meaning": "n. 聚会",
+      "examples": [
+        { "en": "My daughter was invited to a children's party.", "zh": "我女儿被邀请参加一个儿童聚会。" }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "/dɪˈsaɪd/",
+      "meaning": "v. 决定",
+      "examples": [
+        { "en": "I decided to take her by train.", "zh": "我决定带她乘火车去。" }
+      ]
+    },
+    {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "meaning": "adj. 兴奋的，激动的",
+      "examples": [
+        { "en": "Sally was very excited because she had never travelled on a train before.", "zh": "萨莉非常激动，因为她从未坐过火车。" }
+      ]
+    },
+    {
+      "word": "middle-aged",
+      "phonetic": "/ˌmɪdlˈeɪdʒd/",
+      "meaning": "adj. 中年的",
+      "examples": [
+        { "en": "A middle-aged lady got on the train and sat opposite Sally.", "zh": "一位中年女士上了火车，坐在萨莉对面。" }
+      ]
+    },
+    {
+      "word": "opposite",
+      "phonetic": "/ˈɒpəzɪt/",
+      "meaning": "prep. 在……对面",
+      "examples": [
+        { "en": "The lady sat opposite Sally.", "zh": "那位女士坐在萨莉对面。" }
+      ]
+    },
+    {
+      "word": "curiously",
+      "phonetic": "/ˈkjʊəriəsli/",
+      "meaning": "adv. 好奇地",
+      "examples": [
+        { "en": "Sally did not answer, but looked at her curiously.", "zh": "萨莉没有回答，只是好奇地看着她。" }
+      ]
+    },
+    {
+      "word": "funny",
+      "phonetic": "/ˈfʌni/",
+      "meaning": "adj. 滑稽的，可笑的",
+      "examples": [
+        { "en": "The lady was dressed in a blue coat and a large, funny hat.", "zh": "那位女士穿着一件蓝色外套，戴着一顶又大又滑稽的帽子。" }
+      ]
+    },
+    {
+      "word": "handbag",
+      "phonetic": "/ˈhændbæɡ/",
+      "meaning": "n. 手提包",
+      "examples": [
+        { "en": "The lady opened her handbag and took out her powder compact.", "zh": "那位女士打开手提包，拿出粉盒。" }
+      ]
+    },
+    {
+      "word": "powder",
+      "phonetic": "/ˈpaʊdə(r)/",
+      "meaning": "n. 粉，香粉",
+      "examples": [
+        { "en": "She took out her powder compact.", "zh": "她拿出了她的粉盒。" }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 美丽的",
+      "examples": [
+        { "en": "'To make myself beautiful,' the lady answered.", "zh": "'为了让自己漂亮，'那位女士答道。" }
+      ]
+    },
+    {
+      "word": "ugly",
+      "phonetic": "/ˈʌɡli/",
+      "meaning": "adj. 丑陋的",
+      "examples": [
+        { "en": "'But you are still ugly,' Sally said.", "zh": "'但您还是丑，'萨莉说。" }
+      ]
+    },
+    {
+      "word": "amused",
+      "phonetic": "/əˈmjuːzd/",
+      "meaning": "adj. 感到好笑的",
+      "examples": [
+        { "en": "Sally was amused, but I was very embarrassed!", "zh": "萨莉感到很好笑，我却非常尴尬！" }
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "phonetic": "/ɪmˈbærəst/",
+      "meaning": "adj. 尴尬的",
+      "examples": [
+        { "en": "Sally was amused, but I was very embarrassed!", "zh": "萨莉感到很好笑，我却非常尴尬！" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I decided to take her by train.",
+      "zh": "我决定带她乘火车去。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "decided", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "train", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Sally was very excited because she had never travelled on a train before.",
+      "zh": "萨莉非常激动，因为她从未坐过火车。",
+      "analysis": [
+        { "text": "Sally", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "excited", "roles": ["表语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "travelled", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "train", "roles": ["状语"] },
+        { "text": "before", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Sally did not answer, but looked at her curiously.",
+      "zh": "萨莉没有回答，只是好奇地看着她。",
+      "analysis": [
+        { "text": "Sally", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "answer", "roles": ["谓语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "curiously", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The lady was dressed in a blue coat and a large, funny hat.",
+      "zh": "那位女士穿着一件蓝色外套，戴着一顶又大又滑稽的帽子。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "lady", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "dressed", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "blue", "roles": ["定语"] },
+        { "text": "coat", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "funny", "roles": ["定语"] },
+        { "text": "hat", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "After the train had left the station, the lady opened her handbag and took out her powder compact.",
+      "zh": "火车驶出车站后，那位女士打开手提包，拿出粉盒。",
+      "analysis": [
+        { "text": "After", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "train", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "left", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "station", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "lady", "roles": ["主语"] },
+        { "text": "opened", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "handbag", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "powder", "roles": ["定语"] },
+        { "text": "compact", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Last week, my four-year-old daughter, Sally, was invited to a children's party.", "zh": "上周，我四岁的女儿萨莉被邀请参加一个儿童聚会。" },
+    { "en": "I decided to take her by train.", "zh": "我决定带她乘火车去。" },
+    { "en": "Sally was very excited because she had never travelled on a train before.", "zh": "萨莉非常激动，因为她从未坐过火车。" },
+    { "en": "She sat near the window and asked questions about everything she saw.", "zh": "她坐在车窗旁，对看到的一切都问个不停。" },
+    { "en": "Suddenly, a middle-aged lady got on the train and sat opposite Sally.", "zh": "突然，一位中年女士上了火车，坐在萨莉对面。" },
+    { "en": "'Hello, little girl,' she said.", "zh": "'你好，小姑娘，'她说。" },
+    { "en": "Sally did not answer, but looked at her curiously.", "zh": "萨莉没有回答，只是好奇地看着她。" },
+    { "en": "The lady was dressed in a blue coat and a large, funny hat.", "zh": "那位女士穿着一件蓝色外套，戴着一顶又大又滑稽的帽子。" },
+    { "en": "After the train had left the station, the lady opened her handbag and took out her powder compact.", "zh": "火车驶出车站后，那位女士打开手提包，拿出粉盒。" },
+    { "en": "She then began to make up her face.", "zh": "然后她开始往脸上扑粉。" },
+    { "en": "'To make myself beautiful,' the lady answered.", "zh": "'为了让自己漂亮，'那位女士答道。" },
+    { "en": "'But you are still ugly,' Sally said.", "zh": "'但您还是丑，'萨莉说。" }
+  ]
+}

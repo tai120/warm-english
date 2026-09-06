@@ -1,0 +1,246 @@
+{
+  "id": "L082",
+  "title": "Lesson 82 · Monster or fish?",
+  "titleZh": "第82课 是妖还是鱼？",
+  "words": [
+    {
+      "word": "monster",
+      "phonetic": "/ˈmɒnstə(r)/",
+      "meaning": "n. 怪物",
+      "examples": [
+        { "en": "Fishermen say they have seen monsters in the sea.", "zh": "渔民们说他们在海里见过怪物。" }
+      ]
+    },
+    {
+      "word": "sailor",
+      "phonetic": "/ˈseɪlə(r)/",
+      "meaning": "n. 海员，水手",
+      "examples": [
+        { "en": "The sailor loves the sea.", "zh": "这名海员热爱大海。" }
+      ]
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meaning": "v. 声称",
+      "examples": [
+        { "en": "They claim to have seen a strange fish.", "zh": "他们声称见过一条奇怪的鱼。" }
+      ]
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "/pɪˈkjuːliə(r)/",
+      "meaning": "adj. 奇怪的，特殊的",
+      "examples": [
+        { "en": "A peculiar fish was caught near Madagascar.", "zh": "在马达加斯加附近捕到了一条奇怪的鱼。" }
+      ]
+    },
+    {
+      "word": "Madagascar",
+      "phonetic": "/ˌmædəˈɡæskə(r)/",
+      "meaning": "n. 马达加斯加（非洲岛国）",
+      "examples": [
+        { "en": "Madagascar is an island in the Indian Ocean.", "zh": "马达加斯加是印度洋上的一个岛国。" }
+      ]
+    },
+    {
+      "word": "fishing",
+      "phonetic": "/ˈfɪʃɪŋ/",
+      "meaning": "n. 捕鱼，钓鱼",
+      "examples": [
+        { "en": "A small fishing boat was carried out to sea.", "zh": "一艘小渔船被拖到了外海。" }
+      ]
+    },
+    {
+      "word": "powerful",
+      "phonetic": "/ˈpaʊəfl/",
+      "meaning": "adj. 强大的，有力的",
+      "examples": [
+        { "en": "The fish was very powerful.", "zh": "那条鱼力气非常大。" }
+      ]
+    },
+    {
+      "word": "ordinary",
+      "phonetic": "/ˈɔːdnri/",
+      "meaning": "adj. 普通的，平常的",
+      "examples": [
+        { "en": "This was no ordinary fish.", "zh": "这不是一条普通的鱼。" }
+      ]
+    },
+    {
+      "word": "damage",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "meaning": "v. 损坏",
+      "examples": [
+        { "en": "The fisherman tried not to damage the fish.", "zh": "渔夫尽量不弄伤那条鱼。" }
+      ]
+    },
+    {
+      "word": "eventually",
+      "phonetic": "/ɪˈventʃuəli/",
+      "meaning": "adv. 最终，终于",
+      "examples": [
+        { "en": "The fish was eventually brought to shore.", "zh": "那条鱼最终被带到了岸上。" }
+      ]
+    },
+    {
+      "word": "shore",
+      "phonetic": "/ʃɔː(r)/",
+      "meaning": "n. 海岸，岸边",
+      "examples": [
+        { "en": "They swam towards the shore.", "zh": "他们向岸边游去。" }
+      ]
+    },
+    {
+      "word": "museum",
+      "phonetic": "/mjuˈziːəm/",
+      "meaning": "n. 博物馆",
+      "examples": [
+        { "en": "The fish has been sent to a museum.", "zh": "那条鱼已被送到一座博物馆。" }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meaning": "v. 检查，研究",
+      "examples": [
+        { "en": "A scientist is examining the fish.", "zh": "一位科学家正在研究那条鱼。" }
+      ]
+    },
+    {
+      "word": "scientist",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "meaning": "n. 科学家",
+      "examples": [
+        { "en": "The scientist is examining the strange fish.", "zh": "那位科学家正在检查那条奇怪的鱼。" }
+      ]
+    },
+    {
+      "word": "creature",
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "meaning": "n. 生物，动物",
+      "examples": [
+        { "en": "Such creatures live very deep in the ocean.", "zh": "这类生物生活在海洋深处。" }
+      ]
+    },
+    {
+      "word": "ocean",
+      "phonetic": "/ˈəʊʃn/",
+      "meaning": "n. 海洋",
+      "examples": [
+        { "en": "They live very deep in the ocean.", "zh": "它们生活在海洋很深的地方。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Fishermen and sailors sometimes claim they have seen monsters in the sea.",
+      "zh": "渔民和水手们有时声称他们在海里见过怪物。",
+      "analysis": [
+        { "text": "Fishermen", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sailors", "roles": ["主语"] },
+        { "text": "sometimes", "roles": ["状语"] },
+        { "text": "claim", "roles": ["谓语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "seen", "roles": ["谓语"] },
+        { "text": "monsters", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "sea", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Some time ago, however, a peculiar fish was caught near Madagascar.",
+      "zh": "然而不久以前，在马达加斯加附近捕获了一条奇怪的鱼。",
+      "analysis": [
+        { "text": "Some", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] },
+        { "text": "however", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "peculiar", "roles": ["定语"] },
+        { "text": "fish", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "caught", "roles": ["谓语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "Madagascar", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A small fishing boat was carried miles out to sea by the powerful fish.",
+      "zh": "一艘小渔船被这条力大无比的鱼拖到了几英里外的海上。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "fishing", "roles": ["定语"] },
+        { "text": "boat", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "miles", "roles": ["状语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sea", "roles": ["状语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "powerful", "roles": ["定语"] },
+        { "text": "fish", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It had a head like a horse, big blue eyes, and a bright red tail.",
+      "zh": "它长着一个马一样的头，大大的蓝眼睛，还有一条鲜红色的尾巴。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "head", "roles": ["宾语"] },
+        { "text": "like", "roles": ["定语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "horse", "roles": ["定语"] },
+        { "text": "big", "roles": ["定语"] },
+        { "text": "blue", "roles": ["定语"] },
+        { "text": "eyes", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bright", "roles": ["定语"] },
+        { "text": "red", "roles": ["定语"] },
+        { "text": "tail", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Such creatures have rarely been seen alive by man because they live very deep in the ocean.",
+      "zh": "这种生物很少被人看到活着的样子，因为它们生活在海洋很深的地方。",
+      "analysis": [
+        { "text": "Such", "roles": ["定语"] },
+        { "text": "creatures", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "rarely", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "seen", "roles": ["谓语"] },
+        { "text": "alive", "roles": ["补语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "man", "roles": ["状语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "deep", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ocean", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Fishermen and sailors sometimes claim they have seen monsters in the sea.", "zh": "渔民和水手们有时声称他们在海里见过怪物。" },
+    { "en": "Some time ago, however, a peculiar fish was caught near Madagascar.", "zh": "然而不久以前，在马达加斯加附近捕获了一条奇怪的鱼。" },
+    { "en": "A small fishing boat was carried miles out to sea by the powerful fish.", "zh": "一艘小渔船被这条力大无比的鱼拖到了几英里外的海上。" },
+    { "en": "Realising that this was no ordinary fish, the fisherman tried hard not to damage it.", "zh": "渔夫意识到这不是一条普通的鱼，于是想尽办法不弄伤它。" },
+    { "en": "When it was eventually brought to shore, it was found to be over thirteen feet long.", "zh": "当它最终被带到岸上时，人们发现它有十三英尺多长。" },
+    { "en": "It had a head like a horse, big blue eyes, and a bright red tail.", "zh": "它长着一个马一样的头，大大的蓝眼睛，还有一条鲜红色的尾巴。" },
+    { "en": "The strange fish has since been sent to a museum for examination.", "zh": "这条奇怪的鱼后来被送到一家博物馆供人参观研究。" },
+    { "en": "Such creatures have rarely been seen alive by man because they live very deep in the ocean.", "zh": "这种生物很少被人看到活着的样子，因为它们生活在海洋很深的地方。" }
+  ]
+}

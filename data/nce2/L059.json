@@ -1,0 +1,229 @@
+{
+  "id": "L059",
+  "title": "Lesson 59 · In or out?",
+  "titleZh": "第59课 进来还是出去？",
+  "words": [
+    {
+      "word": "bark",
+      "phonetic": "/bɑːk/",
+      "meaning": "v. 狗叫",
+      "examples": [
+        { "en": "Our dog used to sit outside the gate and bark.", "zh": "我们的狗过去常常蹲在大门外叫。" }
+      ]
+    },
+    {
+      "word": "gate",
+      "phonetic": "/ɡeɪt/",
+      "meaning": "n. 大门",
+      "examples": [
+        { "en": "Someone opened the gate for him.", "zh": "有人给它开了门。" }
+      ]
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meaning": "v. 抱怨",
+      "examples": [
+        { "en": "The neighbours complained of the noise.", "zh": "邻居们抱怨噪音。" }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meaning": "n. 噪音",
+      "examples": [
+        { "en": "The neighbours complained of the noise.", "zh": "邻居们抱怨噪音。" }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meaning": "v. 训练",
+      "examples": [
+        { "en": "My husband spent weeks training him.", "zh": "我丈夫花了好几个星期训练它。" }
+      ]
+    },
+    {
+      "word": "paw",
+      "phonetic": "/pɔː/",
+      "meaning": "n. 爪子",
+      "examples": [
+        { "en": "He presses his paw on the latch.", "zh": "它用爪子按门闩。" }
+      ]
+    },
+    {
+      "word": "latch",
+      "phonetic": "/lætʃ/",
+      "meaning": "n. 门闩",
+      "examples": [
+        { "en": "The dog can press the latch.", "zh": "这只狗会按门闩。" }
+      ]
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈekspɜːt/",
+      "meaning": "n. 专家，能手",
+      "examples": [
+        { "en": "Rex soon became an expert at opening the gate.", "zh": "雷克斯很快就成了开门的能手。" }
+      ]
+    },
+    {
+      "word": "habit",
+      "phonetic": "/ˈhæbɪt/",
+      "meaning": "n. 习惯",
+      "examples": [
+        { "en": "He has developed another bad habit.", "zh": "它又养成了一个坏习惯。" }
+      ]
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meaning": "v. 拆掉，移除",
+      "examples": [
+        { "en": "My husband removed the gate.", "zh": "我丈夫把门拆了。" }
+      ]
+    },
+    {
+      "word": "annoy",
+      "phonetic": "/əˈnɔɪ/",
+      "meaning": "v. 使恼怒",
+      "examples": [
+        { "en": "Rex got so annoyed.", "zh": "雷克斯气坏了。" }
+      ]
+    },
+    {
+      "word": "Rex",
+      "phonetic": "/reks/",
+      "meaning": "n. 雷克斯（狗名）",
+      "examples": [
+        { "en": "Rex is our dog.", "zh": "雷克斯是我们的狗。" }
+      ]
+    },
+    {
+      "word": "develop",
+      "phonetic": "/dɪˈveləp/",
+      "meaning": "v. 养成，发展",
+      "examples": [
+        { "en": "He has developed a bad habit.", "zh": "它养成了一个坏习惯。" }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə(r)/",
+      "meaning": "n. 邻居",
+      "examples": [
+        { "en": "The neighbours complained of the noise.", "zh": "邻居们抱怨噪音。" }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meaning": "v. 注意到",
+      "examples": [
+        { "en": "I noticed him in the garden near the gate.", "zh": "我发现它在花园里靠近大门的地方。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Our dog Rex used to sit outside our front gate and bark.",
+      "zh": "我们的狗雷克斯过去常常蹲在大门外叫。",
+      "analysis": [
+        { "text": "Our", "roles": ["定语"] },
+        { "text": "dog", "roles": ["定语"] },
+        { "text": "Rex", "roles": ["主语"] },
+        { "text": "used", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sit", "roles": ["谓语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "front", "roles": ["定语"] },
+        { "text": "gate", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "bark", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Rex soon became an expert at opening the gate.",
+      "zh": "雷克斯很快就成了开门的能手。",
+      "analysis": [
+        { "text": "Rex", "roles": ["主语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "became", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "expert", "roles": ["表语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "opening", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "gate", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Every time he wanted to come into the garden, he would bark until someone opened the gate.",
+      "zh": "每当它想进花园时，就会一直叫，直到有人把门打开。",
+      "analysis": [
+        { "text": "Every", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "wanted", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "garden", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "bark", "roles": ["谓语"] },
+        { "text": "until", "roles": ["连词"] },
+        { "text": "someone", "roles": ["主语"] },
+        { "text": "opened", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "gate", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Since then, he has developed another bad habit.",
+      "zh": "从那以后，它又养成了一个坏习惯。",
+      "analysis": [
+        { "text": "Since", "roles": ["状语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "developed", "roles": ["谓语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "bad", "roles": ["定语"] },
+        { "text": "habit", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This time he was barking so that someone would let him out!",
+      "zh": "这一次它叫着，好让人放它出去！",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "barking", "roles": ["谓语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "someone", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "let", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "out", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Our dog Rex used to sit outside our front gate and bark.", "zh": "我们的狗雷克斯过去常常蹲在大门外叫。" },
+    { "en": "Every time he wanted to come into the garden, he would bark until someone opened the gate.", "zh": "每当它想进花园时，就会一直叫，直到有人把门打开。" },
+    { "en": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.", "zh": "因为邻居们抱怨狗叫太吵，我丈夫花了好几个星期训练它用爪子按门闩自己开门进去。" },
+    { "en": "Rex soon became an expert at opening the gate.", "zh": "雷克斯很快就成了开门的能手。" },
+    { "en": "However, when I was going out shopping last week, I noticed him in the garden near the gate.", "zh": "然而，上周我出去买东西时，发现它在花园里靠近大门的地方。" },
+    { "en": "This time he was barking so that someone would let him out!", "zh": "这一次它叫着，好让人放它出去！" },
+    { "en": "Since then, he has developed another bad habit.", "zh": "从那以后，它又养成了一个坏习惯。" },
+    { "en": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.", "zh": "它从外面一打开门，就进到花园里，等着门关上。" },
+    { "en": "Then he sits and barks until someone lets him out.", "zh": "然后它蹲在那儿叫，直到有人放它出去。" },
+    { "en": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.", "zh": "昨天我丈夫把门拆了，雷克斯气坏了，从那以后我们再没见过它。" }
+  ]
+}

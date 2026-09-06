@@ -1,0 +1,258 @@
+{
+  "id": "L050",
+  "title": "Lesson 50 · Taken for a ride",
+  "titleZh": "第50课 乘车兜风",
+  "words": [
+    {
+      "word": "excursion",
+      "phonetic": "/ɪkˈskɜːʃn/",
+      "meaning": "n. 远足，短途旅行",
+      "examples": [
+        { "en": "I went on an excursion recently.", "zh": "最近我去远足了一次。" },
+        { "en": "We went on an excursion to the seaside.", "zh": "我们去海边远足了一次。" }
+      ]
+    },
+    {
+      "word": "conductor",
+      "phonetic": "/kənˈdʌktə(r)/",
+      "meaning": "n. 售票员",
+      "examples": [
+        { "en": "The conductor forgot to put me off.", "zh": "售票员忘了让我下车。" },
+        { "en": "The conductor told me where to get off.", "zh": "售票员告诉我在哪里下车。" }
+      ]
+    },
+    {
+      "word": "view",
+      "phonetic": "/vjuː/",
+      "meaning": "n. 景色，视野",
+      "examples": [
+        { "en": "I sat in the front of the bus to get a good view.", "zh": "我坐在汽车前部以便看风景。" },
+        { "en": "The view from the hill is beautiful.", "zh": "从山上看去景色很美。" }
+      ]
+    },
+    {
+      "word": "countryside",
+      "phonetic": "/ˈkʌntrisaɪd/",
+      "meaning": "n. 乡村，农村",
+      "examples": [
+        { "en": "I love travelling in the countryside.", "zh": "我喜欢在乡间旅行。" }
+      ]
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈrɪəlaɪz/",
+      "meaning": "v. 意识到，认识到",
+      "examples": [
+        { "en": "I realized that I was the only passenger.", "zh": "我意识到车上只剩下我一个乘客了。" }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meaning": "n. 震惊",
+      "examples": [
+        { "en": "I realized with a shock that I was alone.", "zh": "我吃惊地发现只剩我一个人了。" }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meaning": "n. 乘客",
+      "examples": [
+        { "en": "I was the only passenger left on the bus.", "zh": "我是车上剩下的唯一乘客。" }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meaning": "v. 期待，预料",
+      "examples": [
+        { "en": "My trip took longer than I expected.", "zh": "旅途比我预料的要长。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "v. 有关系，要紧",
+      "examples": [
+        { "en": "It does not matter.", "zh": "没关系。" }
+      ]
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜː(r)/",
+      "meaning": "v. 更喜欢",
+      "examples": [
+        { "en": "I prefer to stay on the bus.", "zh": "我宁愿留在车上。" }
+      ]
+    },
+    {
+      "word": "Woodford Green",
+      "phonetic": "/ˈwʊdfəd ɡriːn/",
+      "meaning": "n. 伍德福德格林（地名）",
+      "examples": [
+        { "en": "I was going to Woodford Green.", "zh": "我要去伍德福德格林。" }
+      ]
+    },
+    {
+      "word": "lose",
+      "phonetic": "/luːz/",
+      "meaning": "v. 失去，迷（路）",
+      "examples": [
+        { "en": "I do not like losing my way.", "zh": "我不喜欢迷路。" },
+        { "en": "He lost his way in the forest.", "zh": "他在森林里迷了路。" }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meaning": "n. 前面，前部",
+      "examples": [
+        { "en": "I sat in the front of the bus.", "zh": "我坐在汽车的前部。" }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "n. 旅行，旅途",
+      "examples": [
+        { "en": "My trip took me longer than I expected.", "zh": "旅途比我预料的要长。" }
+      ]
+    },
+    {
+      "word": "case",
+      "phonetic": "/keɪs/",
+      "meaning": "n. 情况，事例",
+      "examples": [
+        { "en": "In that case, I will stay on the bus.", "zh": "那样的话，我就留在车上。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I love travelling in the country, but I do not like losing my way.",
+      "zh": "我喜欢在乡间旅行，但不喜欢迷路。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "love", "roles": ["谓语"] },
+        { "text": "travelling", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "country", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "losing", "roles": ["宾语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I got on the bus and told the conductor that I was going to Woodford Green.",
+      "zh": "我上了公共汽车，告诉售票员我要去伍德福德格林。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bus", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "conductor", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Woodford", "roles": ["定语"] },
+        { "text": "Green", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He answered that he would tell me where to get off.",
+      "zh": "他回答说他会告诉我在哪里下车。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "answered", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "where", "roles": ["连词"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "off", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The conductor said that this was as far as the bus went.",
+      "zh": "售票员说汽车就开到这里为止。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "conductor", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "far", "roles": ["表语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bus", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I asked if this was Woodford Green.",
+      "zh": "我问这是不是伍德福德格林。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "Woodford", "roles": ["定语"] },
+        { "text": "Green", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It did not matter, because the bus was going back and I preferred to stay on it.",
+      "zh": "没关系，因为汽车要往回开了，我宁愿留在车上。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "matter", "roles": ["谓语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bus", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "back", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "preferred", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stay", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I love travelling in the country, but I do not like losing my way.", "zh": "我喜欢在乡间旅行，但不喜欢迷路。" },
+    { "en": "I went on an excursion recently, but my trip took me longer than I expected.", "zh": "最近我去远足了一次，但旅途比我想象的要长。" },
+    { "en": "I got on the bus and told the conductor that I was going to Woodford Green.", "zh": "我上了公共汽车，告诉售票员我要去伍德福德格林。" },
+    { "en": "He answered that he would tell me where to get off.", "zh": "他回答说他会告诉我在哪里下车。" },
+    { "en": "I sat in the front of the bus to get a good view of the countryside.", "zh": "我坐在汽车的前部，以便欣赏乡村的景色。" },
+    { "en": "Looking round, I realized with a shock that I was the only passenger left on the bus.", "zh": "我环顾四周，吃惊地发现车上只剩下我一个乘客了。" },
+    { "en": "The conductor said that this was as far as the bus went.", "zh": "售票员说汽车就开到这里为止。" },
+    { "en": "I asked if this was Woodford Green.", "zh": "我问这是不是伍德福德格林。" },
+    { "en": "Oh dear, he had forgotten to put me off!", "zh": "天哪，他忘了让我下车！" },
+    { "en": "It did not matter, because the bus was going back and I preferred to stay on it.", "zh": "没关系，因为汽车要往回开了，我宁愿留在车上。" }
+  ]
+}

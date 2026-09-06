@@ -1,0 +1,221 @@
+{
+  "id": "L095",
+  "title": "Lesson 95 · Tickets, please.",
+  "titleZh": "第95课 请把车票拿出来。",
+  "words": [
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "n. 往返",
+      "examples": [
+        { "en": "Two return tickets to London, please.", "zh": "请买两张到伦敦的往返票。" },
+        { "en": "I'd like a return ticket, please.", "zh": "请给我一张往返票。" }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meaning": "n. 火车",
+      "examples": [
+        { "en": "What time will the next train leave?", "zh": "下一班火车什么时候开？" },
+        { "en": "When's the next train?", "zh": "下一班火车是什么时候？" }
+      ]
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːm/",
+      "meaning": "n. 站台",
+      "examples": [
+        { "en": "Which platform?", "zh": "在哪个站台？" },
+        { "en": "Platform Two.", "zh": "2号站台。" }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meaning": "n. 大量，充足",
+      "examples": [
+        { "en": "We've got plenty of time.", "zh": "我们的时间还很多。" },
+        { "en": "There's plenty of food.", "zh": "食物很充足。" }
+      ]
+    },
+    {
+      "word": "bar",
+      "phonetic": "/bɑː(r)/",
+      "meaning": "n. 酒吧",
+      "examples": [
+        { "en": "There's a bar next door to the station.", "zh": "车站旁边有个酒吧。" },
+        { "en": "Let's go to the bar.", "zh": "我们去酒吧吧。" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站",
+      "examples": [
+        { "en": "We had better go back to the station now, Ken.", "zh": "肯，我们最好现在回车站去。" },
+        { "en": "There's a bar next door to the station.", "zh": "车站旁边有个酒吧。" }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meaning": "v. 赶上",
+      "examples": [
+        { "en": "We want to catch the eight nineteen to London.", "zh": "我们要乘8点19分的车去伦敦。" },
+        { "en": "Hurry up, or we'll miss the train!", "zh": "快点，不然我们就赶不上火车了！" }
+      ]
+    },
+    {
+      "word": "miss",
+      "phonetic": "/mɪs/",
+      "meaning": "v. 错过",
+      "examples": [
+        { "en": "You've just missed it!", "zh": "你们刚好错过了那班车！" },
+        { "en": "I missed the bus this morning.", "zh": "今天早上我错过了公共汽车。" }
+      ]
+    },
+    {
+      "word": "clock",
+      "phonetic": "/klɒk/",
+      "meaning": "n. 钟",
+      "examples": [
+        { "en": "That clock's ten minutes slow.", "zh": "那个钟慢了10分钟。" },
+        { "en": "The clock is on the wall.", "zh": "钟挂在墙上。" }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meaning": "n. 车票",
+      "examples": [
+        { "en": "Two return tickets to London, please.", "zh": "请买两张到伦敦的往返票。" },
+        { "en": "Tickets, please.", "zh": "请把车票拿出来。" }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "n. 桥",
+      "examples": [
+        { "en": "Platform Two. Over the bridge.", "zh": "2号站台，过天桥。" },
+        { "en": "The bridge is very long.", "zh": "这座桥很长。" }
+      ]
+    },
+    {
+      "word": "slow",
+      "phonetic": "/sləʊ/",
+      "meaning": "adj. 慢的",
+      "examples": [
+        { "en": "That clock's ten minutes slow.", "zh": "那个钟慢了10分钟。" },
+        { "en": "He read the phrase slowly.", "zh": "他缓慢地念着短语。" }
+      ]
+    },
+    {
+      "word": "hour",
+      "phonetic": "/ˈaʊə(r)/",
+      "meaning": "n. 小时",
+      "examples": [
+        { "en": "In five hours' time!", "zh": "5小时之后！" },
+        { "en": "I waited for two hours.", "zh": "我等了两个小时。" }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meaning": "n. 分钟",
+      "examples": [
+        { "en": "It's only three minutes to eight.", "zh": "现在才差3分钟8点。" },
+        { "en": "That clock's ten minutes slow.", "zh": "那个钟慢了10分钟。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Two return tickets to London, please.",
+      "zh": "请买两张到伦敦的往返票。",
+      "analysis": [
+        { "text": "Two", "roles": ["定语"] },
+        { "text": "return", "roles": ["定语"] },
+        { "text": "tickets", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "London", "roles": ["定语"] },
+        { "text": "please", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "What time will the next train leave?",
+      "zh": "下一班火车什么时候开？",
+      "analysis": [
+        { "text": "What", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "train", "roles": ["主语"] },
+        { "text": "leave", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "We've got plenty of time.",
+      "zh": "我们的时间还很多。",
+      "analysis": [
+        { "text": "We've", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "plenty", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "time", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "We want to catch the eight nineteen to London.",
+      "zh": "我们要乘8点19分的车去伦敦。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["宾语"] },
+        { "text": "catch", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "eight", "roles": ["定语"] },
+        { "text": "nineteen", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "London", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "You've just missed it!",
+      "zh": "你们刚好错过了那班车！",
+      "analysis": [
+        { "text": "You've", "roles": ["主语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "missed", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "That clock's ten minutes slow.",
+      "zh": "那个钟慢了10分钟。",
+      "analysis": [
+        { "text": "That", "roles": ["定语"] },
+        { "text": "clock's", "roles": ["主语"] },
+        { "text": "ten", "roles": ["定语"] },
+        { "text": "minutes", "roles": ["状语"] },
+        { "text": "slow", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Two return tickets to London, please.", "zh": "请买两张到伦敦的往返票。" },
+    { "en": "What time will the next train leave?", "zh": "下一班火车什么时候开？" },
+    { "en": "At nineteen minutes past eight.", "zh": "8点19分。" },
+    { "en": "Which platform?", "zh": "在哪个站台？" },
+    { "en": "Platform Two. Over the bridge.", "zh": "2号站台，过天桥。" },
+    { "en": "We've got plenty of time.", "zh": "我们的时间还很多。" },
+    { "en": "Let's go and have a drink.", "zh": "我们去喝点东西吧。" },
+    { "en": "Tickets, please.", "zh": "请把车票拿出来。" },
+    { "en": "We want to catch the eight nineteen to London.", "zh": "我们要乘8点19分的车去伦敦。" },
+    { "en": "You've just missed it!", "zh": "你们刚好错过了那班车！" },
+    { "en": "That clock's ten minutes slow.", "zh": "那个钟慢了10分钟。" },
+    { "en": "When's the next train?", "zh": "下一班车是什么时候？" }
+  ]
+}

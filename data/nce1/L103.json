@@ -1,0 +1,243 @@
+{
+  "id": "L103",
+  "title": "Lesson 103 · The French test",
+  "titleZh": "第103课 法语考试",
+  "words": [
+    {
+      "word": "exam",
+      "phonetic": "/ɪɡˈzæm/",
+      "meaning": "n. 考试",
+      "examples": [
+        { "en": "How was the exam, Richard?", "zh": "理查德，考试考得怎么样？" },
+        { "en": "We have an exam tomorrow.", "zh": "我们明天有考试。" }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meaning": "v. 通过，及格",
+      "examples": [
+        { "en": "I think I passed in English and Mathematics.", "zh": "我想我的英语和数学及格了。" },
+        { "en": "I hope I passed the exam.", "zh": "我希望我考试及格了。" }
+      ]
+    },
+    {
+      "word": "mathematics",
+      "phonetic": "/ˌmæθəˈmætɪks/",
+      "meaning": "n. 数学",
+      "examples": [
+        { "en": "I think I passed in English and Mathematics.", "zh": "我想我的英语和数学及格了。" },
+        { "en": "Mathematics is my favourite subject.", "zh": "数学是我最喜欢的科目。" }
+      ]
+    },
+    {
+      "word": "question",
+      "phonetic": "/ˈkwestʃən/",
+      "meaning": "n. 问题",
+      "examples": [
+        { "en": "The questions were very easy.", "zh": "题目很容易。" },
+        { "en": "I could answer sixteen of the questions.", "zh": "我能回答16道题。" }
+      ]
+    },
+    {
+      "word": "easy",
+      "phonetic": "/ˈiːzi/",
+      "meaning": "adj. 容易的",
+      "examples": [
+        { "en": "The questions were very easy.", "zh": "题目很容易。" },
+        { "en": "This test is very easy.", "zh": "这次测验很容易。" }
+      ]
+    },
+    {
+      "word": "enough",
+      "phonetic": "/ɪˈnʌf/",
+      "meaning": "adv. 足够地",
+      "examples": [
+        { "en": "The papers weren't easy enough for me.", "zh": "试卷对我来说不那么容易。" },
+        { "en": "We haven't got enough time.", "zh": "我们的时间不够。" }
+      ]
+    },
+    {
+      "word": "paper",
+      "phonetic": "/ˈpeɪpə(r)/",
+      "meaning": "n. 试卷",
+      "examples": [
+        { "en": "The English and Maths papers weren't easy enough for me.", "zh": "英语和数学试卷对我来说不那么容易。" },
+        { "en": "I think I failed the French paper.", "zh": "我想我的法语考砸了。" }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meaning": "v. 不及格，失败",
+      "examples": [
+        { "en": "I think I failed the French paper.", "zh": "我想我的法语考砸了。" },
+        { "en": "I hope I haven't failed.", "zh": "我希望我没不及格。" }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "v. 回答",
+      "examples": [
+        { "en": "I could answer sixteen of the questions.", "zh": "我能回答16道题。" },
+        { "en": "But I couldn't answer the rest.", "zh": "但其余的我答不上来。" }
+      ]
+    },
+    {
+      "word": "mark",
+      "phonetic": "/mɑːk/",
+      "meaning": "n. 分数",
+      "examples": [
+        { "en": "I'm sure I've got a low mark.", "zh": "我肯定我的分数很低。" },
+        { "en": "He got a high mark in the exam.", "zh": "他考试得了高分。" }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meaning": "n. 其余部分",
+      "examples": [
+        { "en": "But I couldn't answer the rest.", "zh": "但其余的我答不上来。" },
+        { "en": "You can do the rest tomorrow.", "zh": "其余的你明天做吧。" }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meaning": "adj. 困难的",
+      "examples": [
+        { "en": "They were too difficult for me.", "zh": "那些题对我来说太难了。" },
+        { "en": "This question is very difficult.", "zh": "这个问题很难。" }
+      ]
+    },
+    {
+      "word": "hate",
+      "phonetic": "/heɪt/",
+      "meaning": "v. 讨厌",
+      "examples": [
+        { "en": "French tests are awful, aren't they?", "zh": "法语考试真糟糕，是吧？" },
+        { "en": "I hate them.", "zh": "我讨厌它们。" }
+      ]
+    },
+    {
+      "word": "low",
+      "phonetic": "/ləʊ/",
+      "meaning": "adj. 低的",
+      "examples": [
+        { "en": "I'm sure I've got a low mark.", "zh": "我肯定我的分数很低。" },
+        { "en": "The temperature is low today.", "zh": "今天气温很低。" }
+      ]
+    },
+    {
+      "word": "cheer",
+      "phonetic": "/tʃɪə(r)/",
+      "meaning": "v. 振作，欢呼",
+      "examples": [
+        { "en": "Oh, cheer up!", "zh": "噢，别灰心！" },
+        { "en": "Cheer up! Things will get better.", "zh": "振作起来！一切都会好起来的。" }
+      ]
+    },
+    {
+      "word": "guy",
+      "phonetic": "/ɡaɪ/",
+      "meaning": "n. 家伙，人",
+      "examples": [
+        { "en": "The guy next to me wrote his name at the top of the paper.", "zh": "坐在我旁边的那个人只在试卷顶端写了自己的名字。" },
+        { "en": "He is a nice guy.", "zh": "他是个不错的家伙。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How was the exam, Richard?",
+      "zh": "理查德，考试考得怎么样？",
+      "analysis": [
+        { "text": "How", "roles": ["表语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "exam", "roles": ["主语"] },
+        { "text": "Richard", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "The questions were very easy.",
+      "zh": "题目很容易。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "questions", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "easy", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The English and Maths papers weren't easy enough for me.",
+      "zh": "英语和数学试卷对我来说不那么容易。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "English", "roles": ["定语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "Maths", "roles": ["定语"] },
+        { "text": "papers", "roles": ["主语"] },
+        { "text": "weren't", "roles": ["谓语"] },
+        { "text": "easy", "roles": ["表语"] },
+        { "text": "enough", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I could answer sixteen of the questions.",
+      "zh": "我能回答16道题。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "answer", "roles": ["谓语"] },
+        { "text": "sixteen", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "questions", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "They were too difficult for me.",
+      "zh": "那些题对我来说太难了。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "difficult", "roles": ["表语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I'm sure I've got a low mark.",
+      "zh": "我肯定我的分数很低。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "low", "roles": ["定语"] },
+        { "text": "mark", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "How was the exam, Richard?", "zh": "理查德，考试考得怎么样？" },
+    { "en": "Not too bad.", "zh": "不算太坏。" },
+    { "en": "I think I passed in English and Mathematics.", "zh": "我想我的英语和数学及格了。" },
+    { "en": "The questions were very easy.", "zh": "题目很容易。" },
+    { "en": "The English and Maths papers weren't easy enough for me.", "zh": "英语和数学试卷对我来说不那么容易。" },
+    { "en": "I think I failed the French paper.", "zh": "我想我的法语考砸了。" },
+    { "en": "I could answer sixteen of the questions.", "zh": "我能回答16道题。" },
+    { "en": "But I couldn't answer the rest.", "zh": "但其余的我答不上来。" },
+    { "en": "They were too difficult for me.", "zh": "那些题对我来说太难了。" },
+    { "en": "I'm sure I've got a low mark.", "zh": "我肯定我的分数很低。" },
+    { "en": "The guy next to me wrote his name at the top of the paper.", "zh": "坐在我旁边的那个人只在试卷顶端写了自己的名字。" },
+    { "en": "He didn't write a word!", "zh": "他一个字也没写！" }
+  ]
+}

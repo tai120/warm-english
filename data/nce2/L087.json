@@ -1,0 +1,251 @@
+{
+  "id": "L087",
+  "title": "Lesson 87 · A perfect alibi",
+  "titleZh": "第87课 极好的不在犯罪现场的证据",
+  "words": [
+    {
+      "word": "alibi",
+      "phonetic": "/ˈæləbaɪ/",
+      "meaning": "n. 不在犯罪现场的证据",
+      "examples": [
+        { "en": "He had a perfect alibi.", "zh": "他有极好的不在犯罪现场的证据。" }
+      ]
+    },
+    {
+      "word": "murder",
+      "phonetic": "/ˈmɜːdə(r)/",
+      "meaning": "n. 谋杀",
+      "examples": [
+        { "en": "The murder was committed at night.", "zh": "谋杀是在夜里发生的。" }
+      ]
+    },
+    {
+      "word": "commit",
+      "phonetic": "/kəˈmɪt/",
+      "meaning": "v. 犯（罪）",
+      "examples": [
+        { "en": "Who committed the murder?", "zh": "是谁犯了谋杀罪？" }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meaning": "v. 旅行",
+      "examples": [
+        { "en": "I was travelling on the 8 o'clock train.", "zh": "我乘坐8点的火车旅行。" }
+      ]
+    },
+    {
+      "word": "inspector",
+      "phonetic": "/ɪnˈspektə(r)/",
+      "meaning": "n. 探长，检查员",
+      "examples": [
+        { "en": "The inspector asked him a question.", "zh": "探长问了他一个问题。" }
+      ]
+    },
+    {
+      "word": "employer",
+      "phonetic": "/ɪmˈplɔɪə(r)/",
+      "meaning": "n. 雇主",
+      "examples": [
+        { "en": "My employer will confirm that I was at work.", "zh": "我的雇主会证明我在上班。" }
+      ]
+    },
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "meaning": "v. 证实",
+      "examples": [
+        { "en": "Can you confirm the time?", "zh": "你能证实一下时间吗？" }
+      ]
+    },
+    {
+      "word": "suppose",
+      "phonetic": "/səˈpəʊz/",
+      "meaning": "v. 认为，假定",
+      "examples": [
+        { "en": "I suppose it would, but I never catch a later train.", "zh": "我想是这样的，但我从不乘晚班火车。" }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meaning": "v. 赶上（车）",
+      "examples": [
+        { "en": "I must catch the early train.", "zh": "我必须赶上早班火车。" }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic": "/ˈɜːli/",
+      "meaning": "adj. 早的",
+      "examples": [
+        { "en": "He always catches an early train.", "zh": "他总是乘早班火车。" }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "v. 到达",
+      "examples": [
+        { "en": "At what time did you arrive at the station?", "zh": "你几点钟到达车站的？" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站",
+      "examples": [
+        { "en": "He arrived at the station at ten to eight.", "zh": "他7点50分到达车站。" }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meaning": "v. 注意，察觉",
+      "examples": [
+        { "en": "Did you notice anything unusual?", "zh": "你注意到什么不寻常的事了吗？" }
+      ]
+    },
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meaning": "adj. 不寻常的",
+      "examples": [
+        { "en": "He did not notice anything unusual.", "zh": "他没有注意到任何不寻常的情况。" }
+      ]
+    },
+    {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "meaning": "v. 回答",
+      "examples": [
+        { "en": "The man replied that he never caught a later train.", "zh": "那人回答说，他从不乘晚班火车。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "At the time the murder was committed, I was travelling on the 8 o'clock train to London.",
+      "zh": "谋杀发生时，我正乘坐8点钟开往伦敦的火车。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "murder", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "committed", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "travelling", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "8", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["定语"] },
+        { "text": "train", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "London", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I must be at work at 10 o'clock, and my employer will confirm that I was there on time.",
+      "zh": "我10点钟必须上班，我的雇主会证实我当时准时到岗。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "work", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "10", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "employer", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "confirm", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "there", "roles": ["表语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "time", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The man replied that he supposed it would, but he never caught a later train.",
+      "zh": "那人回答说他想是这样，但他从不乘晚班火车。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "replied", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "supposed", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "caught", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "later", "roles": ["定语"] },
+        { "text": "train", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The man told him he had arrived at ten to eight, bought a paper, and waited for the train.",
+      "zh": "那人告诉探长，他7点50分到达，买了一份报纸，然后等火车。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "ten", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "eight", "roles": ["状语"] },
+        { "text": "bought", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "paper", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "waited", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "train", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The inspector asked the man whether he had noticed anything unusual.",
+      "zh": "探长问那人是否注意到什么不寻常的情况。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "inspector", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "man", "roles": ["宾语"] },
+        { "text": "whether", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "noticed", "roles": ["谓语"] },
+        { "text": "anything", "roles": ["宾语"] },
+        { "text": "unusual", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "At the time the murder was committed, I was travelling on the 8 o'clock train to London.", "zh": "谋杀发生时，我正乘坐8点钟开往伦敦的火车。" },
+    { "en": "'Do you always catch such an early train?' the inspector asked the man.", "zh": "“你总是乘这样早的火车吗？”探长问那人。" },
+    { "en": "I must be at work at 10 o'clock, and my employer will confirm that I was there on time.", "zh": "我10点钟必须上班，我的雇主会证实我当时准时到岗。" },
+    { "en": "'Would a later train get you to work on time?' the inspector asked again.", "zh": "“晚一点的火车也能让你准时上班吗？”探长又问。" },
+    { "en": "The man replied that he supposed it would, but he never caught a later train.", "zh": "那人回答说他想是这样，但他从不乘晚班火车。" },
+    { "en": "Then the inspector asked him at what time he had arrived at the station.", "zh": "接着探长问他是什么时候到达火车站的。" },
+    { "en": "The man told him he had arrived at ten to eight, bought a paper, and waited for the train.", "zh": "那人告诉探长，他7点50分到达，买了一份报纸，然后等火车。" },
+    { "en": "The inspector asked the man whether he had noticed anything unusual.", "zh": "探长问那人是否注意到什么不寻常的情况。" },
+    { "en": "'Of course not,' the man replied.", "zh": "“当然没有。”那人回答。" }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "L075",
+  "title": "Lesson 75 · Uncomfortable shoes",
+  "titleZh": "第75课 不舒适的鞋子",
+  "words": [
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "adv. 以前",
+      "examples": [
+        { "en": "We had some shoes like those a month ago.", "zh": "一个月前我们有这样的鞋。" },
+        { "en": "He left here three days ago.", "zh": "他三天前离开了这里。" }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meaning": "v. 买",
+      "examples": [
+        { "en": "My sister bought this pair last month.", "zh": "我姐姐上个月买了这样一双。" },
+        { "en": "I want to buy a new pair of shoes.", "zh": "我想买一双新鞋。" }
+      ]
+    },
+    {
+      "word": "pair",
+      "phonetic": "/peə(r)/",
+      "meaning": "n. 双，对",
+      "examples": [
+        { "en": "My sister bought this pair last month.", "zh": "我姐姐上个月买了这样一双。" },
+        { "en": "Can you get a pair for me, please?", "zh": "您能为我找一双吗？" }
+      ]
+    },
+    {
+      "word": "fashion",
+      "phonetic": "/ˈfæʃn/",
+      "meaning": "n. （服装的）流行式样",
+      "examples": [
+        { "en": "They were in fashion last year.", "zh": "这些鞋去年流行。" },
+        { "en": "These shoes are in fashion now.", "zh": "这些鞋子现在正流行。" }
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "phonetic": "/ʌnˈkʌmftəbl/",
+      "meaning": "adj. 不舒服的",
+      "examples": [
+        { "en": "They look very uncomfortable.", "zh": "它们看起来很不舒适。" },
+        { "en": "Women always wear uncomfortable shoes!", "zh": "女人们总是穿不舒适的鞋子！" }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "/weə(r)/",
+      "meaning": "v. 穿，戴",
+      "examples": [
+        { "en": "Women always wear uncomfortable shoes!", "zh": "女人们总是穿不舒适的鞋子！" },
+        { "en": "She is wearing a red coat.", "zh": "她穿着一件红外套。" }
+      ]
+    },
+    {
+      "word": "size",
+      "phonetic": "/saɪz/",
+      "meaning": "n. 尺寸，尺码",
+      "examples": [
+        { "en": "What size?", "zh": "什么尺码？" },
+        { "en": "Size five.", "zh": "五号的。" }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə(r)/",
+      "meaning": "n. 颜色",
+      "examples": [
+        { "en": "What colour?", "zh": "什么颜色？" },
+        { "en": "What colour are your new shoes?", "zh": "你的新鞋是什么颜色的？" }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "/mʌnθ/",
+      "meaning": "n. 月",
+      "examples": [
+        { "en": "My sister bought this pair last month.", "zh": "我姐姐上个月买了这样一双。" },
+        { "en": "We had some shoes like those a month ago.", "zh": "一个月前我们有这样的鞋。" }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "adv. 总是",
+      "examples": [
+        { "en": "Women always wear uncomfortable shoes!", "zh": "女人们总是穿不舒适的鞋子！" },
+        { "en": "He is always late.", "zh": "他总是迟到。" }
+      ]
+    },
+    {
+      "word": "woman",
+      "phonetic": "/ˈwʊmən/",
+      "meaning": "n. 女人",
+      "examples": [
+        { "en": "Women always wear uncomfortable shoes!", "zh": "女人们总是穿不舒适的鞋子！" },
+        { "en": "That woman is my teacher.", "zh": "那位女士是我的老师。" }
+      ]
+    },
+    {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "meaning": "prep. 像，如同",
+      "examples": [
+        { "en": "Do you have any shoes like these?", "zh": "您有像这样的鞋子吗？" },
+        { "en": "We had some shoes like those a month ago.", "zh": "一个月前我们有这样的鞋。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you have any shoes like these?",
+      "zh": "您有像这样的鞋子吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "shoes", "roles": ["宾语"] },
+        { "text": "like", "roles": ["定语"] },
+        { "text": "these", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "But my sister bought this pair last month.",
+      "zh": "但是我姐姐上个月买了这样一双。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "sister", "roles": ["主语"] },
+        { "text": "bought", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "pair", "roles": ["宾语"] },
+        { "text": "last", "roles": ["定语"] },
+        { "text": "month", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "They were in fashion last year and the year before last.",
+      "zh": "这些鞋去年和前年流行。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "in", "roles": ["表语"] },
+        { "text": "fashion", "roles": ["表语"] },
+        { "text": "last", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "before", "roles": ["定语"] },
+        { "text": "last", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "But they're not in fashion this year.",
+      "zh": "但今年不流行了。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "they're", "roles": ["主语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "in", "roles": ["表语"] },
+        { "text": "fashion", "roles": ["表语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "They look very uncomfortable.",
+      "zh": "它们看起来很不舒适。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "look", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "uncomfortable", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "But women always wear uncomfortable shoes!",
+      "zh": "但女人们总是穿不舒适的鞋子！",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "women", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "wear", "roles": ["谓语"] },
+        { "text": "uncomfortable", "roles": ["定语"] },
+        { "text": "shoes", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Do you have any shoes like these?", "zh": "您有像这样的鞋子吗？" },
+    { "en": "What size?", "zh": "什么尺码？" },
+    { "en": "What colour?", "zh": "什么颜色？" },
+    { "en": "I'm sorry. We don't have any.", "zh": "对不起，我们没有。" },
+    { "en": "But my sister bought this pair last month.", "zh": "但是我姐姐上个月买了这样一双。" },
+    { "en": "Did she buy them here?", "zh": "她是在这里买的吗？" },
+    { "en": "We had some shoes like those a month ago, but we don't have any now.", "zh": "一个月前我们有这样的鞋，但现在没有了。" },
+    { "en": "Can you get a pair for me, please?", "zh": "您能为我找一双吗？" },
+    { "en": "They were in fashion last year and the year before last.", "zh": "这些鞋去年和前年流行。" },
+    { "en": "But they're not in fashion this year.", "zh": "但今年不流行了。" },
+    { "en": "They look very uncomfortable.", "zh": "它们看起来很不舒适。" },
+    { "en": "But women always wear uncomfortable shoes!", "zh": "但女人们总是穿不舒适的鞋子！" }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "L038",
+  "title": "Lesson 38 · Everything except the weather",
+  "titleZh": "第38课 唯独没有考虑到天气",
+  "words": [
+    {
+      "word": "except",
+      "phonetic": "/ɪkˈsept/",
+      "meaning": "prep. 除了……之外",
+      "examples": [
+        { "en": "He had thought of everything except the weather.", "zh": "他什么都考虑到了，唯独没有考虑到天气。" },
+        { "en": "Everyone went except me.", "zh": "除了我，大家都去了。" }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "n. 天气",
+      "examples": [
+        { "en": "He began to complain about the weather.", "zh": "他开始抱怨天气。" },
+        { "en": "The weather is fine today.", "zh": "今天天气很好。" }
+      ]
+    },
+    {
+      "word": "Mediterranean",
+      "phonetic": "/ˌmedɪtəˈreɪniən/",
+      "meaning": "n. 地中海",
+      "examples": [
+        { "en": "He had lived in the Mediterranean for many years.", "zh": "他曾在地中海地区生活多年。" },
+        { "en": "They sailed across the Mediterranean.", "zh": "他们驾船横渡地中海。" }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meaning": "v. 退休",
+      "examples": [
+        { "en": "He dreamed of retiring in England.", "zh": "他梦想退休后回英国定居。" },
+        { "en": "My grandfather retired two years ago.", "zh": "我祖父两年前退休了。" }
+      ]
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meaning": "v. 抱怨",
+      "examples": [
+        { "en": "He began to complain about the weather.", "zh": "他开始抱怨天气。" },
+        { "en": "She always complains about her job.", "zh": "她总是抱怨她的工作。" }
+      ]
+    },
+    {
+      "word": "continually",
+      "phonetic": "/kənˈtɪnjuəli/",
+      "meaning": "adv. 不停地，频繁地",
+      "examples": [
+        { "en": "It rained continually.", "zh": "雨下个不停。" },
+        { "en": "He asks questions continually.", "zh": "他不停地提问。" }
+      ]
+    },
+    {
+      "word": "bitterly",
+      "phonetic": "/ˈbɪtəli/",
+      "meaning": "adv. 厉害地，苦涩地",
+      "examples": [
+        { "en": "It was often bitterly cold.", "zh": "天气常常冷得厉害。" },
+        { "en": "She cried bitterly.", "zh": "她哭得很伤心。" }
+      ]
+    },
+    {
+      "word": "sunshine",
+      "phonetic": "/ˈsʌnʃaɪn/",
+      "meaning": "n. 阳光",
+      "examples": [
+        { "en": "He had enjoyed so many years of sunshine.", "zh": "他享受了这么多年的阳光。" },
+        { "en": "We sat in the warm sunshine.", "zh": "我们坐在温暖的阳光下。" }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meaning": "n. 震惊，打击",
+      "examples": [
+        { "en": "Harrison got a shock.", "zh": "哈里森感到震惊。" },
+        { "en": "The news gave me a shock.", "zh": "这个消息使我大为震惊。" }
+      ]
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə(r)/",
+      "meaning": "v. 忍受（bore, borne）",
+      "examples": [
+        { "en": "It was more than he could bear.", "zh": "这实在让他忍受不了。" },
+        { "en": "I cannot bear the noise.", "zh": "我无法忍受这种噪音。" }
+      ]
+    },
+    {
+      "word": "settle",
+      "phonetic": "/ˈsetl/",
+      "meaning": "v. 定居，安顿",
+      "examples": [
+        { "en": "He planned to settle down in the country.", "zh": "他计划在乡下安家。" },
+        { "en": "They settled in the south of England.", "zh": "他们在英格兰南部定居下来。" }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meaning": "v. 做梦，梦想（dreamed, dreamt）",
+      "examples": [
+        { "en": "He had often dreamed of retiring in England.", "zh": "他过去常梦想退休后回英国定居。" },
+        { "en": "She dreamed of becoming a doctor.", "zh": "她梦想成为一名医生。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 乡下；国家",
+      "examples": [
+        { "en": "He wanted to settle down in the country.", "zh": "他想在乡下定居。" },
+        { "en": "China is a great country.", "zh": "中国是一个伟大的国家。" }
+      ]
+    },
+    {
+      "word": "plan",
+      "phonetic": "/plæn/",
+      "meaning": "v. 计划",
+      "examples": [
+        { "en": "He planned to settle down in the country.", "zh": "他计划在乡下安家。" },
+        { "en": "We are planning a trip to Beijing.", "zh": "我们正计划去北京旅行。" }
+      ]
+    },
+    {
+      "word": "Harrison",
+      "phonetic": "/ˈhærɪsn/",
+      "meaning": "n. 哈里森（人名）",
+      "examples": [
+        { "en": "Harrison got a shock.", "zh": "哈里森感到震惊。" },
+        { "en": "Harrison sold the house and left the country.", "zh": "哈里森卖掉房子，离开了这个国家。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He had often dreamed of retiring in England.",
+      "zh": "他过去常梦想退休后回英国定居。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "often", "roles": ["状语"] },
+        { "text": "dreamed", "roles": ["谓语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "retiring", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "England", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He had no sooner returned than he bought a house and went to live there.",
+      "zh": "他一回来就买了一幢房子，住了进去。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "no", "roles": ["状语"] },
+        { "text": "sooner", "roles": ["状语"] },
+        { "text": "returned", "roles": ["谓语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "bought", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "house", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "there", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Almost immediately he began to complain about the weather.",
+      "zh": "几乎马上他就开始抱怨天气了。",
+      "analysis": [
+        { "text": "Almost", "roles": ["状语"] },
+        { "text": "immediately", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "complain", "roles": ["谓语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "weather", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Even though it was still summer, it rained continually and it was often bitterly cold.",
+      "zh": "虽然仍是夏天，但雨总是下个不停，而且常常冷得厉害。",
+      "analysis": [
+        { "text": "Even", "roles": ["连词"] },
+        { "text": "though", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "summer", "roles": ["表语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "rained", "roles": ["谓语"] },
+        { "text": "continually", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "often", "roles": ["状语"] },
+        { "text": "bitterly", "roles": ["状语"] },
+        { "text": "cold", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He had thought of everything except the weather.",
+      "zh": "他什么都考虑到了，唯独没有考虑到天气。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "thought", "roles": ["谓语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "everything", "roles": ["状语"] },
+        { "text": "except", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "weather", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "My old friend had lived in the Mediterranean for many years before he returned to England.", "zh": "我的老朋友在回到英国之前，曾在地中海地区生活多年。" },
+    { "en": "He had often dreamed of retiring in England.", "zh": "他过去常梦想退休后回英国定居。" },
+    { "en": "He had also planned to settle down in the country.", "zh": "他还计划在乡下安家。" },
+    { "en": "He had no sooner returned than he bought a house and went to live there.", "zh": "他一回来就买了一幢房子，住了进去。" },
+    { "en": "Almost immediately he began to complain about the weather.", "zh": "几乎马上他就开始抱怨天气了。" },
+    { "en": "Even though it was still summer, it rained continually and it was often bitterly cold.", "zh": "虽然仍是夏天，但雨总是下个不停，而且常常冷得厉害。" },
+    { "en": "After so many years of sunshine, Harrison got a shock.", "zh": "在阳光下生活了这么多年，哈里森感到震惊。" },
+    { "en": "In the end, it was more than he could bear.", "zh": "最后，他实在忍受不了了。" },
+    { "en": "He had hardly had time to settle down when he sold the house and left the country.", "zh": "他还没来得及安顿下来，就卖掉了房子，离开了这个国家。" },
+    { "en": "He had thought of everything except the weather.", "zh": "他什么都考虑到了，唯独没有考虑到天气。" }
+  ]
+}

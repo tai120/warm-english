@@ -1,0 +1,245 @@
+{
+  "id": "L096",
+  "title": "Lesson 96 · The dead return",
+  "titleZh": "第96课 亡灵返乡",
+  "words": [
+    {
+      "word": "festival",
+      "phonetic": "/ˈfestɪvl/",
+      "meaning": "n. 节日",
+      "examples": [
+        { "en": "A festival for the dead is held once a year.", "zh": "每年举行一次祭奠亡灵的节日。" }
+      ]
+    },
+    {
+      "word": "Japan",
+      "phonetic": "/dʒəˈpæn/",
+      "meaning": "n. 日本",
+      "examples": [
+        { "en": "The festival is held once a year in Japan.", "zh": "这个节日每年在日本举行一次。" }
+      ]
+    },
+    {
+      "word": "dead",
+      "phonetic": "/ded/",
+      "meaning": "adj. 死的",
+      "examples": [
+        { "en": "The dead are said to return to their homes.", "zh": "据说亡灵会回到自己的家。" }
+      ]
+    },
+    {
+      "word": "welcome",
+      "phonetic": "/ˈwelkəm/",
+      "meaning": "v. 欢迎",
+      "examples": [
+        { "en": "The dead are welcomed by the living.", "zh": "亡灵受到活着的人的欢迎。" }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meaning": "v. 预料，期待",
+      "examples": [
+        { "en": "They are expected to be hungry after the journey.", "zh": "人们认为他们长途旅行后会饿。" }
+      ]
+    },
+    {
+      "word": "hungry",
+      "phonetic": "/ˈhʌŋɡri/",
+      "meaning": "adj. 饥饿的",
+      "examples": [
+        { "en": "Food is laid out for the hungry dead.", "zh": "为饥饿的亡灵摆出了食物。" }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːni/",
+      "meaning": "n. 旅程",
+      "examples": [
+        { "en": "They return after a long journey.", "zh": "他们长途旅行后归来。" }
+      ]
+    },
+    {
+      "word": "lantern",
+      "phonetic": "/ˈlæntən/",
+      "meaning": "n. 灯笼",
+      "examples": [
+        { "en": "Specially-made lanterns are hung outside each house.", "zh": "每户人家门外都挂起特制的灯笼。" }
+      ]
+    },
+    {
+      "word": "hang",
+      "phonetic": "/hæŋ/",
+      "meaning": "v. 悬挂",
+      "examples": [
+        { "en": "Lanterns are hung outside each house.", "zh": "家家户户门外都挂着灯笼。" }
+      ]
+    },
+    {
+      "word": "tiny",
+      "phonetic": "/ˈtaɪni/",
+      "meaning": "adj. 极小的",
+      "examples": [
+        { "en": "Tiny lanterns drift out to sea.", "zh": "小灯笼漂向大海。" }
+      ]
+    },
+    {
+      "word": "unlucky",
+      "phonetic": "/ʌnˈlʌki/",
+      "meaning": "adj. 不吉利的",
+      "examples": [
+        { "en": "It is considered unlucky to eat the food.", "zh": "吃这种食物被认为是不吉利的。" }
+      ]
+    },
+    {
+      "word": "living",
+      "phonetic": "/ˈlɪvɪŋ/",
+      "meaning": "adj. 活着的",
+      "examples": [
+        { "en": "It is unlucky for anyone living to eat it.", "zh": "活着的人吃它是不吉利的。" }
+      ]
+    },
+    {
+      "word": "guide",
+      "phonetic": "/ɡaɪd/",
+      "meaning": "v. 引导",
+      "examples": [
+        { "en": "The lanterns guide the dead on their return journey.", "zh": "灯笼为亡灵的回程引路。" }
+      ]
+    },
+    {
+      "word": "moving",
+      "phonetic": "/ˈmuːvɪŋ/",
+      "meaning": "adj. 动人的",
+      "examples": [
+        { "en": "It is a moving spectacle.", "zh": "这是一幅动人的景象。" }
+      ]
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkl/",
+      "meaning": "n. 景象，奇观",
+      "examples": [
+        { "en": "Thousands of lanterns drifting out to sea are a moving spectacle.", "zh": "成千上万只灯笼漂向大海，是一幅动人的景象。" }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meaning": "n. 人群",
+      "examples": [
+        { "en": "Crowds of people stand on the shore.", "zh": "成群的人站在岸边。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A festival for the dead is held once a year in Japan.",
+      "zh": "日本每年举行一次祭奠亡灵的节日。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "festival", "roles": ["主语"] },
+        { "text": "for", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dead", "roles": ["定语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "held", "roles": ["谓语"] },
+        { "text": "once", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Japan", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
+      "zh": "家家户户门外都挂着特制的灯笼，帮助亡灵找到回家的路。",
+      "analysis": [
+        { "text": "Specially-made", "roles": ["定语"] },
+        { "text": "lanterns", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "hung", "roles": ["谓语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "each", "roles": ["定语"] },
+        { "text": "house", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "help", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dead", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "find", "roles": ["补语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "All night long, people dance and sing in the streets.",
+      "zh": "人们整夜在街上唱歌跳舞。",
+      "analysis": [
+        { "text": "All", "roles": ["定语"] },
+        { "text": "night", "roles": ["状语"] },
+        { "text": "long", "roles": ["状语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "dance", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sing", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "streets", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It is considered unlucky for anyone living to eat it.",
+      "zh": "因为活着的人吃这些食物被认为是不吉利的。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "considered", "roles": ["谓语"] },
+        { "text": "unlucky", "roles": ["补语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "anyone", "roles": ["状语"] },
+        { "text": "living", "roles": ["定语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "eat", "roles": ["宾语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Thousands of lanterns slowly drift out to sea, guiding the dead on their return journey to the other world.",
+      "zh": "成千上万只灯笼缓缓漂向大海，为亡灵返回另一个世界的旅程引路。",
+      "analysis": [
+        { "text": "Thousands", "roles": ["定语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "lanterns", "roles": ["主语"] },
+        { "text": "slowly", "roles": ["状语"] },
+        { "text": "drift", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sea", "roles": ["状语"] },
+        { "text": "guiding", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dead", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "return", "roles": ["定语"] },
+        { "text": "journey", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "other", "roles": ["定语"] },
+        { "text": "world", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "A festival for the dead is held once a year in Japan.", "zh": "日本每年举行一次祭奠亡灵的节日。" },
+    { "en": "This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.", "zh": "这个节日是个欢乐的日子，因为在这一天，据说亡灵会返回家园，受到活着的人的欢迎。" },
+    { "en": "As they are expected to be hungry after their long journey, food is laid out for them.", "zh": "由于人们认为他们长途旅行之后会饿，所以为他们摆出了食物。" },
+    { "en": "Specially-made lanterns are hung outside each house to help the dead to find their way.", "zh": "家家户户门外都挂着特制的灯笼，帮助亡灵找到回家的路。" },
+    { "en": "All night long, people dance and sing in the streets.", "zh": "人们整夜在街上唱歌跳舞。" },
+    { "en": "In the early morning, the food that had been laid out for the dead is thrown into a river or into the sea.", "zh": "清晨，为亡灵摆放的食物被扔进河里或海里。" },
+    { "en": "It is considered unlucky for anyone living to eat it.", "zh": "因为活着的人吃这些食物被认为是不吉利的。" },
+    { "en": "In towns that are near the sea, the tiny lanterns are placed into the water when the festival is over.", "zh": "在靠海的城镇，节日结束后，头天晚上挂在街上的小灯笼被放入水中。" },
+    { "en": "Thousands of lanterns slowly drift out to sea, guiding the dead on their return journey to the other world.", "zh": "成千上万只灯笼缓缓漂向大海，为亡灵返回另一个世界的旅程引路。" },
+    { "en": "Crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.", "zh": "成群的人站在岸边，看着灯笼漂走，直到再也看不见为止。" }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "L041",
+  "title": "Lesson 41 · Penny's bag",
+  "titleZh": "第41课 彭妮的提包",
+  "words": [
+    {
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meaning": "n. 包，提包",
+      "examples": [
+        { "en": "Is that bag heavy, Penny?", "zh": "那个提包重吗，彭妮？" },
+        { "en": "Your bag is very heavy.", "zh": "你的提包很重。" }
+      ]
+    },
+    {
+      "word": "heavy",
+      "phonetic": "/ˈhevi/",
+      "meaning": "adj. 重的",
+      "examples": [
+        { "en": "Is that bag heavy, Penny?", "zh": "那个提包重吗，彭妮？" },
+        { "en": "The box is very heavy.", "zh": "这个箱子很重。" }
+      ]
+    },
+    {
+      "word": "piece",
+      "phonetic": "/piːs/",
+      "meaning": "n. 块，片，段",
+      "examples": [
+        { "en": "A piece of cheese.", "zh": "一块奶酪。" },
+        { "en": "A piece of paper, please.", "zh": "请给我一张纸。" }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic": "/tʃiːz/",
+      "meaning": "n. 奶酪，干酪",
+      "examples": [
+        { "en": "A piece of cheese.", "zh": "一块奶酪。" },
+        { "en": "I like cheese.", "zh": "我喜欢奶酪。" }
+      ]
+    },
+    {
+      "word": "loaf",
+      "phonetic": "/ləʊf/",
+      "meaning": "n. （面包的）一条，一个",
+      "examples": [
+        { "en": "A loaf of bread.", "zh": "一条面包。" }
+      ]
+    },
+    {
+      "word": "bread",
+      "phonetic": "/bred/",
+      "meaning": "n. 面包",
+      "examples": [
+        { "en": "A loaf of bread.", "zh": "一条面包。" },
+        { "en": "I want some bread.", "zh": "我想要些面包。" }
+      ]
+    },
+    {
+      "word": "bar",
+      "phonetic": "/bɑː(r)/",
+      "meaning": "n. 条，块；酒吧",
+      "examples": [
+        { "en": "A bar of soap.", "zh": "一块肥皂。" },
+        { "en": "A bar of chocolate.", "zh": "一块巧克力。" }
+      ]
+    },
+    {
+      "word": "soap",
+      "phonetic": "/səʊp/",
+      "meaning": "n. 肥皂",
+      "examples": [
+        { "en": "A bar of soap.", "zh": "一块肥皂。" }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "phonetic": "/ˈtʃɒklət/",
+      "meaning": "n. 巧克力",
+      "examples": [
+        { "en": "A bar of chocolate.", "zh": "一块巧克力。" },
+        { "en": "I like chocolate.", "zh": "我喜欢巧克力。" }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meaning": "n. 瓶子",
+      "examples": [
+        { "en": "A bottle of milk.", "zh": "一瓶牛奶。" },
+        { "en": "A bottle of water, please.", "zh": "请给我一瓶水。" }
+      ]
+    },
+    {
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "n. 牛奶",
+      "examples": [
+        { "en": "A bottle of milk.", "zh": "一瓶牛奶。" },
+        { "en": "I don't like milk in my coffee.", "zh": "我不喜欢咖啡里加牛奶。" }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meaning": "n. 磅（重量单位）；英镑",
+      "examples": [
+        { "en": "A pound of sugar.", "zh": "一磅糖。" },
+        { "en": "Half a pound of coffee.", "zh": "半磅咖啡。" }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meaning": "n. 糖",
+      "examples": [
+        { "en": "A pound of sugar.", "zh": "一磅糖。" },
+        { "en": "Do you want any sugar?", "zh": "你要放些糖吗？" }
+      ]
+    },
+    {
+      "word": "tin",
+      "phonetic": "/tɪn/",
+      "meaning": "n. 罐头，听",
+      "examples": [
+        { "en": "A tin of tobacco.", "zh": "一听烟丝。" }
+      ]
+    },
+    {
+      "word": "tobacco",
+      "phonetic": "/təˈbækəʊ/",
+      "meaning": "n. 烟草，烟丝",
+      "examples": [
+        { "en": "A tin of tobacco.", "zh": "一听烟丝。" },
+        { "en": "Is that tin of tobacco for me?", "zh": "那听烟丝是给我的吗？" }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtnli/",
+      "meaning": "adv. 当然，一定",
+      "examples": [
+        { "en": "It's certainly not for me!", "zh": "这肯定不是给我的！" },
+        { "en": "He will certainly come.", "zh": "他一定会来。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Is that bag heavy, Penny?",
+      "zh": "那个提包重吗，彭妮？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "bag", "roles": ["主语"] },
+        { "text": "heavy", "roles": ["表语"] },
+        { "text": "Penny", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Put it on this chair.",
+      "zh": "把它放在这把椅子上。",
+      "analysis": [
+        { "text": "Put", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "chair", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Is that tin of tobacco for me?",
+      "zh": "那听烟丝是给我的吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "tin", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "tobacco", "roles": ["定语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Well, it's certainly not for me!",
+      "zh": "哦，当然不是给我的！",
+      "analysis": [
+        { "text": "Well", "roles": ["感叹词"] },
+        { "text": "it's", "roles": ["主语"] },
+        { "text": "certainly", "roles": ["状语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Is that bag heavy, Penny?", "zh": "那个提包重吗，彭妮？" },
+    { "en": "Not very.", "zh": "不太重。" },
+    { "en": "Here!", "zh": "放在这儿！" },
+    { "en": "Put it on this chair.", "zh": "把它放在这把椅子上。" },
+    { "en": "What's in it?", "zh": "里面装的是什么？" },
+    { "en": "A piece of cheese. A loaf of bread. A bar of soap. A bar of chocolate.", "zh": "一块奶酪。一条面包。一块肥皂。一块巧克力。" },
+    { "en": "A bottle of milk. A pound of sugar. Half a pound of coffee. A quarter of a pound of tea.", "zh": "一瓶牛奶。一磅糖。半磅咖啡。四分之一磅茶叶。" },
+    { "en": "And a tin of tobacco.", "zh": "还有一听烟丝。" },
+    { "en": "Is that tin of tobacco for me?", "zh": "那听烟丝是给我的吗？" },
+    { "en": "Well, it's certainly not for me!", "zh": "哦，当然不是给我的！" }
+  ]
+}

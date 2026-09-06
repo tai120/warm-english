@@ -1,0 +1,220 @@
+{
+  "id": "L067",
+  "title": "Lesson 67 · The weekend",
+  "titleZh": "第67课 周末",
+  "words": [
+    {
+      "word": "greengrocer",
+      "phonetic": "/ˈɡriːnɡrəʊsə(r)/",
+      "meaning": "n. 蔬菜水果零售商",
+      "examples": [
+        { "en": "I was at the greengrocer's.", "zh": "我在蔬菜水果店。" },
+        { "en": "The greengrocer sells fruit.", "zh": "水果商卖水果。" }
+      ]
+    },
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "meaning": "adj. 缺席的，不在的",
+      "examples": [
+        { "en": "Was he absent from school last week?", "zh": "他上周没去上学吗？" },
+        { "en": "He was absent on Monday.", "zh": "他星期一没上学。" }
+      ]
+    },
+    {
+      "word": "Monday",
+      "phonetic": "/ˈmʌndeɪ/",
+      "meaning": "n. 星期一",
+      "examples": [
+        { "en": "He was absent on Monday.", "zh": "他星期一没上学。" },
+        { "en": "See you on Monday.", "zh": "星期一见。" }
+      ]
+    },
+    {
+      "word": "Tuesday",
+      "phonetic": "/ˈtjuːzdeɪ/",
+      "meaning": "n. 星期二",
+      "examples": [
+        { "en": "He was absent on Tuesday.", "zh": "他星期二没上学。" },
+        { "en": "Today is Tuesday.", "zh": "今天是星期二。" }
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "phonetic": "/ˈwenzdeɪ/",
+      "meaning": "n. 星期三",
+      "examples": [
+        { "en": "He was absent on Wednesday.", "zh": "他星期三没上学。" },
+        { "en": "We have no class on Wednesday.", "zh": "我们星期三没有课。" }
+      ]
+    },
+    {
+      "word": "Thursday",
+      "phonetic": "/ˈθɜːzdeɪ/",
+      "meaning": "n. 星期四",
+      "examples": [
+        { "en": "He was absent on Thursday.", "zh": "他星期四没上学。" },
+        { "en": "Thursday comes after Wednesday.", "zh": "星期四在星期三之后。" }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meaning": "v. 度过；花费",
+      "examples": [
+        { "en": "We're going to spend three days in the country.", "zh": "我们打算在乡下待三天。" },
+        { "en": "I spend a lot of time on books.", "zh": "我花很多时间读书。" }
+      ]
+    },
+    {
+      "word": "weekend",
+      "phonetic": "/ˌwiːkˈend/",
+      "meaning": "n. 周末",
+      "examples": [
+        { "en": "We're going to stay at my mother's for the weekend.", "zh": "我们打算在我母亲家过周末。" },
+        { "en": "Have a nice weekend!", "zh": "周末愉快！" }
+      ]
+    },
+    {
+      "word": "Friday",
+      "phonetic": "/ˈfraɪdeɪ/",
+      "meaning": "n. 星期五",
+      "examples": [
+        { "en": "Friday, Saturday and Sunday in the country!", "zh": "在乡下过星期五、星期六和星期日！" },
+        { "en": "See you on Friday.", "zh": "星期五见。" }
+      ]
+    },
+    {
+      "word": "Saturday",
+      "phonetic": "/ˈsætədeɪ/",
+      "meaning": "n. 星期六",
+      "examples": [
+        { "en": "Friday, Saturday and Sunday in the country!", "zh": "在乡下过星期五、星期六和星期日！" },
+        { "en": "We play football on Saturday.", "zh": "我们星期六踢足球。" }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "phonetic": "/ˈsʌndeɪ/",
+      "meaning": "n. 星期日",
+      "examples": [
+        { "en": "Friday, Saturday and Sunday in the country!", "zh": "在乡下过星期五、星期六和星期日！" },
+        { "en": "We go to church on Sunday.", "zh": "我们星期日去做礼拜。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 乡下；国家",
+      "examples": [
+        { "en": "We're going to spend three days in the country.", "zh": "我们打算在乡下待三天。" },
+        { "en": "My uncle lives in the country.", "zh": "我叔叔住在乡下。" }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meaning": "adj. 幸运的",
+      "examples": [
+        { "en": "Aren't you lucky!", "zh": "你们真幸运！" },
+        { "en": "You are a lucky boy.", "zh": "你是个幸运的孩子。" }
+      ]
+    },
+    {
+      "word": "last",
+      "phonetic": "/lɑːst/",
+      "meaning": "adj. 上一个的，最后的",
+      "examples": [
+        { "en": "Was he absent from school last week?", "zh": "他上周没去上学吗？" },
+        { "en": "He was absent last week.", "zh": "他上周缺课了。" }
+      ]
+    },
+    {
+      "word": "how",
+      "phonetic": "/haʊ/",
+      "meaning": "adv. 怎样，如何",
+      "examples": [
+        { "en": "How are you all keeping?", "zh": "你们大家身体都好吗？" },
+        { "en": "How's Jimmy today?", "zh": "吉米今天怎么样？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Were you at the butcher's, too?",
+      "zh": "你也去肉店了吗？",
+      "analysis": [
+        { "text": "Were", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "butcher's", "roles": ["状语"] },
+        { "text": "too", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I was at the greengrocer's.",
+      "zh": "我去蔬菜水果店了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "greengrocer's", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Was he absent from school last week?",
+      "zh": "他上周没去上学吗？",
+      "analysis": [
+        { "text": "Was", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "absent", "roles": ["表语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] },
+        { "text": "last", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "How are you all keeping?",
+      "zh": "你们大家身体都好吗？",
+      "analysis": [
+        { "text": "How", "roles": ["状语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "keeping", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "We're going to spend three days in the country.",
+      "zh": "我们打算在乡下待三天。",
+      "analysis": [
+        { "text": "We're", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "spend", "roles": ["谓语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "days", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "country", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Were you at the butcher's?", "zh": "你刚才是去肉店了吗？" },
+    { "en": "Yes. I was.", "zh": "是的，我去了。" },
+    { "en": "Were you at the butcher's, too?", "zh": "你也去肉店了吗？" },
+    { "en": "No, I wasn't.", "zh": "不，我没去。" },
+    { "en": "I was at the greengrocer's.", "zh": "我去蔬菜水果店了。" },
+    { "en": "How's Jimmy today?", "zh": "吉米今天怎么样？" },
+    { "en": "He's very well, thank you.", "zh": "他很好，谢谢。" },
+    { "en": "Was he absent from school last week?", "zh": "他上周没去上学吗？" },
+    { "en": "He was absent on Monday, Tuesday, Wednesday and Thursday.", "zh": "他星期一、星期二、星期三和星期四都缺课了。" },
+    { "en": "How are you all keeping?", "zh": "你们大家身体都好吗？" },
+    { "en": "We're going to spend three days in the country.", "zh": "我们打算在乡下待三天。" },
+    { "en": "We're going to stay at my mother's for the weekend.", "zh": "我们打算在我母亲家过周末。" }
+  ]
+}

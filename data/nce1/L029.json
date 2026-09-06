@@ -1,0 +1,184 @@
+{
+  "id": "L029",
+  "title": "Lesson 29 · Come in, Amy.",
+  "titleZh": "第29课 进来，艾米。",
+  "words": [
+    {
+      "word": "shut",
+      "phonetic": "/ʃʌt/",
+      "meaning": "v. 关闭",
+      "examples": [
+        { "en": "Shut the door, please.", "zh": "请关上门。" },
+        { "en": "Shut the window, please.", "zh": "请关上窗户。" }
+      ]
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meaning": "n. 卧室",
+      "examples": [
+        { "en": "This bedroom's very untidy.", "zh": "这间卧室很不整洁。" }
+      ]
+    },
+    {
+      "word": "untidy",
+      "phonetic": "/ʌnˈtaɪdi/",
+      "meaning": "adj. 不整洁的",
+      "examples": [
+        { "en": "The bedroom is very untidy.", "zh": "卧室很不整洁。" }
+      ]
+    },
+    {
+      "word": "open",
+      "phonetic": "/ˈəʊpən/",
+      "meaning": "v. 打开",
+      "examples": [
+        { "en": "Open the window and air the room.", "zh": "打开窗户，给房间通通风。" },
+        { "en": "Please open the door.", "zh": "请开门。" }
+      ]
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə(r)/",
+      "meaning": "v. 使通风",
+      "examples": [
+        { "en": "Open the window and air the room.", "zh": "打开窗户，给房间通通风。" }
+      ]
+    },
+    {
+      "word": "put",
+      "phonetic": "/pʊt/",
+      "meaning": "v. 放，放置",
+      "examples": [
+        { "en": "Then put these clothes in the wardrobe.", "zh": "然后把这些衣服放进衣柜。" },
+        { "en": "Put the book on the table.", "zh": "把书放在桌子上。" }
+      ]
+    },
+    {
+      "word": "clothes",
+      "phonetic": "/kləʊðz/",
+      "meaning": "n. 衣服",
+      "examples": [
+        { "en": "Put these clothes in the wardrobe.", "zh": "把这些衣服放进衣柜。" }
+      ]
+    },
+    {
+      "word": "wardrobe",
+      "phonetic": "/ˈwɔːdrəʊb/",
+      "meaning": "n. 衣柜",
+      "examples": [
+        { "en": "Put these clothes in the wardrobe.", "zh": "把这些衣服放进衣柜。" }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "meaning": "v. 整理，制作",
+      "examples": [
+        { "en": "Then make the bed.", "zh": "然后整理床铺。" }
+      ]
+    },
+    {
+      "word": "dust",
+      "phonetic": "/dʌst/",
+      "meaning": "v. 掸去灰尘",
+      "examples": [
+        { "en": "Dust the dressing table.", "zh": "把梳妆台掸干净。" }
+      ]
+    },
+    {
+      "word": "sweep",
+      "phonetic": "/swiːp/",
+      "meaning": "v. 打扫",
+      "examples": [
+        { "en": "Then sweep the floor.", "zh": "然后扫地。" }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flɔː(r)/",
+      "meaning": "n. 地板",
+      "examples": [
+        { "en": "Sweep the floor, please.", "zh": "请扫地。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Come in, Amy.",
+      "zh": "进来，艾米。",
+      "analysis": [
+        { "text": "Come", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Amy", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Shut the door, please.",
+      "zh": "请关上门。",
+      "analysis": [
+        { "text": "Shut", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "door", "roles": ["宾语"] },
+        { "text": "please", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Open the window and air the room.",
+      "zh": "打开窗户，给房间通通风。",
+      "analysis": [
+        { "text": "Open", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "window", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "air", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "room", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Then put these clothes in the wardrobe.",
+      "zh": "然后把这些衣服放进衣柜。",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "clothes", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wardrobe", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Then make the bed.",
+      "zh": "然后整理床铺。",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bed", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Dust the dressing table.",
+      "zh": "把梳妆台掸干净。",
+      "analysis": [
+        { "text": "Dust", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dressing", "roles": ["定语"] },
+        { "text": "table", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Come in, Amy.", "zh": "进来，艾米。" },
+    { "en": "Shut the door, please.", "zh": "请关上门。" },
+    { "en": "This bedroom's very untidy.", "zh": "这间卧室很不整洁。" },
+    { "en": "What must I do, Mrs. Jones?", "zh": "我必须做什么，琼斯太太？" },
+    { "en": "Open the window and air the room.", "zh": "打开窗户，给房间通通风。" },
+    { "en": "Then put these clothes in the wardrobe.", "zh": "然后把这些衣服放进衣柜。" },
+    { "en": "Then make the bed.", "zh": "然后整理床铺。" },
+    { "en": "Dust the dressing table.", "zh": "把梳妆台掸干净。" },
+    { "en": "Then sweep the floor.", "zh": "然后扫地。" }
+  ]
+}

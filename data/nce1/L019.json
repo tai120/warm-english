@@ -1,0 +1,167 @@
+{
+  "id": "L019",
+  "title": "Lesson 19 · Tired and thirsty",
+  "titleZh": "第19课 又累又渴",
+  "words": [
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "n. 事情",
+      "examples": [
+        { "en": "What's the matter, children?", "zh": "怎么了，孩子们？" }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meaning": "adj. 疲乏的，累的",
+      "examples": [
+        { "en": "We are tired.", "zh": "我们累了。" },
+        { "en": "I am tired and thirsty.", "zh": "我又累又渴。" }
+      ]
+    },
+    {
+      "word": "thirsty",
+      "phonetic": "/ˈθɜːsti/",
+      "meaning": "adj. 渴的",
+      "examples": [
+        { "en": "We are thirsty.", "zh": "我们渴了。" }
+      ]
+    },
+    {
+      "word": "sit",
+      "phonetic": "/sɪt/",
+      "meaning": "v. 坐",
+      "examples": [
+        { "en": "Sit down here.", "zh": "坐在这里。" },
+        { "en": "Please sit down.", "zh": "请坐下。" }
+      ]
+    },
+    {
+      "word": "down",
+      "phonetic": "/daʊn/",
+      "meaning": "adv. 向下",
+      "examples": [
+        { "en": "Sit down, please.", "zh": "请坐下。" }
+      ]
+    },
+    {
+      "word": "all right",
+      "phonetic": "/ˌɔːl ˈraɪt/",
+      "meaning": "adj. 好的，行了",
+      "examples": [
+        { "en": "Are you all right now?", "zh": "你们现在好了吗？" },
+        { "en": "I am all right.", "zh": "我没事。" }
+      ]
+    },
+    {
+      "word": "now",
+      "phonetic": "/naʊ/",
+      "meaning": "adv. 现在",
+      "examples": [
+        { "en": "Are you all right now?", "zh": "你们现在好了吗？" }
+      ]
+    },
+    {
+      "word": "ice cream",
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "meaning": "n. 冰淇淋",
+      "examples": [
+        { "en": "There's an ice cream man.", "zh": "那儿有个卖冰淇淋的。" },
+        { "en": "Two ice creams, please.", "zh": "请来两份冰淇淋。" }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meaning": "adj. 好的，好看的",
+      "examples": [
+        { "en": "These ice creams are nice.", "zh": "这些冰淇淋真好吃。" }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meaning": "v. 看",
+      "examples": [
+        { "en": "Look! There's an ice cream man.", "zh": "瞧！那儿有个卖冰淇淋的。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What's the matter, children?",
+      "zh": "怎么了，孩子们？",
+      "analysis": [
+        { "text": "What's", "roles": ["表语", "谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "matter", "roles": ["主语"] },
+        { "text": "children", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Sit down here.",
+      "zh": "坐在这儿吧。",
+      "analysis": [
+        { "text": "Sit", "roles": ["谓语"] },
+        { "text": "down", "roles": ["状语"] },
+        { "text": "here", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Are you all right now?",
+      "zh": "你们现在好了吗？",
+      "analysis": [
+        { "text": "Are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "all", "roles": ["表语"] },
+        { "text": "right", "roles": ["表语"] },
+        { "text": "now", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "No, we aren't.",
+      "zh": "不，没有。",
+      "analysis": [
+        { "text": "No", "roles": ["感叹词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "aren't", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "These ice creams are nice.",
+      "zh": "这些冰淇淋真好吃。",
+      "analysis": [
+        { "text": "These", "roles": ["定语"] },
+        { "text": "ice", "roles": ["定语"] },
+        { "text": "creams", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "nice", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Yes, we are, thank you!",
+      "zh": "是的，我们好了，谢谢您！",
+      "analysis": [
+        { "text": "Yes", "roles": ["感叹词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "thank", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What's the matter, children?", "zh": "怎么了，孩子们？" },
+    { "en": "We're tired and thirsty, Mum.", "zh": "妈妈，我们又累又渴。" },
+    { "en": "Sit down here.", "zh": "坐在这儿吧。" },
+    { "en": "Are you all right now?", "zh": "你们现在好了吗？" },
+    { "en": "No, we aren't.", "zh": "不，没有。" },
+    { "en": "Look! There's an ice cream man.", "zh": "瞧！那儿有个卖冰淇淋的。" },
+    { "en": "Two ice creams please.", "zh": "请来两份冰淇淋。" },
+    { "en": "Thanks, Mum.", "zh": "谢谢，妈妈。" },
+    { "en": "These ice creams are nice.", "zh": "这些冰淇淋真好吃。" },
+    { "en": "Are you all right now?", "zh": "你们现在好了吗？" },
+    { "en": "Yes, we are, thank you!", "zh": "是的，我们好了，谢谢您！" }
+  ]
+}

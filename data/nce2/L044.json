@@ -1,0 +1,242 @@
+{
+  "id": "L044",
+  "title": "Lesson 44 · Through the forest",
+  "titleZh": "第44课 穿过森林",
+  "words": [
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meaning": "n. 森林",
+      "examples": [
+        { "en": "She ran through a forest after two men.", "zh": "她穿过森林追赶两个男人。" },
+        { "en": "The forest is full of tall trees.", "zh": "森林里长满高大的树木。" }
+      ]
+    },
+    {
+      "word": "risk",
+      "phonetic": "/rɪsk/",
+      "meaning": "n. 危险，风险",
+      "examples": [
+        { "en": "She did not think of the risk she was taking.", "zh": "她没有考虑自己所冒的风险。" },
+        { "en": "He saved the child at the risk of his life.", "zh": "他冒着生命危险救了那个孩子。" }
+      ]
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meaning": "v. 冲，奔",
+      "examples": [
+        { "en": "The two men had rushed up to her.", "zh": "那两个男人冲到了她跟前。" },
+        { "en": "The students rushed out of the classroom.", "zh": "学生们冲出教室。" }
+      ]
+    },
+    {
+      "word": "picnic",
+      "phonetic": "/ˈpɪknɪk/",
+      "meaning": "n. 野餐",
+      "examples": [
+        { "en": "She was having a picnic with her children.", "zh": "她正和孩子们野餐。" },
+        { "en": "We had a picnic by the river.", "zh": "我们在河边野餐。" }
+      ]
+    },
+    {
+      "word": "edge",
+      "phonetic": "/edʒ/",
+      "meaning": "n. 边缘",
+      "examples": [
+        { "en": "She was having a picnic at the edge of a forest.", "zh": "她在森林边缘野餐。" },
+        { "en": "He stood at the edge of the lake.", "zh": "他站在湖边。" }
+      ]
+    },
+    {
+      "word": "strap",
+      "phonetic": "/stræp/",
+      "meaning": "n. 带子，皮带",
+      "examples": [
+        { "en": "The strap of the handbag broke.", "zh": "手提包的带子断了。" },
+        { "en": "He carried the bag by its strap.", "zh": "他拎着包的带子。" }
+      ]
+    },
+    {
+      "word": "struggle",
+      "phonetic": "/ˈstrʌɡl/",
+      "meaning": "n. 搏斗，争夺",
+      "examples": [
+        { "en": "In the struggle, the strap broke.", "zh": "在争抢中，带子断了。" },
+        { "en": "After a struggle, the thief was caught.", "zh": "经过一番搏斗，小偷被抓住了。" }
+      ]
+    },
+    {
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meaning": "n. 呼吸",
+      "examples": [
+        { "en": "She was soon out of breath.", "zh": "她很快上气不接下气。" },
+        { "en": "Take a deep breath.", "zh": "深吸一口气。" }
+      ]
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meaning": "v. 继续",
+      "examples": [
+        { "en": "She continued to run.", "zh": "她继续追赶。" },
+        { "en": "He continued his work after lunch.", "zh": "午饭后他继续工作。" }
+      ]
+    },
+    {
+      "word": "contents",
+      "phonetic": "/ˈkɒntents/",
+      "meaning": "n. 内装物品，内容",
+      "examples": [
+        { "en": "They were going through the contents of the bag.", "zh": "他们正翻看包里的东西。" },
+        { "en": "The contents of the box were valuable.", "zh": "箱子里的东西很贵重。" }
+      ]
+    },
+    {
+      "word": "catch up with",
+      "phonetic": "/kætʃ ʌp wɪð/",
+      "meaning": "v. 追上，赶上",
+      "examples": [
+        { "en": "She caught up with them.", "zh": "她追上了他们。" },
+        { "en": "I ran fast to catch up with my friends.", "zh": "我跑得很快，追上了朋友们。" }
+      ]
+    },
+    {
+      "word": "fright",
+      "phonetic": "/fraɪt/",
+      "meaning": "n. 惊吓",
+      "examples": [
+        { "en": "The men got such a fright that they ran away.", "zh": "那两个人吓得逃跑了。" },
+        { "en": "You gave me a fright!", "zh": "你吓了我一跳！" }
+      ]
+    },
+    {
+      "word": "mend",
+      "phonetic": "/mend/",
+      "meaning": "v. 修理，修补",
+      "examples": [
+        { "en": "The strap needs mending.", "zh": "带子需要修理。" },
+        { "en": "My father is mending the broken chair.", "zh": "爸爸在修坏椅子。" }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meaning": "v. 偷，抢（stole, stolen）",
+      "examples": [
+        { "en": "They tried to steal her handbag.", "zh": "他们企图抢走她的手提包。" },
+        { "en": "They did not steal anything.", "zh": "他们什么也没偷走。" }
+      ]
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "adj. 生气的",
+      "examples": [
+        { "en": "Mrs Sterling got so angry that she ran after them.", "zh": "斯特林夫人非常生气，向他们追了过去。" },
+        { "en": "Don't be angry with me.", "zh": "别生我的气。" }
+      ]
+    },
+    {
+      "word": "Mrs Anne Sterling",
+      "phonetic": "/ˈmɪsɪz æn ˈstɜːlɪŋ/",
+      "meaning": "n. 安·斯特林夫人（人名）",
+      "examples": [
+        { "en": "Mrs Anne Sterling ran through a forest.", "zh": "安·斯特林夫人穿过了一片森林。" },
+        { "en": "Mrs Sterling was having a picnic with her children.", "zh": "斯特林夫人正和孩子们野餐。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "They tried to steal her handbag.",
+      "zh": "他们企图抢走她的手提包。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "steal", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "handbag", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Mrs Sterling got so angry that she ran after them.",
+      "zh": "斯特林夫人非常生气，向他们追了过去。",
+      "analysis": [
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Sterling", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "angry", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "ran", "roles": ["谓语"] },
+        { "text": "after", "roles": ["状语"] },
+        { "text": "them", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She was soon out of breath, but she continued to run.",
+      "zh": "她很快上气不接下气，但仍继续追赶。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "breath", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "continued", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "run", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "So she ran straight at them.",
+      "zh": "于是她径直向他们冲了过去。",
+      "analysis": [
+        { "text": "So", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "ran", "roles": ["谓语"] },
+        { "text": "straight", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "them", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The men got such a fright that they dropped the bag and ran away.",
+      "zh": "这两个人吓得扔下包逃跑了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "such", "roles": ["定语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fright", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "dropped", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bag", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "ran", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Mrs Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.", "zh": "安·斯特林夫人穿过森林追赶两个男人时，并没有考虑到她所冒的风险。" },
+    { "en": "They had rushed up to her while she was having a picnic at the edge of a forest with her children.", "zh": "刚才，当她和孩子们正在森林边缘野餐时，这两个人冲到了她跟前。" },
+    { "en": "They tried to steal her handbag.", "zh": "他们企图抢走她的手提包。" },
+    { "en": "In the struggle, the strap broke and the men started running through the trees.", "zh": "在争抢中，手提包的带子断了，两个男人拔腿跑进了树林。" },
+    { "en": "Mrs Sterling got so angry that she ran after them.", "zh": "斯特林夫人非常生气，向他们追了过去。" },
+    { "en": "She was soon out of breath, but she continued to run.", "zh": "她很快上气不接下气，但仍继续追赶。" },
+    { "en": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag.", "zh": "当她追上他们时，她看到他们已经坐了下来，正翻着包里的东西。" },
+    { "en": "So she ran straight at them.", "zh": "于是她径直向他们冲了过去。" },
+    { "en": "The men got such a fright that they dropped the bag and ran away.", "zh": "这两个人吓得扔下包逃跑了。" },
+    { "en": "'The strap needs mending,' said Mrs Sterling later, 'but they did not steal anything.'", "zh": "“这提包带需要修理，”斯特林夫人后来说，“不过他们什么也没偷走。”" }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "L025",
+  "title": "Lesson 25 · Mrs. Smith's kitchen",
+  "titleZh": "第25课 史密斯太太的厨房",
+  "words": [
+    {
+      "word": "kitchen",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "meaning": "n. 厨房",
+      "examples": [
+        { "en": "Mrs. Smith's kitchen is small.", "zh": "史密斯太太的厨房很小。" }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/",
+      "meaning": "n. 电冰箱",
+      "examples": [
+        { "en": "There is a refrigerator in the kitchen.", "zh": "厨房里有一个电冰箱。" },
+        { "en": "The refrigerator is white.", "zh": "电冰箱是白色的。" }
+      ]
+    },
+    {
+      "word": "electric",
+      "phonetic": "/ɪˈlektrɪk/",
+      "meaning": "adj. 电动的，用电的",
+      "examples": [
+        { "en": "There is an electric cooker in the kitchen.", "zh": "厨房里有一个电炉。" }
+      ]
+    },
+    {
+      "word": "cooker",
+      "phonetic": "/ˈkʊkə(r)/",
+      "meaning": "n. 炉灶，炊具",
+      "examples": [
+        { "en": "The cooker is blue.", "zh": "炉灶是蓝色的。" }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "meaning": "n. 右边",
+      "examples": [
+        { "en": "It is on the right.", "zh": "它在右边。" }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meaning": "n. 左边",
+      "examples": [
+        { "en": "It is on the left.", "zh": "它在左边。" }
+      ]
+    },
+    {
+      "word": "middle",
+      "phonetic": "/ˈmɪdl/",
+      "meaning": "n. 中间",
+      "examples": [
+        { "en": "There is a table in the middle of the room.", "zh": "房间中央有一张桌子。" }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meaning": "n. 桌子",
+      "examples": [
+        { "en": "There is a table in the middle of the room.", "zh": "房间中央有一张桌子。" },
+        { "en": "There is a bottle on the table.", "zh": "桌子上有一个瓶子。" }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meaning": "n. 瓶子",
+      "examples": [
+        { "en": "The bottle is empty.", "zh": "瓶子是空的。" }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meaning": "adj. 空的",
+      "examples": [
+        { "en": "The bottle is empty.", "zh": "瓶子是空的。" },
+        { "en": "The cup is empty.", "zh": "杯子是空的。" }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meaning": "n. 杯子",
+      "examples": [
+        { "en": "There is a cup on the table.", "zh": "桌子上有一个杯子。" },
+        { "en": "The cup is clean.", "zh": "杯子是干净的。" }
+      ]
+    },
+    {
+      "word": "clean",
+      "phonetic": "/kliːn/",
+      "meaning": "adj. 干净的",
+      "examples": [
+        { "en": "The cup is clean.", "zh": "杯子是干净的。" },
+        { "en": "My shirt is clean.", "zh": "我的衬衫是干净的。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Mrs. Smith's kitchen is small.",
+      "zh": "史密斯太太的厨房很小。",
+      "analysis": [
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Smith's", "roles": ["定语"] },
+        { "text": "kitchen", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "small", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "There is a refrigerator in the kitchen.",
+      "zh": "厨房里有一个电冰箱。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "refrigerator", "roles": ["主语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "kitchen", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The refrigerator is white.",
+      "zh": "电冰箱是白色的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "refrigerator", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "white", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It is on the right.",
+      "zh": "它在右边。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "on", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "right", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The bottle is empty.",
+      "zh": "瓶子是空的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bottle", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "empty", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The cup is clean.",
+      "zh": "杯子是干净的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "cup", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "clean", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Mrs. Smith's kitchen is small.", "zh": "史密斯太太的厨房很小。" },
+    { "en": "There is a refrigerator in the kitchen.", "zh": "厨房里有一个电冰箱。" },
+    { "en": "The refrigerator is white.", "zh": "电冰箱是白色的。" },
+    { "en": "It is on the right.", "zh": "它在右边。" },
+    { "en": "There is an electric cooker in the kitchen.", "zh": "厨房里有一个电炉。" },
+    { "en": "The cooker is blue.", "zh": "电炉是蓝色的。" },
+    { "en": "It is on the left.", "zh": "它在左边。" },
+    { "en": "There is a table in the middle of the room.", "zh": "房间中央有一张桌子。" },
+    { "en": "There is a bottle on the table.", "zh": "桌子上有一个瓶子。" },
+    { "en": "The bottle is empty.", "zh": "瓶子是空的。" },
+    { "en": "There is a cup on the table, too.", "zh": "桌子上还有一个杯子。" },
+    { "en": "The cup is clean.", "zh": "杯子是干净的。" }
+  ]
+}

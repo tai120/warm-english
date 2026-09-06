@@ -1,0 +1,263 @@
+{
+  "id": "L048",
+  "title": "Lesson 48 · Did you want to tell me something?",
+  "titleZh": "第48课 你想对我说什么吗？",
+  "words": [
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meaning": "n. 牙科医生",
+      "examples": [
+        { "en": "My dentist had just pulled out one of my teeth.", "zh": "我的牙医刚给我拔掉一颗牙。" },
+        { "en": "I go to the dentist twice a year.", "zh": "我每年看两次牙医。" }
+      ]
+    },
+    {
+      "word": "impossible",
+      "phonetic": "/ɪmˈpɒsəbl/",
+      "meaning": "adj. 不可能的",
+      "examples": [
+        { "en": "Dentists ask questions when it is impossible for you to answer.", "zh": "牙医在你无法回答时提问。" },
+        { "en": "It is impossible to finish the work in one day.", "zh": "一天内完成这项工作是不可能的。" }
+      ]
+    },
+    {
+      "word": "pull",
+      "phonetic": "/pʊl/",
+      "meaning": "v. 拔，拉",
+      "examples": [
+        { "en": "The dentist pulled out one of my teeth.", "zh": "牙医拔掉了我的一颗牙。" },
+        { "en": "Pull the door open, please.", "zh": "请把门拉开。" }
+      ]
+    },
+    {
+      "word": "tooth",
+      "phonetic": "/tuːθ/",
+      "meaning": "n. 牙齿（复数 teeth）",
+      "examples": [
+        { "en": "He had pulled out the wrong tooth.", "zh": "他拔错了牙。" },
+        { "en": "Brush your teeth every morning.", "zh": "每天早上要刷牙。" }
+      ]
+    },
+    {
+      "word": "cotton wool",
+      "phonetic": "/ˈkɒtn wʊl/",
+      "meaning": "n. 药棉",
+      "examples": [
+        { "en": "My mouth was full of cotton wool.", "zh": "我嘴里塞满了药棉。" },
+        { "en": "The dentist put cotton wool in my mouth.", "zh": "牙医把药棉放进我嘴里。" }
+      ]
+    },
+    {
+      "word": "collect",
+      "phonetic": "/kəˈlekt/",
+      "meaning": "v. 收集",
+      "examples": [
+        { "en": "I collected match boxes.", "zh": "我收集火柴盒。" },
+        { "en": "He collects stamps.", "zh": "他集邮。" }
+      ]
+    },
+    {
+      "word": "collection",
+      "phonetic": "/kəˈlekʃn/",
+      "meaning": "n. 收藏品，收集",
+      "examples": [
+        { "en": "He asked me whether my collection was growing.", "zh": "他问我收藏是否在增加。" },
+        { "en": "She has a large collection of stamps.", "zh": "她收藏了大量邮票。" }
+      ]
+    },
+    {
+      "word": "match box",
+      "phonetic": "/ˈmætʃ bɒks/",
+      "meaning": "n. 火柴盒",
+      "examples": [
+        { "en": "I collected match boxes.", "zh": "我收集火柴盒。" },
+        { "en": "There are some matches in the match box.", "zh": "火柴盒里有一些火柴。" }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "/ɡrəʊ/",
+      "meaning": "v. 增加，生长（grew, grown）",
+      "examples": [
+        { "en": "My collection was growing.", "zh": "我的收藏在不断增加。" },
+        { "en": "The trees grow fast in summer.", "zh": "树木在夏天长得很快。" }
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "phonetic": "/ˈmiːnwaɪl/",
+      "meaning": "adv. 与此同时",
+      "examples": [
+        { "en": "Meanwhile, my tongue was busy searching out the hole.", "zh": "与此同时，我的舌头忙着寻找牙洞。" },
+        { "en": "Mother went shopping. Meanwhile, I cleaned the house.", "zh": "妈妈去买东西。与此同时，我打扫了房子。" }
+      ]
+    },
+    {
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meaning": "n. 舌头",
+      "examples": [
+        { "en": "My tongue was busy searching out the hole.", "zh": "我的舌头忙着寻找牙洞。" },
+        { "en": "The doctor looked at his tongue.", "zh": "医生看了看他的舌头。" }
+      ]
+    },
+    {
+      "word": "search",
+      "phonetic": "/sɜːtʃ/",
+      "meaning": "v. 搜寻，寻找",
+      "examples": [
+        { "en": "My tongue was searching out the hole.", "zh": "我的舌头在寻找牙洞。" },
+        { "en": "The police searched the house.", "zh": "警察搜查了这幢房子。" }
+      ]
+    },
+    {
+      "word": "hole",
+      "phonetic": "/həʊl/",
+      "meaning": "n. 洞",
+      "examples": [
+        { "en": "My tongue searched out the hole where the tooth had been.", "zh": "我的舌头找到了那颗牙留下的洞。" },
+        { "en": "There is a hole in the wall.", "zh": "墙上有一个洞。" }
+      ]
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meaning": "v. 取出，移开",
+      "examples": [
+        { "en": "The dentist removed the cotton wool from my mouth.", "zh": "牙医从我嘴里取出了药棉。" },
+        { "en": "Please remove your books from the table.", "zh": "请把你的书从桌上拿走。" }
+      ]
+    },
+    {
+      "word": "nod",
+      "phonetic": "/nɒd/",
+      "meaning": "v. 点头",
+      "examples": [
+        { "en": "In answer to his questions I nodded.", "zh": "对他的问题，我点点头。" },
+        { "en": "She nodded to me in the street.", "zh": "她在街上向我点头。" }
+      ]
+    },
+    {
+      "word": "wrong",
+      "phonetic": "/rɒŋ/",
+      "meaning": "adj. 错误的",
+      "examples": [
+        { "en": "He had pulled out the wrong tooth.", "zh": "他拔错了牙。" },
+        { "en": "You are wrong about him.", "zh": "你错怪他了。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "zh": "我的牙科医生刚刚给我拔掉了一颗牙，并嘱咐我休息一会儿。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "dentist", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "pulled", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "one", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "teeth", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "rest", "roles": ["补语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "while", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I tried to say something, but my mouth was full of cotton wool.",
+      "zh": "我想说点什么，但我的嘴里塞满了药棉。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "say", "roles": ["谓语"] },
+        { "text": "something", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "mouth", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "full", "roles": ["表语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "cotton", "roles": ["定语"] },
+        { "text": "wool", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He knew I collected match boxes and asked me whether my collection was growing.",
+      "zh": "他知道我收集火柴盒，于是问我收藏的火柴盒是否在增加。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "knew", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "collected", "roles": ["谓语"] },
+        { "text": "match", "roles": ["定语"] },
+        { "text": "boxes", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "whether", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "collection", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "growing", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "In answer to these questions I either nodded or made strange noises.",
+      "zh": "对这些问题，我不是点头，就是发出奇怪的声音。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "answer", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "questions", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "either", "roles": ["连词"] },
+        { "text": "nodded", "roles": ["谓语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "strange", "roles": ["定语"] },
+        { "text": "noises", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I suddenly felt very worried, but I could not say anything.",
+      "zh": "我突然非常着急，但却什么也说不出来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "suddenly", "roles": ["状语"] },
+        { "text": "felt", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "worried", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "say", "roles": ["谓语"] },
+        { "text": "anything", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Dentists always ask questions when it is impossible for you to answer.", "zh": "牙科医生总是在你无法作答的时候向你提问。" },
+    { "en": "My dentist had just pulled out one of my teeth and had told me to rest for a while.", "zh": "我的牙科医生刚刚给我拔掉了一颗牙，并嘱咐我休息一会儿。" },
+    { "en": "I tried to say something, but my mouth was full of cotton wool.", "zh": "我想说点什么，但我的嘴里塞满了药棉。" },
+    { "en": "He knew I collected match boxes and asked me whether my collection was growing.", "zh": "他知道我收集火柴盒，于是问我收藏的火柴盒是否在增加。" },
+    { "en": "He then asked me how my brother was and whether I liked my new job in London.", "zh": "接着他又问我兄弟近来如何，是否喜欢伦敦的新工作。" },
+    { "en": "In answer to these questions I either nodded or made strange noises.", "zh": "对这些问题，我不是点头，就是发出奇怪的声音。" },
+    { "en": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.", "zh": "与此同时，我的舌头正在忙着寻找刚拔掉的那颗牙的牙洞。" },
+    { "en": "I suddenly felt very worried, but I could not say anything.", "zh": "我突然非常着急，但却什么也说不出来。" },
+    { "en": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.", "zh": "当牙医最后把药棉从我嘴里取出时，我总算能够告诉他，他拔错牙了。" }
+  ]
+}

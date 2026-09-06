@@ -1,0 +1,264 @@
+{
+  "id": "L079",
+  "title": "Lesson 79 · By air",
+  "titleZh": "第79课 乘飞机",
+  "words": [
+    {
+      "word": "air",
+      "phonetic": "/eə(r)/",
+      "meaning": "n. 空气，空中",
+      "examples": [
+        { "en": "I travelled by air a great deal.", "zh": "我经常乘飞机旅行。" }
+      ]
+    },
+    {
+      "word": "flight",
+      "phonetic": "/flaɪt/",
+      "meaning": "n. 航班，飞行",
+      "examples": [
+        { "en": "The flight from Europe was long.", "zh": "从欧洲来的航程很长。" }
+      ]
+    },
+    {
+      "word": "attendant",
+      "phonetic": "/əˈtendənt/",
+      "meaning": "n. 服务员",
+      "examples": [
+        { "en": "The flight attendant told us to keep calm.", "zh": "空中乘务员叫我们保持镇静。" }
+      ]
+    },
+    {
+      "word": "frighten",
+      "phonetic": "/ˈfraɪtn/",
+      "meaning": "v. 使害怕",
+      "examples": [
+        { "en": "Only once have I felt frightened on a plane.", "zh": "乘飞机时我只害怕过一次。" }
+      ]
+    },
+    {
+      "word": "take off",
+      "phonetic": "/teɪk ɒf/",
+      "meaning": "v. 起飞",
+      "examples": [
+        { "en": "The plane took off on time.", "zh": "飞机按时起飞了。" }
+      ]
+    },
+    {
+      "word": "gain",
+      "phonetic": "/ɡeɪn/",
+      "meaning": "v. 增加，获得",
+      "examples": [
+        { "en": "The plane was slowly gaining height.", "zh": "飞机在缓缓爬升。" }
+      ]
+    },
+    {
+      "word": "height",
+      "phonetic": "/haɪt/",
+      "meaning": "n. 高度",
+      "examples": [
+        { "en": "The plane gained height over the city.", "zh": "飞机在城市上空爬升。" }
+      ]
+    },
+    {
+      "word": "land",
+      "phonetic": "/lænd/",
+      "meaning": "v. 着陆",
+      "examples": [
+        { "en": "We were waiting to land.", "zh": "我们在等待降落。" }
+      ]
+    },
+    {
+      "word": "calm",
+      "phonetic": "/kɑːm/",
+      "meaning": "adj. 镇静的",
+      "examples": [
+        { "en": "The attendant asked us to keep calm.", "zh": "乘务员要求我们保持镇静。" }
+      ]
+    },
+    {
+      "word": "touch down",
+      "phonetic": "/tʌtʃ daʊn/",
+      "meaning": "v. 着陆",
+      "examples": [
+        { "en": "The plane touched down safely.", "zh": "飞机安全着陆。" }
+      ]
+    },
+    {
+      "word": "on board",
+      "phonetic": "/ɒn bɔːd/",
+      "meaning": "adv. 在飞机上，在船上",
+      "examples": [
+        { "en": "Everybody on board was worried.", "zh": "机上人人都很担心。" }
+      ]
+    },
+    {
+      "word": "curious",
+      "phonetic": "/ˈkjʊəriəs/",
+      "meaning": "adj. 好奇的",
+      "examples": [
+        { "en": "We were curious about what had happened.", "zh": "我们对发生的事感到好奇。" }
+      ]
+    },
+    {
+      "word": "bomb",
+      "phonetic": "/bɒm/",
+      "meaning": "n. 炸弹",
+      "examples": [
+        { "en": "A bomb had been planted on the plane.", "zh": "飞机上被安放了一枚炸弹。" }
+      ]
+    },
+    {
+      "word": "plant",
+      "phonetic": "/plɑːnt/",
+      "meaning": "v. 安放，种植",
+      "examples": [
+        { "en": "Someone had planted a bomb on the plane.", "zh": "有人在飞机上安放了炸弹。" }
+      ]
+    },
+    {
+      "word": "search",
+      "phonetic": "/sɜːtʃ/",
+      "meaning": "v. 搜查，搜寻",
+      "examples": [
+        { "en": "The plane was searched thoroughly.", "zh": "飞机被彻底搜查。" }
+      ]
+    },
+    {
+      "word": "thoroughly",
+      "phonetic": "/ˈθʌrəli/",
+      "meaning": "adv. 彻底地",
+      "examples": [
+        { "en": "They searched the plane thoroughly.", "zh": "他们彻底搜查了飞机。" }
+      ]
+    },
+    {
+      "word": "unpleasant",
+      "phonetic": "/ʌnˈpleznt/",
+      "meaning": "adj. 令人不快的",
+      "examples": [
+        { "en": "I never had an unpleasant experience by air.", "zh": "乘飞机时我从未有过不愉快的经历。" }
+      ]
+    },
+    {
+      "word": "Europe",
+      "phonetic": "/ˈjʊərəp/",
+      "meaning": "n. 欧洲",
+      "examples": [
+        { "en": "My parents lived in South America, far from Europe.", "zh": "我的父母住在南美洲，远离欧洲。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I am used to travelling by air, and only once have I ever felt frightened.",
+      "zh": "我习惯了乘飞机旅行，只有一次我感到过害怕。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "am", "roles": ["谓语"] },
+        { "text": "used", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "travelling", "roles": ["宾语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "air", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "once", "roles": ["状语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "felt", "roles": ["谓语"] },
+        { "text": "frightened", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "After taking off, the plane was flying low over the city and slowly gaining height.",
+      "zh": "起飞后，飞机在城市上空低空飞行，缓缓爬升。",
+      "analysis": [
+        { "text": "After", "roles": ["状语"] },
+        { "text": "taking", "roles": ["宾语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "flying", "roles": ["谓语"] },
+        { "text": "low", "roles": ["状语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "city", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "slowly", "roles": ["状语"] },
+        { "text": "gaining", "roles": ["谓语"] },
+        { "text": "height", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Suddenly the plane turned round and flew back to the airport.",
+      "zh": "突然，飞机掉头飞回了机场。",
+      "analysis": [
+        { "text": "Suddenly", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "turned", "roles": ["谓语"] },
+        { "text": "round", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "flew", "roles": ["谓语"] },
+        { "text": "back", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "airport", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Later we learnt that the police had been told about a bomb on the plane.",
+      "zh": "后来我们得知，有人告诉警方飞机上有一枚炸弹。",
+      "analysis": [
+        { "text": "Later", "roles": ["状语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "learnt", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bomb", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "After we had landed, the plane was searched thoroughly, but nothing was found.",
+      "zh": "我们着陆后，飞机被彻底搜查了一遍，但什么也没找到。",
+      "analysis": [
+        { "text": "After", "roles": ["连词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "landed", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "searched", "roles": ["谓语"] },
+        { "text": "thoroughly", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "nothing", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "found", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I used to travel by air a great deal when I was a boy.", "zh": "我小的时候经常乘飞机旅行。" },
+    { "en": "My parents used to live in South America, and I flew there from Europe in the holidays.", "zh": "我的父母过去住在南美洲，我假期常从欧洲飞往那里。" },
+    { "en": "I am used to travelling by air, and only once have I ever felt frightened.", "zh": "我习惯了乘飞机旅行，只有一次我感到过害怕。" },
+    { "en": "After taking off, the plane was flying low over the city and slowly gaining height.", "zh": "起飞后，飞机在城市上空低空飞行，缓缓爬升。" },
+    { "en": "Suddenly the plane turned round and flew back to the airport.", "zh": "突然，飞机掉头飞回了机场。" },
+    { "en": "A flight attendant told us to keep calm and to get off the plane quietly as soon as it touched down.", "zh": "空中乘务员告诉我们保持镇静，飞机一着陆就安静地走下飞机。" },
+    { "en": "Everybody on board was worried, and we all wanted to know what had happened.", "zh": "机上人人都很担心，大家都想知道发生了什么事。" },
+    { "en": "Later we learnt that the police had been told about a bomb on the plane.", "zh": "后来我们得知，有人告诉警方飞机上有一枚炸弹。" },
+    { "en": "After we had landed, the plane was searched thoroughly, but nothing was found.", "zh": "我们着陆后，飞机被彻底搜查了一遍，但什么也没找到。" },
+    { "en": "Five hours later, we were able to take off again.", "zh": "5个小时后，我们又能重新起飞了。" }
+  ]
+}

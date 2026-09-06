@@ -1,0 +1,197 @@
+{
+  "id": "L113",
+  "title": "Lesson 113 · Small change",
+  "titleZh": "第113课 零钱",
+  "words": [
+    {
+      "word": "fare",
+      "phonetic": "/feə(r)/",
+      "meaning": "n. 车费，票价",
+      "examples": [
+        { "en": "Fares, please!", "zh": "请买票！" }
+      ]
+    },
+    {
+      "word": "conductor",
+      "phonetic": "/kənˈdʌktə(r)/",
+      "meaning": "n. 售票员",
+      "examples": [
+        { "en": "I'll ask some of the passengers.", "zh": "我来问问其他乘客。" }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "n. 零钱；v. 换开，找零",
+      "examples": [
+        { "en": "I can't change a ten-pound note.", "zh": "我找不开十英镑的钞票。" },
+        { "en": "Haven't you got any small change?", "zh": "您没有零钱吗？" }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meaning": "n. 纸币，钞票",
+      "examples": [
+        { "en": "Can you change this ten-pound note, madam?", "zh": "夫人，您能换开这张十英镑的钞票吗？" }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meaning": "n. 乘客",
+      "examples": [
+        { "en": "None of our passengers can change this note.", "zh": "我们的乘客中没有人能换开这张钞票。" }
+      ]
+    },
+    {
+      "word": "square",
+      "phonetic": "/skweə(r)/",
+      "meaning": "n. 广场",
+      "examples": [
+        { "en": "Trafalgar Square, please.", "zh": "请买一张到特拉法加广场的票。" }
+      ]
+    },
+    {
+      "word": "none",
+      "phonetic": "/nʌn/",
+      "meaning": "pron. 一个也没有",
+      "examples": [
+        { "en": "I've got none.", "zh": "我一点零钱也没有。" }
+      ]
+    },
+    {
+      "word": "neither",
+      "phonetic": "/ˈnaɪðə(r)/",
+      "meaning": "adv. 也不",
+      "examples": [
+        { "en": "Neither can I.", "zh": "我也不能。" }
+      ]
+    },
+    {
+      "word": "except",
+      "phonetic": "/ɪkˈsept/",
+      "meaning": "prep. 除……之外",
+      "examples": [
+        { "en": "Except us.", "zh": "除了我们。" }
+      ]
+    },
+    {
+      "word": "tramp",
+      "phonetic": "/træmp/",
+      "meaning": "n. 流浪汉",
+      "examples": [
+        { "en": "Two tramps have got some small change.", "zh": "两个流浪汉有一些零钱。" }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meaning": "v. 必须",
+      "examples": [
+        { "en": "You must get off the bus.", "zh": "您必须下车。" }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meaning": "adj. 抱歉的，对不起的",
+      "examples": [
+        { "en": "I'm sorry, sir.", "zh": "对不起，先生。" }
+      ]
+    },
+    {
+      "word": "small",
+      "phonetic": "/smɔːl/",
+      "meaning": "adj. 小的",
+      "examples": [
+        { "en": "I've got some small change.", "zh": "我有一些零钱。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I can't change a ten-pound note.",
+      "zh": "我找不开十英镑的钞票。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "change", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "ten-pound", "roles": ["定语"] },
+        { "text": "note", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Haven't you got any small change?",
+      "zh": "您没有零钱吗？",
+      "analysis": [
+        { "text": "Haven't", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "change", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I've got no small change, I'm afraid.",
+      "zh": "恐怕我没有零钱。",
+      "analysis": [
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "no", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "change", "roles": ["宾语"] },
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "afraid", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "I haven't got any either.",
+      "zh": "我也没有。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "haven't", "roles": ["谓语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "any", "roles": ["宾语"] },
+        { "text": "either", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Neither can I.",
+      "zh": "我也不能。",
+      "analysis": [
+        { "text": "Neither", "roles": ["状语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "You must get off the bus.",
+      "zh": "您必须下车。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bus", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Fares, please!", "zh": "请买票！" },
+    { "en": "Trafalgar Square, please.", "zh": "请买一张到特拉法加广场的票。" },
+    { "en": "I can't change a ten-pound note.", "zh": "我找不开十英镑的钞票。" },
+    { "en": "Haven't you got any small change?", "zh": "您没有零钱吗？" },
+    { "en": "I've got no small change, I'm afraid.", "zh": "恐怕我没有零钱。" },
+    { "en": "I'll ask some of the passengers.", "zh": "我来问问其他乘客。" },
+    { "en": "Have you any small change, sir?", "zh": "先生，您有零钱吗？" },
+    { "en": "I'm sorry. I've got none.", "zh": "对不起，我一点零钱也没有。" },
+    { "en": "I haven't got any either.", "zh": "我也没有。" },
+    { "en": "Neither can I.", "zh": "我也不能。" },
+    { "en": "You must get off the bus.", "zh": "您必须下车。" },
+    { "en": "Except us.", "zh": "除了我们。" }
+  ]
+}

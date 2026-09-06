@@ -1,0 +1,212 @@
+{
+  "id": "L127",
+  "title": "Lesson 127 · A famous actress",
+  "titleZh": "第127课 著名的女演员",
+  "words": [
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meaning": "v. 认出",
+      "examples": [
+        { "en": "Can you recognize that woman, Liz?", "zh": "莉兹，你能认出那个女人吗？" }
+      ]
+    },
+    {
+      "word": "woman",
+      "phonetic": "/ˈwʊmən/",
+      "meaning": "n. 女人，妇女",
+      "examples": [
+        { "en": "Can you recognize that woman, Liz?", "zh": "莉兹，你能认出那个女人吗？" }
+      ]
+    },
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meaning": "adj. 著名的",
+      "examples": [
+        { "en": "She was a famous actress when I was still at school.", "zh": "我上学时她就已经是著名的女演员了。" }
+      ]
+    },
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meaning": "n. 女演员",
+      "examples": [
+        { "en": "It must be Karen Marsh, the actress.", "zh": "那一定是女演员卡伦·马什。" }
+      ]
+    },
+    {
+      "word": "actor",
+      "phonetic": "/ˈæktə(r)/",
+      "meaning": "n. 男演员",
+      "examples": [
+        { "en": "Conrad Reeves, the actor? It can't be.", "zh": "演员康拉德·里夫斯？不可能。" }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meaning": "n. 丈夫",
+      "examples": [
+        { "en": "Isn't he her third husband?", "zh": "他不是她的第三任丈夫吗？" }
+      ]
+    },
+    {
+      "word": "third",
+      "phonetic": "/θɜːd/",
+      "meaning": "num. 第三",
+      "examples": [
+        { "en": "Isn't he her third husband?", "zh": "他不是她的第三任丈夫吗？" }
+      ]
+    },
+    {
+      "word": "fourth",
+      "phonetic": "/fɔːθ/",
+      "meaning": "num. 第四",
+      "examples": [
+        { "en": "He must be her fourth or fifth.", "zh": "他一定是她的第四任或第五任丈夫。" }
+      ]
+    },
+    {
+      "word": "fifth",
+      "phonetic": "/fɪfθ/",
+      "meaning": "num. 第五",
+      "examples": [
+        { "en": "He must be her fourth or fifth.", "zh": "他一定是她的第四任或第五任丈夫。" }
+      ]
+    },
+    {
+      "word": "twenty-nine",
+      "phonetic": "/ˌtwentiˈnaɪn/",
+      "meaning": "num. 二十九",
+      "examples": [
+        { "en": "I read she's twenty-nine.", "zh": "我读到过她二十九岁。" }
+      ]
+    },
+    {
+      "word": "forty",
+      "phonetic": "/ˈfɔːti/",
+      "meaning": "num. 四十",
+      "examples": [
+        { "en": "She must be at least forty.", "zh": "她一定至少有四十岁了。" }
+      ]
+    },
+    {
+      "word": "least",
+      "phonetic": "/liːst/",
+      "meaning": "adj. 最少的",
+      "examples": [
+        { "en": "She must be at least forty.", "zh": "她一定至少有四十岁了。" }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "/skuːl/",
+      "meaning": "n. 学校",
+      "examples": [
+        { "en": "She was a famous actress when I was still at school.", "zh": "我上学时她就已经是著名的女演员了。" }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "/riːd/",
+      "meaning": "v. 读，读到",
+      "examples": [
+        { "en": "I read she's twenty-nine.", "zh": "我读到过她二十九岁。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can you recognize that woman, Liz?",
+      "zh": "莉兹，你能认出那个女人吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "recognize", "roles": ["谓语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "woman", "roles": ["宾语"] },
+        { "text": "Liz", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "It must be Karen Marsh, the actress.",
+      "zh": "那一定是女演员卡伦·马什。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "Karen", "roles": ["表语"] },
+        { "text": "Marsh", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "actress", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "That must be Conrad Reeves.",
+      "zh": "那一定是康拉德·里夫斯。",
+      "analysis": [
+        { "text": "That", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "Conrad", "roles": ["表语"] },
+        { "text": "Reeves", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Isn't he her third husband?",
+      "zh": "他不是她的第三任丈夫吗？",
+      "analysis": [
+        { "text": "Isn't", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "third", "roles": ["定语"] },
+        { "text": "husband", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He must be her fourth or fifth.",
+      "zh": "他一定是她的第四任或第五任丈夫。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "fourth", "roles": ["表语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "fifth", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "She was a famous actress when I was still at school.",
+      "zh": "我上学时她就已经是著名的女演员了。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "famous", "roles": ["定语"] },
+        { "text": "actress", "roles": ["表语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Can you recognize that woman, Liz?", "zh": "莉兹，你能认出那个女人吗？" },
+    { "en": "I think I can, Kate.", "zh": "我想我能，凯特。" },
+    { "en": "It must be Karen Marsh, the actress.", "zh": "那一定是女演员卡伦·马什。" },
+    { "en": "That must be Conrad Reeves.", "zh": "那一定是康拉德·里夫斯。" },
+    { "en": "Conrad Reeves, the actor? It can't be.", "zh": "演员康拉德·里夫斯？不可能。" },
+    { "en": "Isn't he her third husband?", "zh": "他不是她的第三任丈夫吗？" },
+    { "en": "He must be her fourth or fifth.", "zh": "他一定是她的第四任或第五任丈夫。" },
+    { "en": "Doesn't Karen Marsh look old!", "zh": "卡伦·马什看起来真老啊！" },
+    { "en": "She does, doesn't she!", "zh": "是啊，可不是吗！" },
+    { "en": "I read she's twenty-nine, but she must be at least forty.", "zh": "我读到过她二十九岁，但她一定至少有四十岁了。" },
+    { "en": "She was a famous actress when I was still at school.", "zh": "我上学时她就已经是著名的女演员了。" },
+    { "en": "I'm not more than twenty-nine myself.", "zh": "我自己也不超过二十九岁。" }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "L040",
+  "title": "Lesson 40 · Food and talk",
+  "titleZh": "第40课 进餐与交谈",
+  "words": [
+    {
+      "word": "hostess",
+      "phonetic": "/ˈhəʊstɪs/",
+      "meaning": "n. 女主人",
+      "examples": [
+        { "en": "The hostess asked me to sit next to Mrs Rumbold.", "zh": "女主人安排我坐在兰伯尔德夫人的身旁。" },
+        { "en": "The hostess welcomed us warmly.", "zh": "女主人热情地欢迎我们。" }
+      ]
+    },
+    {
+      "word": "unsmiling",
+      "phonetic": "/ʌnˈsmaɪlɪŋ/",
+      "meaning": "adj. 不笑的，严肃的",
+      "examples": [
+        { "en": "Mrs Rumbold was a large, unsmiling lady.", "zh": "兰伯尔德夫人是个身材高大、表情严肃的女人。" },
+        { "en": "He listened with an unsmiling face.", "zh": "他板着脸听着。" }
+      ]
+    },
+    {
+      "word": "tight",
+      "phonetic": "/taɪt/",
+      "meaning": "adj. 紧身的，紧的",
+      "examples": [
+        { "en": "She was in a tight black dress.", "zh": "她穿一件紧身的黑衣服。" },
+        { "en": "These shoes are too tight.", "zh": "这双鞋太紧了。" }
+      ]
+    },
+    {
+      "word": "fix",
+      "phonetic": "/fɪks/",
+      "meaning": "v. 固定，凝视",
+      "examples": [
+        { "en": "Her eyes were fixed on her plate.", "zh": "她的眼睛盯着盘子。" },
+        { "en": "He fixed the picture on the wall.", "zh": "他把画固定在墙上。" }
+      ]
+    },
+    {
+      "word": "plate",
+      "phonetic": "/pleɪt/",
+      "meaning": "n. 盘子",
+      "examples": [
+        { "en": "Her eyes were fixed on her plate.", "zh": "她的眼睛盯着盘子。" },
+        { "en": "There is some fish on the plate.", "zh": "盘子里有一些鱼。" }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "adj. 忙的，忙碌的",
+      "examples": [
+        { "en": "She was busy eating.", "zh": "她忙着吃东西。" },
+        { "en": "He is busy with his homework.", "zh": "他忙着做作业。" }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "n. 谈话，交谈",
+      "examples": [
+        { "en": "I tried to make conversation.", "zh": "我试图找些话题和她聊聊。" },
+        { "en": "We had a long conversation about books.", "zh": "我们就书籍谈了很久。" }
+      ]
+    },
+    {
+      "word": "globe",
+      "phonetic": "/ɡləʊb/",
+      "meaning": "n. 地球，球；环球剧院",
+      "examples": [
+        { "en": "A new play is coming to the Globe soon.", "zh": "一出新剧很快就要在环球剧院上演。" },
+        { "en": "We travelled around the globe.", "zh": "我们环游了地球。" }
+      ]
+    },
+    {
+      "word": "despair",
+      "phonetic": "/dɪˈspeə(r)/",
+      "meaning": "n. 绝望",
+      "examples": [
+        { "en": "In despair, I asked her another question.", "zh": "绝望之中，我又问了她一个问题。" },
+        { "en": "He gave up in despair.", "zh": "他绝望地放弃了。" }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "v. 享受，喜欢",
+      "examples": [
+        { "en": "She was enjoying her dinner.", "zh": "她正津津有味地吃着饭。" },
+        { "en": "I enjoyed the film very much.", "zh": "我非常喜欢这部电影。" }
+      ]
+    },
+    {
+      "word": "seat",
+      "phonetic": "/siːt/",
+      "meaning": "n. 座位",
+      "examples": [
+        { "en": "I took my seat beside her.", "zh": "我在她旁边坐下。" },
+        { "en": "Please take a seat.", "zh": "请坐。" }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə(r)/",
+      "meaning": "n. 正餐，晚餐",
+      "examples": [
+        { "en": "I asked her whether she was enjoying her dinner.", "zh": "我问她饭菜是否合她的口味。" },
+        { "en": "We had dinner at seven.", "zh": "我们七点吃晚饭。" }
+      ]
+    },
+    {
+      "word": "Mrs Rumbold",
+      "phonetic": "/ˈmɪsɪz ˈrʌmbəʊld/",
+      "meaning": "n. 兰伯尔德夫人（人名）",
+      "examples": [
+        { "en": "Mrs Rumbold was a large, unsmiling lady.", "zh": "兰伯尔德夫人是个身材高大、表情严肃的女人。" },
+        { "en": "I sat next to Mrs Rumbold.", "zh": "我坐在兰伯尔德夫人的旁边。" }
+      ]
+    },
+    {
+      "word": "look up",
+      "phonetic": "/lʊk ʌp/",
+      "meaning": "v. 抬头看",
+      "examples": [
+        { "en": "She did not even look up when I took my seat.", "zh": "我坐下时，她甚至连头都没抬。" },
+        { "en": "He looked up from his book.", "zh": "他从书本上抬起头来。" }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meaning": "adj. 年轻的",
+      "examples": [
+        { "en": "She called me 'young man'.", "zh": "她叫我“年轻人”。" },
+        { "en": "He is too young to go to school.", "zh": "他太小，还不能上学。" }
+      ]
+    },
+    {
+      "word": "party",
+      "phonetic": "/ˈpɑːti/",
+      "meaning": "n. 聚会，宴会",
+      "examples": [
+        { "en": "Last week we had a dinner party.", "zh": "上周我们举行了一次宴会。" },
+        { "en": "They had a party on her birthday.", "zh": "他们为她举行了生日聚会。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Last week at a dinner party, the hostess asked me to sit next to Mrs Rumbold.",
+      "zh": "上周的一次宴会上，女主人安排我坐在兰伯尔德夫人的身旁。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "dinner", "roles": ["定语"] },
+        { "text": "party", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "hostess", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "sit", "roles": ["补语"] },
+        { "text": "next", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Rumbold", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Mrs Rumbold was a large, unsmiling lady in a tight black dress.",
+      "zh": "兰伯尔德夫人是个身材高大、表情严肃的女人，穿一件紧身的黑衣服。",
+      "analysis": [
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Rumbold", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "unsmiling", "roles": ["定语"] },
+        { "text": "lady", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "tight", "roles": ["定语"] },
+        { "text": "black", "roles": ["定语"] },
+        { "text": "dress", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She did not even look up when I took my seat beside her.",
+      "zh": "我在她旁边坐下时，她甚至连头都没抬一下。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "even", "roles": ["状语"] },
+        { "text": "look", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "seat", "roles": ["宾语"] },
+        { "text": "beside", "roles": ["状语"] },
+        { "text": "her", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I tried to make conversation.",
+      "zh": "我试图找些话题和她聊聊。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "conversation", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "In despair, I asked her whether she was enjoying her dinner.",
+      "zh": "绝望之中，我问她饭菜是否合她的口味。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "despair", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "whether", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "enjoying", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "dinner", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Last week at a dinner party, the hostess asked me to sit next to Mrs Rumbold.", "zh": "上周的一次宴会上，女主人安排我坐在兰伯尔德夫人的身旁。" },
+    { "en": "Mrs Rumbold was a large, unsmiling lady in a tight black dress.", "zh": "兰伯尔德夫人是个身材高大、表情严肃的女人，穿一件紧身的黑衣服。" },
+    { "en": "She did not even look up when I took my seat beside her.", "zh": "我在她旁边坐下时，她甚至连头都没抬一下。" },
+    { "en": "Her eyes were fixed on her plate and in a short time, she was busy eating.", "zh": "她的眼睛盯着盘子，不一会儿就忙着吃了起来。" },
+    { "en": "I tried to make conversation.", "zh": "我试图找些话题和她聊聊。" },
+    { "en": "'A new play is coming to the Globe soon,' I said. 'Will you be seeing it?'", "zh": "“一出新剧很快就要在环球剧院上演了，”我说，“您会去看吗？”" },
+    { "en": "'No,' she answered.", "zh": "“不，”她回答说。" },
+    { "en": "In despair, I asked her whether she was enjoying her dinner.", "zh": "绝望之中，我问她饭菜是否合她的口味。" },
+    { "en": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'", "zh": "“年轻人，”她回答说，“如果你多吃点，少说点，我们俩就都会吃得好的！”" }
+  ]
+}

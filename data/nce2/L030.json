@@ -1,0 +1,282 @@
+{
+  "id": "L030",
+  "title": "Lesson 30 · Football or polo?",
+  "titleZh": "第30课 足球还是水球？",
+  "words": [
+    {
+      "word": "football",
+      "phonetic": "/ˈfʊtbɔːl/",
+      "meaning": "n. 足球",
+      "examples": [
+        { "en": "One of the children kicked a ball very hard.", "zh": "一个孩子狠狠地踢了一脚球。" },
+        { "en": "He plays football every weekend.", "zh": "他每个周末都踢足球。" }
+      ]
+    },
+    {
+      "word": "polo",
+      "phonetic": "/ˈpəʊləʊ/",
+      "meaning": "n. 水球",
+      "examples": [
+        { "en": "Football or polo?", "zh": "足球还是水球？" },
+        { "en": "They played water polo in the lake.", "zh": "他们在湖里打水球。" }
+      ]
+    },
+    {
+      "word": "Wayle",
+      "phonetic": "/weɪl/",
+      "meaning": "n. 威尔河",
+      "examples": [
+        { "en": "The Wayle is a small river.", "zh": "威尔河是一条小河。" },
+        { "en": "The Wayle cuts across the park.", "zh": "威尔河横穿过公园。" }
+      ]
+    },
+    {
+      "word": "river",
+      "phonetic": "/ˈrɪvə(r)/",
+      "meaning": "n. 河流",
+      "examples": [
+        { "en": "The Wayle is a small river.", "zh": "威尔河是一条小河。" },
+        { "en": "The river flows through the city.", "zh": "这条河流经城市。" }
+      ]
+    },
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "meaning": "n. 公园",
+      "examples": [
+        { "en": "The river cuts across the park near my home.", "zh": "这条河横穿过我家附近的公园。" },
+        { "en": "The children are playing in the park.", "zh": "孩子们正在公园里玩耍。" }
+      ]
+    },
+    {
+      "word": "row",
+      "phonetic": "/rəʊ/",
+      "meaning": "v. 划船",
+      "examples": [
+        { "en": "There were some people rowing on the river.", "zh": "河面上有些人正在划船。" },
+        { "en": "They rowed across the lake.", "zh": "他们划船穿过了湖面。" }
+      ]
+    },
+    {
+      "word": "kick",
+      "phonetic": "/kɪk/",
+      "meaning": "v. 踢",
+      "examples": [
+        { "en": "One of the children kicked a ball very hard.", "zh": "一个孩子狠狠地踢了一脚球。" },
+        { "en": "He kicked the ball into the goal.", "zh": "他把球踢进了球门。" }
+      ]
+    },
+    {
+      "word": "ball",
+      "phonetic": "/bɔːl/",
+      "meaning": "n. 球",
+      "examples": [
+        { "en": "One of the children kicked a ball very hard.", "zh": "一个孩子狠狠地踢了一脚球。" },
+        { "en": "The ball struck the man.", "zh": "球打在了那个人身上。" }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meaning": "n. 河岸",
+      "examples": [
+        { "en": "I sat on the river bank as usual.", "zh": "我和往常一样坐在河岸边。" },
+        { "en": "They were playing games on the bank.", "zh": "他们在河岸上玩耍。" }
+      ]
+    },
+    {
+      "word": "towards",
+      "phonetic": "/təˈwɔːdz/",
+      "meaning": "prep. 朝，向",
+      "examples": [
+        { "en": "The ball went towards a passing boat.", "zh": "球向着一只划过来的小船飞去。" },
+        { "en": "He walked towards the door.", "zh": "他朝门口走去。" }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meaning": "v. 击中，撞击",
+      "examples": [
+        { "en": "The ball struck him so hard.", "zh": "球重重地打在他身上。" },
+        { "en": "The clock struck nine.", "zh": "钟敲了九下。" }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meaning": "adv. 几乎",
+      "examples": [
+        { "en": "He nearly fell into the water.", "zh": "他差点儿落入水中。" },
+        { "en": "I nearly missed the train.", "zh": "我差点儿误了火车。" }
+      ]
+    },
+    {
+      "word": "fall",
+      "phonetic": "/fɔːl/",
+      "meaning": "v. 落下，跌倒",
+      "examples": [
+        { "en": "He nearly fell into the water.", "zh": "他差点儿落入水中。" },
+        { "en": "The leaves fall in autumn.", "zh": "树叶在秋天落下。" }
+      ]
+    },
+    {
+      "word": "sight",
+      "phonetic": "/saɪt/",
+      "meaning": "n. 视野，看见",
+      "examples": [
+        { "en": "There weren't any children in sight.", "zh": "一个孩子也看不见。" },
+        { "en": "The ship came into sight.", "zh": "那艘船出现了。" }
+      ]
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈrɪəlaɪz/",
+      "meaning": "v. 意识到",
+      "examples": [
+        { "en": "The man laughed when he realized what had happened.", "zh": "当那个人明白了发生的事情时，笑了起来。" },
+        { "en": "He realized his mistake at once.", "zh": "他立刻意识到了自己的错误。" }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "/ˈhæpən/",
+      "meaning": "v. 发生",
+      "examples": [
+        { "en": "He realized what had happened.", "zh": "他明白了发生的事情。" },
+        { "en": "What happened to you yesterday?", "zh": "你昨天发生了什么事？" }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/lɑːf/",
+      "meaning": "v. 笑",
+      "examples": [
+        { "en": "The man laughed.", "zh": "那个人笑了起来。" },
+        { "en": "The children laughed happily.", "zh": "孩子们开心地笑了。" }
+      ]
+    },
+    {
+      "word": "throw",
+      "phonetic": "/θrəʊ/",
+      "meaning": "v. 扔，抛",
+      "examples": [
+        { "en": "He threw the ball back to the bank.", "zh": "他把球扔回到岸上。" },
+        { "en": "Throw the ball to me.", "zh": "把球扔给我。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Wayle is a small river that cuts across the park near my home.",
+      "zh": "威尔河是横穿过我家附近公园的一条小河。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Wayle", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "river", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "cuts", "roles": ["谓语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "park", "roles": ["宾语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "home", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It was warm last Sunday, so I went and sat on the river bank as usual.",
+      "zh": "上星期日天气很暖和，于是我和往常一样，又去河边坐着。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "warm", "roles": ["表语"] },
+        { "text": "last", "roles": ["定语"] },
+        { "text": "Sunday", "roles": ["状语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sat", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["定语"] },
+        { "text": "bank", "roles": ["宾语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "usual", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Some children were playing games on the bank and there were some people rowing on the river.",
+      "zh": "河岸上有些孩子正在玩耍，河面上有些人正在划船。",
+      "analysis": [
+        { "text": "Some", "roles": ["定语"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "playing", "roles": ["谓语"] },
+        { "text": "games", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bank", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "rowing", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The ball struck him so hard that he nearly fell into the water.",
+      "zh": "球重重地打在他身上，使他差点儿落入水中。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "ball", "roles": ["主语"] },
+        { "text": "struck", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "hard", "roles": ["状语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "nearly", "roles": ["状语"] },
+        { "text": "fell", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "water", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The man laughed when he realized what had happened.",
+      "zh": "当那个人明白了发生的事情时，笑了起来。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "laughed", "roles": ["谓语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "realized", "roles": ["谓语"] },
+        { "text": "what", "roles": ["宾语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "happened", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Wayle is a small river that cuts across the park near my home.", "zh": "威尔河是横穿过我家附近公园的一条小河。" },
+    { "en": "I like sitting by the Wayle on fine afternoons.", "zh": "我喜欢在天气晴朗的下午到河边坐坐。" },
+    { "en": "It was warm last Sunday, so I went and sat on the river bank as usual.", "zh": "上星期日天气很暖和，于是我和往常一样，又去河边坐着。" },
+    { "en": "Some children were playing games on the bank and there were some people rowing on the river.", "zh": "河岸上有些孩子正在玩耍，河面上有些人正在划船。" },
+    { "en": "Suddenly, one of the children kicked a ball very hard and it went towards a passing boat.", "zh": "突然，一个孩子狠狠地踢了一脚球，球便向着一只划过来的小船飞去。" },
+    { "en": "Some people on the bank called out to the man in the boat, but he did not hear them.", "zh": "岸上的一些人对着小船上的人高喊，但他没有听见。" },
+    { "en": "The ball struck him so hard that he nearly fell into the water.", "zh": "球重重地打在他身上，使他差点儿落入水中。" },
+    { "en": "I turned to look at the children, but there weren't any in sight: they had all run away!", "zh": "我转过头去看那些孩子，但一个也不见，全都跑了！" },
+    { "en": "The man laughed when he realized what had happened.", "zh": "当那个人明白了发生的事情时，笑了起来。" },
+    { "en": "He called out to the children and threw the ball back to the bank.", "zh": "他大声叫着那些孩子，把球扔回到岸上。" }
+  ]
+}

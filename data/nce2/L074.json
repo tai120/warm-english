@@ -1,0 +1,243 @@
+{
+  "id": "L074",
+  "title": "Lesson 74 · Out of the limelight",
+  "titleZh": "第74课 舞台之外",
+  "words": [
+    {
+      "word": "limelight",
+      "phonetic": "/ˈlaɪmlaɪt/",
+      "meaning": "n. 聚光灯，公众注意的中心",
+      "examples": [
+        { "en": "The actors wanted to be out of the limelight.", "zh": "演员们想避开公众注意。" }
+      ]
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meaning": "adj. 古老的，旧的",
+      "examples": [
+        { "en": "An ancient bus stopped by the river.", "zh": "一辆破旧的汽车停在河边。" }
+      ]
+    },
+    {
+      "word": "party",
+      "phonetic": "/ˈpɑːti/",
+      "meaning": "n. 一群人，聚会",
+      "examples": [
+        { "en": "A party of actors got off the bus.", "zh": "一群演员下了车。" }
+      ]
+    },
+    {
+      "word": "actor",
+      "phonetic": "/ˈæktə(r)/",
+      "meaning": "n. 男演员",
+      "examples": [
+        { "en": "Rockwall Slinger is an actor.", "zh": "罗克沃尔·斯林格是一位演员。" }
+      ]
+    },
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meaning": "n. 女演员",
+      "examples": [
+        { "en": "Gloria Gleam is a famous actress.", "zh": "格洛丽亚·格利姆是一位著名女演员。" }
+      ]
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃn/",
+      "meaning": "n. 预防措施",
+      "examples": [
+        { "en": "They took precautions so that no one should recognize them.", "zh": "他们采取预防措施，不让别人认出他们。" }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meaning": "v. 认出",
+      "examples": [
+        { "en": "Nobody recognized the actors.", "zh": "没人认出这些演员。" }
+      ]
+    },
+    {
+      "word": "disguise",
+      "phonetic": "/dɪsˈɡaɪz/",
+      "meaning": "n. 伪装",
+      "examples": [
+        { "en": "Their disguises were too perfect.", "zh": "他们的伪装太完美了。" }
+      ]
+    },
+    {
+      "word": "picnic",
+      "phonetic": "/ˈpɪknɪk/",
+      "meaning": "n. 野餐",
+      "examples": [
+        { "en": "They had a picnic under the trees.", "zh": "他们在树下野餐。" }
+      ]
+    },
+    {
+      "word": "fan",
+      "phonetic": "/fæn/",
+      "meaning": "n. 狂热爱好者，影迷",
+      "examples": [
+        { "en": "There were no film fans there.", "zh": "那里没有影迷。" }
+      ]
+    },
+    {
+      "word": "shady",
+      "phonetic": "/ˈʃeɪdi/",
+      "meaning": "adj. 阴凉的，背阴的",
+      "examples": [
+        { "en": "They sat in a shady spot.", "zh": "他们坐在阴凉处。" }
+      ]
+    },
+    {
+      "word": "spot",
+      "phonetic": "/spɒt/",
+      "meaning": "n. 地点，场所",
+      "examples": [
+        { "en": "It was a wonderful spot for a picnic.", "zh": "那是个野餐的好地方。" }
+      ]
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meaning": "adj. 舒适的",
+      "examples": [
+        { "en": "They made themselves comfortable.", "zh": "他们舒舒服服地安顿下来。" }
+      ]
+    },
+    {
+      "word": "stranger",
+      "phonetic": "/ˈstreɪndʒə(r)/",
+      "meaning": "n. 陌生人",
+      "examples": [
+        { "en": "A stranger appeared and looked angry.", "zh": "一个陌生人出现了，看上去很生气。" }
+      ]
+    },
+    {
+      "word": "sheriff",
+      "phonetic": "/ˈʃerɪf/",
+      "meaning": "n. 治安官",
+      "examples": [
+        { "en": "The sheriff told them to get out.", "zh": "治安官叫他们离开。" }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meaning": "n. 告示，通知",
+      "examples": [
+        { "en": "The notice said 'No Camping'.", "zh": "告示上写着'禁止露营'。" }
+      ]
+    },
+    {
+      "word": "sneer",
+      "phonetic": "/snɪə(r)/",
+      "meaning": "v. 冷笑，嘲笑",
+      "examples": [
+        { "en": "The sheriff sneered at them.", "zh": "治安官嘲笑他们。" }
+      ]
+    },
+    {
+      "word": "Gloria Gleam",
+      "phonetic": "/ˈɡlɔːriə ɡliːm/",
+      "meaning": "n. 格洛丽亚·格利姆（人名）",
+      "examples": [
+        { "en": "Gloria Gleam is a famous actress.", "zh": "格洛丽亚·格利姆是一位著名女演员。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "They wore dark glasses and old clothes so that no one should recognize them.",
+      "zh": "他们戴着墨镜，穿着旧衣服，这样就没有人能认出他们了。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "wore", "roles": ["谓语"] },
+        { "text": "dark", "roles": ["定语"] },
+        { "text": "glasses", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "clothes", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "no", "roles": ["定语"] },
+        { "text": "one", "roles": ["主语"] },
+        { "text": "should", "roles": ["谓语"] },
+        { "text": "recognize", "roles": ["谓语"] },
+        { "text": "them", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "zh": "但正如他们很快发现的那样，伪装有时可能过于完美。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "discovered", "roles": ["谓语"] },
+        { "text": "disguises", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "sometimes", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "perfect", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Meanwhile, two other actors carried large food baskets to a shady spot under some trees.",
+      "zh": "与此同时，另外两名演员把两个大食品篮子搬到了树下阴凉的地方。",
+      "analysis": [
+        { "text": "Meanwhile", "roles": ["状语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "other", "roles": ["定语"] },
+        { "text": "actors", "roles": ["主语"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "food", "roles": ["定语"] },
+        { "text": "baskets", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "shady", "roles": ["定语"] },
+        { "text": "spot", "roles": ["宾语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "trees", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "When they had all made themselves comfortable, a stranger appeared and looked very angry.",
+      "zh": "当他们舒舒服服地安顿下来时，一个陌生人出现了，看上去非常生气。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "themselves", "roles": ["宾语"] },
+        { "text": "comfortable", "roles": ["补语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "stranger", "roles": ["主语"] },
+        { "text": "appeared", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "angry", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "An ancient bus stopped by a dry river bed, and a party of famous actors and actresses got off.", "zh": "一辆破旧的汽车停在一条干涸的河床边，一群著名的演员下了车。" },
+    { "en": "They wore dark glasses and old clothes so that no one should recognize them.", "zh": "他们戴着墨镜，穿着旧衣服，这样就没有人能认出他们了。" },
+    { "en": "But as they soon discovered, disguises can sometimes be too perfect.", "zh": "但正如他们很快发现的那样，伪装有时可能过于完美。" },
+    { "en": "'This is a wonderful place for a picnic,' said Gloria Gleam.", "zh": "'这真是个野餐的好地方。'格洛丽亚·格利姆说。" },
+    { "en": "'No newspaper men, no film fans!' she said happily.", "zh": "'没有记者，没有影迷！'她高兴地说。" },
+    { "en": "Meanwhile, two other actors carried large food baskets to a shady spot under some trees.", "zh": "与此同时，另外两名演员把两个大食品篮子搬到了树下阴凉的地方。" },
+    { "en": "When they had all made themselves comfortable, a stranger appeared and looked very angry.", "zh": "当他们舒舒服服地安顿下来时，一个陌生人出现了，看上去非常生气。" },
+    { "en": "'Now you get out of here, all of you!' the sheriff shouted.", "zh": "'你们现在都给我离开这里！'治安官喊道。" },
+    { "en": "'I am Rockwall Slinger and this is Merlin Greeves,' one actor said.", "zh": "'我是罗克沃尔·斯林格，这位是梅林·格里夫斯。'一个演员说。" },
+    { "en": "The sheriff did not believe them, and he sneered, 'I am Brinksley Meers and Gloria Gleam. Now get out fast!'", "zh": "治安官不相信他们，他冷笑着说：'我还是布林克斯利·米尔斯和格洛丽亚·格利姆呢。现在快滚！'" }
+  ]
+}

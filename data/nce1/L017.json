@@ -1,0 +1,162 @@
+{
+  "id": "L017",
+  "title": "Lesson 17 · How do you do?",
+  "titleZh": "第17课 你好！",
+  "words": [
+    {
+      "word": "employee",
+      "phonetic": "/ɪmˈplɔɪiː/",
+      "meaning": "n. 雇员",
+      "examples": [
+        { "en": "Come and meet our employees, Mr. Richards.", "zh": "来认识一下我们的雇员，理查兹先生。" }
+      ]
+    },
+    {
+      "word": "hard-working",
+      "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+      "meaning": "adj. 勤奋的",
+      "examples": [
+        { "en": "Those women are very hard-working.", "zh": "那些女士非常勤奋。" }
+      ]
+    },
+    {
+      "word": "job",
+      "phonetic": "/dʒɒb/",
+      "meaning": "n. 工作",
+      "examples": [
+        { "en": "What are their jobs?", "zh": "她们是做什么工作的？" },
+        { "en": "My job is very busy.", "zh": "我的工作很忙。" }
+      ]
+    },
+    {
+      "word": "operator",
+      "phonetic": "/ˈɒpəreɪtə(r)/",
+      "meaning": "n. 操作人员",
+      "examples": [
+        { "en": "They are keyboard operators.", "zh": "她们是电脑录入员。" }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "adj. 忙碌的",
+      "examples": [
+        { "en": "They aren't very busy!", "zh": "他们不太忙！" },
+        { "en": "I am busy today.", "zh": "我今天很忙。" }
+      ]
+    },
+    {
+      "word": "lazy",
+      "phonetic": "/ˈleɪzi/",
+      "meaning": "adj. 懒惰的",
+      "examples": [
+        { "en": "They are very lazy.", "zh": "他们非常懒。" }
+      ]
+    },
+    {
+      "word": "sales",
+      "phonetic": "/seɪlz/",
+      "meaning": "n. 销售",
+      "examples": [
+        { "en": "They are sales reps.", "zh": "他们是销售代表。" }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meaning": "n. 办公室",
+      "examples": [
+        { "en": "This is our office.", "zh": "这是我们的办公室。" },
+        { "en": "He is our office assistant.", "zh": "他是我们的办公室助理。" }
+      ]
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪstənt/",
+      "meaning": "n. 助手",
+      "examples": [
+        { "en": "He is our office assistant.", "zh": "他是我们的办公室助理。" }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meaning": "adj. 年轻的",
+      "examples": [
+        { "en": "Who is this young man?", "zh": "这个年轻人是谁？" },
+        { "en": "She is a young teacher.", "zh": "她是一位年轻的老师。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How do you do?",
+      "zh": "你好！",
+      "analysis": [
+        { "text": "How", "roles": ["状语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "do", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "This is Nicola Grey, and this is Claire Taylor.",
+      "zh": "这位是尼古拉·格雷，这位是克莱尔·泰勒。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "Nicola", "roles": ["定语"] },
+        { "text": "Grey", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "Claire", "roles": ["定语"] },
+        { "text": "Taylor", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Those women are very hard-working.",
+      "zh": "那些女士非常勤奋。",
+      "analysis": [
+        { "text": "Those", "roles": ["定语"] },
+        { "text": "women", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "hard-working", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "What are their jobs?",
+      "zh": "她们是做什么工作的？",
+      "analysis": [
+        { "text": "What", "roles": ["表语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "jobs", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "They're keyboard operators.",
+      "zh": "她们是电脑录入员。",
+      "analysis": [
+        { "text": "They're", "roles": ["主语", "谓语"] },
+        { "text": "keyboard", "roles": ["定语"] },
+        { "text": "operators", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Come and meet our employees, Mr. Richards.", "zh": "来认识一下我们的雇员，理查兹先生。" },
+    { "en": "Thank you, Mr. Jackson.", "zh": "谢谢，杰克逊先生。" },
+    { "en": "This is Nicola Grey, and this is Claire Taylor.", "zh": "这位是尼古拉·格雷，这位是克莱尔·泰勒。" },
+    { "en": "How do you do?", "zh": "你好！" },
+    { "en": "Those women are very hard-working.", "zh": "那些女士非常勤奋。" },
+    { "en": "What are their jobs?", "zh": "她们是做什么工作的？" },
+    { "en": "They're keyboard operators.", "zh": "她们是电脑录入员。" },
+    { "en": "This is Michael Baker, and this is Jeremy Short.", "zh": "这位是迈克尔·贝克，这位是杰里米·肖特。" },
+    { "en": "How do you do?", "zh": "你好！" },
+    { "en": "They aren't very busy! What are their jobs?", "zh": "他们不太忙！他们是做什么工作的？" },
+    { "en": "They're sales reps. They're very lazy.", "zh": "他们是销售代表。他们非常懒。" },
+    { "en": "Who is this young man? This is Jim. He's our office assistant.", "zh": "这个年轻人是谁？这位是吉姆。他是我们的办公室助理。" }
+  ]
+}

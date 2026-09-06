@@ -1,0 +1,243 @@
+{
+  "id": "L060",
+  "title": "Lesson 60 · The future",
+  "titleZh": "第60课 卜算未来",
+  "words": [
+    {
+      "word": "fair",
+      "phonetic": "/feə(r)/",
+      "meaning": "n. 集市，博览会",
+      "examples": [
+        { "en": "At a village fair, I met a fortune-teller.", "zh": "在乡村集市上，我遇到了一位算命先生。" }
+      ]
+    },
+    {
+      "word": "fortune-teller",
+      "phonetic": "/ˈfɔːtʃuːn telə(r)/",
+      "meaning": "n. 算命先生",
+      "examples": [
+        { "en": "I decided to visit a fortune-teller.", "zh": "我决定去拜访一位算命先生。" }
+      ]
+    },
+    {
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meaning": "n. 帐篷",
+      "examples": [
+        { "en": "I went into her tent.", "zh": "我走进了她的帐篷。" }
+      ]
+    },
+    {
+      "word": "crystal",
+      "phonetic": "/ˈkrɪstl/",
+      "meaning": "n. 水晶",
+      "examples": [
+        { "en": "She looked into a crystal ball.", "zh": "她凝视着水晶球。" }
+      ]
+    },
+    {
+      "word": "relation",
+      "phonetic": "/rɪˈleɪʃn/",
+      "meaning": "n. 亲戚",
+      "examples": [
+        { "en": "A relation of yours is coming to see you.", "zh": "你的一位亲戚要来看你。" }
+      ]
+    },
+    {
+      "word": "impatiently",
+      "phonetic": "/ɪmˈpeɪʃntli/",
+      "meaning": "adv. 不耐烦地",
+      "examples": [
+        { "en": "My wife asked impatiently.", "zh": "我妻子不耐烦地问。" }
+      ]
+    },
+    {
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "meaning": "v. 打算",
+      "examples": [
+        { "en": "She intends to stay for a few days.", "zh": "她打算住几天。" }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meaning": "n. 时刻",
+      "examples": [
+        { "en": "The moment you leave this tent, you will get a surprise.", "zh": "你一离开这个帐篷就会大吃一惊。" }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meaning": "n. 惊讶，惊喜",
+      "examples": [
+        { "en": "You will get a big surprise.", "zh": "你会大吃一惊。" }
+      ]
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meaning": "v. 冲，奔",
+      "examples": [
+        { "en": "A woman will rush towards you.", "zh": "一位女士会向你冲过来。" }
+      ]
+    },
+    {
+      "word": "hide",
+      "phonetic": "/haɪd/",
+      "meaning": "v. 躲藏",
+      "examples": [
+        { "en": "Where have you been hiding?", "zh": "你躲到哪里去了？" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站",
+      "examples": [
+        { "en": "We must be at the station to meet her.", "zh": "我们必须到车站去接她。" }
+      ]
+    },
+    {
+      "word": "follow",
+      "phonetic": "/ˈfɒləʊ/",
+      "meaning": "v. 跟随",
+      "examples": [
+        { "en": "I followed her out of the fair.", "zh": "我跟着她离开了集市。" }
+      ]
+    },
+    {
+      "word": "Bellinsky",
+      "phonetic": "/bəˈlɪnski/",
+      "meaning": "n. 别林斯基（人名）",
+      "examples": [
+        { "en": "Madam Bellinsky is a fortune-teller.", "zh": "别林斯基夫人是一位算命先生。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "zh": "在一个乡村集市上，我决定去拜访一位名叫别林斯基夫人的算命先生。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "village", "roles": ["定语"] },
+        { "text": "fair", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "decided", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "visit", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fortune-teller", "roles": ["宾语"] },
+        { "text": "called", "roles": ["定语"] },
+        { "text": "Madam", "roles": ["定语"] },
+        { "text": "Bellinsky", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "I went into her tent and she told me to sit down.",
+      "zh": "我走进她的帐篷，她让我坐下。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "tent", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sit", "roles": ["谓语"] },
+        { "text": "down", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "After I had given her some money, she looked into a crystal ball.",
+      "zh": "我给了她一些钱后，她凝视着水晶球。",
+      "analysis": [
+        { "text": "After", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "given", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "crystal", "roles": ["定语"] },
+        { "text": "ball", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "zh": "我一走出帐篷，就把别林斯基夫人的话忘得一干二净，因为我妻子急匆匆地向我走来。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "forgot", "roles": ["谓语"] },
+        { "text": "all", "roles": ["宾语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "Madam", "roles": ["定语"] },
+        { "text": "Bellinsky", "roles": ["宾语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "hurried", "roles": ["谓语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "me", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "She asked impatiently where I had been hiding.",
+      "zh": "她不耐烦地问我躲到哪里去了。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "impatiently", "roles": ["状语"] },
+        { "text": "where", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "hiding", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "As she walked away, I followed her out of the fair.",
+      "zh": "她走开时，我跟着她离开了集市。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "walked", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "followed", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "fair", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.", "zh": "在一个乡村集市上，我决定去拜访一位名叫别林斯基夫人的算命先生。" },
+    { "en": "I went into her tent and she told me to sit down.", "zh": "我走进她的帐篷，她让我坐下。" },
+    { "en": "After I had given her some money, she looked into a crystal ball.", "zh": "我给了她一些钱后，她凝视着水晶球。" },
+    { "en": "She said: 'A relation of yours is coming to see you. She will be arriving this evening and intends to stay for a few days.'", "zh": "她说：'你的一位亲戚要来看你。她今晚到达，打算住几天。'" },
+    { "en": "'The moment you leave this tent, you will get a big surprise. A woman you know well will rush towards you and speak to you. That is all.'", "zh": "'你一离开这个帐篷，就会大吃一惊。一位你熟识的女士会向你冲过来，跟你说话。就这些。'" },
+    { "en": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.", "zh": "我一走出帐篷，就把别林斯基夫人的话忘得一干二净，因为我妻子急匆匆地向我走来。" },
+    { "en": "She asked impatiently where I had been hiding.", "zh": "她不耐烦地问我躲到哪里去了。" },
+    { "en": "She said that my sister would be here in less than an hour and that we must be at the station to meet her.", "zh": "她说我姐姐不到一小时就到了，我们必须到车站去接她。" },
+    { "en": "As she walked away, I followed her out of the fair.", "zh": "她走开时，我跟着她离开了集市。" }
+  ]
+}

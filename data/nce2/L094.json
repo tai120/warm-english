@@ -1,0 +1,258 @@
+{
+  "id": "L094",
+  "title": "Lesson 94 · Future champions",
+  "titleZh": "第94课 未来的冠军",
+  "words": [
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meaning": "n. 冠军",
+      "examples": [
+        { "en": "Will they become future Olympic champions?", "zh": "他们会成为未来的奥运会冠军吗？" }
+      ]
+    },
+    {
+      "word": "experiment",
+      "phonetic": "/ɪkˈsperɪmənt/",
+      "meaning": "n. 实验",
+      "examples": [
+        { "en": "Experiments have proved that children can swim.", "zh": "实验证明儿童能学会游泳。" }
+      ]
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meaning": "v. 指导，教",
+      "examples": [
+        { "en": "Children can be instructed in swimming at an early age.", "zh": "儿童在很小的时候就能接受游泳训练。" }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "/puːl/",
+      "meaning": "n. 游泳池",
+      "examples": [
+        { "en": "There is a special swimming pool in Los Angeles.", "zh": "洛杉矶有一个特制的游泳池。" }
+      ]
+    },
+    {
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meaning": "n. 呼吸",
+      "examples": [
+        { "en": "They can hold their breath under water.", "zh": "他们能在水下屏住呼吸。" }
+      ]
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "/rɪˈlʌktənt/",
+      "meaning": "adj. 不情愿的",
+      "examples": [
+        { "en": "Babies do not appear to be reluctant to enter the water.", "zh": "婴儿似乎并不怕下水。" }
+      ]
+    },
+    {
+      "word": "accustomed",
+      "phonetic": "/əˈkʌstəmd/",
+      "meaning": "adj. 习惯的",
+      "examples": [
+        { "en": "They are soon accustomed to swimming.", "zh": "他们很快就习惯了游泳。" }
+      ]
+    },
+    {
+      "word": "weight",
+      "phonetic": "/weɪt/",
+      "meaning": "n. 重物，重量",
+      "examples": [
+        { "en": "They can pick up weights from the floor of the pool.", "zh": "他们能从池底捡起重物。" }
+      ]
+    },
+    {
+      "word": "underwater",
+      "phonetic": "/ˌʌndəˈwɔːtə(r)/",
+      "meaning": "adj. 水下的",
+      "examples": [
+        { "en": "The underwater tricycle race is very popular.", "zh": "水下三轮车比赛非常受欢迎。" }
+      ]
+    },
+    {
+      "word": "tricycle",
+      "phonetic": "/ˈtraɪsɪkl/",
+      "meaning": "n. 三轮车",
+      "examples": [
+        { "en": "Tricycles are lined up on the floor of the pool.", "zh": "三轮车在池底排成一行。" }
+      ]
+    },
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meaning": "n. 比赛",
+      "examples": [
+        { "en": "The children take part in a tricycle race.", "zh": "孩子们参加三轮车比赛。" }
+      ]
+    },
+    {
+      "word": "compete",
+      "phonetic": "/kəmˈpiːt/",
+      "meaning": "v. 竞争",
+      "examples": [
+        { "en": "The children compete against each other.", "zh": "孩子们相互比赛。" }
+      ]
+    },
+    {
+      "word": "pedal",
+      "phonetic": "/ˈpedl/",
+      "meaning": "v. 踩踏板",
+      "examples": [
+        { "en": "Many children pedal their tricycles.", "zh": "许多孩子蹬着三轮车。" }
+      ]
+    },
+    {
+      "word": "push",
+      "phonetic": "/pʊʃ/",
+      "meaning": "v. 推",
+      "examples": [
+        { "en": "Most of them prefer to push or drag their tricycles.", "zh": "他们大多数喜欢推着或拖着三轮车。" }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə(r)/",
+      "meaning": "v. 走完（一段距离）",
+      "examples": [
+        { "en": "Some children can cover the whole length of the pool.", "zh": "有些孩子能游完游泳池的全程。" }
+      ]
+    },
+    {
+      "word": "length",
+      "phonetic": "/leŋθ/",
+      "meaning": "n. 长度",
+      "examples": [
+        { "en": "The pool is sixty feet in length.", "zh": "这个游泳池长六十英尺。" }
+      ]
+    },
+    {
+      "word": "Olympic",
+      "phonetic": "/əˈlɪmpɪk/",
+      "meaning": "adj. 奥林匹克的",
+      "examples": [
+        { "en": "They may become Olympic champions one day.", "zh": "他们有一天可能会成为奥运会冠军。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "zh": "实验证明，儿童在很小的时候就可以接受游泳训练。",
+      "analysis": [
+        { "text": "Experiments", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "proved", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "instructed", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "swimming", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "early", "roles": ["定语"] },
+        { "text": "age", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Babies of two months old do not appear to be reluctant to enter the water.",
+      "zh": "两个月大的婴儿似乎并不害怕下水。",
+      "analysis": [
+        { "text": "Babies", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "months", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "appear", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "reluctant", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "enter", "roles": ["补语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "water", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "zh": "水下三轮车比赛是这些小游泳者非常喜爱的游戏。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "game", "roles": ["主语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "popular", "roles": ["表语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "young", "roles": ["定语"] },
+        { "text": "swimmers", "roles": ["状语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "underwater", "roles": ["定语"] },
+        { "text": "tricycle", "roles": ["定语"] },
+        { "text": "race", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Tricycles are lined up on the floor of the pool seven feet under water.",
+      "zh": "三轮车排列在七英尺深的水下池底。",
+      "analysis": [
+        { "text": "Tricycles", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "lined", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "floor", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "pool", "roles": ["定语"] },
+        { "text": "seven", "roles": ["定语"] },
+        { "text": "feet", "roles": ["状语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "water", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Whether they will ever become future Olympic champions, only time will tell.",
+      "zh": "他们将来能否成为奥运会冠军，只有时间能证明。",
+      "analysis": [
+        { "text": "Whether", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "become", "roles": ["谓语"] },
+        { "text": "future", "roles": ["定语"] },
+        { "text": "Olympic", "roles": ["定语"] },
+        { "text": "champions", "roles": ["表语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "time", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "tell", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Experiments have proved that children can be instructed in swimming at a very early age.", "zh": "实验证明，儿童在很小的时候就可以接受游泳训练。" },
+    { "en": "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.", "zh": "在洛杉矶的一个特制游泳池里，孩子们甚至在学会走路之前就能熟练地在水下屏住呼吸。" },
+    { "en": "Babies of two months old do not appear to be reluctant to enter the water.", "zh": "两个月大的婴儿似乎并不害怕下水。" },
+    { "en": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.", "zh": "不久，他们就习惯了游泳，甚至能从池底捡起重物。" },
+    { "en": "A game that is very popular with these young swimmers is the underwater tricycle race.", "zh": "水下三轮车比赛是这些小游泳者非常喜爱的游戏。" },
+    { "en": "Tricycles are lined up on the floor of the pool seven feet under water.", "zh": "三轮车排列在七英尺深的水下池底。" },
+    { "en": "The children compete against each other to reach the other end of the pool.", "zh": "孩子们相互竞争，看谁先到达游泳池的另一端。" },
+    { "en": "Many pedal their tricycles, but most of them prefer to push or drag them.", "zh": "许多孩子蹬着三轮车，但大多数孩子更喜欢推着或拖着它们。" },
+    { "en": "Some children can cover the whole length of the pool without coming up for breath even once.", "zh": "有些孩子能一口气游完游泳池的全程而不换一次气。" },
+    { "en": "Whether they will ever become future Olympic champions, only time will tell.", "zh": "他们将来能否成为奥运会冠军，只有时间能证明。" }
+  ]
+}

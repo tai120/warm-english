@@ -1,0 +1,214 @@
+{
+  "id": "L133",
+  "title": "Lesson 133 · Sensational news!",
+  "titleZh": "第133课 爆炸性新闻！",
+  "words": [
+    {
+      "word": "sensational",
+      "phonetic": "/senˈseɪʃənl/",
+      "meaning": "adj. 轰动性的，爆炸性的",
+      "examples": [
+        { "en": "Karen Marsh: Sensational News!", "zh": "卡伦·马什：爆炸性新闻！" }
+      ]
+    },
+    {
+      "word": "reporter",
+      "phonetic": "/rɪˈpɔːtə(r)/",
+      "meaning": "n. 记者",
+      "examples": [
+        { "en": "Have you just made a new film, Miss Marsh?", "zh": "马什小姐，您刚拍完一部新电影吗？" }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "meaning": "n. 电影",
+      "examples": [
+        { "en": "Have you just made a new film, Miss Marsh?", "zh": "马什小姐，您刚拍完一部新电影吗？" },
+        { "en": "I don't want to make another film for a long time.", "zh": "很长时间内我都不想再拍电影了。" }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə(r)/",
+      "meaning": "n. 报纸",
+      "examples": [
+        { "en": "Let's buy a newspaper, Liz.", "zh": "我们买份报纸吧，莉兹。" }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meaning": "v. 退休",
+      "examples": [
+        { "en": "I'm going to retire.", "zh": "我准备退休了。" }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meaning": "adj. 累的，疲倦的",
+      "examples": [
+        { "en": "I feel very tired.", "zh": "我感到很累。" }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "v. 到达",
+      "examples": [
+        { "en": "Karen Marsh arrived at London Airport today.", "zh": "卡伦·马什今天到达伦敦机场。" }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "n. 机场",
+      "examples": [
+        { "en": "Karen Marsh arrived at London Airport today.", "zh": "卡伦·马什今天到达伦敦机场。" }
+      ]
+    },
+    {
+      "word": "mink",
+      "phonetic": "/mɪŋk/",
+      "meaning": "n. 貂，貂皮",
+      "examples": [
+        { "en": "She was wearing a blue dress and a mink coat.", "zh": "她穿着一件蓝色连衣裙和一件貂皮大衣。" }
+      ]
+    },
+    {
+      "word": "coat",
+      "phonetic": "/kəʊt/",
+      "meaning": "n. 大衣，外套",
+      "examples": [
+        { "en": "She was wearing a blue dress and a mink coat.", "zh": "她穿着一件蓝色连衣裙和一件貂皮大衣。" }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "v. 想知道，纳闷",
+      "examples": [
+        { "en": "I wonder why!", "zh": "我真纳闷为什么！" }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "/njuːz/",
+      "meaning": "n. 新闻，消息",
+      "examples": [
+        { "en": "Karen Marsh: Sensational News!", "zh": "卡伦·马什：爆炸性新闻！" }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "/dʒʌst/",
+      "meaning": "adv. 刚刚",
+      "examples": [
+        { "en": "Have you just made a new film, Miss Marsh?", "zh": "马什小姐，您刚拍完一部新电影吗？" }
+      ]
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə(r)/",
+      "meaning": "pron. 另一个",
+      "examples": [
+        { "en": "Are you going to make another?", "zh": "您准备再拍一部吗？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Have you just made a new film, Miss Marsh?",
+      "zh": "马什小姐，您刚拍完一部新电影吗？",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "film", "roles": ["宾语"] },
+        { "text": "Miss", "roles": ["感叹词"] },
+        { "text": "Marsh", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I'm going to retire.",
+      "zh": "我准备退休了。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "retire", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I feel very tired.",
+      "zh": "我感到很累。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "feel", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "tired", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "I don't want to make another film for a long time.",
+      "zh": "很长时间内我都不想再拍电影了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "film", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "long", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Karen Marsh arrived at London Airport today.",
+      "zh": "卡伦·马什今天到达伦敦机场。",
+      "analysis": [
+        { "text": "Karen", "roles": ["主语"] },
+        { "text": "Marsh", "roles": ["主语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "London", "roles": ["定语"] },
+        { "text": "Airport", "roles": ["状语"] },
+        { "text": "today", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She said she was going to retire.",
+      "zh": "她说她准备退休。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "retire", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Have you just made a new film, Miss Marsh?", "zh": "马什小姐，您刚拍完一部新电影吗？" },
+    { "en": "Yes, I have.", "zh": "是的。" },
+    { "en": "Are you going to make another?", "zh": "您准备再拍一部吗？" },
+    { "en": "No, I'm not.", "zh": "不，不拍了。" },
+    { "en": "I'm going to retire.", "zh": "我准备退休了。" },
+    { "en": "I feel very tired.", "zh": "我感到很累。" },
+    { "en": "I don't want to make another film for a long time.", "zh": "很长时间内我都不想再拍电影了。" },
+    { "en": "Let's buy a newspaper, Liz.", "zh": "我们买份报纸吧，莉兹。" },
+    { "en": "Karen Marsh arrived at London Airport today.", "zh": "卡伦·马什今天到达伦敦机场。" },
+    { "en": "She was wearing a blue dress and a mink coat.", "zh": "她穿着一件蓝色连衣裙和一件貂皮大衣。" },
+    { "en": "She told me she had just made a new film.", "zh": "她告诉我她刚拍完一部新电影。" },
+    { "en": "She said she was going to retire.", "zh": "她说她准备退休。" }
+  ]
+}

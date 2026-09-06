@@ -1,0 +1,262 @@
+{
+  "id": "L071",
+  "title": "Lesson 71 · A famous clock",
+  "titleZh": "第71课 一个著名的大钟",
+  "words": [
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meaning": "adj. 著名的",
+      "examples": [
+        { "en": "Big Ben is a famous clock.", "zh": "大本钟是一座著名的钟。" }
+      ]
+    },
+    {
+      "word": "clock",
+      "phonetic": "/klɒk/",
+      "meaning": "n. 时钟",
+      "examples": [
+        { "en": "The great clock is very accurate.", "zh": "这座大钟走得很准。" }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meaning": "v. 参观，游览",
+      "examples": [
+        { "en": "When you visit London, you will see Big Ben.", "zh": "你游览伦敦时，会看到大本钟。" }
+      ]
+    },
+    {
+      "word": "London",
+      "phonetic": "/ˈlʌndən/",
+      "meaning": "n. 伦敦",
+      "examples": [
+        { "en": "London is the capital of Britain.", "zh": "伦敦是英国的首都。" }
+      ]
+    },
+    {
+      "word": "Big Ben",
+      "phonetic": "/bɪɡ ben/",
+      "meaning": "n. 大本钟",
+      "examples": [
+        { "en": "Big Ben can be heard on the BBC.", "zh": "通过英国广播公司能听到大本钟的钟声。" }
+      ]
+    },
+    {
+      "word": "Parliament",
+      "phonetic": "/ˈpɑːləmənt/",
+      "meaning": "n. 议会，国会",
+      "examples": [
+        { "en": "The Houses of Parliament were burned down in 1834.", "zh": "国会大厦于1834年被烧毁。" }
+      ]
+    },
+    {
+      "word": "burn",
+      "phonetic": "/bɜːn/",
+      "meaning": "v. 燃烧，烧毁",
+      "examples": [
+        { "en": "The building was burned down.", "zh": "那座建筑被烧毁了。" }
+      ]
+    },
+    {
+      "word": "erect",
+      "phonetic": "/ɪˈrekt/",
+      "meaning": "v. 建造，竖立",
+      "examples": [
+        { "en": "The great clock was erected after 1834.", "zh": "这座大钟是1834年后建造的。" }
+      ]
+    },
+    {
+      "word": "responsible",
+      "phonetic": "/rɪˈspɒnsəbl/",
+      "meaning": "adj. 负责的",
+      "examples": [
+        { "en": "He was responsible for the making of the clock.", "zh": "他负责这座钟的制造。" }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meaning": "adj. 巨大的",
+      "examples": [
+        { "en": "The clock is of immense size.", "zh": "这座钟体积巨大。" }
+      ]
+    },
+    {
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "adj. 准确的",
+      "examples": [
+        { "en": "The clock is extremely accurate.", "zh": "这座钟极其准确。" }
+      ]
+    },
+    {
+      "word": "official",
+      "phonetic": "/əˈfɪʃl/",
+      "meaning": "n. 官员",
+      "examples": [
+        { "en": "Officials have the clock checked twice a day.", "zh": "官员们每天派人校对两次钟。" }
+      ]
+    },
+    {
+      "word": "observatory",
+      "phonetic": "/əbˈzɜːvətri/",
+      "meaning": "n. 天文台",
+      "examples": [
+        { "en": "The officials come from Greenwich Observatory.", "zh": "这些官员来自格林尼治天文台。" }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meaning": "v. 敲响",
+      "examples": [
+        { "en": "You can hear the clock striking on the BBC.", "zh": "你能通过英国广播公司听到钟声敲响。" }
+      ]
+    },
+    {
+      "word": "microphone",
+      "phonetic": "/ˈmaɪkrəfəʊn/",
+      "meaning": "n. 麦克风",
+      "examples": [
+        { "en": "Microphones are connected to the clock tower.", "zh": "钟楼上连接着麦克风。" }
+      ]
+    },
+    {
+      "word": "painter",
+      "phonetic": "/ˈpeɪntə(r)/",
+      "meaning": "n. 油漆工，画家",
+      "examples": [
+        { "en": "A painter slowed the clock down.", "zh": "一个油漆工把钟弄慢了。" }
+      ]
+    },
+    {
+      "word": "pot",
+      "phonetic": "/pɒt/",
+      "meaning": "n. 罐，壶",
+      "examples": [
+        { "en": "He hung a pot of paint on one of the hands.", "zh": "他把一罐油漆挂在了一根指针上。" }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meaning": "n. 油漆",
+      "examples": [
+        { "en": "The pot was full of paint.", "zh": "罐子里装满了油漆。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "When you visit London, one of the first things you will see is Big Ben.",
+      "zh": "你游览伦敦时，最先看到的景物之一就是大本钟。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "visit", "roles": ["谓语"] },
+        { "text": "London", "roles": ["宾语"] },
+        { "text": "one", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "first", "roles": ["定语"] },
+        { "text": "things", "roles": ["宾语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "Big", "roles": ["定语"] },
+        { "text": "Ben", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It is not only of immense size, but it is extremely accurate as well.",
+      "zh": "它不仅体积巨大，而且走时极其准确。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "immense", "roles": ["定语"] },
+        { "text": "size", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "extremely", "roles": ["状语"] },
+        { "text": "accurate", "roles": ["表语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "well", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "zh": "格林尼治天文台的官员们每天派人把钟校对两次。",
+      "analysis": [
+        { "text": "Officials", "roles": ["主语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "Greenwich", "roles": ["定语"] },
+        { "text": "Observatory", "roles": ["宾语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "clock", "roles": ["宾语"] },
+        { "text": "checked", "roles": ["补语"] },
+        { "text": "twice", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "You can hear the clock on the BBC when it is actually striking.",
+      "zh": "当钟真正敲响的时候，你能通过英国广播公司听到钟声。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "hear", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "clock", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "BBC", "roles": ["宾语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "actually", "roles": ["状语"] },
+        { "text": "striking", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Big Ben has rarely gone wrong, but once it failed to give the correct time.",
+      "zh": "大本钟很少出差错，但有一次它没能给出准确的时间。",
+      "analysis": [
+        { "text": "Big", "roles": ["定语"] },
+        { "text": "Ben", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "rarely", "roles": ["状语"] },
+        { "text": "gone", "roles": ["谓语"] },
+        { "text": "wrong", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "once", "roles": ["状语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "failed", "roles": ["谓语"] },
+        { "text": "to", "roles": ["宾语"] },
+        { "text": "give", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "correct", "roles": ["定语"] },
+        { "text": "time", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "When you visit London, one of the first things you will see is Big Ben.", "zh": "你游览伦敦时，最先看到的景物之一就是大本钟。" },
+    { "en": "Big Ben is the famous clock which can be heard all over the world on the BBC.", "zh": "大本钟是那座著名的钟，全世界都能通过英国广播公司听到它的钟声。" },
+    { "en": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.", "zh": "如果不是国会大厦在1834年被烧毁，这座大钟也许永远不会被建造。" },
+    { "en": "Big Ben takes its name from Sir Benjamin Hall, who was responsible for the making of the clock.", "zh": "大本钟得名于本杰明·霍尔爵士，他负责了这座钟的制造。" },
+    { "en": "It is not only of immense size, but it is extremely accurate as well.", "zh": "它不仅体积巨大，而且走时极其准确。" },
+    { "en": "Officials from Greenwich Observatory have the clock checked twice a day.", "zh": "格林尼治天文台的官员们每天派人把钟校对两次。" },
+    { "en": "You can hear the clock on the BBC when it is actually striking.", "zh": "当钟真正敲响的时候，你能通过英国广播公司听到钟声。" },
+    { "en": "Big Ben has rarely gone wrong, but once it failed to give the correct time.", "zh": "大本钟很少出差错，但有一次它没能给出准确的时间。" },
+    { "en": "A painter had hung a pot of paint on one of the hands and slowed it down!", "zh": "一个油漆工把一罐油漆挂在了其中一根指针上，把它弄慢了！" }
+  ]
+}

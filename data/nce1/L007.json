@@ -117,7 +117,8 @@
       "en": "What nationality are you?",
       "zh": "你是哪国人？",
       "analysis": [
-        { "text": "What nationality", "roles": ["表语"] },
+        { "text": "What", "roles": ["表语"] },
+        { "text": "nationality", "roles": ["表语"] },
         { "text": "are", "roles": ["谓语"] },
         { "text": "you", "roles": ["主语"] }
       ]
@@ -128,7 +129,8 @@
       "analysis": [
         { "text": "I'm", "roles": ["主语", "谓语"] },
         { "text": "a", "roles": ["定语"] },
-        { "text": "keyboard operator", "roles": ["表语"] }
+        { "text": "keyboard", "roles": ["定语"] },
+        { "text": "operator", "roles": ["表语"] }
       ]
     }
   ],

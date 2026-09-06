@@ -1,0 +1,197 @@
+{
+  "id": "L045",
+  "title": "Lesson 45 · The boss's letter",
+  "titleZh": "第45课 老板的信",
+  "words": [
+    {
+      "word": "boss",
+      "phonetic": "/bɒs/",
+      "meaning": "n. 老板，上司",
+      "examples": [
+        { "en": "Can you type this letter for the boss, please?", "zh": "你能为老板打这封信吗？" },
+        { "en": "The boss's handwriting is terrible!", "zh": "老板的书写太糟糕了！" }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meaning": "n. 分钟；一会儿",
+      "examples": [
+        { "en": "Can you come here a minute, please?", "zh": "请你过来一下，好吗？" },
+        { "en": "Wait a minute, please.", "zh": "请等一下。" }
+      ]
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meaning": "v. 请求，要求",
+      "examples": [
+        { "en": "Ask her, please.", "zh": "请你去问她。" },
+        { "en": "May I ask a question?", "zh": "我可以问个问题吗？" }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "/taɪp/",
+      "meaning": "v. 打字",
+      "examples": [
+        { "en": "Can you type this letter for me?", "zh": "你能为我打这封信吗？" },
+        { "en": "I can't type this letter.", "zh": "我不能打这封信。" }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meaning": "n. 信",
+      "examples": [
+        { "en": "Can you type this letter for the boss, please?", "zh": "你能为老板打这封信吗？" },
+        { "en": "I can't read this letter.", "zh": "这封信我看不懂。" }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meaning": "n. 办公室",
+      "examples": [
+        { "en": "She's in her office, sir.", "zh": "她在办公室里，先生。" },
+        { "en": "My office is next door.", "zh": "我的办公室在隔壁。" }
+      ]
+    },
+    {
+      "word": "next",
+      "phonetic": "/nekst/",
+      "meaning": "adj. 下一个的，邻近的",
+      "examples": [
+        { "en": "She's next door.", "zh": "她在隔壁。" },
+        { "en": "See you next week.", "zh": "下周见。" }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː(r)/",
+      "meaning": "n. 门",
+      "examples": [
+        { "en": "She's next door.", "zh": "她在隔壁。" },
+        { "en": "Please open the door.", "zh": "请开门。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "n. 事情，问题",
+      "examples": [
+        { "en": "What's the matter?", "zh": "怎么了？" },
+        { "en": "What's the matter with you?", "zh": "你怎么了？" }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "/riːd/",
+      "meaning": "v. 读，阅读",
+      "examples": [
+        { "en": "I can't read it!", "zh": "我看不懂！" },
+        { "en": "Can you read this letter?", "zh": "你能看懂这封信吗？" }
+      ]
+    },
+    {
+      "word": "handwriting",
+      "phonetic": "/ˈhændraɪtɪŋ/",
+      "meaning": "n. 笔迹，书法",
+      "examples": [
+        { "en": "The boss's handwriting is terrible!", "zh": "老板的书写太糟糕了！" },
+        { "en": "Her handwriting is very good.", "zh": "她的字写得很好。" }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "adj. 极坏的，糟糕的",
+      "examples": [
+        { "en": "The boss's handwriting is terrible!", "zh": "老板的书写太糟糕了！" },
+        { "en": "The weather is terrible today.", "zh": "今天天气糟透了。" }
+      ]
+    },
+    {
+      "word": "sir",
+      "phonetic": "/sɜː(r)/",
+      "meaning": "n. 先生（尊称）",
+      "examples": [
+        { "en": "Yes, sir?", "zh": "什么事，先生？" },
+        { "en": "She's in her office, sir.", "zh": "她在办公室里，先生。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can you type this letter for the boss please, Pamela?",
+      "zh": "帕梅拉，你能为老板打这封信吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "type", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "boss", "roles": ["状语"] },
+        { "text": "please", "roles": ["感叹词"] },
+        { "text": "Pamela", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "What's the matter?",
+      "zh": "怎么了？",
+      "analysis": [
+        { "text": "What's", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "matter", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "I can't type this letter.",
+      "zh": "我不能打这封信。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "type", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I can't read it!",
+      "zh": "我看不懂！",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "read", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The boss's handwriting is terrible!",
+      "zh": "老板的书写太糟糕了！",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "boss's", "roles": ["定语"] },
+        { "text": "handwriting", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "terrible", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Can you come here a minute please, Bob?", "zh": "鲍勃，请你过来一下，好吗？" },
+    { "en": "Yes, sir?", "zh": "什么事，先生？" },
+    { "en": "Where's Pamela?", "zh": "帕梅拉在哪儿？" },
+    { "en": "She's next door.", "zh": "她在隔壁。" },
+    { "en": "She's in her office, sir.", "zh": "她在她的办公室里，先生。" },
+    { "en": "Can she type this letter for me?", "zh": "她能为我打这封信吗？" },
+    { "en": "Ask her please.", "zh": "请你去问她。" },
+    { "en": "Can you type this letter for the boss please, Pamela?", "zh": "帕梅拉，你能为老板打这封信吗？" },
+    { "en": "What's the matter?", "zh": "怎么了？" },
+    { "en": "I can't type this letter.", "zh": "我不能打这封信。" },
+    { "en": "I can't read it!", "zh": "我看不懂！" },
+    { "en": "The boss's handwriting is terrible!", "zh": "老板的书写太糟糕了！" }
+  ]
+}

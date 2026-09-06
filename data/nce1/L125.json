@@ -1,0 +1,206 @@
+{
+  "id": "L125",
+  "title": "Lesson 125 · Tea for two",
+  "titleZh": "第125课 两个人一起喝茶",
+  "words": [
+    {
+      "word": "tea",
+      "phonetic": "/tiː/",
+      "meaning": "n. 茶",
+      "examples": [
+        { "en": "Can't you come in and have tea now, Peter?", "zh": "彼得，你现在能进来喝茶吗？" }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meaning": "v. 给……浇水",
+      "examples": [
+        { "en": "I must water the garden first.", "zh": "我得先给花园浇水。" },
+        { "en": "I had to water it every day.", "zh": "我不得不每天浇水。" }
+      ]
+    },
+    {
+      "word": "nuisance",
+      "phonetic": "/ˈnjuːsns/",
+      "meaning": "n. 讨厌的东西（人）",
+      "examples": [
+        { "en": "What a nuisance!", "zh": "真讨厌！" }
+      ]
+    },
+    {
+      "word": "terribly",
+      "phonetic": "/ˈterəbli/",
+      "meaning": "adv. 非常，极其",
+      "examples": [
+        { "en": "It's terribly dry.", "zh": "花园干得厉害。" }
+      ]
+    },
+    {
+      "word": "dry",
+      "phonetic": "/draɪ/",
+      "meaning": "adj. 干的，干燥的",
+      "examples": [
+        { "en": "It's terribly dry.", "zh": "花园干得厉害。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "Have you finished already?", "zh": "你已经浇完了？" }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "phonetic": "/ˈpleznt/",
+      "meaning": "adj. 令人愉快的",
+      "examples": [
+        { "en": "That was a pleasant surprise.", "zh": "真是个惊喜。" }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meaning": "n. 惊奇，惊喜",
+      "examples": [
+        { "en": "That was a pleasant surprise.", "zh": "真是个惊喜。" }
+      ]
+    },
+    {
+      "word": "mean",
+      "phonetic": "/miːn/",
+      "meaning": "v. 意味着",
+      "examples": [
+        { "en": "That means you don't need to water the garden.", "zh": "那就是说你不用给花园浇水了。" }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "/niːd/",
+      "meaning": "v. 需要",
+      "examples": [
+        { "en": "You don't need to water the garden.", "zh": "你不需要给花园浇水了。" }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meaning": "v. 完成",
+      "examples": [
+        { "en": "Have you finished already?", "zh": "你已经浇完了？" }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meaning": "v. 记得",
+      "examples": [
+        { "en": "Don't you remember?", "zh": "你不记得了吗？" }
+      ]
+    },
+    {
+      "word": "myself",
+      "phonetic": "/maɪˈself/",
+      "meaning": "pron. 我自己",
+      "examples": [
+        { "en": "I'll have tea by myself.", "zh": "我一个人喝茶。" }
+      ]
+    },
+    {
+      "word": "first",
+      "phonetic": "/fɜːst/",
+      "meaning": "adv. 首先",
+      "examples": [
+        { "en": "I must water the garden first.", "zh": "我得先给花园浇水。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can't you come in and have tea now, Peter?",
+      "zh": "彼得，你现在能进来喝茶吗？",
+      "analysis": [
+        { "text": "Can't", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "tea", "roles": ["宾语"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "Peter", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I must water the garden first.",
+      "zh": "我得先给花园浇水。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "water", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "garden", "roles": ["宾语"] },
+        { "text": "first", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Do you have to water it now?",
+      "zh": "你现在非得浇水吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "water", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "now", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I'm afraid I must.",
+      "zh": "恐怕我得浇。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "afraid", "roles": ["表语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "It's terribly dry.",
+      "zh": "花园干得厉害。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "terribly", "roles": ["状语"] },
+        { "text": "dry", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "That was a pleasant surprise.",
+      "zh": "真是个惊喜。",
+      "analysis": [
+        { "text": "That", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "pleasant", "roles": ["定语"] },
+        { "text": "surprise", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Can't you come in and have tea now, Peter?", "zh": "彼得，你现在能进来喝茶吗？" },
+    { "en": "Not yet.", "zh": "还不能。" },
+    { "en": "I must water the garden first.", "zh": "我得先给花园浇水。" },
+    { "en": "Do you have to water it now?", "zh": "你现在非得浇水吗？" },
+    { "en": "I'm afraid I must.", "zh": "恐怕我得浇。" },
+    { "en": "It's terribly dry.", "zh": "花园干得厉害。" },
+    { "en": "Last summer it was very dry, too.", "zh": "去年夏天也很干。" },
+    { "en": "I had to water it every day.", "zh": "我不得不每天浇水。" },
+    { "en": "Well, I'll have tea by myself.", "zh": "好吧，我一个人喝茶。" },
+    { "en": "That was quick! Have you finished already?", "zh": "真快！你已经浇完了？" },
+    { "en": "It's raining! That means you don't need to water the garden.", "zh": "下雨了！那就是说你不用给花园浇水了。" },
+    { "en": "That was a pleasant surprise.", "zh": "真是个惊喜。" }
+  ]
+}

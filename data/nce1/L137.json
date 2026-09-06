@@ -1,0 +1,219 @@
+{
+  "id": "L137",
+  "title": "Lesson 137 · A pleasant dream",
+  "titleZh": "第137课 美好的梦",
+  "words": [
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meaning": "n. 梦，梦想",
+      "examples": [
+        { "en": "It's a pleasant dream but everything depends on 'if'!", "zh": "这是个美好的梦，但一切都取决于'如果'！" }
+      ]
+    },
+    {
+      "word": "football",
+      "phonetic": "/ˈfʊtbɔːl/",
+      "meaning": "n. 足球",
+      "examples": [
+        { "en": "Are you doing the football pools, Brian?", "zh": "布赖恩，你在下足球赛赌注吗？" }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "/puːl/",
+      "meaning": "n. （足球）赌注，博彩",
+      "examples": [
+        { "en": "Are you doing the football pools, Brian?", "zh": "布赖恩，你在下足球赛赌注吗？" }
+      ]
+    },
+    {
+      "word": "win",
+      "phonetic": "/wɪn/",
+      "meaning": "v. 赢，获胜",
+      "examples": [
+        { "en": "I'm sure we'll win something this week.", "zh": "我相信这个星期我们会赢点什么的。" },
+        { "en": "We never win anything!", "zh": "我们从来没赢过！" }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meaning": "adv. 几乎，将近",
+      "examples": [
+        { "en": "I've nearly finished, Julie.", "zh": "我快做完了，朱莉。" }
+      ]
+    },
+    {
+      "word": "depend",
+      "phonetic": "/dɪˈpend/",
+      "meaning": "v. 依靠，取决于",
+      "examples": [
+        { "en": "Everything depends on 'if'!", "zh": "一切都取决于'如果'！" }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meaning": "n. 世界",
+      "examples": [
+        { "en": "I want to see the world.", "zh": "我想去见见世面。" },
+        { "en": "We'll travel round the world.", "zh": "我们将环游世界。" }
+      ]
+    },
+    {
+      "word": "hotel",
+      "phonetic": "/həʊˈtel/",
+      "meaning": "n. 旅馆，酒店",
+      "examples": [
+        { "en": "We'll stay at the best hotels.", "zh": "我们将住最好的旅馆。" }
+      ]
+    },
+    {
+      "word": "poor",
+      "phonetic": "/pʊə(r)/",
+      "meaning": "adj. 贫穷的",
+      "examples": [
+        { "en": "If we spend all that money we'll be poor again.", "zh": "如果我们把钱都花光，我们又会变穷的。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 乡村",
+      "examples": [
+        { "en": "Then we'll return home and buy a big house in the country.", "zh": "然后我们回家，在乡下买一栋大房子。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 返回",
+      "examples": [
+        { "en": "Then we'll return home and buy a big house in the country.", "zh": "然后我们回家，在乡下买一栋大房子。" }
+      ]
+    },
+    {
+      "word": "everything",
+      "phonetic": "/ˈevriθɪŋ/",
+      "meaning": "pron. 一切",
+      "examples": [
+        { "en": "Everything depends on 'if'!", "zh": "一切都取决于'如果'！" }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meaning": "n. 钱",
+      "examples": [
+        { "en": "What will you do if you win a lot of money?", "zh": "如果你赢了很多钱，你会做什么？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Are you doing the football pools, Brian?",
+      "zh": "布赖恩，你在下足球赛赌注吗？",
+      "analysis": [
+        { "text": "Are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "doing", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "football", "roles": ["定语"] },
+        { "text": "pools", "roles": ["宾语"] },
+        { "text": "Brian", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I'm sure we'll win something this week.",
+      "zh": "我相信这个星期我们会赢点什么的。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "we'll", "roles": ["主语"] },
+        { "text": "win", "roles": ["谓语"] },
+        { "text": "something", "roles": ["宾语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "What will you do if you win a lot of money?",
+      "zh": "如果你赢了很多钱，你会做什么？",
+      "analysis": [
+        { "text": "What", "roles": ["宾语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "win", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I want to see the world.",
+      "zh": "我想去见见世面。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "world", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "If I win a lot of money I'll buy you a mink coat.",
+      "zh": "如果我赢了很多钱，我就给你买件貂皮大衣。",
+      "analysis": [
+        { "text": "If", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "win", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "I'll", "roles": ["主语"] },
+        { "text": "buy", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "mink", "roles": ["定语"] },
+        { "text": "coat", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "But if we spend all that money we'll be poor again.",
+      "zh": "但如果我们把钱都花光，我们又会变穷的。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "spend", "roles": ["谓语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "we'll", "roles": ["主语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "poor", "roles": ["表语"] },
+        { "text": "again", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Are you doing the football pools, Brian?", "zh": "布赖恩，你在下足球赛赌注吗？" },
+    { "en": "Yes, I've nearly finished, Julie.", "zh": "是的，我快做完了，朱莉。" },
+    { "en": "I'm sure we'll win something this week.", "zh": "我相信这个星期我们会赢点什么的。" },
+    { "en": "You always say that, but we never win anything!", "zh": "你总是那么说，但我们从来没赢过！" },
+    { "en": "What will you do if you win a lot of money?", "zh": "如果你赢了很多钱，你会做什么？" },
+    { "en": "If I win a lot of money I'll buy you a mink coat.", "zh": "如果我赢了很多钱，我就给你买件貂皮大衣。" },
+    { "en": "I don't want a mink coat!", "zh": "我不要貂皮大衣！" },
+    { "en": "I want to see the world.", "zh": "我想去见见世面。" },
+    { "en": "If we win a lot of money we'll travel round the world and we'll stay at the best hotels.", "zh": "如果我们赢了很多钱，我们就环游世界，住最好的旅馆。" },
+    { "en": "But if we spend all that money we'll be poor again.", "zh": "但如果我们把钱都花光，我们又会变穷的。" },
+    { "en": "It's a pleasant dream but everything depends on 'if'!", "zh": "这是个美好的梦，但一切都取决于'如果'！" }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "L047",
+  "title": "Lesson 47 · A cup of coffee",
+  "titleZh": "第47课 一杯咖啡",
+  "words": [
+    {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "meaning": "v. 喜欢",
+      "examples": [
+        { "en": "Do you like coffee, Ann?", "zh": "你喜欢咖啡吗，安？" },
+        { "en": "I like black coffee.", "zh": "我喜欢清咖啡。" }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "/wɒnt/",
+      "meaning": "v. 想要",
+      "examples": [
+        { "en": "Do you want a cup?", "zh": "你想来一杯吗？" },
+        { "en": "Do you want any sugar?", "zh": "你要放些糖吗？" }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meaning": "n. 咖啡",
+      "examples": [
+        { "en": "Do you like coffee, Ann?", "zh": "你喜欢咖啡吗，安？" },
+        { "en": "A cup of coffee, please.", "zh": "请来一杯咖啡。" }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meaning": "n. 杯子",
+      "examples": [
+        { "en": "Do you want a cup?", "zh": "你想来一杯吗？" },
+        { "en": "I want a cup of coffee.", "zh": "我想要一杯咖啡。" }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meaning": "n. 糖",
+      "examples": [
+        { "en": "Do you want any sugar?", "zh": "你要放些糖吗？" },
+        { "en": "A little sugar, please.", "zh": "请加少许糖。" }
+      ]
+    },
+    {
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "n. 牛奶",
+      "examples": [
+        { "en": "Do you want any milk?", "zh": "你要加些牛奶吗？" },
+        { "en": "I don't like milk in my coffee.", "zh": "我不喜欢咖啡里加牛奶。" }
+      ]
+    },
+    {
+      "word": "black",
+      "phonetic": "/blæk/",
+      "meaning": "adj. 黑色的；（咖啡）不加奶的",
+      "examples": [
+        { "en": "I like black coffee.", "zh": "我喜欢清咖啡。" },
+        { "en": "She has black hair.", "zh": "她有一头黑发。" }
+      ]
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "/ˈbɪskɪt/",
+      "meaning": "n. 饼干",
+      "examples": [
+        { "en": "Do you like biscuits?", "zh": "你喜欢饼干吗？" },
+        { "en": "Do you want one?", "zh": "你想要一块吗？" }
+      ]
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈeni/",
+      "meaning": "pron. 一些；任何",
+      "examples": [
+        { "en": "Do you want any sugar?", "zh": "你要放些糖吗？" },
+        { "en": "Do you have any paper?", "zh": "你有纸吗？" }
+      ]
+    },
+    {
+      "word": "some",
+      "phonetic": "/sʌm/",
+      "meaning": "pron. 一些",
+      "examples": [
+        { "en": "I want some milk.", "zh": "我想要些牛奶。" },
+        { "en": "There are some cups on the table.", "zh": "桌上有几只杯子。" }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meaning": "int. 请",
+      "examples": [
+        { "en": "Yes, please.", "zh": "好的，请来点。" },
+        { "en": "A cup of coffee, please.", "zh": "请来一杯咖啡。" }
+      ]
+    },
+    {
+      "word": "one",
+      "phonetic": "/wʌn/",
+      "meaning": "pron. 一个，一块",
+      "examples": [
+        { "en": "Do you want one?", "zh": "你想要一块吗？" },
+        { "en": "I only have large ones.", "zh": "我只有大号的。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you like coffee, Ann?",
+      "zh": "你喜欢咖啡吗，安？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "coffee", "roles": ["宾语"] },
+        { "text": "Ann", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Do you want a cup?",
+      "zh": "你想来一杯吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cup", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Do you want any sugar?",
+      "zh": "你要放些糖吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "sugar", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I don't like milk in my coffee.",
+      "zh": "我不喜欢咖啡里加牛奶。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "milk", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "coffee", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I like black coffee.",
+      "zh": "我喜欢清咖啡。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "black", "roles": ["定语"] },
+        { "text": "coffee", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Do you like coffee, Ann?", "zh": "你喜欢咖啡吗，安？" },
+    { "en": "Yes, I do.", "zh": "是的，我喜欢。" },
+    { "en": "Do you want a cup?", "zh": "你想来一杯吗？" },
+    { "en": "Yes, please, Christine.", "zh": "好的，请来一杯，克里斯廷。" },
+    { "en": "Do you want any sugar?", "zh": "你要放些糖吗？" },
+    { "en": "Yes, please.", "zh": "好的，请放些。" },
+    { "en": "Do you want any milk?", "zh": "你要加些牛奶吗？" },
+    { "en": "No, thank you.", "zh": "不，谢谢。" },
+    { "en": "I don't like milk in my coffee.", "zh": "我不喜欢咖啡里加牛奶。" },
+    { "en": "I like black coffee.", "zh": "我喜欢清咖啡。" },
+    { "en": "Do you like biscuits?", "zh": "你喜欢饼干吗？" },
+    { "en": "Do you want one?", "zh": "你想要一块吗？" }
+  ]
+}

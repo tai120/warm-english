@@ -1,0 +1,256 @@
+{
+  "id": "L021",
+  "title": "Lesson 21 · Mad or not?",
+  "titleZh": "第21课 是不是疯了？",
+  "words": [
+    {
+      "word": "mad",
+      "phonetic": "/mæd/",
+      "meaning": "adj. 发疯的",
+      "examples": [
+        { "en": "Aeroplanes are slowly driving me mad.", "zh": "飞机正在逐渐把我逼疯。" },
+        { "en": "You must be mad to say that.", "zh": "你那么说一定是疯了。" }
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meaning": "n. 飞机",
+      "examples": [
+        { "en": "Aeroplanes are slowly driving me mad.", "zh": "飞机正在逐渐把我逼疯。" },
+        { "en": "The aeroplane is flying over the city.", "zh": "飞机正在城市上空飞行。" }
+      ]
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləʊli/",
+      "meaning": "adv. 慢慢地",
+      "examples": [
+        { "en": "Aeroplanes are slowly driving me mad.", "zh": "飞机正在逐渐把我逼疯。" },
+        { "en": "Please speak more slowly.", "zh": "请说得再慢一点。" }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "/draɪv/",
+      "meaning": "v. 迫使，驱赶",
+      "examples": [
+        { "en": "Aeroplanes are slowly driving me mad.", "zh": "飞机正在逐渐把我逼疯。" },
+        { "en": "The noise is driving me crazy.", "zh": "噪音快把我逼疯了。" }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "n. 机场",
+      "examples": [
+        { "en": "I live near an airport.", "zh": "我住在一个机场附近。" },
+        { "en": "The airport was built years ago.", "zh": "机场是许多年前建的。" }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meaning": "n. 噪音",
+      "examples": [
+        { "en": "People were driven away from their homes by the noise.", "zh": "人们被噪音逼得弃家远去。" },
+        { "en": "The children make a lot of noise.", "zh": "孩子们吵闹得很。" }
+      ]
+    },
+    {
+      "word": "reason",
+      "phonetic": "/ˈriːzn/",
+      "meaning": "n. 原因",
+      "examples": [
+        { "en": "For some reason it could not be used then.", "zh": "由于某种原因它当时未能启用。" },
+        { "en": "Tell me the reason for your absence.", "zh": "告诉我你缺席的原因。" }
+      ]
+    },
+    {
+      "word": "however",
+      "phonetic": "/haʊˈevə(r)/",
+      "meaning": "adv. 然而",
+      "examples": [
+        { "en": "Last year, however, it came into use.", "zh": "然而去年它开始使用了。" },
+        { "en": "However, I didn't go.", "zh": "然而我没有去。" }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə(r)/",
+      "meaning": "v. 提供，给予",
+      "examples": [
+        { "en": "I have been offered a large sum of money.", "zh": "有人向我提供了一大笔钱。" },
+        { "en": "He offered me a cup of tea.", "zh": "他给我端来了一杯茶。" }
+      ]
+    },
+    {
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meaning": "n. 金额，一笔钱",
+      "examples": [
+        { "en": "I have been offered a large sum of money.", "zh": "有人向我提供了一大笔钱。" },
+        { "en": "He paid a large sum for the car.", "zh": "他花了一大笔钱买这辆车。" }
+      ]
+    },
+    {
+      "word": "determined",
+      "phonetic": "/dɪˈtɜːmɪnd/",
+      "meaning": "adj. 坚定的，决意的",
+      "examples": [
+        { "en": "I am determined to stay here.", "zh": "我决定留在这里。" },
+        { "en": "She is determined to succeed.", "zh": "她下定决心要成功。" }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meaning": "v. 停留，留下",
+      "examples": [
+        { "en": "I am determined to stay here.", "zh": "我决定留在这里。" },
+        { "en": "Stay here until I come back.", "zh": "待在这里直到我回来。" }
+      ]
+    },
+    {
+      "word": "everybody",
+      "phonetic": "/ˈevribɒdi/",
+      "meaning": "pron. 每个人",
+      "examples": [
+        { "en": "Everybody says I must be mad.", "zh": "大家都说我肯定是疯了。" },
+        { "en": "Everybody likes the film.", "zh": "人人都喜欢这部电影。" }
+      ]
+    },
+    {
+      "word": "probably",
+      "phonetic": "/ˈprɒbəbli/",
+      "meaning": "adv. 很可能",
+      "examples": [
+        { "en": "They are probably right.", "zh": "也许他们说的是对的。" },
+        { "en": "It will probably rain tomorrow.", "zh": "明天很可能会下雨。" }
+      ]
+    },
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meaning": "v. 敲；撞（knock down 撞倒）",
+      "examples": [
+        { "en": "This house will be knocked down by a passing plane.", "zh": "这房子就要被一架飞过的飞机撞倒。" },
+        { "en": "Someone is knocking at the door.", "zh": "有人在敲门。" }
+      ]
+    },
+    {
+      "word": "passing",
+      "phonetic": "/ˈpɑːsɪŋ/",
+      "meaning": "adj. 经过的",
+      "examples": [
+        { "en": "Passing planes can be heard night and day.", "zh": "过往飞机日夜不绝于耳。" },
+        { "en": "He waved to the passing cars.", "zh": "他朝驶过的汽车挥手。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Aeroplanes are slowly driving me mad.",
+      "zh": "飞机正在逐渐把我逼疯。",
+      "analysis": [
+        { "text": "Aeroplanes", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "slowly", "roles": ["状语"] },
+        { "text": "driving", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "mad", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "I live near an airport and passing planes can be heard night and day.",
+      "zh": "我住在一个机场附近，过往飞机日夜不绝于耳。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "airport", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "passing", "roles": ["定语"] },
+        { "text": "planes", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "heard", "roles": ["谓语"] },
+        { "text": "night", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The airport was built years ago, but for some reason it could not be used then.",
+      "zh": "机场是许多年前建的，但由于某种原因当时未能启用。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "airport", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "built", "roles": ["谓语"] },
+        { "text": "years", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "reason", "roles": ["宾语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "used", "roles": ["谓语"] },
+        { "text": "then", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Over a hundred people must have been driven away from their homes by the noise.",
+      "zh": "有100多人肯定是被噪音逼得已经弃家远去。",
+      "analysis": [
+        { "text": "Over", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hundred", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "driven", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "homes", "roles": ["宾语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "noise", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Everybody says I must be mad and they are probably right.",
+      "zh": "大家都说我肯定是疯了，也许他们说的是对的。",
+      "analysis": [
+        { "text": "Everybody", "roles": ["主语"] },
+        { "text": "says", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "mad", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "probably", "roles": ["状语"] },
+        { "text": "right", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Aeroplanes are slowly driving me mad.", "zh": "飞机正在逐渐把我逼疯。" },
+    { "en": "I live near an airport and passing planes can be heard night and day.", "zh": "我住在一个机场附近，过往飞机日夜不绝于耳。" },
+    { "en": "The airport was built years ago, but for some reason it could not be used then.", "zh": "机场是许多年前建的，但由于某种原因当时未能启用。" },
+    { "en": "Last year, however, it came into use.", "zh": "然而去年机场开始使用了。" },
+    { "en": "Over a hundred people must have been driven away from their homes by the noise.", "zh": "有100多人肯定是被噪音逼得已经弃家远去。" },
+    { "en": "I am one of the few people left.", "zh": "我是少数留下来的人中的一个。" },
+    { "en": "Sometimes I think this house will be knocked down by a passing plane.", "zh": "有时我觉得这房子就要被一架飞过的飞机撞倒。" },
+    { "en": "I have been offered a large sum of money to go away, but I am determined to stay here.", "zh": "他们曾向我提供一大笔钱让我搬走，但我决定留在这里。" },
+    { "en": "Everybody says I must be mad and they are probably right.", "zh": "大家都说我肯定是疯了，也许他们说的是对的。" }
+  ]
+}

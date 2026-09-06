@@ -1,0 +1,255 @@
+{
+  "id": "L028",
+  "title": "Lesson 28 · No parking",
+  "titleZh": "第28课 禁止停车",
+  "words": [
+    {
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "meaning": "adj. 罕见的",
+      "examples": [
+        { "en": "Jasper White is one of those rare people.", "zh": "贾斯珀·怀特是少有的那种人。" },
+        { "en": "It is a rare bird.", "zh": "这是一种罕见的鸟。" }
+      ]
+    },
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "v. 相信",
+      "examples": [
+        { "en": "He believes in ancient myths.", "zh": "他相信古代神话。" },
+        { "en": "I believe what he said.", "zh": "我相信他说的话。" }
+      ]
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meaning": "adj. 古代的",
+      "examples": [
+        { "en": "He believes in ancient myths.", "zh": "他相信古代神话。" },
+        { "en": "They visited an ancient city.", "zh": "他们参观了一座古城。" }
+      ]
+    },
+    {
+      "word": "myth",
+      "phonetic": "/mɪθ/",
+      "meaning": "n. 神话，神话故事",
+      "examples": [
+        { "en": "He believes in ancient myths.", "zh": "他相信古代神话。" },
+        { "en": "It is just an old myth.", "zh": "那只是一个古老的神话。" }
+      ]
+    },
+    {
+      "word": "trouble",
+      "phonetic": "/ˈtrʌbl/",
+      "meaning": "n. 麻烦",
+      "examples": [
+        { "en": "He has had trouble with cars and their owners.", "zh": "他和汽车及车主们发生了摩擦。" },
+        { "en": "I'm sorry to give you so much trouble.", "zh": "很抱歉给你添这么多麻烦。" }
+      ]
+    },
+    {
+      "word": "owner",
+      "phonetic": "/ˈəʊnə(r)/",
+      "meaning": "n. 主人，所有者",
+      "examples": [
+        { "en": "He has had trouble with cars and their owners.", "zh": "他和汽车及车主们发生了摩擦。" },
+        { "en": "Who is the owner of this car?", "zh": "这辆车是谁的？" }
+      ]
+    },
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meaning": "n. 车库",
+      "examples": [
+        { "en": "He has not been able to get his car into his garage.", "zh": "他一直没能把自己的车开进车库。" },
+        { "en": "He keeps his car in the garage.", "zh": "他把车停在车库里。" }
+      ]
+    },
+    {
+      "word": "effect",
+      "phonetic": "/ɪˈfekt/",
+      "meaning": "n. 效果，作用",
+      "examples": [
+        { "en": "These signs have not had any effect.", "zh": "这些牌子没有任何效果。" },
+        { "en": "The medicine had no effect.", "zh": "这药没有效果。" }
+      ]
+    },
+    {
+      "word": "ugly",
+      "phonetic": "/ˈʌɡli/",
+      "meaning": "adj. 丑陋的",
+      "examples": [
+        { "en": "He has put an ugly stone head over the gate.", "zh": "他把一个丑陋的石雕头像放在了大门上边。" },
+        { "en": "It is one of the ugliest faces I have ever seen.", "zh": "这是我见过的最丑陋的头像之一。" }
+      ]
+    },
+    {
+      "word": "stone",
+      "phonetic": "/stəʊn/",
+      "meaning": "n. 石头",
+      "examples": [
+        { "en": "He has put an ugly stone head over the gate.", "zh": "他把一个丑陋的石雕头像放在了大门上边。" },
+        { "en": "The house is built of stone.", "zh": "这栋房子是用石头建造的。" }
+      ]
+    },
+    {
+      "word": "head",
+      "phonetic": "/hed/",
+      "meaning": "n. 头，头像",
+      "examples": [
+        { "en": "He has put an ugly stone head over the gate.", "zh": "他把一个丑陋的石雕头像放在了大门上边。" },
+        { "en": "She nodded her head.", "zh": "她点了点头。" }
+      ]
+    },
+    {
+      "word": "face",
+      "phonetic": "/feɪs/",
+      "meaning": "n. 脸",
+      "examples": [
+        { "en": "It is one of the ugliest faces I have ever seen.", "zh": "这是我见过的最丑陋的头像之一。" },
+        { "en": "Her face turned red.", "zh": "她的脸变红了。" }
+      ]
+    },
+    {
+      "word": "Medusa",
+      "phonetic": "/mɪˈdjuːzə/",
+      "meaning": "n. 美杜莎（希腊神话中的蛇发女妖）",
+      "examples": [
+        { "en": "He told me that it was Medusa, the Gorgon.", "zh": "他告诉我那是蛇发女怪美杜莎。" },
+        { "en": "Medusa is a character in Greek myths.", "zh": "美杜莎是希腊神话中的人物。" }
+      ]
+    },
+    {
+      "word": "Gorgon",
+      "phonetic": "/ˈɡɔːɡən/",
+      "meaning": "n. 戈耳工（希腊神话三女妖之一）",
+      "examples": [
+        { "en": "He told me that it was Medusa, the Gorgon.", "zh": "他告诉我那是蛇发女怪美杜莎。" },
+        { "en": "The Gorgons had snakes for hair.", "zh": "戈耳工女妖的头发是蛇。" }
+      ]
+    },
+    {
+      "word": "turn",
+      "phonetic": "/tɜːn/",
+      "meaning": "v. 使变成",
+      "examples": [
+        { "en": "Jasper hopes that she will turn cars to stone.", "zh": "贾斯珀希望她把汽车变成石头。" },
+        { "en": "The cold turned the water into ice.", "zh": "寒冷把水变成了冰。" }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "n. 标志牌",
+      "examples": [
+        { "en": "Jasper has put up 'No Parking' signs outside his gate.", "zh": "贾斯珀把几块‘禁止停车’的牌子挂在大门外边。" },
+        { "en": "Read the road signs carefully.", "zh": "仔细看路标。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It is one of the ugliest faces I have ever seen.",
+      "zh": "这是我见过的最丑陋的头像之一。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "one", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ugliest", "roles": ["定语"] },
+        { "text": "faces", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "seen", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "zh": "我问他那是什么，他告诉我那是蛇发女怪美杜莎。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "what", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "Medusa", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Gorgon", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Jasper hopes that she will turn cars and their owners to stone.",
+      "zh": "贾斯珀希望她把汽车和车主们都变成石头。",
+      "analysis": [
+        { "text": "Jasper", "roles": ["主语"] },
+        { "text": "hopes", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "turn", "roles": ["谓语"] },
+        { "text": "cars", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "owners", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stone", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "But none of them has been turned to stone yet!",
+      "zh": "但到目前为止还没有一个变成石头呢！",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "none", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "them", "roles": ["宾语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "turned", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stone", "roles": ["宾语"] },
+        { "text": "yet", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Now he has put an ugly stone head over the gate.",
+      "zh": "现在他把一个丑陋的石雕头像放在了大门上边。",
+      "analysis": [
+        { "text": "Now", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "ugly", "roles": ["定语"] },
+        { "text": "stone", "roles": ["定语"] },
+        { "text": "head", "roles": ["宾语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "gate", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Jasper White is one of those rare people who believes in ancient myths.", "zh": "贾斯珀·怀特是少有的相信古代神话的人之一。" },
+    { "en": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.", "zh": "他刚在城里买下一所新房子，但自从搬进去后，就和汽车及车主们发生了摩擦。" },
+    { "en": "When he returns home at night, he always finds that someone has parked a car outside his gate.", "zh": "当他夜里回到家时，总是发现有人把车停在他家大门外。" },
+    { "en": "Because of this, he has not been able to get his own car into his garage even once.", "zh": "为此，他甚至一次也没能把自己的车开进车库。" },
+    { "en": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.", "zh": "贾斯珀曾把几块‘禁止停车’的牌子挂在大门外边，但没有任何效果。" },
+    { "en": "Now he has put an ugly stone head over the gate.", "zh": "现在他把一个丑陋的石雕头像放在了大门上边。" },
+    { "en": "It is one of the ugliest faces I have ever seen.", "zh": "这是我见过的最丑陋的头像之一。" },
+    { "en": "I asked him what it was and he told me that it was Medusa, the Gorgon.", "zh": "我问他那是什么，他告诉我那是蛇发女怪美杜莎。" },
+    { "en": "Jasper hopes that she will turn cars and their owners to stone.", "zh": "贾斯珀希望她把汽车和车主们都变成石头。" },
+    { "en": "But none of them has been turned to stone yet!", "zh": "但到目前为止还没有一个变成石头呢！" }
+  ]
+}

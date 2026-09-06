@@ -1,0 +1,256 @@
+{
+  "id": "L066",
+  "title": "Lesson 66 · Sweet as honey!",
+  "titleZh": "第66课 像蜜一样甜！",
+  "words": [
+    {
+      "word": "bomber",
+      "phonetic": "/ˈbɒmə(r)/",
+      "meaning": "n. 轰炸机",
+      "examples": [
+        { "en": "A Lancaster bomber crashed on the island.", "zh": "一架兰开斯特轰炸机坠毁在岛上。" }
+      ]
+    },
+    {
+      "word": "remote",
+      "phonetic": "/rɪˈməʊt/",
+      "meaning": "adj. 偏远的",
+      "examples": [
+        { "en": "Wallis Island is a remote place.", "zh": "沃利斯岛是一个偏远的地方。" }
+      ]
+    },
+    {
+      "word": "Pacific",
+      "phonetic": "/pəˈsɪfɪk/",
+      "meaning": "n. 太平洋",
+      "examples": [
+        { "en": "The island is in the South Pacific.", "zh": "这个岛屿位于南太平洋。" }
+      ]
+    },
+    {
+      "word": "damage",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "meaning": "v. 损坏，破坏",
+      "examples": [
+        { "en": "The storm damaged many houses.", "zh": "暴风雨损坏了许多房屋。" }
+      ]
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meaning": "n. 坠毁，碰撞",
+      "examples": [
+        { "en": "The plane crash was soon forgotten.", "zh": "这次坠机很快就被遗忘了。" }
+      ]
+    },
+    {
+      "word": "island",
+      "phonetic": "/ˈaɪlənd/",
+      "meaning": "n. 岛屿",
+      "examples": [
+        { "en": "They live on a small island.", "zh": "他们住在一个小岛上。" }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fəˈɡet/",
+      "meaning": "v. 忘记",
+      "examples": [
+        { "en": "The crash was soon forgotten.", "zh": "这次坠机很快就被遗忘了。" }
+      ]
+    },
+    {
+      "word": "enthusiast",
+      "phonetic": "/ɪnˈθjuːziæst/",
+      "meaning": "n. 爱好者，热心人",
+      "examples": [
+        { "en": "The enthusiasts wanted to repair the plane.", "zh": "爱好者们想修复这架飞机。" }
+      ]
+    },
+    {
+      "word": "restore",
+      "phonetic": "/rɪˈstɔː(r)/",
+      "meaning": "v. 修复，恢复",
+      "examples": [
+        { "en": "They decided to restore the old plane.", "zh": "他们决定修复这架旧飞机。" }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meaning": "v. 检查，审查",
+      "examples": [
+        { "en": "The experts examined the engine.", "zh": "专家们检查了发动机。" }
+      ]
+    },
+    {
+      "word": "discover",
+      "phonetic": "/dɪˈskʌvə(r)/",
+      "meaning": "v. 发现",
+      "examples": [
+        { "en": "They discovered a colony of bees.", "zh": "他们发现了一群蜜蜂。" }
+      ]
+    },
+    {
+      "word": "colony",
+      "phonetic": "/ˈkɒləni/",
+      "meaning": "n. 群，群体；殖民地",
+      "examples": [
+        { "en": "A colony of bees lived in the engine.", "zh": "一群蜜蜂生活在发动机里。" }
+      ]
+    },
+    {
+      "word": "bee",
+      "phonetic": "/biː/",
+      "meaning": "n. 蜜蜂",
+      "examples": [
+        { "en": "The bees made their home in the engine.", "zh": "蜜蜂在发动机里安了家。" }
+      ]
+    },
+    {
+      "word": "engine",
+      "phonetic": "/ˈendʒɪn/",
+      "meaning": "n. 发动机",
+      "examples": [
+        { "en": "The engine was full of honey.", "zh": "发动机里装满了蜂蜜。" }
+      ]
+    },
+    {
+      "word": "honey",
+      "phonetic": "/ˈhʌni/",
+      "meaning": "n. 蜂蜜",
+      "examples": [
+        { "en": "The honey was very sweet.", "zh": "那蜂蜜非常甜。" }
+      ]
+    },
+    {
+      "word": "sweet",
+      "phonetic": "/swiːt/",
+      "meaning": "adj. 甜的",
+      "examples": [
+        { "en": "The cake is too sweet.", "zh": "这块蛋糕太甜了。" }
+      ]
+    },
+    {
+      "word": "Wallis Island",
+      "phonetic": "/ˈwɒlɪs ˈaɪlənd/",
+      "meaning": "n. 沃利斯岛（地名）",
+      "examples": [
+        { "en": "Wallis Island is a remote place in the South Pacific.", "zh": "沃利斯岛是南太平洋上一个偏远的地方。" }
+      ]
+    },
+    {
+      "word": "Lancaster",
+      "phonetic": "/ˈlæŋkəstə(r)/",
+      "meaning": "n. 兰开斯特（轰炸机名）",
+      "examples": [
+        { "en": "A Lancaster bomber flew over the island.", "zh": "一架兰开斯特轰炸机飞过小岛。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The plane was not too badly damaged, but the crash was soon forgotten.",
+      "zh": "飞机受损不太严重，但这次坠机很快就被人们遗忘了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "badly", "roles": ["状语"] },
+        { "text": "damaged", "roles": ["谓语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "crash", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "forgotten", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Some experts came to the island and examined the plane very carefully.",
+      "zh": "一些专家来到岛上，非常仔细地检查了这架飞机。",
+      "analysis": [
+        { "text": "Some", "roles": ["定语"] },
+        { "text": "experts", "roles": ["主语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "island", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "examined", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "carefully", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The experts discovered a colony of bees in one of the engines.",
+      "zh": "专家们在其中一个发动机里发现了一群蜜蜂。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "experts", "roles": ["主语"] },
+        { "text": "discovered", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "colony", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "bees", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "one", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "engines", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The bees had made their home in the engine for many years.",
+      "zh": "这些蜜蜂在发动机里安家已经很多年了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bees", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "home", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "engine", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "years", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The experts collected the bees and their honey, and the honey was very sweet.",
+      "zh": "专家们收集了蜜蜂和蜂蜜，那蜂蜜非常甜。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "experts", "roles": ["主语"] },
+        { "text": "collected", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bees", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "honey", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "honey", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "sweet", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "In 1963, a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific.", "zh": "1963年，一架兰开斯特轰炸机坠毁在南太平洋一个偏远的岛屿——沃利斯岛上。" },
+    { "en": "The plane was not too badly damaged, but the crash was soon forgotten.", "zh": "飞机受损不太严重，但这次坠机很快就被人们遗忘了。" },
+    { "en": "Twenty-six years later, some people decided to restore the plane.", "zh": "26年后，一些人决定修复这架飞机。" },
+    { "en": "Some experts came to the island and examined the plane very carefully.", "zh": "一些专家来到岛上，非常仔细地检查了这架飞机。" },
+    { "en": "The experts discovered a colony of bees in one of the engines.", "zh": "专家们在其中一个发动机里发现了一群蜜蜂。" },
+    { "en": "The bees had made their home in the engine for many years.", "zh": "这些蜜蜂在发动机里安家已经很多年了。" },
+    { "en": "The experts collected the bees and their honey, and the honey was very sweet.", "zh": "专家们收集了蜜蜂和蜂蜜，那蜂蜜非常甜。" },
+    { "en": "The plane could fly again, and the honey was as sweet as honey!", "zh": "飞机又能飞行了，而那蜂蜜真是像蜜一样甜！" }
+  ]
+}

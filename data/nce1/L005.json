@@ -152,7 +152,8 @@
       "zh": "很高兴见到你。",
       "analysis": [
         { "text": "Nice", "roles": ["表语"] },
-        { "text": "to meet", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "meet", "roles": ["谓语"] },
         { "text": "you", "roles": ["宾语"] }
       ]
     },
@@ -162,7 +163,9 @@
       "analysis": [
         { "text": "This", "roles": ["主语"] },
         { "text": "is", "roles": ["谓语"] },
-        { "text": "Miss Sophie Dupont", "roles": ["表语"] }
+        { "text": "Miss", "roles": ["表语"] },
+        { "text": "Sophie", "roles": ["表语"] },
+        { "text": "Dupont", "roles": ["表语"] }
       ]
     }
   ],

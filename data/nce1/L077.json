@@ -1,0 +1,201 @@
+{
+  "id": "L077",
+  "title": "Lesson 77 · Terrible toothache",
+  "titleZh": "第77课 要命的牙痛",
+  "words": [
+    {
+      "word": "appointment",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "meaning": "n. 预约，约会",
+      "examples": [
+        { "en": "Do you have an appointment?", "zh": "您预约了吗？" },
+        { "en": "I have an appointment with the doctor.", "zh": "我和医生有个预约。" }
+      ]
+    },
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːdʒənt/",
+      "meaning": "adj. 紧急的，急迫的",
+      "examples": [
+        { "en": "Is it urgent?", "zh": "病情紧急吗？" },
+        { "en": "It's very urgent.", "zh": "很紧急。" }
+      ]
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meaning": "adj. 让人讨厌的，坏的",
+      "examples": [
+        { "en": "I feel awful.", "zh": "我难受极了。" },
+        { "en": "The weather was awful.", "zh": "天气糟透了。" }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "adj. 可怕的，极严重的",
+      "examples": [
+        { "en": "I have a terrible toothache.", "zh": "我牙痛得要命。" },
+        { "en": "That's terrible!", "zh": "那太可怕了！" }
+      ]
+    },
+    {
+      "word": "toothache",
+      "phonetic": "/ˈtuːθeɪk/",
+      "meaning": "n. 牙痛",
+      "examples": [
+        { "en": "I have a terrible toothache.", "zh": "我牙痛得要命。" },
+        { "en": "I can wait, but my toothache can't!", "zh": "我可以等，可是我的牙痛不能等！" }
+      ]
+    },
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meaning": "n. 牙医",
+      "examples": [
+        { "en": "I must see the dentist now, nurse.", "zh": "护士小姐，我现在必须见牙医。" },
+        { "en": "The dentist is very busy at the moment.", "zh": "牙医现在非常忙。" }
+      ]
+    },
+    {
+      "word": "nurse",
+      "phonetic": "/nɜːs/",
+      "meaning": "n. 护士",
+      "examples": [
+        { "en": "I must see the dentist now, nurse.", "zh": "护士小姐，我现在必须见牙医。" },
+        { "en": "The nurse is very kind.", "zh": "那位护士很和蔼。" }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "adj. 忙的",
+      "examples": [
+        { "en": "The dentist is very busy at the moment.", "zh": "牙医现在非常忙。" },
+        { "en": "I am busy with my homework.", "zh": "我在忙着做作业。" }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meaning": "n. 时刻",
+      "examples": [
+        { "en": "The dentist is very busy at the moment.", "zh": "牙医现在非常忙。" },
+        { "en": "Please wait a moment.", "zh": "请稍等片刻。" }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meaning": "adj. 迟的，晚的",
+      "examples": [
+        { "en": "That's very late.", "zh": "那太晚了。" },
+        { "en": "Don't be late for school.", "zh": "上学不要迟到。" }
+      ]
+    },
+    {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "meaning": "v. 等待",
+      "examples": [
+        { "en": "I can wait, but my toothache can't!", "zh": "我可以等，可是我的牙痛不能等！" },
+        { "en": "Can't you wait till this afternoon?", "zh": "您就不能等到今天下午吗？" }
+      ]
+    },
+    {
+      "word": "till",
+      "phonetic": "/tɪl/",
+      "meaning": "prep. 直到……为止",
+      "examples": [
+        { "en": "Can't you wait till this afternoon?", "zh": "您就不能等到今天下午吗？" },
+        { "en": "Wait till tomorrow.", "zh": "等到明天吧。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you have an appointment?",
+      "zh": "您预约了吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "appointment", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I have a terrible toothache.",
+      "zh": "我牙痛得要命。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "terrible", "roles": ["定语"] },
+        { "text": "toothache", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The dentist is very busy at the moment.",
+      "zh": "牙医现在非常忙。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "dentist", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "busy", "roles": ["表语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "moment", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "That's very late.",
+      "zh": "那太晚了。",
+      "analysis": [
+        { "text": "That's", "roles": ["主语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "late", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "I must see the dentist now, nurse.",
+      "zh": "护士小姐，我现在必须见牙医。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dentist", "roles": ["宾语"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "nurse", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I can wait, but my toothache can't!",
+      "zh": "我可以等，可是我的牙痛不能等！",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "wait", "roles": ["谓语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "toothache", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Do you have an appointment?", "zh": "您预约了吗？" },
+    { "en": "No, I don't.", "zh": "没有，我没有预约。" },
+    { "en": "Is it urgent?", "zh": "病情紧急吗？" },
+    { "en": "It's very urgent. I feel awful.", "zh": "很紧急，我难受极了。" },
+    { "en": "I have a terrible toothache.", "zh": "我牙痛得要命。" },
+    { "en": "I must see the dentist now, nurse.", "zh": "护士小姐，我现在必须见牙医。" },
+    { "en": "The dentist is very busy at the moment.", "zh": "牙医现在非常忙。" },
+    { "en": "That's very late.", "zh": "那太晚了。" },
+    { "en": "Can the dentist see me now?", "zh": "牙医现在能给我看病吗？" },
+    { "en": "Can't you wait till this afternoon?", "zh": "您就不能等到今天下午吗？" },
+    { "en": "I can wait, but my toothache can't!", "zh": "我可以等，可是我的牙痛不能等！" }
+  ]
+}

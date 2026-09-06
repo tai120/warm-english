@@ -1,0 +1,253 @@
+{
+  "id": "L069",
+  "title": "Lesson 69 · But not murder!",
+  "titleZh": "第69课 并非谋杀！",
+  "words": [
+    {
+      "word": "test",
+      "phonetic": "/test/",
+      "meaning": "v. 测试，考查",
+      "examples": [
+        { "en": "I was tested for a driving licence.", "zh": "我参加了驾驶执照考试。" },
+        { "en": "He tested the new car.", "zh": "他测试了这辆新车。" }
+      ]
+    },
+    {
+      "word": "driving licence",
+      "phonetic": "/ˈdraɪvɪŋ ˈlaɪsns/",
+      "meaning": "n. 驾驶执照",
+      "examples": [
+        { "en": "He passed his driving licence test.", "zh": "他通过了驾驶执照考试。" }
+      ]
+    },
+    {
+      "word": "heavy",
+      "phonetic": "/ˈhevi/",
+      "meaning": "adj. 拥挤的，沉重的",
+      "examples": [
+        { "en": "The traffic was heavy that day.", "zh": "那天交通很拥挤。" }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meaning": "n. 交通",
+      "examples": [
+        { "en": "I drove in heavy traffic successfully.", "zh": "我在拥挤的交通中驾驶得很成功。" }
+      ]
+    },
+    {
+      "word": "confidence",
+      "phonetic": "/ˈkɒnfɪdəns/",
+      "meaning": "n. 信心",
+      "examples": [
+        { "en": "I began to have confidence in myself.", "zh": "我开始对自己有了信心。" }
+      ]
+    },
+    {
+      "word": "examiner",
+      "phonetic": "/ɪɡˈzæmɪnə(r)/",
+      "meaning": "n. 考官，主考人",
+      "examples": [
+        { "en": "The examiner watched me carefully.", "zh": "考官仔细地看着我。" }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meaning": "n. 表现",
+      "examples": [
+        { "en": "The examiner was pleased with my performance.", "zh": "考官对我的表现很满意。" }
+      ]
+    },
+    {
+      "word": "suppose",
+      "phonetic": "/səˈpəʊz/",
+      "meaning": "v. 假设，设想",
+      "examples": [
+        { "en": "Suppose that a child crosses the road.", "zh": "假设一个孩子横穿马路。" }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meaning": "adv. 突然",
+      "examples": [
+        { "en": "He suddenly pressed the brake.", "zh": "他突然踩了刹车。" }
+      ]
+    },
+    {
+      "word": "cross",
+      "phonetic": "/krɒs/",
+      "meaning": "v. 横穿，穿过",
+      "examples": [
+        { "en": "A child suddenly crossed the road.", "zh": "一个孩子突然横穿马路。" }
+      ]
+    },
+    {
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "meaning": "v. 轻敲",
+      "examples": [
+        { "en": "He tapped on the window loudly.", "zh": "他大声地敲了敲车窗。" }
+      ]
+    },
+    {
+      "word": "brake",
+      "phonetic": "/breɪk/",
+      "meaning": "n. 刹车",
+      "examples": [
+        { "en": "I pressed the brake pedal hard.", "zh": "我用力踩下刹车踏板。" }
+      ]
+    },
+    {
+      "word": "pedal",
+      "phonetic": "/ˈpedl/",
+      "meaning": "n. 踏板",
+      "examples": [
+        { "en": "The brake pedal was hard to press.", "zh": "刹车踏板很难踩。" }
+      ]
+    },
+    {
+      "word": "react",
+      "phonetic": "/riˈækt/",
+      "meaning": "v. 反应",
+      "examples": [
+        { "en": "It took me a long time to react.", "zh": "我过了很久才反应过来。" }
+      ]
+    },
+    {
+      "word": "mournful",
+      "phonetic": "/ˈmɔːnfl/",
+      "meaning": "adj. 悲哀的",
+      "examples": [
+        { "en": "He said in a mournful voice.", "zh": "他用悲哀的声音说。" }
+      ]
+    },
+    {
+      "word": "kill",
+      "phonetic": "/kɪl/",
+      "meaning": "v. 杀死",
+      "examples": [
+        { "en": "He said I had killed the child.", "zh": "他说我撞死了那个孩子。" }
+      ]
+    },
+    {
+      "word": "Eames",
+      "phonetic": "/iːmz/",
+      "meaning": "n. 埃姆斯（人名）",
+      "examples": [
+        { "en": "Mr Eames was taking his driving test.", "zh": "埃姆斯先生正在参加驾驶考试。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I was being tested for a driving licence for the third time.",
+      "zh": "我第三次参加驾驶执照考试。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "being", "roles": ["谓语"] },
+        { "text": "tested", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "driving", "roles": ["定语"] },
+        { "text": "licence", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "third", "roles": ["定语"] },
+        { "text": "time", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I had driven well in heavy traffic, so I was full of confidence.",
+      "zh": "我在拥挤的交通中开得很好，因此我充满了信心。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "driven", "roles": ["谓语"] },
+        { "text": "well", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "heavy", "roles": ["定语"] },
+        { "text": "traffic", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "full", "roles": ["表语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "confidence", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He told me that as soon as he tapped on the window, I must stop within five feet.",
+      "zh": "他告诉我，他敲车窗时，我必须在五英尺内停车。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "tapped", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "window", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "stop", "roles": ["谓语"] },
+        { "text": "within", "roles": ["状语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "feet", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The examiner tapped loudly, but I did not react at once.",
+      "zh": "考官大声敲了一下车窗，但我没有立刻反应过来。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "examiner", "roles": ["主语"] },
+        { "text": "tapped", "roles": ["谓语"] },
+        { "text": "loudly", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "react", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "once", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I suddenly pressed the brake pedal hard, and we were both thrown forward.",
+      "zh": "我突然猛踩刹车踏板，我们俩都被抛向前方。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "suddenly", "roles": ["状语"] },
+        { "text": "pressed", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "brake", "roles": ["定语"] },
+        { "text": "pedal", "roles": ["宾语"] },
+        { "text": "hard", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "both", "roles": ["状语"] },
+        { "text": "thrown", "roles": ["谓语"] },
+        { "text": "forward", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I was being tested for a driving licence for the third time.", "zh": "我第三次参加驾驶执照考试。" },
+    { "en": "I had driven well in heavy traffic, so I was full of confidence.", "zh": "我在拥挤的交通中开得很好，因此我充满了信心。" },
+    { "en": "The examiner smiled and said, 'Just one more thing, Mr Eames.'", "zh": "考官笑着说：'埃姆斯先生，还有一件事。'" },
+    { "en": "'Suppose that a child suddenly crosses the road in front of you,' he said.", "zh": "'假设一个孩子突然在你前面横穿马路。'他说。" },
+    { "en": "He told me that as soon as he tapped on the window, I must stop within five feet.", "zh": "他告诉我，他敲车窗时，我必须在五英尺内停车。" },
+    { "en": "The examiner tapped loudly, but I did not react at once.", "zh": "考官大声敲了一下车窗，但我没有立刻反应过来。" },
+    { "en": "I suddenly pressed the brake pedal hard, and we were both thrown forward.", "zh": "我突然猛踩刹车踏板，我们俩都被抛向前方。" },
+    { "en": "The examiner looked at me sadly and said, 'Mr Eames, you have just killed that child!'", "zh": "考官难过地看着我说：'埃姆斯先生，你刚刚撞死了那个孩子！'" }
+  ]
+}

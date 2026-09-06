@@ -1,0 +1,250 @@
+{
+  "id": "L055",
+  "title": "Lesson 55 · The Sawyer family",
+  "titleZh": "第55课 索耶一家人",
+  "words": [
+    {
+      "word": "live",
+      "phonetic": "/lɪv/",
+      "meaning": "v. 住，生活",
+      "examples": [
+        { "en": "The Sawyers live at 87 King Street.", "zh": "索耶一家住在国王街87号。" },
+        { "en": "I live in Beijing.", "zh": "我住在北京。" }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meaning": "v. 停留，待在",
+      "examples": [
+        { "en": "Mrs. Sawyer stays at home every day.", "zh": "索耶夫人每天待在家里。" },
+        { "en": "Please stay here.", "zh": "请待在这里。" }
+      ]
+    },
+    {
+      "word": "home",
+      "phonetic": "/həʊm/",
+      "meaning": "adv. 在家，回家",
+      "examples": [
+        { "en": "Mrs. Sawyer stays at home every day.", "zh": "索耶夫人每天待在家里。" },
+        { "en": "They arrive home early.", "zh": "他们到得很早。" }
+      ]
+    },
+    {
+      "word": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meaning": "n. 家务",
+      "examples": [
+        { "en": "She does the housework.", "zh": "她料理家务。" },
+        { "en": "My mother does the housework every day.", "zh": "我妈妈每天做家务。" }
+      ]
+    },
+    {
+      "word": "lunch",
+      "phonetic": "/lʌntʃ/",
+      "meaning": "n. 午饭",
+      "examples": [
+        { "en": "She always eats her lunch at noon.", "zh": "她总是在正午吃午饭。" },
+        { "en": "What's for lunch?", "zh": "午饭吃什么？" }
+      ]
+    },
+    {
+      "word": "noon",
+      "phonetic": "/nuːn/",
+      "meaning": "n. 中午",
+      "examples": [
+        { "en": "She always eats her lunch at noon.", "zh": "她总是在正午吃午饭。" },
+        { "en": "We have lunch at noon.", "zh": "我们中午吃午饭。" }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meaning": "n. 下午",
+      "examples": [
+        { "en": "In the afternoon, she usually sees her friends.", "zh": "下午，她通常会见她的朋友。" },
+        { "en": "Good afternoon!", "zh": "下午好！" }
+      ]
+    },
+    {
+      "word": "usually",
+      "phonetic": "/ˈjuːʒuəli/",
+      "meaning": "adv. 通常",
+      "examples": [
+        { "en": "In the afternoon, she usually sees her friends.", "zh": "下午，她通常会见她的朋友。" },
+        { "en": "I usually get up at seven.", "zh": "我通常七点起床。" }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈɡeðə(r)/",
+      "meaning": "adv. 一起",
+      "examples": [
+        { "en": "They often drink tea together.", "zh": "她们经常一起喝茶。" },
+        { "en": "Let's play together.", "zh": "我们一起玩吧。" }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meaning": "n. 晚上",
+      "examples": [
+        { "en": "In the evening, the children come home from school.", "zh": "晚上，孩子们放学回家。" },
+        { "en": "Good evening!", "zh": "晚上好！" }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "v. 到达",
+      "examples": [
+        { "en": "They arrive home early.", "zh": "他们到得很早。" },
+        { "en": "He arrives home late.", "zh": "他到得很晚。" }
+      ]
+    },
+    {
+      "word": "homework",
+      "phonetic": "/ˈhəʊmwɜːk/",
+      "meaning": "n. 家庭作业",
+      "examples": [
+        { "en": "The children always do their homework.", "zh": "孩子们总是做作业。" },
+        { "en": "I do my homework at night.", "zh": "我晚上做作业。" }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə(r)/",
+      "meaning": "n. 报纸",
+      "examples": [
+        { "en": "Mr. Sawyer usually reads his newspaper.", "zh": "索耶先生通常读报。" },
+        { "en": "He reads the newspaper every morning.", "zh": "他每天早晨读报。" }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meaning": "n. 电视",
+      "examples": [
+        { "en": "Sometimes he and his wife watch television.", "zh": "有时他和妻子一起看电视。" },
+        { "en": "We watch television in the evening.", "zh": "我们晚上看电视。" }
+      ]
+    },
+    {
+      "word": "work",
+      "phonetic": "/wɜːk/",
+      "meaning": "n. 工作",
+      "examples": [
+        { "en": "Mr. Sawyer goes to work.", "zh": "索耶先生去上班。" },
+        { "en": "Mr. Sawyer comes home from work.", "zh": "索耶先生下班回家。" }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "/skuːl/",
+      "meaning": "n. 学校",
+      "examples": [
+        { "en": "The children go to school.", "zh": "孩子们去上学。" },
+        { "en": "The children come home from school.", "zh": "孩子们放学回家。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Sawyers live at 87 King Street.",
+      "zh": "索耶一家住在国王街87号。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Sawyers", "roles": ["主语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "87", "roles": ["定语"] },
+        { "text": "King", "roles": ["定语"] },
+        { "text": "Street", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "In the morning, Mr. Sawyer goes to work and the children go to school.",
+      "zh": "早晨，索耶先生去上班，孩子们去上学。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Sawyer", "roles": ["主语"] },
+        { "text": "goes", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "work", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Mrs. Sawyer stays at home every day.",
+      "zh": "索耶夫人每天待在家里。",
+      "analysis": [
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Sawyer", "roles": ["主语"] },
+        { "text": "stays", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "home", "roles": ["状语"] },
+        { "text": "every", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She always eats her lunch at noon.",
+      "zh": "她总是在正午吃午饭。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "eats", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "lunch", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "noon", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "At night, the children always do their homework.",
+      "zh": "夜里，孩子们总是做作业。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "night", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "homework", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He arrives home late.",
+      "zh": "他到得很晚。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "arrives", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] },
+        { "text": "late", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Sawyers live at 87 King Street.", "zh": "索耶一家住在国王街87号。" },
+    { "en": "In the morning, Mr. Sawyer goes to work and the children go to school.", "zh": "早晨，索耶先生去上班，孩子们去上学。" },
+    { "en": "Mrs. Sawyer stays at home every day.", "zh": "索耶夫人每天待在家里。" },
+    { "en": "She always eats her lunch at noon.", "zh": "她总是在正午吃午饭。" },
+    { "en": "In the afternoon, she usually sees her friends.", "zh": "下午，她通常会见她的朋友。" },
+    { "en": "They often drink tea together.", "zh": "她们经常一起喝茶。" },
+    { "en": "In the evening, the children come home from school.", "zh": "晚上，孩子们放学回家。" },
+    { "en": "They arrive home early.", "zh": "他们到得很早。" },
+    { "en": "Mr. Sawyer comes home from work.", "zh": "索耶先生下班回家。" },
+    { "en": "He arrives home late.", "zh": "他到得很晚。" },
+    { "en": "At night, the children always do their homework.", "zh": "夜里，孩子们总是做作业。" },
+    { "en": "Then they go to bed.", "zh": "然后他们上床睡觉。" }
+  ]
+}

@@ -111,7 +111,8 @@
       "zh": "见到你很高兴。",
       "analysis": [
         { "text": "Nice", "roles": ["表语"] },
-        { "text": "to see", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "see", "roles": ["谓语"] },
         { "text": "you", "roles": ["宾语"] }
       ]
     },

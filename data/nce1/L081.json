@@ -1,0 +1,209 @@
+{
+  "id": "L081",
+  "title": "Lesson 81 · Roast beef and potatoes",
+  "titleZh": "第81课 烤牛肉和土豆",
+  "words": [
+    {
+      "word": "bath",
+      "phonetic": "/bɑːθ/",
+      "meaning": "n. 洗澡",
+      "examples": [
+        { "en": "He's having a bath.", "zh": "他正在洗澡。" },
+        { "en": "I have a bath every evening.", "zh": "我每天晚上洗澡。" }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meaning": "adv. 几乎，将近",
+      "examples": [
+        { "en": "I'm nearly ready.", "zh": "我快准备好了。" },
+        { "en": "It's nearly seven o'clock.", "zh": "快7点了。" }
+      ]
+    },
+    {
+      "word": "ready",
+      "phonetic": "/ˈredi/",
+      "meaning": "adj. 准备好的",
+      "examples": [
+        { "en": "I'm nearly ready.", "zh": "我快准备好了。" },
+        { "en": "Is dinner ready, Carol?", "zh": "卡罗尔，饭好了吗？" }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə(r)/",
+      "meaning": "n. 正餐，晚餐",
+      "examples": [
+        { "en": "We can have dinner at seven o'clock.", "zh": "我们7点钟开饭。" },
+        { "en": "Is dinner ready, Carol?", "zh": "卡罗尔，饭好了吗？" }
+      ]
+    },
+    {
+      "word": "restaurant",
+      "phonetic": "/ˈrestrɒnt/",
+      "meaning": "n. 饭馆，餐馆",
+      "examples": [
+        { "en": "We went to a restaurant.", "zh": "我们去了家饭馆。" },
+        { "en": "This restaurant is very good.", "zh": "这家饭馆很不错。" }
+      ]
+    },
+    {
+      "word": "roast",
+      "phonetic": "/rəʊst/",
+      "meaning": "adj. 烤的",
+      "examples": [
+        { "en": "We had roast beef and potatoes.", "zh": "我们吃了烤牛肉和土豆。" },
+        { "en": "You're going to have roast beef again tonight!", "zh": "今晚你们又要吃烤牛肉了！" }
+      ]
+    },
+    {
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meaning": "n. 牛肉",
+      "examples": [
+        { "en": "We had roast beef and potatoes.", "zh": "我们吃了烤牛肉和土豆。" },
+        { "en": "I like roast beef.", "zh": "我喜欢吃烤牛肉。" }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meaning": "n. 香烟",
+      "examples": [
+        { "en": "Have a cigarette.", "zh": "抽支烟吧。" },
+        { "en": "He never smokes cigarettes.", "zh": "他从不抽烟。" }
+      ]
+    },
+    {
+      "word": "whisky",
+      "phonetic": "/ˈwɪski/",
+      "meaning": "n. 威士忌酒",
+      "examples": [
+        { "en": "Have a glass of whisky then.", "zh": "那就来杯威士忌吧。" },
+        { "en": "He drinks whisky every day.", "zh": "他每天喝威士忌。" }
+      ]
+    },
+    {
+      "word": "lunch",
+      "phonetic": "/lʌntʃ/",
+      "meaning": "n. 午餐",
+      "examples": [
+        { "en": "Sam and I had lunch together today.", "zh": "今天我和萨姆一起吃的午饭。" },
+        { "en": "I've already had lunch.", "zh": "我已经吃过午饭了。" }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meaning": "adv. 楼上，在楼上",
+      "examples": [
+        { "en": "He's upstairs.", "zh": "他在楼上。" },
+        { "en": "She went upstairs.", "zh": "她上楼去了。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "n. 事情，麻烦",
+      "examples": [
+        { "en": "What's the matter, Carol?", "zh": "怎么了，卡罗尔？" },
+        { "en": "What's the matter with you?", "zh": "你怎么了？" }
+      ]
+    },
+    {
+      "word": "tonight",
+      "phonetic": "/təˈnaɪt/",
+      "meaning": "adv. 今晚",
+      "examples": [
+        { "en": "You're going to have roast beef and potatoes again tonight!", "zh": "今晚你们又要吃烤牛肉和土豆了！" },
+        { "en": "I'm staying at home tonight.", "zh": "今晚我呆在家里。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He's having a bath.",
+      "zh": "他正在洗澡。",
+      "analysis": [
+        { "text": "He's", "roles": ["主语"] },
+        { "text": "having", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bath", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I'm nearly ready.",
+      "zh": "我快准备好了。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "nearly", "roles": ["状语"] },
+        { "text": "ready", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Have a glass of whisky then.",
+      "zh": "那就来杯威士忌吧。",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "glass", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "whisky", "roles": ["定语"] },
+        { "text": "then", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We can have dinner at seven o'clock.",
+      "zh": "我们7点钟开饭。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "dinner", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "seven", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Sam and I had lunch together today.",
+      "zh": "今天我和萨姆一起吃的午饭。",
+      "analysis": [
+        { "text": "Sam", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "lunch", "roles": ["宾语"] },
+        { "text": "together", "roles": ["状语"] },
+        { "text": "today", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We had roast beef and potatoes.",
+      "zh": "我们吃了烤牛肉和土豆。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "roast", "roles": ["定语"] },
+        { "text": "beef", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "potatoes", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Hi, Carol! Where's Tom?", "zh": "嗨，卡罗尔！汤姆在哪儿？" },
+    { "en": "He's upstairs.", "zh": "他在楼上。" },
+    { "en": "He's having a bath.", "zh": "他正在洗澡。" },
+    { "en": "Sam's here.", "zh": "萨姆来了。" },
+    { "en": "I'm nearly ready.", "zh": "我快准备好了。" },
+    { "en": "Have a glass of whisky then.", "zh": "那就来杯威士忌吧。" },
+    { "en": "Is dinner ready, Carol?", "zh": "卡罗尔，饭好了吗？" },
+    { "en": "We can have dinner at seven o'clock.", "zh": "我们7点钟开饭。" },
+    { "en": "Sam and I had lunch together today.", "zh": "今天我和萨姆一起吃的午饭。" },
+    { "en": "We went to a restaurant.", "zh": "我们去了家饭馆。" },
+    { "en": "We had roast beef and potatoes.", "zh": "我们吃了烤牛肉和土豆。" },
+    { "en": "Well, you're going to have roast beef and potatoes again tonight!", "zh": "唉，今晚你们又要吃烤牛肉和土豆了！" }
+  ]
+}

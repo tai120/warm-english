@@ -1,0 +1,238 @@
+{
+  "id": "L057",
+  "title": "Lesson 57 · Can I help you, madam?",
+  "titleZh": "第57课 您要买什么，夫人？",
+  "words": [
+    {
+      "word": "jeans",
+      "phonetic": "/dʒiːnz/",
+      "meaning": "n. 牛仔裤",
+      "examples": [
+        { "en": "A woman in jeans stood at the window.", "zh": "一位穿牛仔裤的女士站在橱窗前。" }
+      ]
+    },
+    {
+      "word": "hesitate",
+      "phonetic": "/ˈhezɪteɪt/",
+      "meaning": "v. 犹豫",
+      "examples": [
+        { "en": "She hesitated for a moment.", "zh": "她犹豫了一会儿。" }
+      ]
+    },
+    {
+      "word": "serve",
+      "phonetic": "/sɜːv/",
+      "meaning": "v. 接待，服务",
+      "examples": [
+        { "en": "The assistant who served her was very rude.", "zh": "接待她的店员非常无礼。" }
+      ]
+    },
+    {
+      "word": "scornfully",
+      "phonetic": "/ˈskɔːnfəli/",
+      "meaning": "adv. 轻蔑地",
+      "examples": [
+        { "en": "He glanced at her scornfully.", "zh": "他轻蔑地看了她一眼。" }
+      ]
+    },
+    {
+      "word": "punish",
+      "phonetic": "/ˈpʌnɪʃ/",
+      "meaning": "v. 惩罚",
+      "examples": [
+        { "en": "She decided to punish the assistant.", "zh": "她决定惩罚那个店员。" }
+      ]
+    },
+    {
+      "word": "fur",
+      "phonetic": "/fɜː(r)/",
+      "meaning": "n. 毛皮",
+      "examples": [
+        { "en": "She was dressed in a fur coat.", "zh": "她穿着一件裘皮大衣。" }
+      ]
+    },
+    {
+      "word": "eager",
+      "phonetic": "/ˈiːɡə(r)/",
+      "meaning": "adj. 热切的，渴望的",
+      "examples": [
+        { "en": "The assistant was eager to serve her this time.", "zh": "这次店员很殷勤地接待她。" }
+      ]
+    },
+    {
+      "word": "madam",
+      "phonetic": "/ˈmædəm/",
+      "meaning": "n. 夫人，女士",
+      "examples": [
+        { "en": "Can I help you, madam?", "zh": "夫人，您要买什么？" }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meaning": "adj. 昂贵的",
+      "examples": [
+        { "en": "She stood at the window of an expensive shop.", "zh": "她站在一家高档商店的橱窗前。" }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meaning": "n. 连衣裙",
+      "examples": [
+        { "en": "She asked to see a dress in the window.", "zh": "她要求看看橱窗里的一条连衣裙。" }
+      ]
+    },
+    {
+      "word": "following",
+      "phonetic": "/ˈfɒləʊɪŋ/",
+      "meaning": "adj. 接下来的",
+      "examples": [
+        { "en": "She returned to the shop the following morning.", "zh": "第二天早上她又来到这家商店。" }
+      ]
+    },
+    {
+      "word": "umbrella",
+      "phonetic": "/ʌmˈbrelə/",
+      "meaning": "n. 伞",
+      "examples": [
+        { "en": "She carried a long umbrella.", "zh": "她拿着一把长柄伞。" }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "v. 爬",
+      "examples": [
+        { "en": "He climbed into the shop window.", "zh": "他爬进了橱窗。" }
+      ]
+    },
+    {
+      "word": "seek",
+      "phonetic": "/siːk/",
+      "meaning": "v. 寻找",
+      "examples": [
+        { "en": "She sought out the rude assistant.", "zh": "她找到了那个无礼的店员。" }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "phonetic": "/ˈdɪfɪkəlti/",
+      "meaning": "n. 困难",
+      "examples": [
+        { "en": "With great difficulty, he got the dress.", "zh": "他费了好大的劲才拿到那条连衣裙。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A woman in jeans stood at the window of an expensive shop.",
+      "zh": "一位穿着牛仔裤的女士站在一家高档商店的橱窗前。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "jeans", "roles": ["定语"] },
+        { "text": "stood", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "window", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "expensive", "roles": ["定语"] },
+        { "text": "shop", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "zh": "女士生气地走出商店，决定第二天惩罚这个店员。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "walked", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["状语"] },
+        { "text": "angrily", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "decided", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "punish", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "assistant", "roles": ["宾语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "With great difficulty, he climbed into the shop window to get the dress.",
+      "zh": "他费了好大的劲爬进橱窗去取那条连衣裙。",
+      "analysis": [
+        { "text": "With", "roles": ["状语"] },
+        { "text": "great", "roles": ["定语"] },
+        { "text": "difficulty", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "climbed", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["定语"] },
+        { "text": "window", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dress", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "As soon as she saw it, the woman said she did not like it.",
+      "zh": "女士一看到这条裙子，就说她不喜欢。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Glancing at her scornfully, he told her that the dress was sold.",
+      "zh": "他轻蔑地看了她一眼，告诉她那条裙子已经卖出去了。",
+      "analysis": [
+        { "text": "Glancing", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "scornfully", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dress", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "sold", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "A woman in jeans stood at the window of an expensive shop.", "zh": "一位穿着牛仔裤的女士站在一家高档商店的橱窗前。" },
+    { "en": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.", "zh": "虽然她犹豫了一会儿，但最终还是走了进去，要求看看橱窗里的一条连衣裙。" },
+    { "en": "The assistant who served her did not like the way she was dressed.", "zh": "接待她的店员不喜欢她的穿着。" },
+    { "en": "Glancing at her scornfully, he told her that the dress was sold.", "zh": "他轻蔑地看了她一眼，告诉她那条裙子已经卖出去了。" },
+    { "en": "The woman walked out of the shop angrily and decided to punish the assistant next day.", "zh": "女士生气地走出商店，决定第二天惩罚这个店员。" },
+    { "en": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.", "zh": "第二天早上，她穿着裘皮大衣，一手拎着手提包，一手拿着长柄伞，又来到这家商店。" },
+    { "en": "Not realizing who she was, the assistant was eager to serve her this time.", "zh": "店员没有认出她是谁，这一次很殷勤地接待她。" },
+    { "en": "With great difficulty, he climbed into the shop window to get the dress.", "zh": "他费了好大的劲爬进橱窗去取那条连衣裙。" },
+    { "en": "As soon as she saw it, the woman said she did not like it.", "zh": "女士一看到这条裙子，就说她不喜欢。" },
+    { "en": "She made the assistant bring almost everything in the window before finally buying the dress she had first asked for.", "zh": "她让店员几乎把橱窗里的东西都拿了出来，最后才买下她最初要的那条连衣裙。" }
+  ]
+}

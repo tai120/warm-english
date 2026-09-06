@@ -1,0 +1,207 @@
+{
+  "id": "L093",
+  "title": "Lesson 93 · Our new neighbour",
+  "titleZh": "第93课 我们的新邻居",
+  "words": [
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meaning": "n. 飞行员",
+      "examples": [
+        { "en": "He's a pilot.", "zh": "他是个飞行员。" },
+        { "en": "My brother wants to be a pilot.", "zh": "我哥哥想当飞行员。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 返回，回来",
+      "examples": [
+        { "en": "He'll return to London the week after next.", "zh": "下下星期他将返回伦敦。" },
+        { "en": "He returned home late last night.", "zh": "他昨晚很晚才回家。" }
+      ]
+    },
+    {
+      "word": "fly",
+      "phonetic": "/flaɪ/",
+      "meaning": "v. 飞行，乘飞机",
+      "examples": [
+        { "en": "He will fly to New York next month.", "zh": "他下个月将飞往纽约。" },
+        { "en": "He flew to Spain a week ago.", "zh": "他一周前飞到了西班牙。" }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meaning": "adj. 幸运的",
+      "examples": [
+        { "en": "Nigel is a very lucky man.", "zh": "奈杰尔是个很幸运的人。" },
+        { "en": "But his wife isn't very lucky.", "zh": "但他的妻子运气不那么好。" }
+      ]
+    },
+    {
+      "word": "next-door",
+      "phonetic": "/ˌnekst ˈdɔː(r)/",
+      "meaning": "adj. 隔壁的",
+      "examples": [
+        { "en": "Nigel is our new next-door neighbour.", "zh": "奈杰尔是我们新搬来的隔壁邻居。" },
+        { "en": "They are our next-door neighbours.", "zh": "他们是我们隔壁的邻居。" }
+      ]
+    },
+    {
+      "word": "next",
+      "phonetic": "/nekst/",
+      "meaning": "adj. 下一个的",
+      "examples": [
+        { "en": "He will fly to New York next month.", "zh": "他下个月将飞往纽约。" },
+        { "en": "The month after next he'll fly to Tokyo.", "zh": "再下个月他将飞往东京。" }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "/mʌnθ/",
+      "meaning": "n. 月",
+      "examples": [
+        { "en": "He will fly to New York next month.", "zh": "他下个月将飞往纽约。" },
+        { "en": "The month after next he'll fly to Tokyo.", "zh": "再下个月他将飞往东京。" }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meaning": "n. 世界",
+      "examples": [
+        { "en": "He has already been to nearly every country in the world.", "zh": "他几乎到过世界上每一个国家。" },
+        { "en": "It's the biggest city in the world.", "zh": "它是世界上最大的城市。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 国家",
+      "examples": [
+        { "en": "He has already been to nearly every country in the world.", "zh": "他几乎到过世界上每一个国家。" },
+        { "en": "China is a great country.", "zh": "中国是一个伟大的国家。" }
+      ]
+    },
+    {
+      "word": "usually",
+      "phonetic": "/ˈjuːʒuəli/",
+      "meaning": "adv. 通常",
+      "examples": [
+        { "en": "She usually stays at home!", "zh": "她通常呆在家里！" },
+        { "en": "I usually get up at seven.", "zh": "我通常7点起床。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "He has already been to nearly every country in the world.", "zh": "他几乎到过世界上每一个国家。" },
+        { "en": "I've already seen the film.", "zh": "我已经看过这部电影了。" }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meaning": "adv. 几乎",
+      "examples": [
+        { "en": "He has already been to nearly every country in the world.", "zh": "他几乎到过世界上每一个国家。" },
+        { "en": "It's nearly ten o'clock.", "zh": "快10点了。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Nigel is our new next-door neighbour.",
+      "zh": "奈杰尔是我们新搬来的隔壁邻居。",
+      "analysis": [
+        { "text": "Nigel", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "next-door", "roles": ["定语"] },
+        { "text": "neighbour", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He's a pilot.",
+      "zh": "他是个飞行员。",
+      "analysis": [
+        { "text": "He's", "roles": ["主语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "pilot", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He will fly to New York next month.",
+      "zh": "他下个月将飞往纽约。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "fly", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "New", "roles": ["定语"] },
+        { "text": "York", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "month", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The month after next he'll fly to Tokyo.",
+      "zh": "再下个月他将飞往东京。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "month", "roles": ["状语"] },
+        { "text": "after", "roles": ["定语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "he'll", "roles": ["主语"] },
+        { "text": "fly", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Tokyo", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He flew to Spain a week ago.",
+      "zh": "他一周前飞到了西班牙。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "flew", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Spain", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He'll return to London the week after next.",
+      "zh": "下下星期他将返回伦敦。",
+      "analysis": [
+        { "text": "He'll", "roles": ["主语"] },
+        { "text": "return", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "London", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "after", "roles": ["定语"] },
+        { "text": "next", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Nigel is our new next-door neighbour.", "zh": "奈杰尔是我们新搬来的隔壁邻居。" },
+    { "en": "He's a pilot.", "zh": "他是个飞行员。" },
+    { "en": "He was in the R.A.F.", "zh": "他曾在皇家空军服役。" },
+    { "en": "He will fly to New York next month.", "zh": "他下个月将飞往纽约。" },
+    { "en": "The month after next he'll fly to Tokyo.", "zh": "再下个月他将飞往东京。" },
+    { "en": "At the moment, he's in Madrid.", "zh": "现在他在马德里。" },
+    { "en": "He flew to Spain a week ago.", "zh": "他一周前飞到了西班牙。" },
+    { "en": "He'll return to London the week after next.", "zh": "下下星期他将返回伦敦。" },
+    { "en": "He has already been to nearly every country in the world.", "zh": "他几乎到过世界上每一个国家。" },
+    { "en": "Nigel is a very lucky man.", "zh": "奈杰尔是个很幸运的人。" },
+    { "en": "But his wife isn't very lucky.", "zh": "但他的妻子运气不那么好。" },
+    { "en": "She usually stays at home!", "zh": "她通常呆在家里！" }
+  ]
+}

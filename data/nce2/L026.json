@@ -1,0 +1,245 @@
+{
+  "id": "L026",
+  "title": "Lesson 26 · The best art critics",
+  "titleZh": "第26课 最佳美术评论家",
+  "words": [
+    {
+      "word": "art",
+      "phonetic": "/ɑːt/",
+      "meaning": "n. 美术，艺术",
+      "examples": [
+        { "en": "I am an art student.", "zh": "我是个学艺术的学生。" },
+        { "en": "She studies art at school.", "zh": "她在学校学习美术。" }
+      ]
+    },
+    {
+      "word": "student",
+      "phonetic": "/ˈstjuːdnt/",
+      "meaning": "n. 学生",
+      "examples": [
+        { "en": "I am an art student.", "zh": "我是个学艺术的学生。" },
+        { "en": "The students are painting.", "zh": "学生们正在画画。" }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meaning": "v. 画，绘画",
+      "examples": [
+        { "en": "I paint a lot of pictures.", "zh": "我画了很多画。" },
+        { "en": "He paints landscapes.", "zh": "他画风景画。" }
+      ]
+    },
+    {
+      "word": "picture",
+      "phonetic": "/ˈpɪktʃə(r)/",
+      "meaning": "n. 图画",
+      "examples": [
+        { "en": "I paint a lot of pictures.", "zh": "我画了很多画。" },
+        { "en": "She hung a picture on the wall.", "zh": "她把一幅画挂在了墙上。" }
+      ]
+    },
+    {
+      "word": "pretend",
+      "phonetic": "/prɪˈtend/",
+      "meaning": "v. 假装",
+      "examples": [
+        { "en": "Many people pretend that they understand modern art.", "zh": "有很多人装成很懂现代艺术的样子。" },
+        { "en": "He pretended to be asleep.", "zh": "他假装睡着了。" }
+      ]
+    },
+    {
+      "word": "pattern",
+      "phonetic": "/ˈpætn/",
+      "meaning": "n. 图案",
+      "examples": [
+        { "en": "They are just pretty patterns.", "zh": "它们就是些好看的图案。" },
+        { "en": "The cloth has a lovely pattern.", "zh": "这块布上有漂亮的图案。" }
+      ]
+    },
+    {
+      "word": "pretty",
+      "phonetic": "/ˈprɪti/",
+      "meaning": "adj. 漂亮的",
+      "examples": [
+        { "en": "They are just pretty patterns.", "zh": "它们就是些好看的图案。" },
+        { "en": "She wore a pretty dress.", "zh": "她穿着一件漂亮的连衣裙。" }
+      ]
+    },
+    {
+      "word": "curtain",
+      "phonetic": "/ˈkɜːtn/",
+      "meaning": "n. 窗帘",
+      "examples": [
+        { "en": "We like pretty curtain material.", "zh": "我们喜爱漂亮的窗帘布料。" },
+        { "en": "Please draw the curtains.", "zh": "请把窗帘拉上。" }
+      ]
+    },
+    {
+      "word": "material",
+      "phonetic": "/məˈtɪəriəl/",
+      "meaning": "n. 材料，布料",
+      "examples": [
+        { "en": "We like pretty curtain material.", "zh": "我们喜爱漂亮的窗帘布料。" },
+        { "en": "This material is very soft.", "zh": "这种布料很柔软。" }
+      ]
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meaning": "v. 鉴赏，欣赏",
+      "examples": [
+        { "en": "Young children often appreciate modern pictures.", "zh": "小孩子们往往更能欣赏现代绘画。" },
+        { "en": "I really appreciate your help.", "zh": "我非常感激你的帮助。" }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meaning": "v. 注意到",
+      "examples": [
+        { "en": "They notice more.", "zh": "他们观察到的东西更多。" },
+        { "en": "Did you notice her new dress?", "zh": "你注意到她的新连衣裙了吗？" }
+      ]
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "conj. 是否",
+      "examples": [
+        { "en": "She tells me whether my pictures are good.", "zh": "她告诉我我的画是好是坏。" },
+        { "en": "I don't know whether he will come.", "zh": "我不知道他是否会来。" }
+      ]
+    },
+    {
+      "word": "hang",
+      "phonetic": "/hæŋ/",
+      "meaning": "v. 悬挂",
+      "examples": [
+        { "en": "I'm hanging this picture on the wall.", "zh": "我正把这张画挂到墙上。" },
+        { "en": "He hung his coat on the hook.", "zh": "他把外套挂在衣钩上。" }
+      ]
+    },
+    {
+      "word": "wall",
+      "phonetic": "/wɔːl/",
+      "meaning": "n. 墙",
+      "examples": [
+        { "en": "I'm hanging this picture on the wall.", "zh": "我正把这张画挂到墙上。" },
+        { "en": "The wall is white.", "zh": "这面墙是白色的。" }
+      ]
+    },
+    {
+      "word": "critically",
+      "phonetic": "/ˈkrɪtɪkli/",
+      "meaning": "adv. 挑剔地",
+      "examples": [
+        { "en": "She looked at it critically.", "zh": "她挑剔地看着它。" },
+        { "en": "He examined the plan critically.", "zh": "他以挑剔的眼光审查了这个计划。" }
+      ]
+    },
+    {
+      "word": "upside",
+      "phonetic": "/ˈʌpsaɪd/",
+      "meaning": "n. 上部（upside down 上下颠倒）",
+      "examples": [
+        { "en": "Isn't it upside down?", "zh": "是不是挂倒了？" },
+        { "en": "He turned the box upside down.", "zh": "他把盒子倒了过来。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I am an art student and I paint a lot of pictures.",
+      "zh": "我是个学艺术的学生，画了很多画。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "am", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "art", "roles": ["定语"] },
+        { "text": "student", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "paint", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "pictures", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Many people pretend that they understand modern art.",
+      "zh": "有很多人装成很懂现代艺术的样子。",
+      "analysis": [
+        { "text": "Many", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "pretend", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "understand", "roles": ["谓语"] },
+        { "text": "modern", "roles": ["定语"] },
+        { "text": "art", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "They are just pretty patterns.",
+      "zh": "它们就是些好看的图案。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "pretty", "roles": ["定语"] },
+        { "text": "patterns", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "zh": "我的妹妹只有7岁，但她总能告诉我我的画是好还是坏。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "sister", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "seven", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "tells", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "whether", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "pictures", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "good", "roles": ["表语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "not", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She looked at it critically for a moment.",
+      "zh": "她挑剔地看了一会儿。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "critically", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "moment", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I am an art student and I paint a lot of pictures.", "zh": "我是个学艺术的学生，画了很多画。" },
+    { "en": "Many people pretend that they understand modern art.", "zh": "有很多人装成很懂现代艺术的样子。" },
+    { "en": "They always tell you what a picture is 'about'.", "zh": "他们总是告诉你一幅画的‘意思’是什么。" },
+    { "en": "Of course, many pictures are not 'about' anything.", "zh": "当然，有很多画是什么‘意思’也没有的。" },
+    { "en": "They are just pretty patterns.", "zh": "它们就是些好看的图案。" },
+    { "en": "I think that young children often appreciate modern pictures better than anyone else.", "zh": "我觉得小孩子们往往比任何人都更能欣赏现代绘画。" },
+    { "en": "My sister is only seven, but she always tells me whether my pictures are good or not.", "zh": "我的妹妹只有7岁，但她总能告诉我我的画是好还是坏。" },
+    { "en": "'I'm hanging this picture on the wall,' I answered.", "zh": "‘我正把这张画挂到墙上，’我回答说。" },
+    { "en": "She looked at it critically for a moment.", "zh": "她挑剔地看了一会儿。" },
+    { "en": "'It's all right,' she said, 'but isn't it upside down?'", "zh": "‘还可以，’她说，‘不过，是不是挂倒了？’" }
+  ]
+}

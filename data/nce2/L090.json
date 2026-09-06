@@ -1,0 +1,250 @@
+{
+  "id": "L090",
+  "title": "Lesson 90 · What's for supper?",
+  "titleZh": "第90课 晚餐吃什么？",
+  "words": [
+    {
+      "word": "supper",
+      "phonetic": "/ˈsʌpə(r)/",
+      "meaning": "n. 晚餐",
+      "examples": [
+        { "en": "What's for supper?", "zh": "晚餐吃什么？" }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meaning": "adj. 最喜爱的",
+      "examples": [
+        { "en": "Fish and chips is a favourite dish in Britain.", "zh": "鱼和炸薯条在英国是道深受喜爱的菜。" }
+      ]
+    },
+    {
+      "word": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "n. 菜肴",
+      "examples": [
+        { "en": "Fish and chips is a very popular dish.", "zh": "鱼和炸薯条是一道很受欢迎的菜。" }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meaning": "adj. 昂贵的",
+      "examples": [
+        { "en": "Fish has become more and more expensive.", "zh": "鱼变得越来越贵了。" }
+      ]
+    },
+    {
+      "word": "giant",
+      "phonetic": "/ˈdʒaɪənt/",
+      "meaning": "adj. 巨大的",
+      "examples": [
+        { "en": "Giant fish are terrifying the divers.", "zh": "巨鱼把潜水员们吓坏了。" }
+      ]
+    },
+    {
+      "word": "terrify",
+      "phonetic": "/ˈterɪfaɪ/",
+      "meaning": "v. 使害怕",
+      "examples": [
+        { "en": "The giant fish terrified the divers.", "zh": "巨鱼使潜水员们感到害怕。" }
+      ]
+    },
+    {
+      "word": "diver",
+      "phonetic": "/ˈdaɪvə(r)/",
+      "meaning": "n. 潜水员",
+      "examples": [
+        { "en": "The divers work a hundred feet under water.", "zh": "潜水员们在水下一百英尺处工作。" }
+      ]
+    },
+    {
+      "word": "oil",
+      "phonetic": "/ɔɪl/",
+      "meaning": "n. 石油",
+      "examples": [
+        { "en": "The divers work on oil rigs.", "zh": "潜水员们在石油钻井平台上工作。" }
+      ]
+    },
+    {
+      "word": "rig",
+      "phonetic": "/rɪɡ/",
+      "meaning": "n. 钻塔，钻井平台",
+      "examples": [
+        { "en": "Oil rigs have to be repaired frequently.", "zh": "石油钻井平台必须经常修理。" }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meaning": "v. 修理",
+      "examples": [
+        { "en": "The rigs have to be repaired frequently.", "zh": "钻井平台必须经常修理。" }
+      ]
+    },
+    {
+      "word": "frequently",
+      "phonetic": "/ˈfriːkwəntli/",
+      "meaning": "adv. 经常",
+      "examples": [
+        { "en": "Oil rigs are repaired frequently.", "zh": "石油钻井平台经常修理。" }
+      ]
+    },
+    {
+      "word": "darkness",
+      "phonetic": "/ˈdɑːknəs/",
+      "meaning": "n. 黑暗",
+      "examples": [
+        { "en": "The divers often work in darkness.", "zh": "潜水员们经常在黑暗中工作。" }
+      ]
+    },
+    {
+      "word": "cage",
+      "phonetic": "/keɪdʒ/",
+      "meaning": "n. 笼子",
+      "examples": [
+        { "en": "Special cages protect the divers from the fish.", "zh": "特制的笼子保护潜水员不受鱼的伤害。" }
+      ]
+    },
+    {
+      "word": "shark",
+      "phonetic": "/ʃɑːk/",
+      "meaning": "n. 鲨鱼",
+      "examples": [
+        { "en": "The fish are not sharks.", "zh": "这些鱼不是鲨鱼。" }
+      ]
+    },
+    {
+      "word": "variety",
+      "phonetic": "/vəˈraɪəti/",
+      "meaning": "n. 品种",
+      "examples": [
+        { "en": "Cod and skate are favourite eating varieties.", "zh": "鳕鱼和鳐鱼是最受欢迎的食用品种。" }
+      ]
+    },
+    {
+      "word": "factor",
+      "phonetic": "/ˈfæktə(r)/",
+      "meaning": "n. 因素",
+      "examples": [
+        { "en": "Three factors have caused the fish to grow so large.", "zh": "有三个因素使这些鱼长得这么大。" }
+      ]
+    },
+    {
+      "word": "plentiful",
+      "phonetic": "/ˈplentɪfl/",
+      "meaning": "adj. 充足的",
+      "examples": [
+        { "en": "The supply of food is plentiful.", "zh": "食物供应很充足。" }
+      ]
+    },
+    {
+      "word": "supply",
+      "phonetic": "/səˈplaɪ/",
+      "meaning": "n. 供应",
+      "examples": [
+        { "en": "There is a plentiful supply of food for the fish.", "zh": "鱼的食物供应十分充足。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Fish and chips has always been a favourite dish in Britain.",
+      "zh": "鱼和炸薯条在英国一直是深受喜爱的菜肴。",
+      "analysis": [
+        { "text": "Fish", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "chips", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "favourite", "roles": ["定语"] },
+        { "text": "dish", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Britain", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Now they have had special cages made to protect them from these monsters.",
+      "zh": "现在他们定制了特制的笼子来保护自己免受这些怪物的伤害。",
+      "analysis": [
+        { "text": "Now", "roles": ["状语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "special", "roles": ["定语"] },
+        { "text": "cages", "roles": ["宾语"] },
+        { "text": "made", "roles": ["补语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "protect", "roles": ["状语"] },
+        { "text": "them", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "monsters", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Three factors have caused these fish to grow so large.",
+      "zh": "有三个因素使这些鱼长得如此巨大。",
+      "analysis": [
+        { "text": "Three", "roles": ["定语"] },
+        { "text": "factors", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "caused", "roles": ["谓语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "fish", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "grow", "roles": ["补语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "large", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "As a result, the fish just eat and eat and grow and grow in the lovely warm water.",
+      "zh": "结果，这些鱼就在温暖可爱的水里吃呀吃，长呀长。",
+      "analysis": [
+        { "text": "As", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "result", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "fish", "roles": ["主语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "eat", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "eat", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "grow", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "grow", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "lovely", "roles": ["定语"] },
+        { "text": "warm", "roles": ["定语"] },
+        { "text": "water", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Who eats who?",
+      "zh": "到底谁吃谁呢？",
+      "analysis": [
+        { "text": "Who", "roles": ["主语"] },
+        { "text": "eats", "roles": ["谓语"] },
+        { "text": "who", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Fish and chips has always been a favourite dish in Britain.", "zh": "鱼和炸薯条在英国一直是深受喜爱的菜肴。" },
+    { "en": "But as the oceans have been overfished, fish has become more and more expensive.", "zh": "但由于海洋被过度捕捞，鱼变得越来越贵。" },
+    { "en": "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.", "zh": "因此，得知巨鱼正在恐吓北海石油钻井平台的潜水员，人们不免感到惊讶。" },
+    { "en": "Oil rigs have to be repaired frequently and divers have been frightened out of their wits by giant fish bumping into them as they work.", "zh": "石油钻井平台必须经常修理，而潜水员常常要在一百英尺深的水下黑暗中工作，巨鱼撞到他们身上，把他们吓得魂飞魄散。" },
+    { "en": "Now they have had special cages made to protect them from these monsters.", "zh": "现在他们定制了特制的笼子来保护自己免受这些怪物的伤害。" },
+    { "en": "The fish are not sharks or killer whales, but favourite eating varieties like cod and skate which grow to unnatural sizes, sometimes as much as twelve feet in length.", "zh": "这些鱼不是鲨鱼或虎鲸，而是鳕鱼和鳐鱼等受人喜爱的食用品种，它们长得大得反常，有时长达十二英尺。" },
+    { "en": "Three factors have caused these fish to grow so large.", "zh": "有三个因素使这些鱼长得如此巨大。" },
+    { "en": "These are the warm water round the hot oil pipes under the sea, the plentiful supply of food thrown overboard by the crews, and the total absence of fishing boats around the oil rigs.", "zh": "那就是海底热油管周围温暖的海水、船员们抛到海里的充足食物，以及钻井平台周围根本没有渔船。" },
+    { "en": "As a result, the fish just eat and eat and grow and grow in the lovely warm water.", "zh": "结果，这些鱼就在温暖可爱的水里吃呀吃，长呀长。" },
+    { "en": "Who eats who?", "zh": "到底谁吃谁呢？" }
+  ]
+}

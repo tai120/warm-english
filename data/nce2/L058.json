@@ -1,0 +1,239 @@
+{
+  "id": "L058",
+  "title": "Lesson 58 · A blessing in disguise?",
+  "titleZh": "第58课 是因祸得福吗？",
+  "words": [
+    {
+      "word": "blessing",
+      "phonetic": "/ˈblesɪŋ/",
+      "meaning": "n. 福气，好事",
+      "examples": [
+        { "en": "Rain after a long dry season is a blessing.", "zh": "久旱逢甘雨是件好事。" }
+      ]
+    },
+    {
+      "word": "disguise",
+      "phonetic": "/dɪsˈɡaɪz/",
+      "meaning": "n. 伪装",
+      "examples": [
+        { "en": "A blessing in disguise?", "zh": "是因祸得福吗？" }
+      ]
+    },
+    {
+      "word": "tiny",
+      "phonetic": "/ˈtaɪni/",
+      "meaning": "adj. 极小的",
+      "examples": [
+        { "en": "The tiny village is called Frinley.", "zh": "这个小村庄叫弗林利。" }
+      ]
+    },
+    {
+      "word": "possess",
+      "phonetic": "/pəˈzes/",
+      "meaning": "v. 拥有",
+      "examples": [
+        { "en": "The village is said to possess a cursed tree.", "zh": "据说这个村庄有一棵被诅咒的树。" }
+      ]
+    },
+    {
+      "word": "cursed",
+      "phonetic": "/kɜːst/",
+      "meaning": "adj. 被诅咒的",
+      "examples": [
+        { "en": "Nobody wants to touch the cursed tree.", "zh": "没有人愿意碰那棵被诅咒的树。" }
+      ]
+    },
+    {
+      "word": "increase",
+      "phonetic": "/ɪnˈkriːs/",
+      "meaning": "v. 增加",
+      "examples": [
+        { "en": "The number of visitors has increased.", "zh": "游客的数量增加了。" }
+      ]
+    },
+    {
+      "word": "reputation",
+      "phonetic": "/ˌrepjuˈteɪʃn/",
+      "meaning": "n. 名声",
+      "examples": [
+        { "en": "The tree has gained an evil reputation.", "zh": "这棵树得了恶名。" }
+      ]
+    },
+    {
+      "word": "victim",
+      "phonetic": "/ˈvɪktɪm/",
+      "meaning": "n. 受害者",
+      "examples": [
+        { "en": "The tree has claimed a number of victims.", "zh": "这棵树已经害了不少人。" }
+      ]
+    },
+    {
+      "word": "vicar",
+      "phonetic": "/ˈvɪkə(r)/",
+      "meaning": "n. 牧师",
+      "examples": [
+        { "en": "The vicar refused to have the tree cut down.", "zh": "牧师拒绝把树砍掉。" }
+      ]
+    },
+    {
+      "word": "source",
+      "phonetic": "/sɔːs/",
+      "meaning": "n. 来源",
+      "examples": [
+        { "en": "The tree is a useful source of income.", "zh": "这棵树是一个有用的收入来源。" }
+      ]
+    },
+    {
+      "word": "income",
+      "phonetic": "/ˈɪnkʌm/",
+      "meaning": "n. 收入",
+      "examples": [
+        { "en": "The tourists bring income to the village.", "zh": "游客给村庄带来收入。" }
+      ]
+    },
+    {
+      "word": "Frinley",
+      "phonetic": "/ˈfrɪnli/",
+      "meaning": "n. 弗林利（村庄名）",
+      "examples": [
+        { "en": "Frinley is a tiny village.", "zh": "弗林利是一个小村庄。" }
+      ]
+    },
+    {
+      "word": "plant",
+      "phonetic": "/plɑːnt/",
+      "meaning": "v. 种植",
+      "examples": [
+        { "en": "The tree was planted fifty years ago.", "zh": "这棵树是五十年前种的。" }
+      ]
+    },
+    {
+      "word": "gain",
+      "phonetic": "/ɡeɪn/",
+      "meaning": "v. 获得",
+      "examples": [
+        { "en": "The tree has gained an evil reputation.", "zh": "这棵树得了恶名。" }
+      ]
+    },
+    {
+      "word": "evil",
+      "phonetic": "/ˈiːvl/",
+      "meaning": "adj. 邪恶的",
+      "examples": [
+        { "en": "The tree has an evil reputation.", "zh": "这棵树有个恶名。" }
+      ]
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "n. 树干",
+      "examples": [
+        { "en": "They cut their names on the tree-trunk.", "zh": "他们在树干上刻名字。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The tiny village of Frinley is said to possess a cursed tree.",
+      "zh": "据说小村庄弗林利有一棵被诅咒的树。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "tiny", "roles": ["定语"] },
+        { "text": "village", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "Frinley", "roles": ["定语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "possess", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cursed", "roles": ["定语"] },
+        { "text": "tree", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The tree was planted near the church fifty years ago.",
+      "zh": "这棵树五十年前被种在教堂附近。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "tree", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "planted", "roles": ["谓语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "church", "roles": ["状语"] },
+        { "text": "fifty", "roles": ["定语"] },
+        { "text": "years", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "If he picks a leaf, he will die.",
+      "zh": "如果他摘下一片叶子，他就会死。",
+      "analysis": [
+        { "text": "If", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "picks", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "leaf", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "die", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Many villagers believe that the tree has already claimed a number of victims.",
+      "zh": "许多村民相信这棵树已经害了不少人。",
+      "analysis": [
+        { "text": "Many", "roles": ["定语"] },
+        { "text": "villagers", "roles": ["主语"] },
+        { "text": "believe", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tree", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "claimed", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "number", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "victims", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "The vicar has been asked to have the tree cut down, but so far he has refused.",
+      "zh": "有人请求牧师把树砍掉，但到目前为止他拒绝了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "vicar", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tree", "roles": ["宾语"] },
+        { "text": "cut", "roles": ["补语"] },
+        { "text": "down", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "far", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "refused", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The tiny village of Frinley is said to possess a cursed tree.", "zh": "据说小村庄弗林利有一棵被诅咒的树。" },
+    { "en": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.", "zh": "因为这棵树被一家报纸报道过，来弗林利的游客现在增多了。" },
+    { "en": "The tree was planted near the church fifty years ago.", "zh": "这棵树五十年前被种在教堂附近。" },
+    { "en": "It is only in recent years that it has gained an evil reputation.", "zh": "只是近几年它才得了恶名。" },
+    { "en": "It is said that if anyone touches the tree, he will have bad luck.", "zh": "据说谁要是碰了这棵树，就会倒霉。" },
+    { "en": "If he picks a leaf, he will die.", "zh": "如果他摘下一片叶子，他就会死。" },
+    { "en": "Many villagers believe that the tree has already claimed a number of victims.", "zh": "许多村民相信这棵树已经害了不少人。" },
+    { "en": "The vicar has been asked to have the tree cut down, but so far he has refused.", "zh": "有人请求牧师把树砍掉，但到目前为止他拒绝了。" },
+    { "en": "He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.", "zh": "他指出这棵树是一个有用的收入来源，因为游客们从全国各地赶来观看。" },
+    { "en": "So far, not one of them has been struck down by sudden death!", "zh": "到目前为止，还没有一个人突然死去！" }
+  ]
+}

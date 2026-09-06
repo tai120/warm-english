@@ -1,0 +1,267 @@
+{
+  "id": "L080",
+  "title": "Lesson 80 · The Crystal Palace",
+  "titleZh": "第80课 水晶宫",
+  "words": [
+    {
+      "word": "extraordinary",
+      "phonetic": "/ɪkˈstrɔːdnri/",
+      "meaning": "adj. 不寻常的，非凡的",
+      "examples": [
+        { "en": "The Crystal Palace was an extraordinary building.", "zh": "水晶宫是一座非凡的建筑。" }
+      ]
+    },
+    {
+      "word": "palace",
+      "phonetic": "/ˈpæləs/",
+      "meaning": "n. 宫殿",
+      "examples": [
+        { "en": "The Crystal Palace was made of iron and glass.", "zh": "水晶宫由铁和玻璃建成。" }
+      ]
+    },
+    {
+      "word": "exhibition",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "meaning": "n. 展览，博览会",
+      "examples": [
+        { "en": "The Great Exhibition was held in 1851.", "zh": "万国博览会于1851年举行。" }
+      ]
+    },
+    {
+      "word": "iron",
+      "phonetic": "/ˈaɪən/",
+      "meaning": "n. 铁",
+      "examples": [
+        { "en": "The building was made of iron.", "zh": "这座建筑由铁建成。" }
+      ]
+    },
+    {
+      "word": "glass",
+      "phonetic": "/ɡlɑːs/",
+      "meaning": "n. 玻璃",
+      "examples": [
+        { "en": "The palace was made of iron and glass.", "zh": "水晶宫由铁和玻璃建成。" }
+      ]
+    },
+    {
+      "word": "goods",
+      "phonetic": "/ɡʊdz/",
+      "meaning": "n. 商品，货物",
+      "examples": [
+        { "en": "Many goods were sent to the exhibition.", "zh": "许多货物被运到博览会上。" }
+      ]
+    },
+    {
+      "word": "various",
+      "phonetic": "/ˈveəriəs/",
+      "meaning": "adj. 各种各样的",
+      "examples": [
+        { "en": "Goods came from various parts of the world.", "zh": "货物来自世界各地。" }
+      ]
+    },
+    {
+      "word": "machinery",
+      "phonetic": "/məˈʃiːnəri/",
+      "meaning": "n. 机器（总称）",
+      "examples": [
+        { "en": "A great deal of machinery was on display.", "zh": "展出了大量机器。" }
+      ]
+    },
+    {
+      "word": "display",
+      "phonetic": "/dɪˈspleɪ/",
+      "meaning": "n. 陈列，展示",
+      "examples": [
+        { "en": "The machinery was on display.", "zh": "机器在展出。" }
+      ]
+    },
+    {
+      "word": "steam",
+      "phonetic": "/stiːm/",
+      "meaning": "n. 蒸汽",
+      "examples": [
+        { "en": "The steam hammer was wonderful.", "zh": "蒸汽锤非常奇妙。" }
+      ]
+    },
+    {
+      "word": "hammer",
+      "phonetic": "/ˈhæmə(r)/",
+      "meaning": "n. 锤子",
+      "examples": [
+        { "en": "Nasmyth's steam hammer was on show.", "zh": "内史密斯的蒸汽锤在展出。" }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "/ˈvɪzɪtə(r)/",
+      "meaning": "n. 参观者，游客",
+      "examples": [
+        { "en": "Thousands of visitors crossed the Channel.", "zh": "成千上万的参观者渡过英吉利海峡。" }
+      ]
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænl/",
+      "meaning": "n. 海峡，频道",
+      "examples": [
+        { "en": "Steam boats carried visitors across the Channel.", "zh": "汽船把参观者运过英吉利海峡。" }
+      ]
+    },
+    {
+      "word": "profit",
+      "phonetic": "/ˈprɒfɪt/",
+      "meaning": "n. 利润，收益",
+      "examples": [
+        { "en": "The profits were used to build museums.", "zh": "收益被用来建造博物馆。" }
+      ]
+    },
+    {
+      "word": "museum",
+      "phonetic": "/mjuˈziːəm/",
+      "meaning": "n. 博物馆",
+      "examples": [
+        { "en": "They built museums and colleges with the profits.", "zh": "他们用收益建造博物馆和学院。" }
+      ]
+    },
+    {
+      "word": "college",
+      "phonetic": "/ˈkɒlɪdʒ/",
+      "meaning": "n. 学院",
+      "examples": [
+        { "en": "The profits built museums and colleges.", "zh": "收益建起了博物馆和学院。" }
+      ]
+    },
+    {
+      "word": "Hyde Park",
+      "phonetic": "/haɪd pɑːk/",
+      "meaning": "n. 海德公园（地名）",
+      "examples": [
+        { "en": "The palace was built in Hyde Park.", "zh": "水晶宫建在海德公园。" }
+      ]
+    },
+    {
+      "word": "Nasmyth",
+      "phonetic": "/ˈneɪzmɪθ/",
+      "meaning": "n. 内史密斯（人名）",
+      "examples": [
+        { "en": "Nasmyth invented the steam hammer.", "zh": "内史密斯发明了蒸汽锤。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Crystal Palace was perhaps the most extraordinary building of the nineteenth century.",
+      "zh": "水晶宫也许是19世纪最不寻常的建筑。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Crystal", "roles": ["定语"] },
+        { "text": "Palace", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "perhaps", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "extraordinary", "roles": ["定语"] },
+        { "text": "building", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "nineteenth", "roles": ["定语"] },
+        { "text": "century", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The Crystal Palace was different from all other buildings, for it was made of iron and glass.",
+      "zh": "水晶宫与所有其他建筑都不一样，因为它是由铁和玻璃建成的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Crystal", "roles": ["定语"] },
+        { "text": "Palace", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "different", "roles": ["表语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "other", "roles": ["定语"] },
+        { "text": "buildings", "roles": ["宾语"] },
+        { "text": "for", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "iron", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "glass", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A great many goods were sent to the exhibition from various parts of the world.",
+      "zh": "大量货物从世界各地运到了博览会上。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "great", "roles": ["定语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "goods", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "sent", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "exhibition", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "various", "roles": ["定语"] },
+        { "text": "parts", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "world", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Steam boats carried thousands of visitors across the Channel from Europe.",
+      "zh": "汽船把成千上万的参观者从欧洲运过了英吉利海峡。",
+      "analysis": [
+        { "text": "Steam", "roles": ["定语"] },
+        { "text": "boats", "roles": ["主语"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "thousands", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "visitors", "roles": ["宾语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Channel", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "Europe", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The Crystal Palace was moved to South London later, and it was burnt down in 1936.",
+      "zh": "后来水晶宫被迁到了伦敦南部，1936年被烧毁了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Crystal", "roles": ["定语"] },
+        { "text": "Palace", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "moved", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "South", "roles": ["定语"] },
+        { "text": "London", "roles": ["宾语"] },
+        { "text": "later", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "burnt", "roles": ["谓语"] },
+        { "text": "down", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "1936", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Crystal Palace was perhaps the most extraordinary building of the nineteenth century.", "zh": "水晶宫也许是19世纪最不寻常的建筑。" },
+    { "en": "It was built in Hyde Park for the Great Exhibition of 1851.", "zh": "它是为1851年的万国博览会而建在海德公园的。" },
+    { "en": "The Crystal Palace was different from all other buildings, for it was made of iron and glass.", "zh": "水晶宫与所有其他建筑都不一样，因为它是由铁和玻璃建成的。" },
+    { "en": "It was one of the biggest buildings of all time, and many people came to see it.", "zh": "它是有史以来最大的建筑之一，许多人前来参观。" },
+    { "en": "A great many goods were sent to the exhibition from various parts of the world.", "zh": "大量货物从世界各地运到了博览会上。" },
+    { "en": "There was also a great deal of machinery on display.", "zh": "还展出了大量的机器。" },
+    { "en": "The most wonderful piece of machinery on show was Nasmyth's steam hammer.", "zh": "展出的最奇妙的机器是内史密斯的蒸汽锤。" },
+    { "en": "Steam boats carried thousands of visitors across the Channel from Europe.", "zh": "汽船把成千上万的参观者从欧洲运过了英吉利海峡。" },
+    { "en": "There were six million visitors in all, and the profits were used to build museums and colleges.", "zh": "参观者总数达600万人，博览会的收益被用来建造博物馆和学院。" },
+    { "en": "The Crystal Palace was moved to South London later, and it was burnt down in 1936.", "zh": "后来水晶宫被迁到了伦敦南部，1936年被烧毁了。" }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "L078",
+  "title": "Lesson 78 · The last one?",
+  "titleZh": "第78课 最后一支吗？",
+  "words": [
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meaning": "n. 香烟",
+      "examples": [
+        { "en": "He lit a cigarette to calm his nerves.", "zh": "他点燃一支香烟镇定神经。" }
+      ]
+    },
+    {
+      "word": "smoking",
+      "phonetic": "/ˈsməʊkɪŋ/",
+      "meaning": "n. 吸烟",
+      "examples": [
+        { "en": "He read an article about cigarette smoking.", "zh": "他读了一篇关于吸烟的文章。" }
+      ]
+    },
+    {
+      "word": "nerve",
+      "phonetic": "/nɜːv/",
+      "meaning": "n. 神经",
+      "examples": [
+        { "en": "The cigarette calmed his nerves.", "zh": "香烟使他镇定下来。" }
+      ]
+    },
+    {
+      "word": "concentration",
+      "phonetic": "/ˌkɒnsnˈtreɪʃn/",
+      "meaning": "n. 专心，集中",
+      "examples": [
+        { "en": "He smoked with concentration.", "zh": "他专注地吸着烟。" }
+      ]
+    },
+    {
+      "word": "symptom",
+      "phonetic": "/ˈsɪmptəm/",
+      "meaning": "n. 症状",
+      "examples": [
+        { "en": "He had the usual symptoms of giving up smoking.", "zh": "他有戒烟的典型症状。" }
+      ]
+    },
+    {
+      "word": "temper",
+      "phonetic": "/ˈtempə(r)/",
+      "meaning": "n. 脾气",
+      "examples": [
+        { "en": "He had a bad temper that week.", "zh": "那一周他脾气很坏。" }
+      ]
+    },
+    {
+      "word": "appetite",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "meaning": "n. 胃口，食欲",
+      "examples": [
+        { "en": "He had an enormous appetite.", "zh": "他胃口大增。" }
+      ]
+    },
+    {
+      "word": "cigar",
+      "phonetic": "/sɪˈɡɑː(r)/",
+      "meaning": "n. 雪茄",
+      "examples": [
+        { "en": "His friends offered him cigarettes and cigars.", "zh": "朋友们递给他香烟和雪茄。" }
+      ]
+    },
+    {
+      "word": "effort",
+      "phonetic": "/ˈefət/",
+      "meaning": "n. 努力",
+      "examples": [
+        { "en": "They made no effort to hide their amusement.", "zh": "他们毫不掩饰自己的开心。" }
+      ]
+    },
+    {
+      "word": "amusement",
+      "phonetic": "/əˈmjuːzmənt/",
+      "meaning": "n. 娱乐，开心",
+      "examples": [
+        { "en": "They could not hide their amusement.", "zh": "他们掩饰不住自己的开心。" }
+      ]
+    },
+    {
+      "word": "packet",
+      "phonetic": "/ˈpækɪt/",
+      "meaning": "n. 包，盒",
+      "examples": [
+        { "en": "He produced a packet of sweets from his pocket.", "zh": "他从口袋里掏出一包糖果。" }
+      ]
+    },
+    {
+      "word": "sweet",
+      "phonetic": "/swiːt/",
+      "meaning": "n. 糖果",
+      "examples": [
+        { "en": "He bought a packet of sweets.", "zh": "他买了一包糖果。" }
+      ]
+    },
+    {
+      "word": "urge",
+      "phonetic": "/ɜːdʒ/",
+      "meaning": "v. 力劝，敦促",
+      "examples": [
+        { "en": "Brian urged him to accept a cigarette.", "zh": "布赖恩劝他接一支烟。" }
+      ]
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə(r)/",
+      "meaning": "v. 忍受",
+      "examples": [
+        { "en": "It was more than he could bear.", "zh": "他再也忍不住了。" }
+      ]
+    },
+    {
+      "word": "guiltily",
+      "phonetic": "/ˈɡɪltɪli/",
+      "meaning": "adv. 内疚地",
+      "examples": [
+        { "en": "He took the cigarette guiltily.", "zh": "他内疚地接过香烟。" }
+      ]
+    },
+    {
+      "word": "satisfaction",
+      "phonetic": "/ˌsætɪsˈfækʃn/",
+      "meaning": "n. 满意",
+      "examples": [
+        { "en": "He smoked with satisfaction.", "zh": "他心满意足地吸着烟。" }
+      ]
+    },
+    {
+      "word": "delighted",
+      "phonetic": "/dɪˈlaɪtɪd/",
+      "meaning": "adj. 高兴的",
+      "examples": [
+        { "en": "His wife was delighted.", "zh": "他妻子很高兴。" }
+      ]
+    },
+    {
+      "word": "Brian",
+      "phonetic": "/ˈbraɪən/",
+      "meaning": "n. 布赖恩（人名）",
+      "examples": [
+        { "en": "Brian is an old friend of mine.", "zh": "布赖恩是我的老朋友。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I smoked with pleasure, for I was sure that this would be my last cigarette.",
+      "zh": "我津津有味地吸着，因为我确信这将是我最后一支烟。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "smoked", "roles": ["谓语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "pleasure", "roles": ["宾语"] },
+        { "text": "for", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "last", "roles": ["定语"] },
+        { "text": "cigarette", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "For a whole week I did not smoke at all, and my wife suffered terribly.",
+      "zh": "整整一个星期我一支烟也没抽，我妻子可受了不少罪。",
+      "analysis": [
+        { "text": "For", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "week", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "smoke", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "all", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "suffered", "roles": ["谓语"] },
+        { "text": "terribly", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "They laughed loudly whenever I produced a packet of sweets from my pocket.",
+      "zh": "每当我从口袋里掏出一包糖果，他们就哈哈大笑。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "laughed", "roles": ["谓语"] },
+        { "text": "loudly", "roles": ["状语"] },
+        { "text": "whenever", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "produced", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "packet", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "sweets", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "pocket", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+      "zh": "当我的老朋友布赖恩极力劝我接一支烟时，我再也忍不住了。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "friend", "roles": ["主语"] },
+        { "text": "Brian", "roles": ["主语"] },
+        { "text": "urged", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "to", "roles": ["补语"] },
+        { "text": "accept", "roles": ["补语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cigarette", "roles": ["宾语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "more", "roles": ["表语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "bear", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I took one guiltily, lit it and smoked with satisfaction.",
+      "zh": "我内疚地接过一支，点上火，心满意足地吸了起来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "one", "roles": ["宾语"] },
+        { "text": "guiltily", "roles": ["状语"] },
+        { "text": "lit", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "smoked", "roles": ["谓语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "satisfaction", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "After reading an article about cigarette smoking, I lit a cigarette to calm my nerves.", "zh": "读完一篇关于吸烟的文章后，我点燃了一支香烟来镇定神经。" },
+    { "en": "I smoked with pleasure, for I was sure that this would be my last cigarette.", "zh": "我津津有味地吸着，因为我确信这将是我最后一支烟。" },
+    { "en": "For a whole week I did not smoke at all, and my wife suffered terribly.", "zh": "整整一个星期我一支烟也没抽，我妻子可受了不少罪。" },
+    { "en": "I had all the usual symptoms of giving up smoking: a bad temper and an enormous appetite.", "zh": "戒烟的人常有的症状我全都有：脾气暴躁、胃口大增。" },
+    { "en": "My friends kept on offering me cigarettes and cigars.", "zh": "我的朋友们不断地给我递香烟和雪茄。" },
+    { "en": "They laughed loudly whenever I produced a packet of sweets from my pocket.", "zh": "每当我从口袋里掏出一包糖果，他们就哈哈大笑。" },
+    { "en": "After seven days of this, I went to a party, and everybody around me was smoking.", "zh": "这样过了七天之后，我去参加了一个聚会，我周围人人都在吸烟。" },
+    { "en": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.", "zh": "当我的老朋友布赖恩极力劝我接一支烟时，我再也忍不住了。" },
+    { "en": "I took one guiltily, lit it and smoked with satisfaction.", "zh": "我内疚地接过一支，点上火，心满意足地吸了起来。" },
+    { "en": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking — he has done it lots of times!", "zh": "不管怎样，正如布赖恩指出的那样，戒烟是世界上最容易的事情——他已经戒过很多次了！" }
+  ]
+}

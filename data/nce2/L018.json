@@ -1,0 +1,246 @@
+{
+  "id": "L018",
+  "title": "Lesson 18 · He often does this!",
+  "titleZh": "第18课 他经常干这种事！",
+  "words": [
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meaning": "n. 村庄",
+      "examples": [
+        { "en": "After I had had lunch at a village pub, I looked for my bag.", "zh": "我在一家乡村小酒店吃过午饭后，就找我的提包。" },
+        { "en": "He lives in a small village.", "zh": "他住在一个小村庄里。" }
+      ]
+    },
+    {
+      "word": "pub",
+      "phonetic": "/pʌb/",
+      "meaning": "n. 小酒店",
+      "examples": [
+        { "en": "I had lunch at a village pub.", "zh": "我在一家乡村小酒店吃的午饭。" },
+        { "en": "Let's have a drink at the pub.", "zh": "我们去小酒店喝一杯吧。" }
+      ]
+    },
+    {
+      "word": "landlord",
+      "phonetic": "/ˈlændlɔːd/",
+      "meaning": "n. 店主",
+      "examples": [
+        { "en": "As I was looking for it, the landlord came in.", "zh": "当我正在寻找它时，酒店老板走了进来。" },
+        { "en": "The landlord of the pub is very kind.", "zh": "小酒店的老板很和气。" }
+      ]
+    },
+    {
+      "word": "bill",
+      "phonetic": "/bɪl/",
+      "meaning": "n. 账单",
+      "examples": [
+        { "en": "I can't pay the bill.", "zh": "我付不了账。" },
+        { "en": "The bill is twenty pounds.", "zh": "账单是二十英镑。" }
+      ]
+    },
+    {
+      "word": "meal",
+      "phonetic": "/miːl/",
+      "meaning": "n. 一餐，饭",
+      "examples": [
+        { "en": "Did you have a good meal?", "zh": "您吃得好吗？" },
+        { "en": "We had a wonderful meal.", "zh": "我们吃了一顿美餐。" }
+      ]
+    },
+    {
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meaning": "n. 包，袋子",
+      "examples": [
+        { "en": "I looked for my bag.", "zh": "我找我的提包。" },
+        { "en": "My bag is on the chair.", "zh": "我的提包在椅子上。" }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meaning": "adv. 立刻，马上",
+      "examples": [
+        { "en": "The landlord smiled and immediately went out.", "zh": "老板笑了笑，马上走了出去。" },
+        { "en": "He answered immediately.", "zh": "他立刻回答了。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 回来，返回",
+      "examples": [
+        { "en": "In a few minutes he returned with my bag.", "zh": "一会儿工夫他拿着我的提包回来了。" },
+        { "en": "He returned home late.", "zh": "他回家很晚。" }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "v. 微笑",
+      "examples": [
+        { "en": "The landlord smiled and immediately went out.", "zh": "老板笑了笑，马上走了出去。" },
+        { "en": "She smiled at me.", "zh": "她朝我微笑。" }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "n. 花园",
+      "examples": [
+        { "en": "My dog had taken it into the garden.", "zh": "我的狗把它叼到花园里去了。" },
+        { "en": "There are many flowers in the garden.", "zh": "花园里有很多花。" }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic": "/dɒɡ/",
+      "meaning": "n. 狗",
+      "examples": [
+        { "en": "My dog had taken it into the garden.", "zh": "我的狗把它叼到花园里去了。" },
+        { "en": "The dog is very clever.", "zh": "这只狗很聪明。" }
+      ]
+    },
+    {
+      "word": "chair",
+      "phonetic": "/tʃeə(r)/",
+      "meaning": "n. 椅子",
+      "examples": [
+        { "en": "I had left it on a chair beside the door.", "zh": "我曾把它放在门边的一把椅子上。" },
+        { "en": "Please sit on this chair.", "zh": "请坐这把椅子。" }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː(r)/",
+      "meaning": "n. 门",
+      "examples": [
+        { "en": "The bag was on a chair beside the door.", "zh": "提包在门边的一把椅子上。" },
+        { "en": "Someone is knocking at the door.", "zh": "有人在敲门。" }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meaning": "v. 看；寻找",
+      "examples": [
+        { "en": "I looked for my bag.", "zh": "我找我的提包。" },
+        { "en": "Look at the blackboard, please.", "zh": "请看黑板。" }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "/peɪ/",
+      "meaning": "v. 支付",
+      "examples": [
+        { "en": "I can't pay the bill.", "zh": "我付不了账。" },
+        { "en": "How much did you pay for it?", "zh": "你为它付了多少钱？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "After I had had lunch at a village pub, I looked for my bag.",
+      "zh": "我在一家乡村小酒店吃过午饭后，就找我的提包。",
+      "analysis": [
+        { "text": "After", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "lunch", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "village", "roles": ["定语"] },
+        { "text": "pub", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "bag", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I had left it on a chair beside the door and now it wasn't there!",
+      "zh": "我曾把它放在门边的一把椅子上，可这会儿不见了！",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "left", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "chair", "roles": ["宾语"] },
+        { "text": "beside", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "door", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "wasn't", "roles": ["谓语"] },
+        { "text": "there", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "As I was looking for it, the landlord came in.",
+      "zh": "当我正在寻找它时，酒店老板走了进来。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "looking", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "landlord", "roles": ["主语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The landlord smiled and immediately went out.",
+      "zh": "老板笑了笑，马上走了出去。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "landlord", "roles": ["主语"] },
+        { "text": "smiled", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "immediately", "roles": ["状语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "In a few minutes he returned with my bag and gave it back to me.",
+      "zh": "一会儿工夫他拿着我的提包回来了，把它还给了我。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "few", "roles": ["定语"] },
+        { "text": "minutes", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "returned", "roles": ["谓语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "bag", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "gave", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "back", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "me", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "After I had had lunch at a village pub, I looked for my bag.", "zh": "我在一家乡村小酒店吃过午饭后，就找我的提包。" },
+    { "en": "I had left it on a chair beside the door and now it wasn't there!", "zh": "我曾把它放在门边的一把椅子上，可这会儿不见了！" },
+    { "en": "As I was looking for it, the landlord came in.", "zh": "当我正在寻找它时，酒店老板走了进来。" },
+    { "en": "'Did you have a good meal?' he asked.", "zh": "‘您吃得好吗？’他问。" },
+    { "en": "'Yes, thank you,' I answered, 'but I can't pay the bill. I haven't got my bag.'", "zh": "‘很好，谢谢，’我回答，‘但我付不了账，我的提包没有了。’" },
+    { "en": "The landlord smiled and immediately went out.", "zh": "老板笑了笑，马上走了出去。" },
+    { "en": "In a few minutes he returned with my bag and gave it back to me.", "zh": "一会儿工夫他拿着我的提包回来了，把它还给了我。" },
+    { "en": "'I'm very sorry,' he said.", "zh": "‘实在抱歉，’他说。" },
+    { "en": "'My dog had taken it into the garden. He often does this!'", "zh": "‘我的狗把它叼到花园里去了，它经常干这种事！’" }
+  ]
+}

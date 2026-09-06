@@ -1,0 +1,262 @@
+{
+  "id": "L068",
+  "title": "Lesson 68 · Persistent",
+  "titleZh": "第68课 纠缠不休",
+  "words": [
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meaning": "v. 避开，避免",
+      "examples": [
+        { "en": "I crossed the street to avoid meeting him.", "zh": "我穿过马路想避开他。" }
+      ]
+    },
+    {
+      "word": "pretend",
+      "phonetic": "/prɪˈtend/",
+      "meaning": "v. 假装",
+      "examples": [
+        { "en": "He pretended that he had not seen me.", "zh": "他假装没有看见我。" }
+      ]
+    },
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meaning": "v. 挥手，挥动",
+      "examples": [
+        { "en": "I waved to him across the street.", "zh": "我在街对面朝他挥手。" }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "v. 喜欢，享受",
+      "examples": [
+        { "en": "I never enjoy meeting him.", "zh": "我从不喜欢遇见他。" }
+      ]
+    },
+    {
+      "word": "insist",
+      "phonetic": "/ɪnˈsɪst/",
+      "meaning": "v. 坚持",
+      "examples": [
+        { "en": "He always insists on coming with me.", "zh": "他总是坚持要跟我一起去。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "v. 要紧，有关系",
+      "examples": [
+        { "en": "No matter how busy I am, he comes with me.", "zh": "不管我多忙，他都跟着我。" }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meaning": "adj. 忙碌的",
+      "examples": [
+        { "en": "I am very busy this morning.", "zh": "今天上午我很忙。" }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "v. 想知道，琢磨",
+      "examples": [
+        { "en": "He was wondering how to spend the morning.", "zh": "他在琢磨怎么打发上午。" }
+      ]
+    },
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meaning": "n. 牙医",
+      "examples": [
+        { "en": "I am going to the dentist.", "zh": "我要去看牙医。" }
+      ]
+    },
+    {
+      "word": "waiting room",
+      "phonetic": "/ˈweɪtɪŋ ruːm/",
+      "meaning": "n. 候诊室",
+      "examples": [
+        { "en": "There are many magazines in the waiting room.", "zh": "候诊室里有许多杂志。" }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meaning": "n. 大量，充足",
+      "examples": [
+        { "en": "There is plenty to read there.", "zh": "那里有很多可读的东西。" }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "/riːd/",
+      "meaning": "v. 阅读",
+      "examples": [
+        { "en": "He reads newspapers every day.", "zh": "他每天读报纸。" }
+      ]
+    },
+    {
+      "word": "add",
+      "phonetic": "/æd/",
+      "meaning": "v. 补充说，添加",
+      "examples": [
+        { "en": "He added that he would come with me.", "zh": "他补充说他要跟我一起去。" }
+      ]
+    },
+    {
+      "word": "cross",
+      "phonetic": "/krɒs/",
+      "meaning": "v. 穿过，横穿",
+      "examples": [
+        { "en": "I crossed the street quickly.", "zh": "我飞快地穿过马路。" }
+      ]
+    },
+    {
+      "word": "happily",
+      "phonetic": "/ˈhæpɪli/",
+      "meaning": "adv. 高兴地",
+      "examples": [
+        { "en": "He said happily that he was free.", "zh": "他高兴地说他有空。" }
+      ]
+    },
+    {
+      "word": "Nigel Dykes",
+      "phonetic": "/ˈnaɪdʒəl daɪks/",
+      "meaning": "n. 奈杰尔·戴克斯（人名）",
+      "examples": [
+        { "en": "Nigel Dykes never has anything to do.", "zh": "奈杰尔·戴克斯总是无所事事。" }
+      ]
+    },
+    {
+      "word": "Elizabeth",
+      "phonetic": "/ɪˈlɪzəbəθ/",
+      "meaning": "n. 伊丽莎白（人名）",
+      "examples": [
+        { "en": "Elizabeth did not want to meet Nigel.", "zh": "伊丽莎白不想遇见奈杰尔。" }
+      ]
+    },
+    {
+      "word": "anything",
+      "phonetic": "/ˈeniθɪŋ/",
+      "meaning": "pron. 任何事物",
+      "examples": [
+        { "en": "I am not doing anything now.", "zh": "我现在什么也没在做。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I crossed the street to avoid meeting him, but he saw me and came running towards me.",
+      "zh": "我穿过马路想避开他，但他看见了我，朝我跑了过来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "crossed", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "street", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "avoid", "roles": ["状语"] },
+        { "text": "meeting", "roles": ["宾语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "running", "roles": ["状语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "me", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It was no use pretending that I had not seen him, so I waved to him.",
+      "zh": "假装没看见他是没有用的，于是我向他挥了挥手。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "no", "roles": ["定语"] },
+        { "text": "use", "roles": ["表语"] },
+        { "text": "pretending", "roles": ["主语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "seen", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "waved", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "him", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "No matter how busy you are, he always insists on coming with you.",
+      "zh": "不管你有多忙，他总是坚持要跟着你。",
+      "analysis": [
+        { "text": "No", "roles": ["连词"] },
+        { "text": "matter", "roles": ["连词"] },
+        { "text": "how", "roles": ["状语"] },
+        { "text": "busy", "roles": ["表语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "insists", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "coming", "roles": ["宾语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I told him that I was going to the dentist.",
+      "zh": "我告诉他我要去看牙医。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dentist", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He added that I would find plenty to read in the waiting room.",
+      "zh": "他补充说，我在候诊室里能找到很多东西可读。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "added", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "find", "roles": ["谓语"] },
+        { "text": "plenty", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "read", "roles": ["定语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "waiting", "roles": ["定语"] },
+        { "text": "room", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I crossed the street to avoid meeting him, but he saw me and came running towards me.", "zh": "我穿过马路想避开他，但他看见了我，朝我跑了过来。" },
+    { "en": "It was no use pretending that I had not seen him, so I waved to him.", "zh": "假装没看见他是没有用的，于是我向他挥了挥手。" },
+    { "en": "I never enjoy meeting Nigel Dykes, because he never has anything to do.", "zh": "我从不喜欢遇见奈杰尔·戴克斯，因为他总是无所事事。" },
+    { "en": "No matter how busy you are, he always insists on coming with you.", "zh": "不管你有多忙，他总是坚持要跟着你。" },
+    { "en": "He asked me if I was doing anything, and I answered, 'No, not at all.'", "zh": "他问我有没有在忙什么，我回答说：'没有，一点也没有。'" },
+    { "en": "I told him that I was going to the dentist.", "zh": "我告诉他我要去看牙医。" },
+    { "en": "'Then I will come with you,' he said happily.", "zh": "'那我和你一起去。'他高兴地说。" },
+    { "en": "He added that I would find plenty to read in the waiting room.", "zh": "他补充说，我在候诊室里能找到很多东西可读。" }
+  ]
+}

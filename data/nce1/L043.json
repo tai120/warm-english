@@ -1,0 +1,193 @@
+{
+  "id": "L043",
+  "title": "Lesson 43 · Hurry up!",
+  "titleZh": "第43课 快点！",
+  "words": [
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhʌri/",
+      "meaning": "v. 赶紧，匆忙",
+      "examples": [
+        { "en": "Hurry up, Sam!", "zh": "快点，萨姆！" },
+        { "en": "Hurry up, or we'll be late.", "zh": "快点，否则我们要迟到了。" }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "meaning": "v. 做，制作",
+      "examples": [
+        { "en": "Can you make the tea, Sam?", "zh": "萨姆，你会沏茶吗？" },
+        { "en": "She can make cakes.", "zh": "她会做蛋糕。" }
+      ]
+    },
+    {
+      "word": "tea",
+      "phonetic": "/tiː/",
+      "meaning": "n. 茶",
+      "examples": [
+        { "en": "Can you make the tea, Sam?", "zh": "萨姆，你会沏茶吗？" },
+        { "en": "Where's the tea?", "zh": "茶叶在哪儿？" }
+      ]
+    },
+    {
+      "word": "kettle",
+      "phonetic": "/ˈketl/",
+      "meaning": "n. 水壶",
+      "examples": [
+        { "en": "Is there any water in this kettle?", "zh": "这水壶里有水吗？" },
+        { "en": "The kettle's boiling!", "zh": "壶里的水开了！" }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meaning": "n. 水",
+      "examples": [
+        { "en": "Is there any water in this kettle?", "zh": "这水壶里有水吗？" }
+      ]
+    },
+    {
+      "word": "teapot",
+      "phonetic": "/ˈtiːpɒt/",
+      "meaning": "n. 茶壶",
+      "examples": [
+        { "en": "It's over there, behind the teapot.", "zh": "就在那儿，在茶壶后面。" },
+        { "en": "I can see the teapot.", "zh": "我能看见茶壶。" }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meaning": "n. 杯子",
+      "examples": [
+        { "en": "Where are the cups?", "zh": "茶杯在哪儿？" },
+        { "en": "A cup of tea, please.", "zh": "请来一杯茶。" }
+      ]
+    },
+    {
+      "word": "cupboard",
+      "phonetic": "/ˈkʌbəd/",
+      "meaning": "n. 碗橱，橱柜",
+      "examples": [
+        { "en": "There are some in the cupboard.", "zh": "碗橱里有几只。" }
+      ]
+    },
+    {
+      "word": "boil",
+      "phonetic": "/bɔɪl/",
+      "meaning": "v. 沸腾，煮开",
+      "examples": [
+        { "en": "The kettle's boiling!", "zh": "壶里的水开了！" },
+        { "en": "The water is boiling.", "zh": "水开了。" }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meaning": "prep. 在……后面",
+      "examples": [
+        { "en": "It's behind the teapot.", "zh": "它在茶壶后面。" },
+        { "en": "The garden is behind the house.", "zh": "花园在房子后面。" }
+      ]
+    },
+    {
+      "word": "find",
+      "phonetic": "/faɪnd/",
+      "meaning": "v. 找到",
+      "examples": [
+        { "en": "Can you find them?", "zh": "你能找到它们吗？" },
+        { "en": "I can't find my pen.", "zh": "我找不到我的钢笔。" }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meaning": "n. 前面",
+      "examples": [
+        { "en": "It's there, in front of you!", "zh": "就在那儿，就在你面前！" }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "/ðeə(r)/",
+      "meaning": "adv. 那儿，那里",
+      "examples": [
+        { "en": "It's over there.", "zh": "它在那儿。" },
+        { "en": "Yes, there is.", "zh": "是的，有。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can you make the tea, Sam?",
+      "zh": "萨姆，你会沏茶吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tea", "roles": ["宾语"] },
+        { "text": "Sam", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Where's the tea?",
+      "zh": "茶叶在哪儿？",
+      "analysis": [
+        { "text": "Where's", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tea", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "I can see the teapot, but I can't see the tea.",
+      "zh": "我能看见茶壶，但看不见茶叶。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "teapot", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tea", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Hurry up, Sam!",
+      "zh": "快点，萨姆！",
+      "analysis": [
+        { "text": "Hurry", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "Sam", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "The kettle's boiling!",
+      "zh": "壶里的水开了！",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "kettle's", "roles": ["主语"] },
+        { "text": "boiling", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Can you make the tea, Sam?", "zh": "萨姆，你会沏茶吗？" },
+    { "en": "Yes, of course I can, Penny.", "zh": "会的，我当然会，彭妮。" },
+    { "en": "Is there any water in this kettle?", "zh": "这水壶里有水吗？" },
+    { "en": "Yes, there is.", "zh": "是的，有。" },
+    { "en": "Where's the tea?", "zh": "茶叶在哪儿？" },
+    { "en": "It's over there, behind the teapot.", "zh": "就在那儿，在茶壶后面。" },
+    { "en": "Can you see it?", "zh": "你能看见吗？" },
+    { "en": "I can see the teapot, but I can't see the tea.", "zh": "我能看见茶壶，但看不见茶叶。" },
+    { "en": "Ah yes, I can see it now.", "zh": "啊，是的，我现在看见了。" },
+    { "en": "Where are the cups?", "zh": "茶杯在哪儿？" },
+    { "en": "Hurry up, Sam!", "zh": "快点，萨姆！" },
+    { "en": "The kettle's boiling!", "zh": "壶里的水开了！" }
+  ]
+}

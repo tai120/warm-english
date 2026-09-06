@@ -1,0 +1,191 @@
+{
+  "id": "L071",
+  "title": "Lesson 71 · He's awful!",
+  "titleZh": "第71课 他讨厌透了！",
+  "words": [
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meaning": "adj. 极坏的，讨厌的",
+      "examples": [
+        { "en": "He's awful!", "zh": "他讨厌透了！" },
+        { "en": "What an awful day!", "zh": "多么糟糕的一天！" }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meaning": "v. 打电话",
+      "examples": [
+        { "en": "He telephoned me four times yesterday.", "zh": "他昨天给我打了四次电话。" },
+        { "en": "He telephoned the office yesterday morning.", "zh": "他昨天上午给办公室打了电话。" }
+      ]
+    },
+    {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "meaning": "n. 次；时间",
+      "examples": [
+        { "en": "He telephoned me four times yesterday.", "zh": "他昨天给我打了四次电话。" },
+        { "en": "What time is it?", "zh": "现在几点了？" }
+      ]
+    },
+    {
+      "word": "yesterday",
+      "phonetic": "/ˈjestədeɪ/",
+      "meaning": "adv. 昨天",
+      "examples": [
+        { "en": "He telephoned me four times yesterday.", "zh": "他昨天给我打了四次电话。" },
+        { "en": "I arrived home at six o'clock yesterday evening.", "zh": "我昨晚六点钟到家。" }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "v. 接（电话）；回答",
+      "examples": [
+        { "en": "But I didn't answer the phone!", "zh": "但我没有接电话！" },
+        { "en": "Please answer the question.", "zh": "请回答问题。" }
+      ]
+    },
+    {
+      "word": "phone",
+      "phonetic": "/fəʊn/",
+      "meaning": "n. 电话",
+      "examples": [
+        { "en": "But I didn't answer the phone!", "zh": "但我没有接电话！" },
+        { "en": "The phone is ringing.", "zh": "电话铃响了。" }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡen/",
+      "meaning": "adv. 再一次，又",
+      "examples": [
+        { "en": "He telephoned again.", "zh": "他又打来了电话。" },
+        { "en": "Please don't telephone my daughter again!", "zh": "请不要再给我女儿打电话了！" }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meaning": "n. 女儿",
+      "examples": [
+        { "en": "Please don't telephone my daughter again!", "zh": "请不要再给我女儿打电话了！" },
+        { "en": "His daughter is eight.", "zh": "他的女儿八岁了。" }
+      ]
+    },
+    {
+      "word": "speak",
+      "phonetic": "/spiːk/",
+      "meaning": "v. 说话，讲话",
+      "examples": [
+        { "en": "She can't speak to you now!", "zh": "她现在不能和你说话！" },
+        { "en": "May I speak to you?", "zh": "我能和您谈谈吗？" }
+      ]
+    },
+    {
+      "word": "say",
+      "phonetic": "/seɪ/",
+      "meaning": "v. 说",
+      "examples": [
+        { "en": "What did your boss say to him?", "zh": "你老板对他说了什么？" },
+        { "en": "What did you say to him?", "zh": "你对他说了什么？" }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meaning": "n. 早晨，上午",
+      "examples": [
+        { "en": "He telephoned the office yesterday morning.", "zh": "他昨天上午给办公室打了电话。" },
+        { "en": "Good morning!", "zh": "早上好！" }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meaning": "n. 晚上",
+      "examples": [
+        { "en": "Then I arrived home at six o'clock yesterday evening.", "zh": "然后我昨晚六点钟到家。" },
+        { "en": "See you this evening.", "zh": "今晚见。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He telephoned me four times yesterday.",
+      "zh": "他昨天给我打了四次电话。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "telephoned", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "four", "roles": ["定语"] },
+        { "text": "times", "roles": ["状语"] },
+        { "text": "yesterday", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He telephoned the office yesterday morning.",
+      "zh": "他昨天上午给办公室打了电话。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "telephoned", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "office", "roles": ["宾语"] },
+        { "text": "yesterday", "roles": ["状语"] },
+        { "text": "morning", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She can't speak to you now!",
+      "zh": "她现在不能和你说话！",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "speak", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "you", "roles": ["状语"] },
+        { "text": "now", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "But I didn't answer the phone!",
+      "zh": "但我没有接电话！",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "didn't", "roles": ["谓语"] },
+        { "text": "answer", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "phone", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Please don't telephone my daughter again!",
+      "zh": "请不要再给我女儿打电话了！",
+      "analysis": [
+        { "text": "Please", "roles": ["感叹词"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "telephone", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "daughter", "roles": ["宾语"] },
+        { "text": "again", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What's Ron Marston like, Pauline?", "zh": "罗恩·马斯顿这个人怎么样，波琳？" },
+    { "en": "He's awful!", "zh": "他讨厌透了！" },
+    { "en": "He telephoned me four times yesterday.", "zh": "他昨天给我打了四次电话。" },
+    { "en": "And three times the day before yesterday.", "zh": "前天还打了三次。" },
+    { "en": "He telephoned the office yesterday morning.", "zh": "他昨天上午给办公室打了电话。" },
+    { "en": "My boss answered the telephone.", "zh": "是我老板接的电话。" },
+    { "en": "What did your boss say to him?", "zh": "你老板对他说了什么？" },
+    { "en": "She can't speak to you now!", "zh": "她现在不能和你说话！" },
+    { "en": "Then I arrived home at six o'clock yesterday evening.", "zh": "然后我昨晚六点钟到家。" },
+    { "en": "He telephoned again.", "zh": "他又打来了电话。" },
+    { "en": "But I didn't answer the phone!", "zh": "但我没有接电话！" },
+    { "en": "Please don't telephone my daughter again!", "zh": "请不要再给我女儿打电话了！" }
+  ]
+}

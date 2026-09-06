@@ -1,0 +1,240 @@
+{
+  "id": "L051",
+  "title": "Lesson 51 · Reward for virtue",
+  "titleZh": "第51课 对美德的奖赏",
+  "words": [
+    {
+      "word": "fat",
+      "phonetic": "/fæt/",
+      "meaning": "adj. 胖的，肥胖的",
+      "examples": [
+        { "en": "My friend Hugh has always been fat.", "zh": "我的朋友休一直很胖。" }
+      ]
+    },
+    {
+      "word": "diet",
+      "phonetic": "/ˈdaɪət/",
+      "meaning": "n. 节食，规定饮食",
+      "examples": [
+        { "en": "He decided to go on a diet.", "zh": "他决定节食。" },
+        { "en": "His diet was very strict.", "zh": "他的节食非常严格。" }
+      ]
+    },
+    {
+      "word": "forbid",
+      "phonetic": "/fəˈbɪd/",
+      "meaning": "v. 禁止",
+      "examples": [
+        { "en": "He wrote out a list of forbidden foods.", "zh": "他列了一张禁食食物清单。" }
+      ]
+    },
+    {
+      "word": "include",
+      "phonetic": "/ɪnˈkluːd/",
+      "meaning": "v. 包括",
+      "examples": [
+        { "en": "The list included most of the things he loves.", "zh": "清单包括他爱吃的大部分东西。" }
+      ]
+    },
+    {
+      "word": "list",
+      "phonetic": "/lɪst/",
+      "meaning": "n. 清单，名单",
+      "examples": [
+        { "en": "He wrote out a long list of foods.", "zh": "他列出了一张长长的食物清单。" }
+      ]
+    },
+    {
+      "word": "butter",
+      "phonetic": "/ˈbʌtə(r)/",
+      "meaning": "n. 黄油",
+      "examples": [
+        { "en": "I put some butter on the bread.", "zh": "我在面包上抹了些黄油。" }
+      ]
+    },
+    {
+      "word": "potato",
+      "phonetic": "/pəˈteɪtəʊ/",
+      "meaning": "n. 土豆",
+      "examples": [
+        { "en": "I bought some potatoes at the market.", "zh": "我在市场上买了一些土豆。" }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə(r)/",
+      "meaning": "n. 啤酒",
+      "examples": [
+        { "en": "He likes beer very much.", "zh": "他很喜欢啤酒。" }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "phonetic": "/ˈtʃɒklət/",
+      "meaning": "n. 巧克力",
+      "examples": [
+        { "en": "The parcel contained five bars of chocolate.", "zh": "包裹里有五块巧克力。" }
+      ]
+    },
+    {
+      "word": "sweet",
+      "phonetic": "/swiːt/",
+      "meaning": "n. 糖果",
+      "examples": [
+        { "en": "The parcel contained three bags of sweets.", "zh": "包裹里有三袋糖果。" }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meaning": "n. 拜访，看望",
+      "examples": [
+        { "en": "Yesterday I paid him a visit.", "zh": "昨天我去看望了他。" }
+      ]
+    },
+    {
+      "word": "ring",
+      "phonetic": "/rɪŋ/",
+      "meaning": "v. 按（铃），打电话",
+      "examples": [
+        { "en": "I rang the bell.", "zh": "我按了门铃。" }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meaning": "n. 包裹",
+      "examples": [
+        { "en": "He hurriedly hid a large parcel under his desk.", "zh": "他急忙把一个大包裹藏到桌子底下。" }
+      ]
+    },
+    {
+      "word": "guiltily",
+      "phonetic": "/ˈɡɪltɪli/",
+      "meaning": "adv. 内疚地",
+      "examples": [
+        { "en": "He smiled guiltily.", "zh": "他内疚地笑了笑。" }
+      ]
+    },
+    {
+      "word": "reward",
+      "phonetic": "/rɪˈwɔːd/",
+      "meaning": "v. 奖赏，犒劳",
+      "examples": [
+        { "en": "He had to reward himself occasionally.", "zh": "他不得不偶尔犒劳一下自己。" }
+      ]
+    },
+    {
+      "word": "occasionally",
+      "phonetic": "/əˈkeɪʒnəli/",
+      "meaning": "adv. 偶尔地",
+      "examples": [
+        { "en": "He rewarded himself occasionally.", "zh": "他偶尔犒劳一下自己。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He began his diet a week ago.",
+      "zh": "他一周前开始节食。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "diet", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Yesterday I paid him a visit.",
+      "zh": "昨天我去看望了他。",
+      "analysis": [
+        { "text": "Yesterday", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "paid", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "visit", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "zh": "他把我领进房间，急急忙忙地把一个大包裹藏到桌子底下。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "led", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "room", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "hurriedly", "roles": ["状语"] },
+        { "text": "hid", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "desk", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "zh": "当我问他在干什么时，他内疚地笑了笑，然后把包裹放到了桌子上。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "what", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "doing", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "smiled", "roles": ["谓语"] },
+        { "text": "guiltily", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "desk", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The parcel contained five large bars of chocolate and three bags of sweets!",
+      "zh": "包裹里有五大块巧克力和三袋糖果！",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["主语"] },
+        { "text": "contained", "roles": ["谓语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "bars", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "chocolate", "roles": ["定语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "bags", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "sweets", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "My friend Hugh has always been fat, but things got so bad recently that he decided to go on a diet.", "zh": "我的朋友休一直很胖，但最近情况变得很糟，他决定节食。" },
+    { "en": "He began his diet a week ago.", "zh": "他一周前开始节食。" },
+    { "en": "First of all, he wrote out a long list of all the foods which were forbidden.", "zh": "首先，他列出了一张长长的禁食食物清单。" },
+    { "en": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate and sweets.", "zh": "清单上包括休爱吃的大部分东西：黄油、土豆、米饭、啤酒、牛奶、巧克力和糖果。" },
+    { "en": "Yesterday I paid him a visit.", "zh": "昨天我去看望了他。" },
+    { "en": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.", "zh": "我按了门铃，看到休还是那么胖，我一点也不感到奇怪。" },
+    { "en": "He led me into his room and hurriedly hid a large parcel under his desk.", "zh": "他把我领进房间，急急忙忙地把一个大包裹藏到桌子底下。" },
+    { "en": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.", "zh": "当我问他在干什么时，他内疚地笑了笑，然后把包裹放到了桌子上。" },
+    { "en": "He explained that his diet was so strict that he had to reward himself occasionally.", "zh": "他解释说他的节食太严格了，他不得不偶尔犒劳一下自己。" },
+    { "en": "The parcel contained five large bars of chocolate and three bags of sweets!", "zh": "包裹里有五大块巧克力和三袋糖果！" }
+  ]
+}

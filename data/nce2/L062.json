@@ -1,0 +1,247 @@
+{
+  "id": "L062",
+  "title": "Lesson 62 · After the fire",
+  "titleZh": "第62课 大火之后",
+  "words": [
+    {
+      "word": "control",
+      "phonetic": "/kənˈtrəʊl/",
+      "meaning": "n. 控制",
+      "examples": [
+        { "en": "They got the fire under control at last.", "zh": "他们终于控制住了火势。" }
+      ]
+    },
+    {
+      "word": "smoke",
+      "phonetic": "/sməʊk/",
+      "meaning": "n. 烟",
+      "examples": [
+        { "en": "Smoke still rose up from the ground.", "zh": "烟雾仍然从地面升起。" }
+      ]
+    },
+    {
+      "word": "desolate",
+      "phonetic": "/ˈdesələt/",
+      "meaning": "adj. 荒凉的",
+      "examples": [
+        { "en": "Smoke rose over the desolate hills.", "zh": "烟雾从荒凉的山丘上升起。" }
+      ]
+    },
+    {
+      "word": "threaten",
+      "phonetic": "/ˈθretn/",
+      "meaning": "v. 威胁",
+      "examples": [
+        { "en": "The hills threatened the villages with destruction.", "zh": "山丘威胁着村庄，会带来毁灭。" }
+      ]
+    },
+    {
+      "word": "destruction",
+      "phonetic": "/dɪˈstrʌkʃn/",
+      "meaning": "n. 破坏，毁灭",
+      "examples": [
+        { "en": "Heavy rain would cause destruction.", "zh": "大雨会带来破坏。" }
+      ]
+    },
+    {
+      "word": "flood",
+      "phonetic": "/flʌd/",
+      "meaning": "n. 洪水",
+      "examples": [
+        { "en": "Heavy rain would cause serious floods.", "zh": "大雨会引起严重的洪水。" }
+      ]
+    },
+    {
+      "word": "authority",
+      "phonetic": "/ɔːˈθɒrəti/",
+      "meaning": "n. 当局，官方",
+      "examples": [
+        { "en": "The forest authorities ordered some grass-seed.", "zh": "森林管理局订购了一些草籽。" }
+      ]
+    },
+    {
+      "word": "grass-seed",
+      "phonetic": "/ˈɡrɑːs siːd/",
+      "meaning": "n. 草籽",
+      "examples": [
+        { "en": "They sprayed the grass-seed over the ground.", "zh": "他们把草籽撒在地上。" }
+      ]
+    },
+    {
+      "word": "spray",
+      "phonetic": "/spreɪ/",
+      "meaning": "v. 喷洒",
+      "examples": [
+        { "en": "The seed was sprayed by aeroplanes.", "zh": "草籽由飞机喷洒。" }
+      ]
+    },
+    {
+      "word": "quantity",
+      "phonetic": "/ˈkwɒntəti/",
+      "meaning": "n. 数量",
+      "examples": [
+        { "en": "The seed was sprayed in huge quantities.", "zh": "草籽被大量喷洒。" }
+      ]
+    },
+    {
+      "word": "root",
+      "phonetic": "/ruːt/",
+      "meaning": "n. 根",
+      "examples": [
+        { "en": "The grass had already taken root.", "zh": "草已经扎根了。" }
+      ]
+    },
+    {
+      "word": "patch",
+      "phonetic": "/pætʃ/",
+      "meaning": "n. 块，片",
+      "examples": [
+        { "en": "Patches of green appeared in the soil.", "zh": "一块块绿色出现在土壤中。" }
+      ]
+    },
+    {
+      "word": "blacken",
+      "phonetic": "/ˈblækən/",
+      "meaning": "v. 变黑，使变黑",
+      "examples": [
+        { "en": "The soil was blackened by the fire.", "zh": "土壤被大火烧黑了。" }
+      ]
+    },
+    {
+      "word": "surrounding",
+      "phonetic": "/səˈraʊndɪŋ/",
+      "meaning": "adj. 周围的",
+      "examples": [
+        { "en": "The hills threatened the surrounding villages.", "zh": "山丘威胁着周围的村庄。" }
+      ]
+    },
+    {
+      "word": "century",
+      "phonetic": "/ˈsentʃəri/",
+      "meaning": "n. 世纪",
+      "examples": [
+        { "en": "The trees had been growing for centuries.", "zh": "这些树已经生长了几个世纪。" }
+      ]
+    },
+    {
+      "word": "soil",
+      "phonetic": "/sɔɪl/",
+      "meaning": "n. 土壤",
+      "examples": [
+        { "en": "The rain would wash away the soil.", "zh": "大雨会冲走土壤。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "zh": "大雨不仅会冲走土壤，还会引起严重的洪水。",
+      "analysis": [
+        { "text": "Heavy", "roles": ["定语"] },
+        { "text": "rain", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "wash", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "soil", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "cause", "roles": ["谓语"] },
+        { "text": "serious", "roles": ["定语"] },
+        { "text": "floods", "roles": ["宾语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "well", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "zh": "飞机把大量草籽撒在了地面上。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "seed", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "sprayed", "roles": ["谓语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ground", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "huge", "roles": ["定语"] },
+        { "text": "quantities", "roles": ["状语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "aeroplanes", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Winter was coming on and the hills threatened the surrounding villages with destruction.",
+      "zh": "冬天即将来临，这些山丘威胁着周围的村庄，会带来毁灭。",
+      "analysis": [
+        { "text": "Winter", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "coming", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "hills", "roles": ["主语"] },
+        { "text": "threatened", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "surrounding", "roles": ["定语"] },
+        { "text": "villages", "roles": ["宾语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "destruction", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The planes had been planting seed for nearly a month when it began to rain.",
+      "zh": "飞机撒种撒了将近一个月，天开始下雨了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "planes", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "planting", "roles": ["谓语"] },
+        { "text": "seed", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "nearly", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "month", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "rain", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "By then, however, in many places the grass had already taken root.",
+      "zh": "然而到那时，许多地方的草已经扎根了。",
+      "analysis": [
+        { "text": "By", "roles": ["状语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "however", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "places", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "grass", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "taken", "roles": ["谓语"] },
+        { "text": "root", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.", "zh": "消防员同森林大火搏斗了将近三个星期才把火势控制住。" },
+    { "en": "A short time before, great trees had covered the countryside for miles around.", "zh": "不久前，大片树木还覆盖着方圆数英里的乡村。" },
+    { "en": "Now, smoke still rose up from the warm ground over the desolate hills.", "zh": "现在，烟雾仍然从荒凉的山丘上温暖的地面升起。" },
+    { "en": "Winter was coming on and the hills threatened the surrounding villages with destruction.", "zh": "冬天即将来临，这些山丘威胁着周围的村庄，会带来毁灭。" },
+    { "en": "Heavy rain would not only wash away the soil but would cause serious floods as well.", "zh": "大雨不仅会冲走土壤，还会引起严重的洪水。" },
+    { "en": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.", "zh": "大火终于被扑灭后，森林管理局订购了好几吨能快速生长的特殊草籽。" },
+    { "en": "The seed was sprayed over the ground in huge quantities by aeroplanes.", "zh": "飞机把大量草籽撒在了地面上。" },
+    { "en": "The planes had been planting seed for nearly a month when it began to rain.", "zh": "飞机撒种撒了将近一个月，天开始下雨了。" },
+    { "en": "By then, however, in many places the grass had already taken root.", "zh": "然而到那时，许多地方的草已经扎根了。" },
+    { "en": "In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil.", "zh": "在那些生长了几个世纪的大树原来的地方，一块块绿草开始出现在烧黑的土地上。" }
+  ]
+}

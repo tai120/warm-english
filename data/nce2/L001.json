@@ -1,0 +1,201 @@
+{
+  "id": "L001",
+  "title": "Lesson 1 · A private conversation",
+  "titleZh": "第1课 私人谈话",
+  "words": [
+    {
+      "word": "private",
+      "phonetic": "/ˈpraɪvɪt/",
+      "meaning": "adj. 私人的",
+      "examples": [
+        { "en": "This is a private conversation.", "zh": "这是私人间的谈话。" },
+        { "en": "He has a private car.", "zh": "他有一辆私人小汽车。" }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "n. 谈话，交谈",
+      "examples": [
+        { "en": "I had a conversation with my teacher.", "zh": "我和老师谈了一次话。" }
+      ]
+    },
+    {
+      "word": "theatre",
+      "phonetic": "/ˈθɪətə/",
+      "meaning": "n. 剧院，戏院",
+      "examples": [
+        { "en": "We went to the theatre last night.", "zh": "昨晚我们去看戏了。" }
+      ]
+    },
+    {
+      "word": "seat",
+      "phonetic": "/siːt/",
+      "meaning": "n. 座位",
+      "examples": [
+        { "en": "I had a very good seat.", "zh": "我的座位很好。" }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meaning": "n. 戏，戏剧",
+      "examples": [
+        { "en": "The play was very interesting.", "zh": "那出戏很有意思。" }
+      ]
+    },
+    {
+      "word": "loudly",
+      "phonetic": "/ˈlaʊdli/",
+      "meaning": "adv. 大声地",
+      "examples": [
+        { "en": "They were talking loudly.", "zh": "他们在大声说话。" }
+      ]
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "adj. 生气的",
+      "examples": [
+        { "en": "I got very angry.", "zh": "我非常生气。" }
+      ]
+    },
+    {
+      "word": "angrily",
+      "phonetic": "/ˈæŋɡrəli/",
+      "meaning": "adv. 生气地",
+      "examples": [
+        { "en": "I looked at them angrily.", "zh": "我生气地看着他们。" }
+      ]
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meaning": "n. 注意",
+      "examples": [
+        { "en": "They did not pay any attention.", "zh": "他们毫不在意。" },
+        { "en": "Please pay attention to your spelling.", "zh": "请注意你的拼写。" }
+      ]
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə/",
+      "meaning": "v. 忍受",
+      "examples": [
+        { "en": "I could not bear it.", "zh": "我无法忍受。" }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic": "/ˈbɪznəs/",
+      "meaning": "n. 事，事务",
+      "examples": [
+        { "en": "It's none of your business.", "zh": "这不关你的事。" }
+      ]
+    },
+    {
+      "word": "rudely",
+      "phonetic": "/ˈruːdli/",
+      "meaning": "adv. 粗鲁地，无礼地",
+      "examples": [
+        { "en": "He answered rudely.", "zh": "他粗鲁地回答。" }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "/hɪə/",
+      "meaning": "v. 听见",
+      "examples": [
+        { "en": "I could not hear the actors.", "zh": "我听不见演员的台词。" },
+        { "en": "Can you hear me?", "zh": "你能听见我说话吗？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Last week I went to the theatre.",
+      "zh": "上周我去看戏。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "theatre", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The play was very interesting, but I did not enjoy it.",
+      "zh": "戏很有意思，但我却无法欣赏。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "play", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "interesting", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "enjoy", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A young man and a young woman were sitting behind me and talking loudly.",
+      "zh": "一个年轻男子和一个年轻女子坐在我身后，大声地说着话。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "young", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "young", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "sitting", "roles": ["谓语"] },
+        { "text": "behind", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "talking", "roles": ["谓语"] },
+        { "text": "loudly", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I could not hear the actors.",
+      "zh": "我听不见演员的台词。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "hear", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "actors", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "They did not pay any attention.",
+      "zh": "他们却毫不理会。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "pay", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "attention", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Last week I went to the theatre.", "zh": "上周我去看戏。" },
+    { "en": "The play was very interesting, but I did not enjoy it.", "zh": "戏很有意思，但我却无法欣赏。" },
+    { "en": "A young man and a young woman were sitting behind me and talking loudly.", "zh": "一个年轻男子和一个年轻女子坐在我身后，大声地说着话。" },
+    { "en": "I could not hear the actors.", "zh": "我听不见演员的台词。" },
+    { "en": "I turned round and looked at them angrily.", "zh": "我转过身去，生气地看着他们。" },
+    { "en": "They did not pay any attention.", "zh": "他们却毫不理会。" },
+    { "en": "I said angrily, 'I can't hear a word!'", "zh": "我生气地说：“我一个字也听不见！”" },
+    { "en": "'It's none of your business,' the young man said rudely.", "zh": "“这不关你的事，”那个年轻男子粗鲁地说。" },
+    { "en": "'This is a private conversation!'", "zh": "“这是私人间的谈话！”" }
+  ]
+}

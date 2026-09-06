@@ -1,0 +1,229 @@
+{
+  "id": "L065",
+  "title": "Lesson 65 · Not a baby",
+  "titleZh": "第65课 不是一个孩子",
+  "words": [
+    {
+      "word": "dad",
+      "phonetic": "/dæd/",
+      "meaning": "n. 爸爸",
+      "examples": [
+        { "en": "Yes, Dad.", "zh": "好的，爸爸。" },
+        { "en": "I'm going to meet some friends, Dad.", "zh": "爸爸，我打算见几个朋友。" }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "/kiː/",
+      "meaning": "n. 钥匙",
+      "examples": [
+        { "en": "Can I have the key to the front door, please?", "zh": "我能拿前门的钥匙吗？" },
+        { "en": "Give her the key.", "zh": "把钥匙给她。" }
+      ]
+    },
+    {
+      "word": "baby",
+      "phonetic": "/ˈbeɪbi/",
+      "meaning": "n. 婴儿",
+      "examples": [
+        { "en": "She's not a baby.", "zh": "她不是小孩子了。" },
+        { "en": "The baby is sleeping.", "zh": "婴儿正在睡觉。" }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "/hɪə(r)/",
+      "meaning": "v. 听见",
+      "examples": [
+        { "en": "Do you hear?", "zh": "听见了吗？" },
+        { "en": "I can't hear you.", "zh": "我听不见你说话。" }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "v. 享受……的乐趣，喜欢",
+      "examples": [
+        { "en": "Enjoy yourself!", "zh": "祝你玩得开心！" },
+        { "en": "We always enjoy ourselves.", "zh": "我们总是玩得很开心。" }
+      ]
+    },
+    {
+      "word": "yourself",
+      "phonetic": "/jɔːˈself/",
+      "meaning": "pron. 你自己",
+      "examples": [
+        { "en": "Enjoy yourself!", "zh": "祝你玩得开心！" },
+        { "en": "Look after yourself.", "zh": "照顾好你自己。" }
+      ]
+    },
+    {
+      "word": "ourselves",
+      "phonetic": "/aʊəˈselvz/",
+      "meaning": "pron. 我们自己",
+      "examples": [
+        { "en": "We always enjoy ourselves, Mum.", "zh": "妈妈，我们总是玩得很开心。" },
+        { "en": "We can do it ourselves.", "zh": "我们自己能做这件事。" }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meaning": "v. 会见，遇见",
+      "examples": [
+        { "en": "I'm going to meet some friends, Dad.", "zh": "爸爸，我打算见几个朋友。" },
+        { "en": "Nice to meet you.", "zh": "见到你很高兴。" }
+      ]
+    },
+    {
+      "word": "friend",
+      "phonetic": "/frend/",
+      "meaning": "n. 朋友",
+      "examples": [
+        { "en": "I'm going to meet some friends, Dad.", "zh": "爸爸，我打算见几个朋友。" },
+        { "en": "She is my good friend.", "zh": "她是我的好朋友。" }
+      ]
+    },
+    {
+      "word": "past",
+      "phonetic": "/pɑːst/",
+      "meaning": "prep. （时间）过",
+      "examples": [
+        { "en": "You must be home at half past ten.", "zh": "你必须在十点半到家。" },
+        { "en": "It's a quarter past eleven.", "zh": "现在是十一点一刻。" }
+      ]
+    },
+    {
+      "word": "quarter",
+      "phonetic": "/ˈkwɔːtə(r)/",
+      "meaning": "n. 一刻钟；四分之一",
+      "examples": [
+        { "en": "You mustn't come home after a quarter past eleven.", "zh": "你不许在十一点一刻以后回家。" },
+        { "en": "It's a quarter past eleven.", "zh": "现在是十一点一刻。" }
+      ]
+    },
+    {
+      "word": "half",
+      "phonetic": "/hɑːf/",
+      "meaning": "n. 一半",
+      "examples": [
+        { "en": "You must be home at half past ten.", "zh": "你必须在十点半到家。" },
+        { "en": "Half a pound of coffee, please.", "zh": "请来半磅咖啡。" }
+      ]
+    },
+    {
+      "word": "eighteen",
+      "phonetic": "/ˌeɪˈtiːn/",
+      "meaning": "num. 十八",
+      "examples": [
+        { "en": "Jill's eighteen years old.", "zh": "吉尔十八岁了。" },
+        { "en": "My sister is eighteen.", "zh": "我妹妹十八岁。" }
+      ]
+    },
+    {
+      "word": "old",
+      "phonetic": "/əʊld/",
+      "meaning": "adj. ……岁的；老的",
+      "examples": [
+        { "en": "Jill's eighteen years old, Tom.", "zh": "汤姆，吉尔十八岁了。" },
+        { "en": "How old are you?", "zh": "你多大了？" }
+      ]
+    },
+    {
+      "word": "year",
+      "phonetic": "/jɪə(r)/",
+      "meaning": "n. 年；岁",
+      "examples": [
+        { "en": "Jill's eighteen years old.", "zh": "吉尔十八岁了。" },
+        { "en": "She is eighteen years old.", "zh": "她十八岁。" }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meaning": "adj. 前面的",
+      "examples": [
+        { "en": "Can I have the key to the front door, please?", "zh": "我能拿前门的钥匙吗？" },
+        { "en": "The front door is open.", "zh": "前门开着。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'm going to meet some friends, Dad.",
+      "zh": "爸爸，我打算见几个朋友。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "meet", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "friends", "roles": ["宾语"] },
+        { "text": "Dad", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "You must be home at half past ten.",
+      "zh": "你必须在十点半到家。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "home", "roles": ["表语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "half", "roles": ["状语"] },
+        { "text": "past", "roles": ["状语"] },
+        { "text": "ten", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Can I have the key to the front door, please?",
+      "zh": "我能拿前门的钥匙吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "key", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "front", "roles": ["定语"] },
+        { "text": "door", "roles": ["定语"] },
+        { "text": "please", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Jill's eighteen years old, Tom.",
+      "zh": "汤姆，吉尔十八岁了。",
+      "analysis": [
+        { "text": "Jill's", "roles": ["主语"] },
+        { "text": "eighteen", "roles": ["表语"] },
+        { "text": "years", "roles": ["表语"] },
+        { "text": "old", "roles": ["表语"] },
+        { "text": "Tom", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Enjoy yourself!",
+      "zh": "祝你玩得开心！",
+      "analysis": [
+        { "text": "Enjoy", "roles": ["谓语"] },
+        { "text": "yourself", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What are you going to do this evening, Jill?", "zh": "吉尔，你今晚打算做什么？" },
+    { "en": "I'm going to meet some friends, Dad.", "zh": "爸爸，我打算见几个朋友。" },
+    { "en": "You must be home at half past ten.", "zh": "你必须在十点半到家。" },
+    { "en": "I can't get home so early, Dad!", "zh": "爸爸，我不可能这么早到家！" },
+    { "en": "Can I have the key to the front door, please?", "zh": "我能拿前门的钥匙吗？" },
+    { "en": "No, you can't.", "zh": "不行，不能给你。" },
+    { "en": "Jill's eighteen years old, Tom.", "zh": "汤姆，吉尔十八岁了。" },
+    { "en": "She's not a baby.", "zh": "她不是小孩子了。" },
+    { "en": "Give her the key.", "zh": "把钥匙给她。" },
+    { "en": "Here you are.", "zh": "给你。" },
+    { "en": "Enjoy yourself!", "zh": "祝你玩得开心！" },
+    { "en": "We always enjoy ourselves, Mum. Bye-bye.", "zh": "妈妈，我们总是玩得很开心。再见。" }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "L011",
+  "title": "Lesson 11 · Is this your shirt?",
+  "titleZh": "第11课 这是你的衬衫吗？",
+  "words": [
+    {
+      "word": "shirt",
+      "phonetic": "/ʃɜːt/",
+      "meaning": "n. 衬衫",
+      "examples": [
+        { "en": "Is this your shirt?", "zh": "这是你的衬衫吗？" },
+        { "en": "My shirt is white.", "zh": "我的衬衫是白色的。" }
+      ]
+    },
+    {
+      "word": "whose",
+      "phonetic": "/huːz/",
+      "meaning": "pron. 谁的",
+      "examples": [
+        { "en": "Whose shirt is that?", "zh": "那是谁的衬衫？" },
+        { "en": "Whose book is this?", "zh": "这是谁的书？" }
+      ]
+    },
+    {
+      "word": "blue",
+      "phonetic": "/bluː/",
+      "meaning": "adj. 蓝色的",
+      "examples": [
+        { "en": "My shirt is blue.", "zh": "我的衬衫是蓝色的。" },
+        { "en": "The sky is blue.", "zh": "天空是蓝色的。" }
+      ]
+    },
+    {
+      "word": "white",
+      "phonetic": "/waɪt/",
+      "meaning": "adj. 白色的",
+      "examples": [
+        { "en": "My shirt is white.", "zh": "我的衬衫是白色的。" },
+        { "en": "The paper is white.", "zh": "纸是白色的。" }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meaning": "v. 抓住，接住",
+      "examples": [
+        { "en": "Catch!", "zh": "接住！" },
+        { "en": "Please catch the ball.", "zh": "请接住球。" }
+      ]
+    },
+    {
+      "word": "his",
+      "phonetic": "/hɪz/",
+      "meaning": "pron. 他的",
+      "examples": [
+        { "en": "Is this his book?", "zh": "这是他的书吗？" },
+        { "en": "His name is Dave.", "zh": "他叫戴夫。" }
+      ]
+    },
+    {
+      "word": "perhaps",
+      "phonetic": "/pəˈhæps/",
+      "meaning": "adv. 也许",
+      "examples": [
+        { "en": "Perhaps it is, sir.", "zh": "也许是，先生。" },
+        { "en": "Perhaps you are right.", "zh": "也许你是对的。" }
+      ]
+    },
+    {
+      "word": "sir",
+      "phonetic": "/sɜː(r)/",
+      "meaning": "n. 先生",
+      "examples": [
+        { "en": "Yes, sir.", "zh": "是的，先生。" }
+      ]
+    },
+    {
+      "word": "not",
+      "phonetic": "/nɒt/",
+      "meaning": "adv. 不，没有",
+      "examples": [
+        { "en": "It is not my shirt.", "zh": "这不是我的衬衫。" },
+        { "en": "I am not a teacher.", "zh": "我不是老师。" }
+      ]
+    },
+    {
+      "word": "that",
+      "phonetic": "/ðæt/",
+      "meaning": "pron. 那，那个",
+      "examples": [
+        { "en": "Whose shirt is that?", "zh": "那是谁的衬衫？" },
+        { "en": "That is my book.", "zh": "那是我的书。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Whose shirt is that?",
+      "zh": "那是谁的衬衫？",
+      "analysis": [
+        { "text": "Whose", "roles": ["定语"] },
+        { "text": "shirt", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "that", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It's not my shirt.",
+      "zh": "这不是我的衬衫。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语", "谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "shirt", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "This is my shirt.",
+      "zh": "这是我的衬衫。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "shirt", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "My shirt's blue.",
+      "zh": "我的衬衫是蓝色的。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "shirt's", "roles": ["主语", "谓语"] },
+        { "text": "blue", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Is this shirt Tim's?",
+      "zh": "这件衬衫是蒂姆的吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "shirt", "roles": ["主语"] },
+        { "text": "Tim's", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Whose shirt is that?", "zh": "那是谁的衬衫？" },
+    { "en": "Is this your shirt, Dave?", "zh": "这是你的衬衫吗，戴夫？" },
+    { "en": "No, sir.", "zh": "不，先生。" },
+    { "en": "It's not my shirt.", "zh": "这不是我的衬衫。" },
+    { "en": "This is my shirt.", "zh": "这是我的衬衫。" },
+    { "en": "My shirt's blue.", "zh": "我的衬衫是蓝色的。" },
+    { "en": "Is this shirt Tim's?", "zh": "这件衬衫是蒂姆的吗？" },
+    { "en": "Perhaps it is, sir.", "zh": "也许是，先生。" },
+    { "en": "Tim's shirt's white.", "zh": "蒂姆的衬衫是白色的。" },
+    { "en": "Tim!", "zh": "蒂姆！" }
+  ]
+}

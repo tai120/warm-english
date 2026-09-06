@@ -1,9 +1,508 @@
 {
   "lessons": [
-    { "id": "L001", "title": "Lesson 1 · Excuse me!", "titleZh": "第1课 对不起！", "wordCount": 11, "sentenceCount": 4 },
-    { "id": "L003", "title": "Lesson 3 · Sorry, sir.", "titleZh": "第3课 对不起，先生。", "wordCount": 10, "sentenceCount": 4 },
-    { "id": "L005", "title": "Lesson 5 · Nice to meet you.", "titleZh": "第5课 很高兴见到你。", "wordCount": 14, "sentenceCount": 4 },
-    { "id": "L007", "title": "Lesson 7 · Are you a teacher?", "titleZh": "第7课 你是教师吗？", "wordCount": 10, "sentenceCount": 4 },
-    { "id": "L009", "title": "Lesson 9 · How are you today?", "titleZh": "第9课 你今天好吗？", "wordCount": 9, "sentenceCount": 4 }
+    {
+      "id": "L001",
+      "title": "Lesson 1 · Excuse me!",
+      "titleZh": "第1课 对不起！",
+      "wordCount": 11,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L003",
+      "title": "Lesson 3 · Sorry, sir.",
+      "titleZh": "第3课 对不起，先生。",
+      "wordCount": 10,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L005",
+      "title": "Lesson 5 · Nice to meet you.",
+      "titleZh": "第5课 很高兴见到你。",
+      "wordCount": 14,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L007",
+      "title": "Lesson 7 · Are you a teacher?",
+      "titleZh": "第7课 你是教师吗？",
+      "wordCount": 10,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L009",
+      "title": "Lesson 9 · How are you today?",
+      "titleZh": "第9课 你今天好吗？",
+      "wordCount": 9,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L011",
+      "title": "Lesson 11 · Is this your shirt?",
+      "titleZh": "第11课 这是你的衬衫吗？",
+      "wordCount": 10,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L013",
+      "title": "Lesson 13 · A new dress",
+      "titleZh": "第13课 一件新连衣裙",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L015",
+      "title": "Lesson 15 · Your passports, please.",
+      "titleZh": "第15课 请出示你们的护照。",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L017",
+      "title": "Lesson 17 · How do you do?",
+      "titleZh": "第17课 你好！",
+      "wordCount": 10,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L019",
+      "title": "Lesson 19 · Tired and thirsty",
+      "titleZh": "第19课 又累又渴",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L021",
+      "title": "Lesson 21 · Which book?",
+      "titleZh": "第21课 哪一本书？",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L023",
+      "title": "Lesson 23 · Which glasses?",
+      "titleZh": "第23课 哪只杯子？",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L025",
+      "title": "Lesson 25 · Mrs. Smith's kitchen",
+      "titleZh": "第25课 史密斯太太的厨房",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L027",
+      "title": "Lesson 27 · Mrs. Smith's living room",
+      "titleZh": "第27课 史密斯太太的客厅",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L029",
+      "title": "Lesson 29 · Come in, Amy.",
+      "titleZh": "第29课 进来，艾米。",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L031",
+      "title": "Lesson 31 · Where's Sally?",
+      "titleZh": "第31课 萨莉在哪里？",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L033",
+      "title": "Lesson 33 · A fine day",
+      "titleZh": "第33课 晴天",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L035",
+      "title": "Lesson 35 · Our village",
+      "titleZh": "第35课 我们的村庄",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L037",
+      "title": "Lesson 37 · Making a bookcase",
+      "titleZh": "第37课 做书架",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L039",
+      "title": "Lesson 39 · Don't drop it!",
+      "titleZh": "第39课 别摔了！",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L041",
+      "title": "Lesson 41 · Penny's bag",
+      "titleZh": "第41课 彭妮的提包",
+      "wordCount": 16,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L043",
+      "title": "Lesson 43 · Hurry up!",
+      "titleZh": "第43课 快点！",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L045",
+      "title": "Lesson 45 · The boss's letter",
+      "titleZh": "第45课 老板的信",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L047",
+      "title": "Lesson 47 · A cup of coffee",
+      "titleZh": "第47课 一杯咖啡",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L049",
+      "title": "Lesson 49 · At the butcher's",
+      "titleZh": "第49课 在肉店",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L051",
+      "title": "Lesson 51 · A pleasant climate",
+      "titleZh": "第51课 宜人的气候",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L053",
+      "title": "Lesson 53 · An interesting climate",
+      "titleZh": "第53课 有趣的气候",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L055",
+      "title": "Lesson 55 · The Sawyer family",
+      "titleZh": "第55课 索耶一家人",
+      "wordCount": 16,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L057",
+      "title": "Lesson 57 · An unusual day",
+      "titleZh": "第57课 很不平常的一天",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L059",
+      "title": "Lesson 59 · Is that all?",
+      "titleZh": "第59课 就这些吗？",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L061",
+      "title": "Lesson 61 · A bad cold",
+      "titleZh": "第61课 重感冒",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L063",
+      "title": "Lesson 63 · Thank you, doctor.",
+      "titleZh": "第63课 谢谢你，医生。",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L065",
+      "title": "Lesson 65 · Not a baby",
+      "titleZh": "第65课 不是一个孩子",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L067",
+      "title": "Lesson 67 · The weekend",
+      "titleZh": "第67课 周末",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L069",
+      "title": "Lesson 69 · The car race",
+      "titleZh": "第69课 汽车比赛",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L071",
+      "title": "Lesson 71 · He's awful!",
+      "titleZh": "第71课 他讨厌透了！",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L073",
+      "title": "Lesson 73 · The way to King Street",
+      "titleZh": "第73课 到国王街的走法",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L075",
+      "title": "Lesson 75 · Uncomfortable shoes",
+      "titleZh": "第75课 不舒适的鞋子",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L077",
+      "title": "Lesson 77 · Terrible toothache",
+      "titleZh": "第77课 要命的牙痛",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L079",
+      "title": "Lesson 79 · Carol's shopping list",
+      "titleZh": "第79课 卡罗尔的购物单",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L081",
+      "title": "Lesson 81 · Roast beef and potatoes",
+      "titleZh": "第81课 烤牛肉和土豆",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L083",
+      "title": "Lesson 83 · Going on holiday",
+      "titleZh": "第83课 度假",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L085",
+      "title": "Lesson 85 · Paris in the spring",
+      "titleZh": "第85课 巴黎之春",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L087",
+      "title": "Lesson 87 · A car crash",
+      "titleZh": "第87课 车祸",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L089",
+      "title": "Lesson 89 · For sale",
+      "titleZh": "第89课 待售",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L091",
+      "title": "Lesson 91 · Poor Ian!",
+      "titleZh": "第91课 可怜的伊恩！",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L093",
+      "title": "Lesson 93 · Our new neighbour",
+      "titleZh": "第93课 我们的新邻居",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L095",
+      "title": "Lesson 95 · Tickets, please.",
+      "titleZh": "第95课 请把车票拿出来。",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L097",
+      "title": "Lesson 97 · A small blue case",
+      "titleZh": "第97课 一只蓝色的小箱子",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L099",
+      "title": "Lesson 99 · Ow!",
+      "titleZh": "第99课 啊哟！",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L101",
+      "title": "Lesson 101 · A card from Jimmy",
+      "titleZh": "第101课 吉米的明信片",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L103",
+      "title": "Lesson 103 · The French test",
+      "titleZh": "第103课 法语考试",
+      "wordCount": 16,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L105",
+      "title": "Lesson 105 · Full of mistakes",
+      "titleZh": "第105课 错误百出",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L107",
+      "title": "Lesson 107 · It's too small.",
+      "titleZh": "第107课 太小了。",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L109",
+      "title": "Lesson 109 · A good idea",
+      "titleZh": "第109课 好主意",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L111",
+      "title": "Lesson 111 · The most expensive model",
+      "titleZh": "第111课 最昂贵的型号",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L113",
+      "title": "Lesson 113 · Small change",
+      "titleZh": "第113课 零钱",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L115",
+      "title": "Lesson 115 · Knock, knock!",
+      "titleZh": "第115课 敲敲门！",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L117",
+      "title": "Lesson 117 · Tommy's breakfast",
+      "titleZh": "第117课 汤米的早餐",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L119",
+      "title": "Lesson 119 · A true story",
+      "titleZh": "第119课 一个真实的故事",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L121",
+      "title": "Lesson 121 · The man in a hat",
+      "titleZh": "第121课 戴帽子的男士",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L123",
+      "title": "Lesson 123 · A trip to Australia",
+      "titleZh": "第123课 澳大利亚之行",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L125",
+      "title": "Lesson 125 · Tea for two",
+      "titleZh": "第125课 两个人一起喝茶",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L127",
+      "title": "Lesson 127 · A famous actress",
+      "titleZh": "第127课 著名的女演员",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L129",
+      "title": "Lesson 129 · Seventy miles an hour",
+      "titleZh": "第129课 时速七十英里",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L131",
+      "title": "Lesson 131 · Don't be so sure!",
+      "titleZh": "第131课 别那么肯定！",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L133",
+      "title": "Lesson 133 · Sensational news!",
+      "titleZh": "第133课 爆炸性新闻！",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L135",
+      "title": "Lesson 135 · The latest report",
+      "titleZh": "第135课 最新消息",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L137",
+      "title": "Lesson 137 · A pleasant dream",
+      "titleZh": "第137课 美好的梦",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L139",
+      "title": "Lesson 139 · Is that you, John?",
+      "titleZh": "第139课 是你吗，约翰？",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L141",
+      "title": "Lesson 141 · Sally's first train ride",
+      "titleZh": "第141课 萨莉第一次乘火车旅行",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L143",
+      "title": "Lesson 143 · A walk through the woods",
+      "titleZh": "第143课 林中散步",
+      "wordCount": 14,
+      "sentenceCount": 6
+    }
   ]
 }

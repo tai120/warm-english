@@ -1,0 +1,225 @@
+{
+  "id": "L007",
+  "title": "Lesson 7 · Too late",
+  "titleZh": "第7课 为时太晚",
+  "words": [
+    {
+      "word": "detective",
+      "phonetic": "/dɪˈtektɪv/",
+      "meaning": "n. 侦探",
+      "examples": [
+        { "en": "Detectives were waiting at the airport all morning.", "zh": "侦探们在机场等了整整一上午。" }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "n. 机场",
+      "examples": [
+        { "en": "Detectives were waiting at the airport.", "zh": "侦探们在机场等候。" }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meaning": "v. 期待，等待",
+      "examples": [
+        { "en": "They were expecting a valuable parcel of diamonds.", "zh": "他们正期待一个装着钻石的贵重包裹。" }
+      ]
+    },
+    {
+      "word": "valuable",
+      "phonetic": "/ˈvæljuəbl/",
+      "meaning": "adj. 贵重的",
+      "examples": [
+        { "en": "They were expecting a valuable parcel.", "zh": "他们正期待一个贵重的包裹。" }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meaning": "n. 包裹",
+      "examples": [
+        { "en": "Two men took the parcel off the plane.", "zh": "有两个人把包裹拿下飞机。" }
+      ]
+    },
+    {
+      "word": "diamond",
+      "phonetic": "/ˈdaɪəmənd/",
+      "meaning": "n. 钻石",
+      "examples": [
+        { "en": "The parcel was full of diamonds.", "zh": "那包裹里装满了钻石。" }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meaning": "v. 偷",
+      "examples": [
+        { "en": "Thieves would try to steal the diamonds.", "zh": "有人企图偷走这些钻石。" }
+      ]
+    },
+    {
+      "word": "airfield",
+      "phonetic": "/ˈeəfiːld/",
+      "meaning": "n. 机场停机坪",
+      "examples": [
+        { "en": "Some detectives were waiting on the airfield.", "zh": "一些侦探守候在停机坪上。" }
+      ]
+    },
+    {
+      "word": "guard",
+      "phonetic": "/ɡɑːd/",
+      "meaning": "n. 警戒，守卫",
+      "examples": [
+        { "en": "Two detectives were keeping guard at the door.", "zh": "两个侦探把住门口。" }
+      ]
+    },
+    {
+      "word": "precious",
+      "phonetic": "/ˈpreʃəs/",
+      "meaning": "adj. 珍贵的",
+      "examples": [
+        { "en": "The precious parcel was full of stones and sand.", "zh": "那珍贵的包裹里面装的全是石头和沙子。" }
+      ]
+    },
+    {
+      "word": "stone",
+      "phonetic": "/stəʊn/",
+      "meaning": "n. 石头",
+      "examples": [
+        { "en": "The parcel was full of stones and sand.", "zh": "那包裹里装的全是石头和沙子。" }
+      ]
+    },
+    {
+      "word": "sand",
+      "phonetic": "/sænd/",
+      "meaning": "n. 沙子",
+      "examples": [
+        { "en": "The parcel was full of stones and sand.", "zh": "那包裹里装的全是石头和沙子。" }
+      ]
+    },
+    {
+      "word": "plane",
+      "phonetic": "/pleɪn/",
+      "meaning": "n. 飞机",
+      "examples": [
+        { "en": "The plane was late.", "zh": "飞机误点了。" }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meaning": "n. 惊奇，惊讶",
+      "examples": [
+        { "en": "To their surprise, the parcel was full of stones and sand.", "zh": "令他们吃惊的是，那包裹里装的全是石头和沙子。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The plane was late and detectives were waiting at the airport all morning.",
+      "zh": "飞机误点了，侦探们在机场等了整整一上午。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "late", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "detectives", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "waiting", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "airport", "roles": ["状语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "zh": "他们正期待从南非来的一个装着钻石的贵重包裹。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "expecting", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "valuable", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "diamonds", "roles": ["定语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "South", "roles": ["定语"] },
+        { "text": "Africa", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Two men took the parcel off the plane and carried it into the Customs House.",
+      "zh": "有两个人把包裹拿下飞机，进了海关。",
+      "analysis": [
+        { "text": "Two", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "plane", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Customs", "roles": ["定语"] },
+        { "text": "House", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "zh": "这时两个侦探把住门口，另外两个侦探打开了包裹。",
+      "analysis": [
+        { "text": "While", "roles": ["连词"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "detectives", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "keeping", "roles": ["谓语"] },
+        { "text": "guard", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "door", "roles": ["状语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "others", "roles": ["主语"] },
+        { "text": "opened", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "To their surprise, the precious parcel was full of stones and sand!",
+      "zh": "令他们吃惊的是，那珍贵的包裹里面装的全是石头和沙子！",
+      "analysis": [
+        { "text": "To", "roles": ["状语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "surprise", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "precious", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "full", "roles": ["表语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "stones", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sand", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The plane was late and detectives were waiting at the airport all morning.", "zh": "飞机误点了，侦探们在机场等了整整一上午。" },
+    { "en": "They were expecting a valuable parcel of diamonds from South Africa.", "zh": "他们正期待从南非来的一个装着钻石的贵重包裹。" },
+    { "en": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.", "zh": "数小时以前，有人向警方报告，说有人企图偷走这些钻石。" },
+    { "en": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.", "zh": "当飞机到达时，一些侦探等候在主楼内，另一些侦探则守候在停机坪上。" },
+    { "en": "Two men took the parcel off the plane and carried it into the Customs House.", "zh": "有两个人把包裹拿下飞机，进了海关。" },
+    { "en": "While two detectives were keeping guard at the door, two others opened the parcel.", "zh": "这时两个侦探把住门口，另外两个侦探打开了包裹。" },
+    { "en": "To their surprise, the precious parcel was full of stones and sand!", "zh": "令他们吃惊的是，那珍贵的包裹里面装的全是石头和沙子！" }
+  ]
+}

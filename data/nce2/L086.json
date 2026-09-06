@@ -1,0 +1,250 @@
+{
+  "id": "L086",
+  "title": "Lesson 86 · Out of control",
+  "titleZh": "第86课 失控",
+  "words": [
+    {
+      "word": "control",
+      "phonetic": "/kənˈtrəʊl/",
+      "meaning": "n. 控制",
+      "examples": [
+        { "en": "The boat was out of control.", "zh": "小船失去了控制。" }
+      ]
+    },
+    {
+      "word": "speedboat",
+      "phonetic": "/ˈspiːdbəʊt/",
+      "meaning": "n. 快艇",
+      "examples": [
+        { "en": "The speedboat struck a buoy.", "zh": "快艇撞上了一个浮标。" }
+      ]
+    },
+    {
+      "word": "steering",
+      "phonetic": "/ˈstɪərɪŋ/",
+      "meaning": "n. 转向装置",
+      "examples": [
+        { "en": "The steering wheel came away in his hands.", "zh": "方向盘在他手中脱落了。" }
+      ]
+    },
+    {
+      "word": "wheel",
+      "phonetic": "/wiːl/",
+      "meaning": "n. 轮子；方向盘",
+      "examples": [
+        { "en": "He held the wheel tightly.", "zh": "他紧紧握住方向盘。" }
+      ]
+    },
+    {
+      "word": "desperately",
+      "phonetic": "/ˈdespərətli/",
+      "meaning": "adv. 拼命地",
+      "examples": [
+        { "en": "He waved desperately to his companion.", "zh": "他拼命向同伴挥手。" }
+      ]
+    },
+    {
+      "word": "companion",
+      "phonetic": "/kəmˈpænjən/",
+      "meaning": "n. 同伴",
+      "examples": [
+        { "en": "His companion had been water-skiing.", "zh": "他的同伴一直在滑水。" }
+      ]
+    },
+    {
+      "word": "water-skiing",
+      "phonetic": "/ˈwɔːtə skiːɪŋ/",
+      "meaning": "n. 滑水运动",
+      "examples": [
+        { "en": "He likes water-skiing very much.", "zh": "他非常喜欢滑水运动。" }
+      ]
+    },
+    {
+      "word": "violently",
+      "phonetic": "/ˈvaɪələntli/",
+      "meaning": "adv. 猛烈地",
+      "examples": [
+        { "en": "They were thrown violently into the sea.", "zh": "他们被猛烈地抛进了海里。" }
+      ]
+    },
+    {
+      "word": "buoy",
+      "phonetic": "/bɔɪ/",
+      "meaning": "n. 浮标",
+      "examples": [
+        { "en": "The boat struck a buoy and moved on.", "zh": "快艇撞上浮标后继续前行。" }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meaning": "n. 沮丧，惊慌",
+      "examples": [
+        { "en": "They noticed with dismay that the boat was moving in a circle.", "zh": "他们惊慌地发现快艇在绕圈行驶。" }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trəˈmendəs/",
+      "meaning": "adj. 巨大的，惊人的",
+      "examples": [
+        { "en": "The boat came towards them at tremendous speed.", "zh": "快艇以惊人的速度向他们冲来。" }
+      ]
+    },
+    {
+      "word": "roar",
+      "phonetic": "/rɔː(r)/",
+      "meaning": "v. 轰鸣",
+      "examples": [
+        { "en": "The boat roared past them.", "zh": "快艇轰鸣着从他们身边驶过。" }
+      ]
+    },
+    {
+      "word": "swing",
+      "phonetic": "/swɪŋ/",
+      "meaning": "v. 转向，摆动",
+      "examples": [
+        { "en": "The boat swung round and came towards them again.", "zh": "快艇转了个圈又朝他们冲来。" }
+      ]
+    },
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meaning": "v. 避开",
+      "examples": [
+        { "en": "They kept swimming to avoid being hit.", "zh": "他们不停地游着，以免被撞上。" }
+      ]
+    },
+    {
+      "word": "drift",
+      "phonetic": "/drɪft/",
+      "meaning": "v. 漂移",
+      "examples": [
+        { "en": "The boat began to drift gently across the water.", "zh": "快艇开始在水面上缓缓漂移。" }
+      ]
+    },
+    {
+      "word": "gently",
+      "phonetic": "/ˈdʒentli/",
+      "meaning": "adv. 缓缓地，温柔地",
+      "examples": [
+        { "en": "The boat drifted gently on the water.", "zh": "快艇在水面上缓缓漂流。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "zh": "当那人试图让快艇转弯时，方向盘在他手中脱落了。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "tried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "swing", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "speedboat", "roles": ["宾语"] },
+        { "text": "round", "roles": ["补语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "steering", "roles": ["定语"] },
+        { "text": "wheel", "roles": ["主语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "hands", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "zh": "快艇撞上了一个浮标，但它继续在水面上飞快地行驶。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "speedboat", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "struck", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "buoy", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "continued", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "move", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "quickly", "roles": ["状语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "water", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It now came straight towards them at tremendous speed.",
+      "zh": "现在它径直朝他们冲过来，速度快得惊人。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "straight", "roles": ["状语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "them", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "tremendous", "roles": ["定语"] },
+        { "text": "speed", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The men had to keep swimming to avoid being hit by the boat.",
+      "zh": "他们只得不停地游，以免被快艇撞上。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "keep", "roles": ["谓语"] },
+        { "text": "swimming", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "avoid", "roles": ["状语"] },
+        { "text": "being", "roles": ["谓语"] },
+        { "text": "hit", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "boat", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+      "zh": "不久，噪声完全消失，快艇开始在水面上缓缓漂动。",
+      "analysis": [
+        { "text": "Before", "roles": ["状语"] },
+        { "text": "long", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "noise", "roles": ["主语"] },
+        { "text": "dropped", "roles": ["谓语"] },
+        { "text": "completely", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "boat", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "drift", "roles": ["宾语"] },
+        { "text": "gently", "roles": ["状语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "water", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.", "zh": "当那人试图让快艇转弯时，方向盘在他手中脱落了。" },
+    { "en": "He waved desperately to his companion, who had been water-skiing for the last fifteen minutes.", "zh": "他拼命向同伴挥手，那同伴已经滑水滑了一刻钟。" },
+    { "en": "Both men had hardly had time to realise what was happening when they were thrown violently into the sea.", "zh": "两人还没来得及弄清发生了什么事，就被猛烈地抛进了海里。" },
+    { "en": "The speedboat had struck a buoy, but it continued to move very quickly across the water.", "zh": "快艇撞上了一个浮标，但它继续在水面上飞快地行驶。" },
+    { "en": "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.", "zh": "两个人刚开始向岸边游去，就惊慌地发现快艇正在绕圈行驶。" },
+    { "en": "It now came straight towards them at tremendous speed.", "zh": "现在它径直朝他们冲过来，速度快得惊人。" },
+    { "en": "In less than a minute, it roared past them only a few feet away.", "zh": "不到一分钟，它轰鸣着从离他们只有几英尺远的地方驶过。" },
+    { "en": "After it had passed, it swung round and came straight towards them again.", "zh": "快艇过去之后，又掉头径直朝他们冲来。" },
+    { "en": "The men had to keep swimming to avoid being hit by the boat.", "zh": "他们只得不停地游，以免被快艇撞上。" },
+    { "en": "Before long, the noise dropped completely and the boat began to drift gently across the water.", "zh": "不久，噪声完全消失，快艇开始在水面上缓缓漂动。" }
+  ]
+}

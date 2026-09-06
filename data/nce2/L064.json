@@ -1,0 +1,240 @@
+{
+  "id": "L064",
+  "title": "Lesson 64 · The Channel Tunnel",
+  "titleZh": "第64课 海峡隧道",
+  "words": [
+    {
+      "word": "tunnel",
+      "phonetic": "/ˈtʌnl/",
+      "meaning": "n. 隧道",
+      "examples": [
+        { "en": "A tunnel was built under the English Channel.", "zh": "英吉利海峡海底修建了一条隧道。" }
+      ]
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænl/",
+      "meaning": "n. 海峡",
+      "examples": [
+        { "en": "The tunnel runs under the English Channel.", "zh": "这条隧道穿过英吉利海峡海底。" }
+      ]
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːm/",
+      "meaning": "n. 平台",
+      "examples": [
+        { "en": "The platform would serve as a port.", "zh": "这座平台可以用作港口。" }
+      ]
+    },
+    {
+      "word": "port",
+      "phonetic": "/pɔːt/",
+      "meaning": "n. 港口",
+      "examples": [
+        { "en": "The platform would serve as a port.", "zh": "这座平台可以用作港口。" }
+      ]
+    },
+    {
+      "word": "ventilate",
+      "phonetic": "/ˈventɪleɪt/",
+      "meaning": "v. 通风",
+      "examples": [
+        { "en": "The tunnel would be well-ventilated.", "zh": "隧道将通风良好。" }
+      ]
+    },
+    {
+      "word": "chimney",
+      "phonetic": "/ˈtʃɪmni/",
+      "meaning": "n. 烟囱",
+      "examples": [
+        { "en": "Tall chimneys were built above sea level.", "zh": "高出海面修建了高大的烟囱。" }
+      ]
+    },
+    {
+      "word": "double",
+      "phonetic": "/ˈdʌbl/",
+      "meaning": "adj. 双的",
+      "examples": [
+        { "en": "He suggested a double railway-tunnel.", "zh": "他建议修建双轨铁路隧道。" }
+      ]
+    },
+    {
+      "word": "railway",
+      "phonetic": "/ˈreɪlweɪ/",
+      "meaning": "n. 铁路",
+      "examples": [
+        { "en": "A double railway-tunnel should be built.", "zh": "应该修建一条双轨铁路隧道。" }
+      ]
+    },
+    {
+      "word": "ventilation",
+      "phonetic": "/ˌventɪˈleɪʃn/",
+      "meaning": "n. 通风",
+      "examples": [
+        { "en": "This would solve the problem of ventilation.", "zh": "这将解决通风问题。" }
+      ]
+    },
+    {
+      "word": "invasion",
+      "phonetic": "/ɪnˈveɪʒn/",
+      "meaning": "n. 入侵",
+      "examples": [
+        { "en": "The British feared invasion.", "zh": "英国人害怕入侵。" }
+      ]
+    },
+    {
+      "word": "officially",
+      "phonetic": "/əˈfɪʃəli/",
+      "meaning": "adv. 正式地",
+      "examples": [
+        { "en": "The tunnel was officially opened in 1994.", "zh": "隧道于1994年正式开通。" }
+      ]
+    },
+    {
+      "word": "connect",
+      "phonetic": "/kəˈnekt/",
+      "meaning": "v. 连接",
+      "examples": [
+        { "en": "The tunnel connects Britain to the continent.", "zh": "这条隧道把英国与欧洲大陆连接起来。" }
+      ]
+    },
+    {
+      "word": "continent",
+      "phonetic": "/ˈkɒntɪnənt/",
+      "meaning": "n. 大陆",
+      "examples": [
+        { "en": "Britain is connected to the European continent.", "zh": "英国与欧洲大陆连在了一起。" }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə(r)/",
+      "meaning": "n. 工程师",
+      "examples": [
+        { "en": "A French engineer arrived in England.", "zh": "一位法国工程师来到英国。" }
+      ]
+    },
+    {
+      "word": "level",
+      "phonetic": "/ˈlevl/",
+      "meaning": "n. 水平面，高度",
+      "examples": [
+        { "en": "The chimneys were built above sea level.", "zh": "烟囱建在海平面以上。" }
+      ]
+    },
+    {
+      "word": "European",
+      "phonetic": "/ˌjʊərəˈpiːən/",
+      "meaning": "adj. 欧洲的",
+      "examples": [
+        { "en": "The tunnel connects Britain to the European continent.", "zh": "这条隧道把英国与欧洲大陆连接起来。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This platform would serve as a port and a railway station.",
+      "zh": "这座平台可以用作港口和火车站。",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "platform", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "serve", "roles": ["谓语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "port", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "railway", "roles": ["定语"] },
+        { "text": "station", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "zh": "如果高出海面修建高大的烟囱，隧道就能通风良好。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "tunnel", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "well-ventilated", "roles": ["表语"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "tall", "roles": ["定语"] },
+        { "text": "chimneys", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "built", "roles": ["谓语"] },
+        { "text": "above", "roles": ["状语"] },
+        { "text": "sea", "roles": ["定语"] },
+        { "text": "level", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "zh": "1860年，一位名叫威廉·洛的英国人提出了一个更好的方案。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "1860", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "better", "roles": ["定语"] },
+        { "text": "plan", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "forward", "roles": ["状语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "Englishman", "roles": ["状语"] },
+        { "text": "William", "roles": ["定语"] },
+        { "text": "Low", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "He suggested that a double railway-tunnel should be built.",
+      "zh": "他建议修建一条双轨铁路隧道。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "suggested", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "double", "roles": ["定语"] },
+        { "text": "railway-tunnel", "roles": ["主语"] },
+        { "text": "should", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "built", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
+      "zh": "它于1994年3月7日正式开通，终于把英国与欧洲大陆连接了起来。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "officially", "roles": ["状语"] },
+        { "text": "opened", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "March", "roles": ["状语"] },
+        { "text": "7", "roles": ["状语"] },
+        { "text": "1994", "roles": ["状语"] },
+        { "text": "finally", "roles": ["状语"] },
+        { "text": "connecting", "roles": ["谓语"] },
+        { "text": "Britain", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "European", "roles": ["定语"] },
+        { "text": "continent", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.", "zh": "1858年，法国工程师艾梅·托姆·德·加蒙带着一项在英吉利海峡海底修建一条二十一英里长隧道的计划来到英国。" },
+    { "en": "He said that it would be possible to build a platform in the centre of the Channel.", "zh": "他说可以在海峡中央建造一座平台。" },
+    { "en": "This platform would serve as a port and a railway station.", "zh": "这座平台可以用作港口和火车站。" },
+    { "en": "The tunnel would be well-ventilated if tall chimneys were built above sea level.", "zh": "如果高出海面修建高大的烟囱，隧道就能通风良好。" },
+    { "en": "In 1860, a better plan was put forward by an Englishman, William Low.", "zh": "1860年，一位名叫威廉·洛的英国人提出了一个更好的方案。" },
+    { "en": "He suggested that a double railway-tunnel should be built.", "zh": "他建议修建一条双轨铁路隧道。" },
+    { "en": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it.", "zh": "这将解决通风问题，因为如果火车进入隧道，它会把新鲜空气吸进来。" },
+    { "en": "Forty-two years later a tunnel was actually begun.", "zh": "四十二年后，隧道真的开工了。" },
+    { "en": "If, at the time, the British had not feared invasion, it would have been completed.", "zh": "如果当时英国人不是害怕入侵，隧道早就建成了。" },
+    { "en": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.", "zh": "它于1994年3月7日正式开通，终于把英国与欧洲大陆连接了起来。" }
+  ]
+}

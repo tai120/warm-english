@@ -1,0 +1,248 @@
+{
+  "id": "L061",
+  "title": "Lesson 61 · Trouble with the Hubble",
+  "titleZh": "第61课 哈勃望远镜的困境",
+  "words": [
+    {
+      "word": "Hubble",
+      "phonetic": "/ˈhʌbl/",
+      "meaning": "n. 哈勃（望远镜）",
+      "examples": [
+        { "en": "The Hubble telescope was launched into space.", "zh": "哈勃望远镜被发射到太空。" }
+      ]
+    },
+    {
+      "word": "telescope",
+      "phonetic": "/ˈtelɪskəʊp/",
+      "meaning": "n. 望远镜",
+      "examples": [
+        { "en": "The telescope sent us wonderful pictures.", "zh": "望远镜给我们发回了精彩的照片。" }
+      ]
+    },
+    {
+      "word": "launch",
+      "phonetic": "/lɔːntʃ/",
+      "meaning": "v. 发射",
+      "examples": [
+        { "en": "NASA launched the Hubble in 1990.", "zh": "美国宇航局于1990年发射了哈勃望远镜。" }
+      ]
+    },
+    {
+      "word": "NASA",
+      "phonetic": "/ˈnæsə/",
+      "meaning": "n. 美国宇航局",
+      "examples": [
+        { "en": "NASA is going to repair the telescope.", "zh": "美国宇航局准备修复这架望远镜。" }
+      ]
+    },
+    {
+      "word": "space",
+      "phonetic": "/speɪs/",
+      "meaning": "n. 太空",
+      "examples": [
+        { "en": "The Hubble was launched into space.", "zh": "哈勃望远镜被发射到太空。" }
+      ]
+    },
+    {
+      "word": "billion",
+      "phonetic": "/ˈbɪljən/",
+      "meaning": "num. 十亿",
+      "examples": [
+        { "en": "The telescope cost over a billion dollars.", "zh": "这架望远镜耗资十多亿美元。" }
+      ]
+    },
+    {
+      "word": "faulty",
+      "phonetic": "/ˈfɔːlti/",
+      "meaning": "adj. 有毛病的",
+      "examples": [
+        { "en": "Its main mirror was faulty.", "zh": "它的主镜有毛病。" }
+      ]
+    },
+    {
+      "word": "astronaut",
+      "phonetic": "/ˈæstrənɔːt/",
+      "meaning": "n. 宇航员",
+      "examples": [
+        { "en": "Four astronauts will repair the telescope.", "zh": "四名宇航员将修理这架望远镜。" }
+      ]
+    },
+    {
+      "word": "shuttle",
+      "phonetic": "/ˈʃʌtl/",
+      "meaning": "n. 航天飞机",
+      "examples": [
+        { "en": "The shuttle Endeavour will take the astronauts there.", "zh": "奋进号航天飞机将把宇航员送到那里。" }
+      ]
+    },
+    {
+      "word": "Endeavour",
+      "phonetic": "/ɪnˈdevə(r)/",
+      "meaning": "n. 奋进号（航天飞机名）",
+      "examples": [
+        { "en": "The shuttle Endeavour was launched in 1992.", "zh": "奋进号航天飞机于1992年发射。" }
+      ]
+    },
+    {
+      "word": "robot-arm",
+      "phonetic": "/ˈrəʊbɒt ɑːm/",
+      "meaning": "n. 机械臂",
+      "examples": [
+        { "en": "A robot-arm will grab the telescope.", "zh": "机械臂将抓住望远镜。" }
+      ]
+    },
+    {
+      "word": "grab",
+      "phonetic": "/ɡræb/",
+      "meaning": "v. 抓住",
+      "examples": [
+        { "en": "The robot-arm will grab the telescope.", "zh": "机械臂将抓住望远镜。" }
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪə(r)/",
+      "meaning": "n. 大气层",
+      "examples": [
+        { "en": "The Hubble is above the earth's atmosphere.", "zh": "哈勃望远镜位于地球大气层之上。" }
+      ]
+    },
+    {
+      "word": "distant",
+      "phonetic": "/ˈdɪstənt/",
+      "meaning": "adj. 遥远的",
+      "examples": [
+        { "en": "It will send pictures of distant galaxies.", "zh": "它将发回遥远星系的照片。" }
+      ]
+    },
+    {
+      "word": "galaxy",
+      "phonetic": "/ˈɡæləksi/",
+      "meaning": "n. 星系",
+      "examples": [
+        { "en": "The Hubble shows us distant galaxies.", "zh": "哈勃望远镜让我们看到遥远的星系。" }
+      ]
+    },
+    {
+      "word": "universe",
+      "phonetic": "/ˈjuːnɪvɜːs/",
+      "meaning": "n. 宇宙",
+      "examples": [
+        { "en": "The Hubble will tell us about the universe.", "zh": "哈勃望远镜将告诉我们宇宙的情况。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The pictures it sent us were very disappointing because its main mirror was faulty.",
+      "zh": "它发回的照片令人非常失望，因为它的主镜有毛病。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "pictures", "roles": ["主语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "sent", "roles": ["谓语"] },
+        { "text": "us", "roles": ["宾语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "disappointing", "roles": ["表语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "its", "roles": ["定语"] },
+        { "text": "main", "roles": ["定语"] },
+        { "text": "mirror", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "faulty", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "zh": "奋进号航天飞机将把宇航员送到哈勃望远镜那里。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "shuttle", "roles": ["定语"] },
+        { "text": "Endeavour", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "taking", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "astronauts", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Hubble", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "zh": "奋进号上的机械臂将抓住望远镜，在宇航员进行必要的修理时固定住它。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "robot-arm", "roles": ["主语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Endeavour", "roles": ["定语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "grab", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "telescope", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "hold", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "while", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "astronauts", "roles": ["主语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "necessary", "roles": ["定语"] },
+        { "text": "repairs", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "zh": "哈勃望远镜将告诉我们大量关于宇宙年龄和规模的信息。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Hubble", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "us", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "great", "roles": ["定语"] },
+        { "text": "deal", "roles": ["宾语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "age", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "size", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "universe", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Right from the start there was trouble with the Hubble.",
+      "zh": "从一开始哈勃望远镜就出了问题。",
+      "analysis": [
+        { "text": "Right", "roles": ["状语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "start", "roles": ["状语"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "trouble", "roles": ["主语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Hubble", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.", "zh": "哈勃望远镜于1990年4月20日由美国宇航局发射升空，耗资十多亿美元。" },
+    { "en": "Right from the start there was trouble with the Hubble.", "zh": "从一开始哈勃望远镜就出了问题。" },
+    { "en": "The pictures it sent us were very disappointing because its main mirror was faulty.", "zh": "它发回的照片令人非常失望，因为它的主镜有毛病。" },
+    { "en": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.", "zh": "美国宇航局现在准备修复这架望远镜，所以不久将派四名宇航员上去修理它。" },
+    { "en": "The shuttle Endeavour will be taking the astronauts to the Hubble.", "zh": "奋进号航天飞机将把宇航员送到哈勃望远镜那里。" },
+    { "en": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.", "zh": "奋进号上的机械臂将抓住望远镜，在宇航员进行必要的修理时固定住它。" },
+    { "en": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.", "zh": "当然，哈勃望远镜位于地球大气层之上，所以不久就会给我们发回我们所见过的恒星和遥远星系的最清晰的照片。" },
+    { "en": "The Hubble will tell us a great deal about the age and size of the universe.", "zh": "哈勃望远镜将告诉我们大量关于宇宙年龄和规模的信息。" },
+    { "en": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.", "zh": "等到你读到这篇文章时，哈勃望远镜敏锐的眼睛将已经给我们发回成千上万张精彩的照片。" }
+  ]
+}

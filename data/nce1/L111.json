@@ -1,0 +1,212 @@
+{
+  "id": "L111",
+  "title": "Lesson 111 · The most expensive model",
+  "titleZh": "第111课 最昂贵的型号",
+  "words": [
+    {
+      "word": "model",
+      "phonetic": "/ˈmɒdl/",
+      "meaning": "n. 型号，模型",
+      "examples": [
+        { "en": "It's the most expensive model in the shop.", "zh": "它是店里最贵的型号。" }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meaning": "n. 电视机",
+      "examples": [
+        { "en": "I like this television very much.", "zh": "我非常喜欢这台电视机。" }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meaning": "v. 花费",
+      "examples": [
+        { "en": "How much does it cost?", "zh": "它要多少钱？" },
+        { "en": "It costs five hundred pounds.", "zh": "它要五百英镑。" }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meaning": "adj. 昂贵的",
+      "examples": [
+        { "en": "That's too expensive for us.", "zh": "那对我们来说太贵了。" }
+      ]
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "v. 付得起，买得起",
+      "examples": [
+        { "en": "We can't afford all that money.", "zh": "我们付不起那么多钱。" }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meaning": "n. 钱",
+      "examples": [
+        { "en": "We can't afford all that money.", "zh": "我们付不起那么多钱。" }
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "meaning": "n. 定金，押金",
+      "examples": [
+        { "en": "You can pay a deposit of thirty pounds.", "zh": "您可以先付三十英镑定金。" }
+      ]
+    },
+    {
+      "word": "instalment",
+      "phonetic": "/ɪnˈstɔːlmənt/",
+      "meaning": "n. 分期付款",
+      "examples": [
+        { "en": "Can we buy it on instalments?", "zh": "我们可以分期付款买它吗？" }
+      ]
+    },
+    {
+      "word": "price",
+      "phonetic": "/praɪs/",
+      "meaning": "n. 价格",
+      "examples": [
+        { "en": "I don't like the price.", "zh": "我不喜欢这个价格。" }
+      ]
+    },
+    {
+      "word": "worth",
+      "phonetic": "/wɜːθ/",
+      "meaning": "adj. 值得的",
+      "examples": [
+        { "en": "It's worth the money.", "zh": "它值这个钱。" }
+      ]
+    },
+    {
+      "word": "millionaire",
+      "phonetic": "/ˌmɪljəˈneə(r)/",
+      "meaning": "n. 百万富翁",
+      "examples": [
+        { "en": "Millionaires don't buy things on instalments!", "zh": "百万富翁是不会分期付款买东西的！" }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic": "/dɪə(r)/",
+      "meaning": "n. 亲爱的（称呼）",
+      "examples": [
+        { "en": "Do you like it, dear?", "zh": "你喜欢它吗，亲爱的？" }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meaning": "n. 英镑",
+      "examples": [
+        { "en": "It costs five hundred pounds.", "zh": "它要五百英镑。" }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtnli/",
+      "meaning": "adv. 当然，的确",
+      "examples": [
+        { "en": "I certainly do.", "zh": "我当然喜欢。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How much does it cost?",
+      "zh": "它要多少钱？",
+      "analysis": [
+        { "text": "How", "roles": ["状语"] },
+        { "text": "much", "roles": ["状语"] },
+        { "text": "does", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "cost", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "It's the most expensive model in the shop.",
+      "zh": "它是店里最贵的型号。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "expensive", "roles": ["定语"] },
+        { "text": "model", "roles": ["表语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "That's too expensive for us.",
+      "zh": "那对我们来说太贵了。",
+      "analysis": [
+        { "text": "That's", "roles": ["主语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "expensive", "roles": ["表语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "us", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We can't afford all that money.",
+      "zh": "我们付不起那么多钱。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "afford", "roles": ["谓语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Can we buy it on instalments?",
+      "zh": "我们可以分期付款买它吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "buy", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "instalments", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The other model's more expensive, but it's worth the money.",
+      "zh": "另一个型号更贵，但它值这个钱。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "other", "roles": ["定语"] },
+        { "text": "model's", "roles": ["主语"] },
+        { "text": "more", "roles": ["状语"] },
+        { "text": "expensive", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it's", "roles": ["主语"] },
+        { "text": "worth", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I like this television very much.", "zh": "我非常喜欢这台电视机。" },
+    { "en": "How much does it cost?", "zh": "它要多少钱？" },
+    { "en": "It's the most expensive model in the shop.", "zh": "它是店里最贵的型号。" },
+    { "en": "It costs five hundred pounds.", "zh": "它要五百英镑。" },
+    { "en": "That's too expensive for us.", "zh": "那对我们来说太贵了。" },
+    { "en": "We can't afford all that money.", "zh": "我们付不起那么多钱。" },
+    { "en": "This model's less expensive than that one.", "zh": "这个型号比那个便宜。" },
+    { "en": "But, of course, it's not as good as the expensive one.", "zh": "但它当然不如贵的那个好。" },
+    { "en": "The other model's more expensive, but it's worth the money.", "zh": "另一个型号更贵，但它值这个钱。" },
+    { "en": "Can we buy it on instalments?", "zh": "我们可以分期付款买它吗？" },
+    { "en": "You can pay a deposit of thirty pounds, and then fourteen pounds a month for three years.", "zh": "您可以先付三十英镑定金，然后每月十四英镑，付三年。" },
+    { "en": "Millionaires don't buy things on instalments!", "zh": "百万富翁是不会分期付款买东西的！" }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "L015",
+  "title": "Lesson 15 · Good news",
+  "titleZh": "第15课 佳音",
+  "words": [
+    {
+      "word": "secretary",
+      "phonetic": "/ˈsekrətri/",
+      "meaning": "n. 秘书",
+      "examples": [
+        { "en": "The secretary told me that Mr Harmsworth would see me.", "zh": "秘书告诉我说哈姆斯沃思先生要见我。" }
+      ]
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnɜːvəs/",
+      "meaning": "adj. 紧张的",
+      "examples": [
+        { "en": "I felt very nervous.", "zh": "我感到非常紧张。" }
+      ]
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "v. 负担得起",
+      "examples": [
+        { "en": "The firm could not afford to pay such large salaries.", "zh": "公司支付不起这么庞大的工资开支。" }
+      ]
+    },
+    {
+      "word": "weak",
+      "phonetic": "/wiːk/",
+      "meaning": "adj. 弱的，无力的",
+      "examples": [
+        { "en": "I said in a weak voice.", "zh": "我用微弱的声音说。" }
+      ]
+    },
+    {
+      "word": "interrupt",
+      "phonetic": "/ˌɪntəˈrʌpt/",
+      "meaning": "v. 插话，打断",
+      "examples": [
+        { "en": "He said, 'Don't interrupt!'", "zh": "他说：“不要打断我的话！”" }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "v. 微笑",
+      "examples": [
+        { "en": "Then he smiled.", "zh": "然后他微笑了一下。" }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meaning": "adj. 额外的",
+      "examples": [
+        { "en": "I would receive an extra thousand pounds a year.", "zh": "我每年将得到一千英镑的额外收入。" }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic": "/ˈbɪznəs/",
+      "meaning": "n. 生意，业务",
+      "examples": [
+        { "en": "He said that business was very bad.", "zh": "他说生意非常不景气。" }
+      ]
+    },
+    {
+      "word": "salary",
+      "phonetic": "/ˈsæləri/",
+      "meaning": "n. 工资",
+      "examples": [
+        { "en": "The firm could not afford to pay such large salaries.", "zh": "公司支付不起这么庞大的工资开支。" }
+      ]
+    },
+    {
+      "word": "Harmsworth",
+      "phonetic": "/ˈhɑːmzwɜːθ/",
+      "meaning": "n. 哈姆斯沃思（人名）",
+      "examples": [
+        { "en": "Mr Harmsworth would see me.", "zh": "哈姆斯沃思先生要见我。" }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə/",
+      "meaning": "v. 进入",
+      "examples": [
+        { "en": "He did not look up from his desk when I entered.", "zh": "我进去的时候，他连头也没抬。" }
+      ]
+    },
+    {
+      "word": "voice",
+      "phonetic": "/vɔɪs/",
+      "meaning": "n. 声音",
+      "examples": [
+        { "en": "I said in a weak voice.", "zh": "我用微弱的声音说。" }
+      ]
+    },
+    {
+      "word": "thousand",
+      "phonetic": "/ˈθaʊznd/",
+      "meaning": "num. 千",
+      "examples": [
+        { "en": "I would receive an extra thousand pounds a year.", "zh": "我每年将得到一千英镑的额外收入。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "Twenty people had already left.", "zh": "有二十个人已经离去。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The secretary told me that Mr Harmsworth would see me.",
+      "zh": "秘书告诉我说哈姆斯沃思先生要见我。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "secretary", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Harmsworth", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I felt very nervous when I went into his office.",
+      "zh": "我走进他的办公室，感到非常紧张。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "felt", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "nervous", "roles": ["表语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "office", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He told me that the firm could not afford to pay such large salaries.",
+      "zh": "他还告诉我，公司支付不起这么庞大的工资开支。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "firm", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "afford", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "pay", "roles": ["谓语"] },
+        { "text": "such", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "salaries", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Twenty people had already left.",
+      "zh": "有二十个人已经离去。",
+      "analysis": [
+        { "text": "Twenty", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "left", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Then he smiled and told me I would receive an extra thousand pounds a year!",
+      "zh": "然后他微笑了一下，告诉我说，我每年将得到一千英镑的额外收入！",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "smiled", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "receive", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "extra", "roles": ["定语"] },
+        { "text": "thousand", "roles": ["定语"] },
+        { "text": "pounds", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The secretary told me that Mr Harmsworth would see me.", "zh": "秘书告诉我说哈姆斯沃思先生要见我。" },
+    { "en": "I felt very nervous when I went into his office.", "zh": "我走进他的办公室，感到非常紧张。" },
+    { "en": "He did not look up from his desk when I entered.", "zh": "我进去的时候，他连头也没抬。" },
+    { "en": "After I had sat down, he said that business was very bad.", "zh": "待我坐下后，他说生意非常不景气。" },
+    { "en": "He told me that the firm could not afford to pay such large salaries.", "zh": "他还告诉我，公司支付不起这么庞大的工资开支。" },
+    { "en": "Twenty people had already left.", "zh": "有二十个人已经离去。" },
+    { "en": "I knew that my turn had come.", "zh": "我知道这次该轮到我了。" },
+    { "en": "I said in a weak voice, 'Mr Harmsworth.'", "zh": "我用微弱的声音说：“哈姆斯沃思先生。”" },
+    { "en": "He said, 'Don't interrupt!'", "zh": "他说：“不要打断我的话！”" },
+    { "en": "Then he smiled and told me I would receive an extra thousand pounds a year!", "zh": "然后他微笑了一下，告诉我说，我每年将得到一千英镑的额外收入！" }
+  ]
+}

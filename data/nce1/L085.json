@@ -1,0 +1,205 @@
+{
+  "id": "L085",
+  "title": "Lesson 85 · Paris in the spring",
+  "titleZh": "第85课 巴黎之春",
+  "words": [
+    {
+      "word": "cinema",
+      "phonetic": "/ˈsɪnəmə/",
+      "meaning": "n. 电影院",
+      "examples": [
+        { "en": "Have you just been to the cinema?", "zh": "你刚去过电影院吗？" },
+        { "en": "We went to the cinema last night.", "zh": "昨晚我们去看电影了。" }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "meaning": "n. 电影",
+      "examples": [
+        { "en": "It's an old film, but it's very good.", "zh": "这是部老片子，但很好。" },
+        { "en": "I saw the film on television.", "zh": "我在电视上看过这部电影。" }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 漂亮的，美丽的",
+      "examples": [
+        { "en": "Paris is a beautiful city.", "zh": "巴黎是座美丽的城市。" },
+        { "en": "What a beautiful garden!", "zh": "多漂亮的花园啊！" }
+      ]
+    },
+    {
+      "word": "city",
+      "phonetic": "/ˈsɪti/",
+      "meaning": "n. 城市",
+      "examples": [
+        { "en": "Paris is a beautiful city.", "zh": "巴黎是座美丽的城市。" },
+        { "en": "London is a big city.", "zh": "伦敦是一座大城市。" }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnevə(r)/",
+      "meaning": "adv. 从来没有",
+      "examples": [
+        { "en": "I've never been there.", "zh": "我从未去过那里。" },
+        { "en": "She never goes to the cinema.", "zh": "她从来不去看电影。" }
+      ]
+    },
+    {
+      "word": "ever",
+      "phonetic": "/ˈevə(r)/",
+      "meaning": "adv. 在任何时候，曾经",
+      "examples": [
+        { "en": "Have you ever been there, Ken?", "zh": "肯，你去过那儿吗？" },
+        { "en": "Have you ever seen this film?", "zh": "你看过这部电影吗？" }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meaning": "n. 春天",
+      "examples": [
+        { "en": "It was spring, but the weather was awful.", "zh": "那时是春天，但天气糟透了。" },
+        { "en": "Paris in the spring is beautiful.", "zh": "春天的巴黎很美丽。" }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "n. 天气",
+      "examples": [
+        { "en": "It was spring, but the weather was awful.", "zh": "那时是春天，但天气糟透了。" },
+        { "en": "What's the weather like today?", "zh": "今天天气怎么样？" }
+      ]
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meaning": "adj. 糟糕的，让人讨厌的",
+      "examples": [
+        { "en": "The weather was awful.", "zh": "天气糟透了。" },
+        { "en": "That's an awful film.", "zh": "那是一部糟糕的电影。" }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meaning": "v. 下雨",
+      "examples": [
+        { "en": "It rained all the time.", "zh": "天总是下雨。" },
+        { "en": "It is raining outside.", "zh": "外面正在下雨。" }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meaning": "n. 电视",
+      "examples": [
+        { "en": "I saw it on television last year.", "zh": "我去年在电视上看的。" },
+        { "en": "We watch television in the evening.", "zh": "我们晚上看电视。" }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic": "/dɪə(r)/",
+      "meaning": "adj. 亲爱的；昂贵的",
+      "examples": [
+        { "en": "Just like dear old London!", "zh": "就像伦敦一样！" },
+        { "en": "This coat is too dear.", "zh": "这件外套太贵了。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Have you just been to the cinema?",
+      "zh": "你刚去过电影院吗？",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "cinema", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I've already seen it.",
+      "zh": "我已经看过了。",
+      "analysis": [
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "seen", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It's an old film, but it's very good.",
+      "zh": "这是部老片子，但很好。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "film", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it's", "roles": ["主语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "good", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Paris is a beautiful city.",
+      "zh": "巴黎是座美丽的城市。",
+      "analysis": [
+        { "text": "Paris", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "beautiful", "roles": ["定语"] },
+        { "text": "city", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Have you ever been there, Ken?",
+      "zh": "肯，你去过那儿吗？",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "Ken", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "It was spring, but the weather was awful.",
+      "zh": "那时是春天，但天气糟透了。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "spring", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "weather", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "awful", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Hello, Ken.", "zh": "你好，肯。" },
+    { "en": "Have you just been to the cinema?", "zh": "你刚去过电影院吗？" },
+    { "en": "Yes, I have.", "zh": "是的，我去过。" },
+    { "en": "What's on?", "zh": "上映什么片子？" },
+    { "en": "'Paris in the spring'.", "zh": "《巴黎之春》。" },
+    { "en": "I've already seen it.", "zh": "我已经看过了。" },
+    { "en": "It's an old film, but it's very good.", "zh": "这是部老片子，但很好。" },
+    { "en": "Paris is a beautiful city.", "zh": "巴黎是座美丽的城市。" },
+    { "en": "Have you ever been there, Ken?", "zh": "肯，你去过那儿吗？" },
+    { "en": "It was spring, but the weather was awful.", "zh": "那时是春天，但天气糟透了。" },
+    { "en": "It rained all the time.", "zh": "天总是下雨。" },
+    { "en": "Just like dear old London!", "zh": "就像伦敦一样！" }
+  ]
+}

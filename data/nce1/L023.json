@@ -1,0 +1,155 @@
+{
+  "id": "L023",
+  "title": "Lesson 23 · Which glasses?",
+  "titleZh": "第23课 哪只杯子？",
+  "words": [
+    {
+      "word": "glass",
+      "phonetic": "/ɡlɑːs/",
+      "meaning": "n. 玻璃杯",
+      "examples": [
+        { "en": "Give me some glasses please, Jane.", "zh": "请给我几只玻璃杯，简。" },
+        { "en": "These glasses are clean.", "zh": "这些玻璃杯是干净的。" }
+      ]
+    },
+    {
+      "word": "some",
+      "phonetic": "/sʌm/",
+      "meaning": "pron. 一些",
+      "examples": [
+        { "en": "Give me some glasses, please.", "zh": "请给我几只玻璃杯。" }
+      ]
+    },
+    {
+      "word": "which",
+      "phonetic": "/wɪtʃ/",
+      "meaning": "pron. 哪一个，哪一些",
+      "examples": [
+        { "en": "Which glasses?", "zh": "哪几只玻璃杯？" }
+      ]
+    },
+    {
+      "word": "those",
+      "phonetic": "/ðəʊz/",
+      "meaning": "pron. 那些",
+      "examples": [
+        { "en": "No, not those.", "zh": "不，不是那些。" }
+      ]
+    },
+    {
+      "word": "one",
+      "phonetic": "/wʌn/",
+      "meaning": "pron. 一个（指代前面提到的人或物）",
+      "examples": [
+        { "en": "The ones on the shelf.", "zh": "架子上的那些。" }
+      ]
+    },
+    {
+      "word": "shelf",
+      "phonetic": "/ʃelf/",
+      "meaning": "n. 架子，搁板",
+      "examples": [
+        { "en": "The glasses are on the shelf.", "zh": "玻璃杯在架子上。" }
+      ]
+    },
+    {
+      "word": "on",
+      "phonetic": "/ɒn/",
+      "meaning": "prep. 在……上面",
+      "examples": [
+        { "en": "The glasses are on the shelf.", "zh": "玻璃杯在架子上。" },
+        { "en": "The book is on the table.", "zh": "书在桌子上。" }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meaning": "int. 请",
+      "examples": [
+        { "en": "Yes, please.", "zh": "好的，请。" }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə(r)/",
+      "meaning": "adv. 这里",
+      "examples": [
+        { "en": "Here you are.", "zh": "给你。" }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "meaning": "int. 谢谢",
+      "examples": [
+        { "en": "Thanks.", "zh": "谢谢。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Which glasses?",
+      "zh": "哪几只玻璃杯？",
+      "analysis": [
+        { "text": "Which", "roles": ["定语"] },
+        { "text": "glasses", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "These glasses?",
+      "zh": "这几只吗？",
+      "analysis": [
+        { "text": "These", "roles": ["定语"] },
+        { "text": "glasses", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "No, not those.",
+      "zh": "不，不是那些。",
+      "analysis": [
+        { "text": "No", "roles": ["感叹词"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "those", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The ones on the shelf.",
+      "zh": "架子上的那些。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "ones", "roles": ["宾语"] },
+        { "text": "on", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shelf", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Yes, please.",
+      "zh": "好的，请。",
+      "analysis": [
+        { "text": "Yes", "roles": ["感叹词"] },
+        { "text": "please", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Here you are.",
+      "zh": "给你。",
+      "analysis": [
+        { "text": "Here", "roles": ["状语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Give me some glasses please, Jane.", "zh": "请给我几只玻璃杯，简。" },
+    { "en": "Which glasses?", "zh": "哪几只玻璃杯？" },
+    { "en": "These glasses?", "zh": "这几只吗？" },
+    { "en": "No, not those.", "zh": "不，不是那些。" },
+    { "en": "The ones on the shelf.", "zh": "架子上的那些。" },
+    { "en": "These?", "zh": "这些吗？" },
+    { "en": "Yes, please.", "zh": "好的，请。" },
+    { "en": "Here you are.", "zh": "给你。" },
+    { "en": "Thanks.", "zh": "谢谢。" }
+  ]
+}

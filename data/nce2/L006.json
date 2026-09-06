@@ -1,0 +1,206 @@
+{
+  "id": "L006",
+  "title": "Lesson 6 · Percy Buttons",
+  "titleZh": "第6课 珀西·巴顿斯",
+  "words": [
+    {
+      "word": "beggar",
+      "phonetic": "/ˈbeɡə/",
+      "meaning": "n. 乞丐",
+      "examples": [
+        { "en": "Yesterday a beggar knocked at my door.", "zh": "昨天，一个乞丐来敲我的门。" }
+      ]
+    },
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meaning": "v. 敲",
+      "examples": [
+        { "en": "A beggar knocked at my door.", "zh": "一个乞丐来敲我的门。" }
+      ]
+    },
+    {
+      "word": "meal",
+      "phonetic": "/miːl/",
+      "meaning": "n. 一餐，一顿饭",
+      "examples": [
+        { "en": "I gave him a meal.", "zh": "我给了他一顿饭吃。" }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic": "/tʃiːz/",
+      "meaning": "n. 奶酪",
+      "examples": [
+        { "en": "He put a piece of cheese in his pocket.", "zh": "他把一块奶酪装进衣袋里。" }
+      ]
+    },
+    {
+      "word": "pocket",
+      "phonetic": "/ˈpɒkɪt/",
+      "meaning": "n. 口袋",
+      "examples": [
+        { "en": "He put a piece of cheese in his pocket.", "zh": "他把一块奶酪装进衣袋里。" }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə/",
+      "meaning": "n. 邻居",
+      "examples": [
+        { "en": "Later a neighbour told me about him.", "zh": "后来，一位邻居告诉了我他的情况。" }
+      ]
+    },
+    {
+      "word": "everybody",
+      "phonetic": "/ˈevribɒdi/",
+      "meaning": "pron. 人人，每个人",
+      "examples": [
+        { "en": "Everybody knows him.", "zh": "人人都认识他。" }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meaning": "v. 搬家，移动",
+      "examples": [
+        { "en": "I have just moved to a house in Bridge Street.", "zh": "我刚刚搬进了大桥街的一所房子。" }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə/",
+      "meaning": "n. 啤酒",
+      "examples": [
+        { "en": "He asked me for a glass of beer.", "zh": "他向我要一杯啤酒。" }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "n. 桥",
+      "examples": [
+        { "en": "I have just moved to a house in Bridge Street.", "zh": "我刚刚搬进了大桥街的一所房子。" }
+      ]
+    },
+    {
+      "word": "street",
+      "phonetic": "/striːt/",
+      "meaning": "n. 街道",
+      "examples": [
+        { "en": "He calls at every house in the street.", "zh": "他拜访这条街上的每户人家。" }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic": "/kɔːl/",
+      "meaning": "v. 拜访，打电话",
+      "examples": [
+        { "en": "He calls at every house once a month.", "zh": "他每月拜访每户人家一次。" }
+      ]
+    },
+    {
+      "word": "once",
+      "phonetic": "/wʌns/",
+      "meaning": "adv. 一次",
+      "examples": [
+        { "en": "He calls at every house once a month.", "zh": "他每月拜访每户人家一次。" }
+      ]
+    },
+    {
+      "word": "Percy Buttons",
+      "phonetic": "/ˈpɜːsi ˈbʌtnz/",
+      "meaning": "n. 珀西·巴顿斯（人名）",
+      "examples": [
+        { "en": "His name is Percy Buttons.", "zh": "他的名字叫珀西·巴顿斯。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Yesterday a beggar knocked at my door.",
+      "zh": "昨天，一个乞丐来敲我的门。",
+      "analysis": [
+        { "text": "Yesterday", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "beggar", "roles": ["主语"] },
+        { "text": "knocked", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "door", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He asked me for a meal and a glass of beer.",
+      "zh": "他向我要一顿饭和一杯啤酒。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "meal", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "glass", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "beer", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Then he put a piece of cheese in his pocket and went away.",
+      "zh": "然后他把一块奶酪装进衣袋里走了。",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "piece", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "cheese", "roles": ["定语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "pocket", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "away", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Later a neighbour told me about him.",
+      "zh": "后来，一位邻居告诉了我他的情况。",
+      "analysis": [
+        { "text": "Later", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "neighbour", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "him", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "His name is Percy Buttons.",
+      "zh": "他的名字叫珀西·巴顿斯。",
+      "analysis": [
+        { "text": "His", "roles": ["定语"] },
+        { "text": "name", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "Percy", "roles": ["定语"] },
+        { "text": "Buttons", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I have just moved to a house in Bridge Street.", "zh": "我刚刚搬进了大桥街的一所房子。" },
+    { "en": "Yesterday a beggar knocked at my door.", "zh": "昨天，一个乞丐来敲我的门。" },
+    { "en": "He asked me for a meal and a glass of beer.", "zh": "他向我要一顿饭和一杯啤酒。" },
+    { "en": "In return for this, the beggar stood on his head and sang songs.", "zh": "作为回报，那乞丐头顶地倒立起来，嘴里还唱着歌。" },
+    { "en": "I gave him a meal.", "zh": "我给了他一顿饭吃。" },
+    { "en": "He ate the food and drank the beer.", "zh": "他把食物吃完，又喝了酒。" },
+    { "en": "Then he put a piece of cheese in his pocket and went away.", "zh": "然后他把一块奶酪装进衣袋里走了。" },
+    { "en": "Later a neighbour told me about him.", "zh": "后来，一位邻居告诉了我他的情况。" },
+    { "en": "His name is Percy Buttons.", "zh": "他的名字叫珀西·巴顿斯。" },
+    { "en": "He calls at every house in the street once a month and always asks for a meal and a glass of beer.", "zh": "他每月对这条街上的每户人家光顾一次，总是请求给他一顿饭和一杯啤酒。" }
+  ]
+}

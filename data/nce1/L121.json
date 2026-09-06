@@ -1,0 +1,197 @@
+{
+  "id": "L121",
+  "title": "Lesson 121 · The man in a hat",
+  "titleZh": "第121课 戴帽子的男士",
+  "words": [
+    {
+      "word": "dictionary",
+      "phonetic": "/ˈdɪkʃənri/",
+      "meaning": "n. 词典",
+      "examples": [
+        { "en": "I bought two expensive dictionaries here half an hour ago.", "zh": "半小时前我在这里买了两本很贵的词典。" }
+      ]
+    },
+    {
+      "word": "serve",
+      "phonetic": "/sɜːv/",
+      "meaning": "v. 接待（顾客），服务",
+      "examples": [
+        { "en": "Who served you, sir?", "zh": "先生，谁接待的您？" },
+        { "en": "The man who I served was wearing a hat.", "zh": "我接待的那个人戴着一顶帽子。" }
+      ]
+    },
+    {
+      "word": "counter",
+      "phonetic": "/ˈkaʊntə(r)/",
+      "meaning": "n. 柜台",
+      "examples": [
+        { "en": "The lady who is standing behind the counter.", "zh": "站在柜台后面的那位女士。" }
+      ]
+    },
+    {
+      "word": "gentleman",
+      "phonetic": "/ˈdʒentlmən/",
+      "meaning": "n. 先生，绅士",
+      "examples": [
+        { "en": "Did you serve this gentleman half an hour ago, Caroline?", "zh": "卡罗琳，半小时前你接待过这位先生吗？" }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meaning": "v. 记得",
+      "examples": [
+        { "en": "I can't remember.", "zh": "我记不起来了。" }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "/weə(r)/",
+      "meaning": "v. 穿，戴",
+      "examples": [
+        { "en": "The man who I served was wearing a hat.", "zh": "我接待的那个人戴着一顶帽子。" }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meaning": "n. 帽子",
+      "examples": [
+        { "en": "Have you got a hat, sir?", "zh": "先生，您有帽子吗？" }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meaning": "v. 认出",
+      "examples": [
+        { "en": "Yes. I recognize him now.", "zh": "是的，现在我认出他来了。" }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fəˈɡet/",
+      "meaning": "v. 忘记",
+      "examples": [
+        { "en": "I forgot to take them with me.", "zh": "我忘了把它们带走。" }
+      ]
+    },
+    {
+      "word": "stand",
+      "phonetic": "/stænd/",
+      "meaning": "v. 站立",
+      "examples": [
+        { "en": "The lady is standing behind the counter.", "zh": "那位女士站在柜台后面。" }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meaning": "prep. 在……后面",
+      "examples": [
+        { "en": "The lady who is standing behind the counter.", "zh": "站在柜台后面的那位女士。" }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meaning": "v. 买",
+      "examples": [
+        { "en": "Which books did you buy?", "zh": "您买的是哪几本书？" }
+      ]
+    },
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "adv. 以前",
+      "examples": [
+        { "en": "I bought two expensive dictionaries here half an hour ago.", "zh": "半小时前我在这里买了两本很贵的词典。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Who served you, sir?",
+      "zh": "先生，谁接待的您？",
+      "analysis": [
+        { "text": "Who", "roles": ["主语"] },
+        { "text": "served", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "sir", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Which books did you buy?",
+      "zh": "您买的是哪几本书？",
+      "analysis": [
+        { "text": "Which", "roles": ["定语"] },
+        { "text": "books", "roles": ["宾语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "buy", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I can't remember.",
+      "zh": "我记不起来了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "remember", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "The man who I served was wearing a hat.",
+      "zh": "我接待的那个人戴着一顶帽子。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "who", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "served", "roles": ["谓语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "wearing", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hat", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Have you got a hat, sir?",
+      "zh": "先生，您有帽子吗？",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hat", "roles": ["宾语"] },
+        { "text": "sir", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Would you put it on, please?",
+      "zh": "请您把它戴上好吗？",
+      "analysis": [
+        { "text": "Would", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "please", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.", "zh": "半小时前我在这里买了两本很贵的词典，但我忘了带走。" },
+    { "en": "Who served you, sir?", "zh": "先生，谁接待的您？" },
+    { "en": "The lady who is standing behind the counter.", "zh": "站在柜台后面的那位女士。" },
+    { "en": "Which books did you buy?", "zh": "您买的是哪几本书？" },
+    { "en": "The books which are on the counter.", "zh": "柜台上的那几本。" },
+    { "en": "Did you serve this gentleman half an hour ago, Caroline?", "zh": "卡罗琳，半小时前你接待过这位先生吗？" },
+    { "en": "I can't remember.", "zh": "我记不起来了。" },
+    { "en": "The man who I served was wearing a hat.", "zh": "我接待的那个人戴着一顶帽子。" },
+    { "en": "Have you got a hat, sir?", "zh": "先生，您有帽子吗？" },
+    { "en": "Would you put it on, please?", "zh": "请您把它戴上好吗？" },
+    { "en": "Is this the man that you served, Caroline?", "zh": "卡罗琳，这就是你接待的那个人吗？" },
+    { "en": "Yes. I recognize him now.", "zh": "是的，现在我认出他来了。" }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "L067",
+  "title": "Lesson 67 · Volcanoes",
+  "titleZh": "第67课 火山",
+  "words": [
+    {
+      "word": "volcano",
+      "phonetic": "/vɒlˈkeɪnəʊ/",
+      "meaning": "n. 火山",
+      "examples": [
+        { "en": "The volcano is still active.", "zh": "这座火山仍然活跃。" }
+      ]
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "adj. 活跃的，活动的",
+      "examples": [
+        { "en": "Kituro is an active volcano.", "zh": "基图罗是一座活火山。" }
+      ]
+    },
+    {
+      "word": "scientist",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "meaning": "n. 科学家",
+      "examples": [
+        { "en": "Tazieff was a famous scientist.", "zh": "塔捷耶夫是一位著名的科学家。" }
+      ]
+    },
+    {
+      "word": "observe",
+      "phonetic": "/əbˈzɜːv/",
+      "meaning": "v. 观察，观测",
+      "examples": [
+        { "en": "He went to observe the new volcano.", "zh": "他去观察那座新火山。" }
+      ]
+    },
+    {
+      "word": "camp",
+      "phonetic": "/kæmp/",
+      "meaning": "n. 帐篷，营地",
+      "examples": [
+        { "en": "He set up his camp at the foot of the volcano.", "zh": "他在火山脚下搭起了帐篷。" }
+      ]
+    },
+    {
+      "word": "foot",
+      "phonetic": "/fʊt/",
+      "meaning": "n. 脚；底部",
+      "examples": [
+        { "en": "There is a village at the foot of the hill.", "zh": "山脚下有一个村庄。" }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "v. 攀登",
+      "examples": [
+        { "en": "They climbed to the top of the mountain.", "zh": "他们爬到了山顶。" }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meaning": "n. 照片",
+      "examples": [
+        { "en": "He took many photographs of the volcano.", "zh": "他拍了许多火山的照片。" }
+      ]
+    },
+    {
+      "word": "stream",
+      "phonetic": "/striːm/",
+      "meaning": "n. 小溪，流",
+      "examples": [
+        { "en": "A stream of lava was moving towards him.", "zh": "一股岩浆朝他流过来。" }
+      ]
+    },
+    {
+      "word": "liquid",
+      "phonetic": "/ˈlɪkwɪd/",
+      "meaning": "adj. 液态的",
+      "examples": [
+        { "en": "Liquid rock flowed from the crater.", "zh": "岩浆从火山口流出。" }
+      ]
+    },
+    {
+      "word": "rock",
+      "phonetic": "/rɒk/",
+      "meaning": "n. 岩石",
+      "examples": [
+        { "en": "The volcano threw out hot rocks.", "zh": "火山喷出炽热的岩石。" }
+      ]
+    },
+    {
+      "word": "surround",
+      "phonetic": "/səˈraʊnd/",
+      "meaning": "v. 包围",
+      "examples": [
+        { "en": "The lava threatened to surround him.", "zh": "岩浆眼看要把他包围。" }
+      ]
+    },
+    {
+      "word": "escape",
+      "phonetic": "/ɪˈskeɪp/",
+      "meaning": "v. 逃跑，逃脱",
+      "examples": [
+        { "en": "He escaped just in time.", "zh": "他及时逃脱了。" }
+      ]
+    },
+    {
+      "word": "crater",
+      "phonetic": "/ˈkreɪtə(r)/",
+      "meaning": "n. 火山口",
+      "examples": [
+        { "en": "He climbed into the crater of the volcano.", "zh": "他爬进了火山口。" }
+      ]
+    },
+    {
+      "word": "Haroun Tazieff",
+      "phonetic": "/həˈruːn tɑːˈzjef/",
+      "meaning": "n. 哈罗恩·塔捷耶夫（人名）",
+      "examples": [
+        { "en": "Haroun Tazieff spent his life studying volcanoes.", "zh": "哈罗恩·塔捷耶夫毕生研究火山。" }
+      ]
+    },
+    {
+      "word": "Lake Kivu",
+      "phonetic": "/leɪk ˈkiːvuː/",
+      "meaning": "n. 基伍湖（地名）",
+      "examples": [
+        { "en": "He went to Lake Kivu in the Congo.", "zh": "他去了刚果的基伍湖。" }
+      ]
+    },
+    {
+      "word": "Kituro",
+      "phonetic": "/kɪˈtʊərəʊ/",
+      "meaning": "n. 基图罗（火山名）",
+      "examples": [
+        { "en": "Kituro was a new volcano.", "zh": "基图罗是一座新火山。" }
+      ]
+    },
+    {
+      "word": "the Congo",
+      "phonetic": "/ðə ˈkɒŋɡəʊ/",
+      "meaning": "n. 刚果",
+      "examples": [
+        { "en": "Lake Kivu is in the Congo.", "zh": "基伍湖位于刚果。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Tazieff set up his camp at the foot of the volcano.",
+      "zh": "塔捷耶夫在火山脚下搭起了帐篷。",
+      "analysis": [
+        { "text": "Tazieff", "roles": ["主语"] },
+        { "text": "set", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "camp", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "foot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "volcano", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "One day, he noticed that a stream of liquid rock was moving towards him.",
+      "zh": "有一天，他注意到一股岩浆正朝他流过来。",
+      "analysis": [
+        { "text": "One", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "noticed", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "stream", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "liquid", "roles": ["定语"] },
+        { "text": "rock", "roles": ["宾语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "moving", "roles": ["谓语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "him", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He waited until the volcano became quiet, and then he climbed into the crater.",
+      "zh": "他一直等到火山平静下来，然后爬进了火山口。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "waited", "roles": ["谓语"] },
+        { "text": "until", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "volcano", "roles": ["主语"] },
+        { "text": "became", "roles": ["谓语"] },
+        { "text": "quiet", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "climbed", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "crater", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Tazieff could tell us more about active volcanoes than any man alive.",
+      "zh": "塔捷耶夫能告诉我们的活火山知识比任何在世的人都要多。",
+      "analysis": [
+        { "text": "Tazieff", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "us", "roles": ["宾语"] },
+        { "text": "more", "roles": ["宾语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "active", "roles": ["定语"] },
+        { "text": "volcanoes", "roles": ["宾语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "alive", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Haroun Tazieff, a Polish scientist, spent his life studying active volcanoes.", "zh": "哈罗恩·塔捷耶夫是一位波兰科学家，他毕生都在研究活火山。" },
+    { "en": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano called Kituro.", "zh": "1948年，他前往刚果的基伍湖，观察一座名叫基图罗的新火山。" },
+    { "en": "Tazieff set up his camp at the foot of the volcano.", "zh": "塔捷耶夫在火山脚下搭起了帐篷。" },
+    { "en": "He climbed the volcano day after day and took many photographs.", "zh": "他日复一日地攀登火山，拍了许多照片。" },
+    { "en": "One day, he noticed that a stream of liquid rock was moving towards him.", "zh": "有一天，他注意到一股岩浆正朝他流过来。" },
+    { "en": "The stream threatened to surround him, but Tazieff escaped just in time.", "zh": "岩浆眼看要把他包围，但塔捷耶夫及时逃脱了。" },
+    { "en": "He waited until the volcano became quiet, and then he climbed into the crater.", "zh": "他一直等到火山平静下来，然后爬进了火山口。" },
+    { "en": "Tazieff could tell us more about active volcanoes than any man alive.", "zh": "塔捷耶夫能告诉我们的活火山知识比任何在世的人都要多。" }
+  ]
+}

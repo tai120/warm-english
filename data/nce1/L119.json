@@ -1,0 +1,214 @@
+{
+  "id": "L119",
+  "title": "Lesson 119 · A true story",
+  "titleZh": "第119课 一个真实的故事",
+  "words": [
+    {
+      "word": "story",
+      "phonetic": "/ˈstɔːri/",
+      "meaning": "n. 故事",
+      "examples": [
+        { "en": "Do you like stories?", "zh": "你喜欢听故事吗？" },
+        { "en": "I want to tell you a true story.", "zh": "我要告诉你一个真实的故事。" }
+      ]
+    },
+    {
+      "word": "true",
+      "phonetic": "/truː/",
+      "meaning": "adj. 真实的",
+      "examples": [
+        { "en": "I want to tell you a true story.", "zh": "我要告诉你一个真实的故事。" }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "/ˈhæpən/",
+      "meaning": "v. 发生",
+      "examples": [
+        { "en": "It happened to a friend of mine a year ago.", "zh": "这是一年前发生在我的一位朋友身上的事。" }
+      ]
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meaning": "n. 贼，小偷",
+      "examples": [
+        { "en": "Two thieves climbed into his kitchen.", "zh": "两个小偷爬进了他的厨房。" }
+      ]
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "meaning": "n. 厨房",
+      "examples": [
+        { "en": "Two thieves climbed into his kitchen.", "zh": "两个小偷爬进了他的厨房。" }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "/dɑːk/",
+      "meaning": "adj. 黑暗的",
+      "examples": [
+        { "en": "It was very dark, so they turned on a torch.", "zh": "屋里很黑，于是他们打开了手电筒。" }
+      ]
+    },
+    {
+      "word": "torch",
+      "phonetic": "/tɔːtʃ/",
+      "meaning": "n. 手电筒",
+      "examples": [
+        { "en": "The thieves dropped the torch and ran away.", "zh": "小偷们扔下手电筒逃走了。" }
+      ]
+    },
+    {
+      "word": "voice",
+      "phonetic": "/vɔɪs/",
+      "meaning": "n. 声音",
+      "examples": [
+        { "en": "Suddenly, they heard a voice behind them.", "zh": "突然，他们听到身后有声音。" }
+      ]
+    },
+    {
+      "word": "parrot",
+      "phonetic": "/ˈpærət/",
+      "meaning": "n. 鹦鹉",
+      "examples": [
+        { "en": "George's parrot, Henry, was still there.", "zh": "乔治的鹦鹉亨利还在那里。" }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meaning": "n. 响声，噪音",
+      "examples": [
+        { "en": "George heard the noise and came downstairs quickly.", "zh": "乔治听到响声，赶紧下了楼。" }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "/ˌdaʊnˈsteəz/",
+      "meaning": "adv. 楼下",
+      "examples": [
+        { "en": "George came downstairs quickly.", "zh": "乔治赶紧下了楼。" }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meaning": "adv. 突然",
+      "examples": [
+        { "en": "Suddenly, they heard a voice behind them.", "zh": "突然，他们听到身后有声音。" }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə(r)/",
+      "meaning": "v. 进入",
+      "examples": [
+        { "en": "After they had entered the house, they went into the dining room.", "zh": "他们进入房子后，走进了饭厅。" }
+      ]
+    },
+    {
+      "word": "run",
+      "phonetic": "/rʌn/",
+      "meaning": "v. 跑",
+      "examples": [
+        { "en": "The thieves ran away as quickly as they could.", "zh": "小偷们飞快地逃走了。" }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "v. 微笑",
+      "examples": [
+        { "en": "George said and smiled.", "zh": "乔治边说边微笑。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you like stories?",
+      "zh": "你喜欢听故事吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "stories", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I want to tell you a true story.",
+      "zh": "我要告诉你一个真实的故事。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "true", "roles": ["定语"] },
+        { "text": "story", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It was very dark, so they turned on a torch.",
+      "zh": "屋里很黑，于是他们打开了手电筒。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "dark", "roles": ["表语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "turned", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "torch", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "George heard the noise and came downstairs quickly.",
+      "zh": "乔治听到响声，赶紧下了楼。",
+      "analysis": [
+        { "text": "George", "roles": ["主语"] },
+        { "text": "heard", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "noise", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "downstairs", "roles": ["状语"] },
+        { "text": "quickly", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He turned on the light, but he couldn't see anyone.",
+      "zh": "他打开了灯，但一个人也看不见。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "turned", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "light", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "couldn't", "roles": ["谓语"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "anyone", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Do you like stories?", "zh": "你喜欢听故事吗？" },
+    { "en": "I want to tell you a true story.", "zh": "我要告诉你一个真实的故事。" },
+    { "en": "It happened to a friend of mine a year ago.", "zh": "这是一年前发生在我的一位朋友身上的事。" },
+    { "en": "While my friend, George, was reading in bed, two thieves climbed into his kitchen.", "zh": "当我的朋友乔治在床上看书时，两个小偷爬进了他的厨房。" },
+    { "en": "After they had entered the house, they went into the dining room.", "zh": "他们进入房子后，走进了饭厅。" },
+    { "en": "It was very dark, so they turned on a torch.", "zh": "屋里很黑，于是他们打开了手电筒。" },
+    { "en": "Suddenly, they heard a voice behind them.", "zh": "突然，他们听到身后有声音。" },
+    { "en": "'What's up? What's up?' someone called.", "zh": "'出什么事了？出什么事了？'有人喊道。" },
+    { "en": "The thieves dropped the torch and ran away as quickly as they could.", "zh": "小偷们扔下手电筒，飞快地逃走了。" },
+    { "en": "George heard the noise and came downstairs quickly.", "zh": "乔治听到响声，赶紧下了楼。" },
+    { "en": "He turned on the light, but he couldn't see anyone.", "zh": "他打开了灯，但一个人也看不见。" },
+    { "en": "But George's parrot, Henry, was still there.", "zh": "但乔治的鹦鹉亨利还在那里。" }
+  ]
+}

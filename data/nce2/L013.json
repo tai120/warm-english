@@ -1,0 +1,203 @@
+{
+  "id": "L013",
+  "title": "Lesson 13 · The Greenwood Boys",
+  "titleZh": "第13课 绿林少年",
+  "words": [
+    {
+      "word": "group",
+      "phonetic": "/ɡruːp/",
+      "meaning": "n. 小组，团体",
+      "examples": [
+        { "en": "The Greenwood Boys are a group of pop singers.", "zh": "“绿林少年”是一个流行歌曲演唱团。" }
+      ]
+    },
+    {
+      "word": "pop",
+      "phonetic": "/pɒp/",
+      "meaning": "adj. 流行的，通俗的",
+      "examples": [
+        { "en": "They are a group of pop singers.", "zh": "他们是一个流行歌曲演唱团。" }
+      ]
+    },
+    {
+      "word": "singer",
+      "phonetic": "/ˈsɪŋə/",
+      "meaning": "n. 歌手",
+      "examples": [
+        { "en": "The Greenwood Boys are a group of pop singers.", "zh": "“绿林少年”是一个流行歌曲演唱团。" }
+      ]
+    },
+    {
+      "word": "club",
+      "phonetic": "/klʌb/",
+      "meaning": "n. 俱乐部",
+      "examples": [
+        { "en": "They will be singing at the Workers' Club.", "zh": "他们将在工人俱乐部演出。" }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meaning": "n. 演出",
+      "examples": [
+        { "en": "They will give five performances.", "zh": "他们将演出五场。" }
+      ]
+    },
+    {
+      "word": "occasion",
+      "phonetic": "/əˈkeɪʒn/",
+      "meaning": "n. 场合",
+      "examples": [
+        { "en": "It is always the same on these occasions.", "zh": "每逢这种场合，情况都是这样。" }
+      ]
+    },
+    {
+      "word": "order",
+      "phonetic": "/ˈɔːdə/",
+      "meaning": "n. 秩序",
+      "examples": [
+        { "en": "The police will be trying to keep order.", "zh": "警察将设法维持秩序。" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站",
+      "examples": [
+        { "en": "Most of the young people will be meeting them at the station.", "zh": "大部分青年人将到车站迎接他们。" }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "v. 到达",
+      "examples": [
+        { "en": "They will be arriving here tomorrow.", "zh": "明天他们就要到达此地。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 国家，乡下",
+      "examples": [
+        { "en": "They are visiting all parts of the country.", "zh": "他们正在全国各地巡回演出。" }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meaning": "v. 停留，住",
+      "examples": [
+        { "en": "The Greenwood Boys will be staying for five days.", "zh": "“绿林少年”准备在此逗留五天。" }
+      ]
+    },
+    {
+      "word": "Greenwood",
+      "phonetic": "/ˈɡriːnwʊd/",
+      "meaning": "n. 格林伍德（姓）",
+      "examples": [
+        { "en": "The Greenwood Boys are a group of pop singers.", "zh": "“绿林少年”是一个流行歌曲演唱团。" }
+      ]
+    },
+    {
+      "word": "Workers' Club",
+      "phonetic": "/ˈwɜːkəz klʌb/",
+      "meaning": "n. 工人俱乐部",
+      "examples": [
+        { "en": "They will be singing at the Workers' Club.", "zh": "他们将在工人俱乐部演出。" }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meaning": "adj. 困难的",
+      "examples": [
+        { "en": "The police will have a difficult time.", "zh": "警察的日子将不好过。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Greenwood Boys are a group of pop singers.",
+      "zh": "“绿林少年”是一个流行歌曲演唱团。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Greenwood", "roles": ["定语"] },
+        { "text": "Boys", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "group", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "pop", "roles": ["定语"] },
+        { "text": "singers", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "They will be arriving here tomorrow.",
+      "zh": "明天他们就要到达此地。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "arriving", "roles": ["谓语"] },
+        { "text": "here", "roles": ["状语"] },
+        { "text": "tomorrow", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The Greenwood Boys will be staying for five days.",
+      "zh": "“绿林少年”准备在此逗留五天。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Greenwood", "roles": ["定语"] },
+        { "text": "Boys", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "staying", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "days", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "During this time, they will give five performances.",
+      "zh": "在此期间，他们将演出五场。",
+      "analysis": [
+        { "text": "During", "roles": ["状语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "give", "roles": ["谓语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "performances", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It is always the same on these occasions.",
+      "zh": "每逢这种场合，情况都是这样。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "same", "roles": ["表语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "occasions", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Greenwood Boys are a group of pop singers.", "zh": "“绿林少年”是一个流行歌曲演唱团。" },
+    { "en": "At present, they are visiting all parts of the country.", "zh": "目前他们正在全国各地巡回演出。" },
+    { "en": "They will be arriving here tomorrow.", "zh": "明天他们就要到达此地。" },
+    { "en": "They will be coming by train and most of the young people in the town will be meeting them at the station.", "zh": "他们将乘火车来，镇上的大部分青年人将到车站迎接他们。" },
+    { "en": "Tomorrow evening they will be singing at the Workers' Club.", "zh": "明晚他们将在工人俱乐部演出。" },
+    { "en": "The Greenwood Boys will be staying for five days.", "zh": "“绿林少年”准备在此逗留五天。" },
+    { "en": "During this time, they will give five performances.", "zh": "在此期间，他们将演出五场。" },
+    { "en": "As usual, the police will have a difficult time.", "zh": "同往常一样，警察的日子将不好过。" },
+    { "en": "They will be trying to keep order.", "zh": "他们将设法维持秩序。" },
+    { "en": "It is always the same on these occasions.", "zh": "每逢这种场合，情况都是这样。" }
+  ]
+}

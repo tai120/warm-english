@@ -1,0 +1,204 @@
+{
+  "id": "L131",
+  "title": "Lesson 131 · Don't be so sure!",
+  "titleZh": "第131课 别那么肯定！",
+  "words": [
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "meaning": "n. 假日，假期",
+      "examples": [
+        { "en": "Where are you going to spend your holidays this year, Gary?", "zh": "加里，今年你打算去哪儿度假？" }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "adv. 在国外，到国外",
+      "examples": [
+        { "en": "We may go abroad.", "zh": "我们可能出国。" }
+      ]
+    },
+    {
+      "word": "Egypt",
+      "phonetic": "/ˈiːdʒɪpt/",
+      "meaning": "n. 埃及",
+      "examples": [
+        { "en": "My wife wants to go to Egypt.", "zh": "我妻子想去埃及。" }
+      ]
+    },
+    {
+      "word": "mind",
+      "phonetic": "/maɪnd/",
+      "meaning": "n. 主意，头脑",
+      "examples": [
+        { "en": "We can't make up our minds.", "zh": "我们还没拿定主意。" }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meaning": "v. 旅行",
+      "examples": [
+        { "en": "Will you travel by sea or by air?", "zh": "你们坐船去还是坐飞机去？" }
+      ]
+    },
+    {
+      "word": "sea",
+      "phonetic": "/siː/",
+      "meaning": "n. 海",
+      "examples": [
+        { "en": "We may travel by sea.", "zh": "我们可能坐船去。" }
+      ]
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə(r)/",
+      "meaning": "n. 空中，航空",
+      "examples": [
+        { "en": "Will you travel by sea or by air?", "zh": "你们坐船去还是坐飞机去？" }
+      ]
+    },
+    {
+      "word": "cheap",
+      "phonetic": "/tʃiːp/",
+      "meaning": "adj. 便宜的",
+      "examples": [
+        { "en": "It may be cheaper, but it takes a long time.", "zh": "坐船可能便宜些，但花的时间长。" }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "/ʃʊə(r)/",
+      "meaning": "adj. 确信的，肯定的",
+      "examples": [
+        { "en": "I'm not sure.", "zh": "我还不能确定。" },
+        { "en": "Don't be so sure.", "zh": "别那么肯定。" }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "v. 享受，喜欢",
+      "examples": [
+        { "en": "I'm sure you'll enjoy yourselves.", "zh": "我相信你们会玩得很开心。" }
+      ]
+    },
+    {
+      "word": "worry",
+      "phonetic": "/ˈwʌri/",
+      "meaning": "v. 担心",
+      "examples": [
+        { "en": "My wife always worries too much.", "zh": "我妻子总是担心太多。" }
+      ]
+    },
+    {
+      "word": "problem",
+      "phonetic": "/ˈprɒbləm/",
+      "meaning": "n. 问题",
+      "examples": [
+        { "en": "We have this problem every year.", "zh": "我们每年都有这个问题。" }
+      ]
+    },
+    {
+      "word": "end",
+      "phonetic": "/end/",
+      "meaning": "n. 末尾，结束",
+      "examples": [
+        { "en": "In the end, we stay at home and look after everything!", "zh": "最后，我们待在家里照看一切！" }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meaning": "v. 度过，花费",
+      "examples": [
+        { "en": "Where are you going to spend your holidays this year?", "zh": "今年你打算去哪儿度假？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "We may go abroad.",
+      "zh": "我们可能出国。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "may", "roles": ["谓语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "abroad", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We can't make up our minds.",
+      "zh": "我们还没拿定主意。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "can't", "roles": ["谓语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "minds", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Will you travel by sea or by air?",
+      "zh": "你们坐船去还是坐飞机去？",
+      "analysis": [
+        { "text": "Will", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "travel", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "sea", "roles": ["状语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "air", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I'm sure you'll enjoy yourselves.",
+      "zh": "我相信你们会玩得很开心。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "you'll", "roles": ["主语"] },
+        { "text": "enjoy", "roles": ["谓语"] },
+        { "text": "yourselves", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Don't be so sure.",
+      "zh": "别那么肯定。",
+      "analysis": [
+        { "text": "Don't", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "sure", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "We might not go anywhere.",
+      "zh": "我们可能哪儿也去不成。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "might", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "anywhere", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where are you going to spend your holidays this year, Gary?", "zh": "加里，今年你打算去哪儿度假？" },
+    { "en": "We may go abroad.", "zh": "我们可能出国。" },
+    { "en": "I'm not sure.", "zh": "我还不能确定。" },
+    { "en": "My wife wants to go to Egypt.", "zh": "我妻子想去埃及。" },
+    { "en": "We can't make up our minds.", "zh": "我们还没拿定主意。" },
+    { "en": "Will you travel by sea or by air?", "zh": "你们坐船去还是坐飞机去？" },
+    { "en": "It may be cheaper, but it takes a long time.", "zh": "坐船可能便宜些，但花的时间长。" },
+    { "en": "I'm sure you'll enjoy yourselves.", "zh": "我相信你们会玩得很开心。" },
+    { "en": "Don't be so sure.", "zh": "别那么肯定。" },
+    { "en": "We might not go anywhere.", "zh": "我们可能哪儿也去不成。" },
+    { "en": "My wife always worries too much.", "zh": "我妻子总是担心太多。" },
+    { "en": "In the end, we stay at home and look after everything!", "zh": "最后，我们待在家里照看一切！" }
+  ]
+}

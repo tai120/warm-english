@@ -1,0 +1,270 @@
+{
+  "id": "L075",
+  "title": "Lesson 75 · SOS",
+  "titleZh": "第75课 呼救信号",
+  "words": [
+    {
+      "word": "SOS",
+      "phonetic": "/ˌes əʊ ˈes/",
+      "meaning": "n. 紧急求救信号",
+      "examples": [
+        { "en": "She stamped out SOS in the snow.", "zh": "她在雪地上踩出了呼救信号。" }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meaning": "n. 乘客",
+      "examples": [
+        { "en": "The passengers were a young woman and two babies.", "zh": "乘客是一位年轻妇女和两个婴儿。" }
+      ]
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meaning": "n. 飞行员",
+      "examples": [
+        { "en": "The pilot was killed in the crash.", "zh": "飞行员在坠机中遇难。" }
+      ]
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meaning": "v. 坠毁",
+      "examples": [
+        { "en": "The plane crashed in the mountains.", "zh": "飞机在山区坠毁。" }
+      ]
+    },
+    {
+      "word": "course",
+      "phonetic": "/kɔːs/",
+      "meaning": "n. 航线，路线",
+      "examples": [
+        { "en": "The plane flew off course.", "zh": "飞机偏离了航线。" }
+      ]
+    },
+    {
+      "word": "mountain",
+      "phonetic": "/ˈmaʊntən/",
+      "meaning": "n. 山，山脉",
+      "examples": [
+        { "en": "The plane crashed in the mountains.", "zh": "飞机在山区坠毁。" }
+      ]
+    },
+    {
+      "word": "thick",
+      "phonetic": "/θɪk/",
+      "meaning": "adj. 厚的",
+      "examples": [
+        { "en": "Snow lay thick on the ground.", "zh": "地上积着厚厚的雪。" }
+      ]
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meaning": "n. 手提箱",
+      "examples": [
+        { "en": "She turned a suitcase into a bed.", "zh": "她把行李箱改成了床。" }
+      ]
+    },
+    {
+      "word": "terribly",
+      "phonetic": "/ˈterəbli/",
+      "meaning": "adv. 极其，非常",
+      "examples": [
+        { "en": "It got terribly cold at night.", "zh": "夜里冷得可怕。" }
+      ]
+    },
+    {
+      "word": "overhead",
+      "phonetic": "/ˌəʊvəˈhed/",
+      "meaning": "adv. 在头顶上",
+      "examples": [
+        { "en": "She heard planes passing overhead.", "zh": "她听见飞机从头顶飞过。" }
+      ]
+    },
+    {
+      "word": "signal",
+      "phonetic": "/ˈsɪɡnəl/",
+      "meaning": "n. 信号",
+      "examples": [
+        { "en": "She wanted to send a signal.", "zh": "她想发出信号。" }
+      ]
+    },
+    {
+      "word": "stamp",
+      "phonetic": "/stæmp/",
+      "meaning": "v. 踩，跺",
+      "examples": [
+        { "en": "She stamped out the letters in the snow.", "zh": "她在雪地上踩出字母。" }
+      ]
+    },
+    {
+      "word": "snow",
+      "phonetic": "/snəʊ/",
+      "meaning": "n. 雪",
+      "examples": [
+        { "en": "The snow was very thick.", "zh": "雪非常厚。" }
+      ]
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːtʃənətli/",
+      "meaning": "adv. 幸运地",
+      "examples": [
+        { "en": "Fortunately, a pilot saw the signal.", "zh": "幸运的是，一名飞行员看到了信号。" }
+      ]
+    },
+    {
+      "word": "helicopter",
+      "phonetic": "/ˈhelɪkɒptə(r)/",
+      "meaning": "n. 直升飞机",
+      "examples": [
+        { "en": "A helicopter arrived to rescue them.", "zh": "一架直升飞机赶来营救他们。" }
+      ]
+    },
+    {
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "meaning": "v. 营救",
+      "examples": [
+        { "en": "The helicopter came to rescue the survivors.", "zh": "直升飞机前来营救幸存者。" }
+      ]
+    },
+    {
+      "word": "survivor",
+      "phonetic": "/səˈvaɪvə(r)/",
+      "meaning": "n. 幸存者",
+      "examples": [
+        { "en": "The survivors were rescued at last.", "zh": "幸存者最终获救了。" }
+      ]
+    },
+    {
+      "word": "radio",
+      "phonetic": "/ˈreɪdiəʊ/",
+      "meaning": "n. 无线电",
+      "examples": [
+        { "en": "He sent a message by radio.", "zh": "他用无线电发出了消息。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The pilot was killed, but the only passengers, a young woman and her two baby daughters, were unhurt.",
+      "zh": "飞行员遇难了，但仅有的乘客——一位年轻妇女和她的两个女婴——却安然无恙。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "pilot", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "killed", "roles": ["谓语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "only", "roles": ["定语"] },
+        { "text": "passengers", "roles": ["主语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "young", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "baby", "roles": ["定语"] },
+        { "text": "daughters", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "unhurt", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It was the middle of winter, and snow lay thick on the ground.",
+      "zh": "当时正值隆冬，地上覆盖着厚厚的积雪。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "middle", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "winter", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "snow", "roles": ["主语"] },
+        { "text": "lay", "roles": ["谓语"] },
+        { "text": "thick", "roles": ["表语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ground", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "When it grew dark, she turned a suitcase into a bed and put the children inside it.",
+      "zh": "天黑时，她把一只行李箱改成床，把孩子们放了进去。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "grew", "roles": ["谓语"] },
+        { "text": "dark", "roles": ["表语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "turned", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "suitcase", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bed", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["宾语"] },
+        { "text": "inside", "roles": ["状语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "During the night, it got terribly cold, so she kept as near as she could to the children.",
+      "zh": "夜里天冷得可怕，所以她尽量靠近孩子们。",
+      "analysis": [
+        { "text": "During", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "night", "roles": ["宾语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "terribly", "roles": ["状语"] },
+        { "text": "cold", "roles": ["表语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "kept", "roles": ["谓语"] },
+        { "text": "as", "roles": ["状语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "She stamped out the letters SOS in the snow.",
+      "zh": "她在雪地上踩出了'SOS'三个字母。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "stamped", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "letters", "roles": ["宾语"] },
+        { "text": "SOS", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "snow", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "A light passenger plane flew off course and crashed in the mountains some time ago.", "zh": "不久前，一架轻型客机偏离了航线，在山区坠毁。" },
+    { "en": "The pilot was killed, but the only passengers, a young woman and her two baby daughters, were unhurt.", "zh": "飞行员遇难了，但仅有的乘客——一位年轻妇女和她的两个女婴——却安然无恙。" },
+    { "en": "It was the middle of winter, and snow lay thick on the ground.", "zh": "当时正值隆冬，地上覆盖着厚厚的积雪。" },
+    { "en": "The woman knew that the nearest village was miles away.", "zh": "这位妇女知道最近的村庄离这里有好几英里远。" },
+    { "en": "When it grew dark, she turned a suitcase into a bed and put the children inside it.", "zh": "天黑时，她把一只行李箱改成床，把孩子们放了进去。" },
+    { "en": "During the night, it got terribly cold, so she kept as near as she could to the children.", "zh": "夜里天冷得可怕，所以她尽量靠近孩子们。" },
+    { "en": "Early next morning, she heard planes passing overhead and wondered how she could send a signal.", "zh": "第二天一早，她听见飞机从头顶飞过，想着怎样才能发出求救信号。" },
+    { "en": "She stamped out the letters SOS in the snow.", "zh": "她在雪地上踩出了'SOS'三个字母。" },
+    { "en": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.", "zh": "幸运的是，一名飞行员看到了信号，用无线电向最近的城镇发了消息。" },
+    { "en": "It was not long before a helicopter arrived to rescue the survivors.", "zh": "不久，一架直升飞机赶到了现场，营救失事飞机的幸存者。" }
+  ]
+}

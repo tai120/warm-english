@@ -1,0 +1,208 @@
+{
+  "id": "L059",
+  "title": "Lesson 59 · Is that all?",
+  "titleZh": "第59课 就这些吗？",
+  "words": [
+    {
+      "word": "envelope",
+      "phonetic": "/ˈenvələʊp/",
+      "meaning": "n. 信封",
+      "examples": [
+        { "en": "I want some envelopes, please.", "zh": "请给我拿几个信封。" },
+        { "en": "I need an envelope for the letter.", "zh": "我需要一个信封装这封信。" }
+      ]
+    },
+    {
+      "word": "size",
+      "phonetic": "/saɪz/",
+      "meaning": "n. 尺码，大小",
+      "examples": [
+        { "en": "Do you want the large size or the small size?", "zh": "您要大号的还是小号的？" },
+        { "en": "What size do you want?", "zh": "您要什么尺码的？" }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "meaning": "adj. 大的",
+      "examples": [
+        { "en": "Do you want the large size or the small size?", "zh": "您要大号的还是小号的？" },
+        { "en": "I want a large box of chalk.", "zh": "我要一大盒粉笔。" }
+      ]
+    },
+    {
+      "word": "small",
+      "phonetic": "/smɔːl/",
+      "meaning": "adj. 小的",
+      "examples": [
+        { "en": "Do you want the large size or the small size?", "zh": "您要大号的还是小号的？" },
+        { "en": "I only have small boxes.", "zh": "我只有小盒的。" }
+      ]
+    },
+    {
+      "word": "paper",
+      "phonetic": "/ˈpeɪpə(r)/",
+      "meaning": "n. 纸",
+      "examples": [
+        { "en": "Do you have any writing paper?", "zh": "您有信纸吗？" },
+        { "en": "A piece of paper, please.", "zh": "请给我一张纸。" }
+      ]
+    },
+    {
+      "word": "writing",
+      "phonetic": "/ˈraɪtɪŋ/",
+      "meaning": "n. 书写；写作",
+      "examples": [
+        { "en": "Do you have any writing paper?", "zh": "您有信纸吗？" },
+        { "en": "Her writing is very good.", "zh": "她的字写得很好。" }
+      ]
+    },
+    {
+      "word": "pad",
+      "phonetic": "/pæd/",
+      "meaning": "n. 信笺簿",
+      "examples": [
+        { "en": "I don't have any small pads.", "zh": "我没有小本的信纸。" },
+        { "en": "Do you want a pad?", "zh": "您要一本信笺簿吗？" }
+      ]
+    },
+    {
+      "word": "glue",
+      "phonetic": "/ɡluː/",
+      "meaning": "n. 胶水",
+      "examples": [
+        { "en": "And I want some glue.", "zh": "我还要些胶水。" },
+        { "en": "A bottle of glue, please.", "zh": "请给我一瓶胶水。" }
+      ]
+    },
+    {
+      "word": "chalk",
+      "phonetic": "/tʃɔːk/",
+      "meaning": "n. 粉笔",
+      "examples": [
+        { "en": "I want a large box of chalk, too.", "zh": "我还要一大盒粉笔。" },
+        { "en": "The teacher writes with chalk.", "zh": "老师用粉笔写字。" }
+      ]
+    },
+    {
+      "word": "box",
+      "phonetic": "/bɒks/",
+      "meaning": "n. 盒子",
+      "examples": [
+        { "en": "I want a large box of chalk.", "zh": "我要一大盒粉笔。" },
+        { "en": "I only have small boxes.", "zh": "我只有小盒的。" }
+      ]
+    },
+    {
+      "word": "only",
+      "phonetic": "/ˈəʊnli/",
+      "meaning": "adv. 仅仅，只有",
+      "examples": [
+        { "en": "I only have large ones.", "zh": "我只有大本的。" },
+        { "en": "I only have small boxes.", "zh": "我只有小盒的。" }
+      ]
+    },
+    {
+      "word": "else",
+      "phonetic": "/els/",
+      "meaning": "adv. 另外，其他",
+      "examples": [
+        { "en": "What else do you want?", "zh": "您还要什么吗？" },
+        { "en": "Is there anything else?", "zh": "还有别的吗？" }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "n. 零钱，找给的钱",
+      "examples": [
+        { "en": "I want my change.", "zh": "我要找的零钱。" },
+        { "en": "Here is your change.", "zh": "这是找给您的零钱。" }
+      ]
+    },
+    {
+      "word": "all",
+      "phonetic": "/ɔːl/",
+      "meaning": "pron. 全部，一切",
+      "examples": [
+        { "en": "Is that all?", "zh": "就这些吗？" },
+        { "en": "That's all, thank you.", "zh": "就这些了，谢谢。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I want some envelopes, please.",
+      "zh": "请给我拿几个信封。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "envelopes", "roles": ["宾语"] },
+        { "text": "please", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Do you want the large size or the small size?",
+      "zh": "您要大号的还是小号的？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "size", "roles": ["宾语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "size", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I don't have any small pads.",
+      "zh": "我没有小本的信纸。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "pads", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Is that all?",
+      "zh": "就这些吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "that", "roles": ["主语"] },
+        { "text": "all", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "What else do you want?",
+      "zh": "您还要什么吗？",
+      "analysis": [
+        { "text": "What", "roles": ["宾语"] },
+        { "text": "else", "roles": ["定语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I want some envelopes, please.", "zh": "请给我拿几个信封。" },
+    { "en": "Do you want the large size or the small size?", "zh": "您要大号的还是小号的？" },
+    { "en": "Do you have any writing paper?", "zh": "您有信纸吗？" },
+    { "en": "Yes, we do.", "zh": "有，我们有。" },
+    { "en": "I don't have any small pads.", "zh": "我没有小本的信纸。" },
+    { "en": "I only have large ones.", "zh": "我只有大本的。" },
+    { "en": "And I want some glue.", "zh": "我还要些胶水。" },
+    { "en": "And I want a large box of chalk, too.", "zh": "我还要一大盒粉笔。" },
+    { "en": "Is that all?", "zh": "就这些吗？" },
+    { "en": "That's all, thank you.", "zh": "就这些了，谢谢。" },
+    { "en": "What else do you want?", "zh": "您还要什么吗？" },
+    { "en": "I want my change.", "zh": "我要找的零钱。" }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": "L089",
+  "title": "Lesson 89 · A slip of the tongue",
+  "titleZh": "第89课 口误",
+  "words": [
+    {
+      "word": "slip",
+      "phonetic": "/slɪp/",
+      "meaning": "n. 口误；小错误",
+      "examples": [
+        { "en": "He made a slip of the tongue.", "zh": "他出现了口误。" }
+      ]
+    },
+    {
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meaning": "n. 舌头",
+      "examples": [
+        { "en": "The poor man made a funny slip of the tongue.", "zh": "那个可怜的人犯了一个滑稽的口误。" }
+      ]
+    },
+    {
+      "word": "free",
+      "phonetic": "/friː/",
+      "meaning": "adj. 免费的",
+      "examples": [
+        { "en": "People will do anything to see a free show.", "zh": "人们为了看免费演出什么都愿意做。" }
+      ]
+    },
+    {
+      "word": "comedy",
+      "phonetic": "/ˈkɒmədi/",
+      "meaning": "n. 喜剧",
+      "examples": [
+        { "en": "A comedy show was presented at our local cinema.", "zh": "我们当地的电影院上演了一出喜剧。" }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/prɪˈzent/",
+      "meaning": "v. 上演，介绍",
+      "examples": [
+        { "en": "The show was presented by a seed company.", "zh": "这场演出由一家种子公司举办。" }
+      ]
+    },
+    {
+      "word": "cinema",
+      "phonetic": "/ˈsɪnəmə/",
+      "meaning": "n. 电影院",
+      "examples": [
+        { "en": "The show was presented at our local cinema.", "zh": "演出在我们当地的电影院举行。" }
+      ]
+    },
+    {
+      "word": "queue",
+      "phonetic": "/kjuː/",
+      "meaning": "v. 排队",
+      "examples": [
+        { "en": "We had to queue for hours to get in.", "zh": "我们不得不排几个小时的队才能进去。" }
+      ]
+    },
+    {
+      "word": "dull",
+      "phonetic": "/dʌl/",
+      "meaning": "adj. 枯燥的",
+      "examples": [
+        { "en": "The show was one of the dullest we have ever seen.", "zh": "这场演出是我们看过的最乏味的演出之一。" }
+      ]
+    },
+    {
+      "word": "artiste",
+      "phonetic": "/ɑːˈtiːst/",
+      "meaning": "n. 艺人",
+      "examples": [
+        { "en": "Many of the artistes did not come.", "zh": "许多艺人没有来。" }
+      ]
+    },
+    {
+      "word": "advertiser",
+      "phonetic": "/ˈædvətaɪzə(r)/",
+      "meaning": "n. 广告者",
+      "examples": [
+        { "en": "The funny things came from the advertiser.", "zh": "可笑的事情出自那位广告员之口。" }
+      ]
+    },
+    {
+      "word": "programme",
+      "phonetic": "/ˈprəʊɡræm/",
+      "meaning": "n. 节目",
+      "examples": [
+        { "en": "The advertiser spoke at the beginning of the programme.", "zh": "广告员在节目开始时讲了话。" }
+      ]
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnɜːvəs/",
+      "meaning": "adj. 紧张的",
+      "examples": [
+        { "en": "He was obviously very nervous.", "zh": "他显然非常紧张。" }
+      ]
+    },
+    {
+      "word": "awkwardly",
+      "phonetic": "/ˈɔːkwədli/",
+      "meaning": "adv. 尴尬地",
+      "examples": [
+        { "en": "He stood awkwardly before the microphone.", "zh": "他尴尬地站在麦克风前。" }
+      ]
+    },
+    {
+      "word": "burst",
+      "phonetic": "/bɜːst/",
+      "meaning": "v. 爆发",
+      "examples": [
+        { "en": "Everyone burst out laughing.", "zh": "大家都哈哈大笑起来。" }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/lɑːf/",
+      "meaning": "v. 笑",
+      "examples": [
+        { "en": "We all laughed again.", "zh": "我们又都笑了起来。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There must have been several hundred people present just before the show began.",
+      "zh": "就在演出开始前，现场一定有好几百人。",
+      "analysis": [
+        { "text": "There", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "several", "roles": ["定语"] },
+        { "text": "hundred", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "present", "roles": ["定语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "before", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "show", "roles": ["主语"] },
+        { "text": "began", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "zh": "遗憾的是，这场演出是我们看过的最乏味的演出之一。",
+      "analysis": [
+        { "text": "Unfortunately", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "show", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "one", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "dullest", "roles": ["定语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "seen", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Many of the artistes who should have appeared did not come.",
+      "zh": "许多本该登台的艺人没有来。",
+      "analysis": [
+        { "text": "Many", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "artistes", "roles": ["定语"] },
+        { "text": "who", "roles": ["连词"] },
+        { "text": "should", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "appeared", "roles": ["谓语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "come", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "He was obviously very nervous and stood awkwardly before the microphone.",
+      "zh": "他显然非常紧张，尴尬地在麦克风前站了好几分钟。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "obviously", "roles": ["状语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "nervous", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "stood", "roles": ["谓语"] },
+        { "text": "awkwardly", "roles": ["状语"] },
+        { "text": "before", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "microphone", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "As soon as he opened his mouth, everyone burst out laughing.",
+      "zh": "他一张嘴，大家都哈哈大笑起来。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "opened", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "mouth", "roles": ["宾语"] },
+        { "text": "everyone", "roles": ["主语"] },
+        { "text": "burst", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "laughing", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "People will do anything to see a free show, even if it is a bad one.", "zh": "人们为了看一场免费的演出，什么事都愿意做，哪怕演出很糟糕。" },
+    { "en": "When the news got round that a comedy show would be presented at our local cinema, we all rushed to see it.", "zh": "当消息传开，说我们当地的电影院将举办一场喜剧演出时，我们都赶去看。" },
+    { "en": "We had to queue for hours to get in.", "zh": "我们不得不排好几个小时的队才进去。" },
+    { "en": "There must have been several hundred people present just before the show began.", "zh": "就在演出开始前，现场一定有好几百人。" },
+    { "en": "Unfortunately, the show was one of the dullest we have ever seen.", "zh": "遗憾的是，这场演出是我们看过的最乏味的演出之一。" },
+    { "en": "Many of the artistes who should have appeared did not come.", "zh": "许多本该登台的艺人没有来。" },
+    { "en": "The only funny things we heard that evening came from the advertiser at the beginning of the programme.", "zh": "那天晚上我们听到的唯一可笑的事情出自节目开始时的那位广告员之口。" },
+    { "en": "He was obviously very nervous and stood awkwardly before the microphone.", "zh": "他显然非常紧张，尴尬地在麦克风前站了好几分钟。" },
+    { "en": "As soon as he opened his mouth, everyone burst out laughing.", "zh": "他一张嘴，大家都哈哈大笑起来。" },
+    { "en": "What he actually said was a wonderful slip of the tongue, and we all laughed again.", "zh": "他实际说出的话成了一个绝妙的口误，我们又一次大笑起来。" }
+  ]
+}

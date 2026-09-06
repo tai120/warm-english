@@ -1,0 +1,254 @@
+{
+  "id": "L036",
+  "title": "Lesson 36 · Across the Channel",
+  "titleZh": "第36课 横渡海峡",
+  "words": [
+    {
+      "word": "swim",
+      "phonetic": "/swɪm/",
+      "meaning": "v. 游泳（swam, swum）",
+      "examples": [
+        { "en": "Debbie is going to swim across the English Channel.", "zh": "黛比准备横渡英吉利海峡。" },
+        { "en": "He can swim very fast.", "zh": "他游得很快。" }
+      ]
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænl/",
+      "meaning": "n. 海峡",
+      "examples": [
+        { "en": "She is going to swim across the English Channel.", "zh": "她准备横渡英吉利海峡。" },
+        { "en": "The Channel is between England and France.", "zh": "英吉利海峡位于英国和法国之间。" }
+      ]
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meaning": "n. 海岸",
+      "examples": [
+        { "en": "She will set out from the French coast.", "zh": "她将从法国海岸出发。" },
+        { "en": "We saw a lighthouse on the coast.", "zh": "我们在海岸上看到一座灯塔。" }
+      ]
+    },
+    {
+      "word": "record",
+      "phonetic": "/ˈrekɔːd/",
+      "meaning": "n. 纪录",
+      "examples": [
+        { "en": "She hopes to set up a new world record.", "zh": "她希望创一项新的世界纪录。" },
+        { "en": "He broke the world record.", "zh": "他打破了世界纪录。" }
+      ]
+    },
+    {
+      "word": "strong",
+      "phonetic": "/strɒŋ/",
+      "meaning": "adj. 强壮的，擅长……的",
+      "examples": [
+        { "en": "Debbie is a strong swimmer.", "zh": "黛比是个游泳能手。" },
+        { "en": "He is strong enough to carry the box.", "zh": "他很强壮，能搬动这个箱子。" }
+      ]
+    },
+    {
+      "word": "swimmer",
+      "phonetic": "/ˈswɪmə(r)/",
+      "meaning": "n. 游泳者，游泳运动员",
+      "examples": [
+        { "en": "She is a strong swimmer.", "zh": "她是个游泳能手。" },
+        { "en": "The swimmers jumped into the pool.", "zh": "游泳者们跳进了游泳池。" }
+      ]
+    },
+    {
+      "word": "succeed",
+      "phonetic": "/səkˈsiːd/",
+      "meaning": "v. 成功",
+      "examples": [
+        { "en": "Many people feel that she is sure to succeed.", "zh": "许多人认为她一定能成功。" },
+        { "en": "He succeeded in the examination.", "zh": "他考试成功了。" }
+      ]
+    },
+    {
+      "word": "anxiously",
+      "phonetic": "/ˈæŋkʃəsli/",
+      "meaning": "adv. 焦急地，担心地",
+      "examples": [
+        { "en": "Her father will be watching her anxiously.", "zh": "她父亲将焦急地注视着她。" },
+        { "en": "They waited anxiously for the news.", "zh": "他们焦急地等待着消息。" }
+      ]
+    },
+    {
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "meaning": "v. 打算，计划",
+      "examples": [
+        { "en": "Debbie intends to take short rests.", "zh": "黛比打算休息片刻。" },
+        { "en": "I intend to visit my uncle tomorrow.", "zh": "我打算明天去看我叔叔。" }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meaning": "n. 休息",
+      "examples": [
+        { "en": "She intends to take short rests every two hours.", "zh": "她打算每两小时休息片刻。" },
+        { "en": "Let's have a rest under the tree.", "zh": "我们在树下休息一下吧。" }
+      ]
+    },
+    {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "meaning": "v. 等候，等待",
+      "examples": [
+        { "en": "Her friends will be waiting for her on the coast.", "zh": "她的朋友们将在海岸等候她。" },
+        { "en": "Please wait for me at the gate.", "zh": "请在大门口等我。" }
+      ]
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meaning": "prep. 在……之中",
+      "examples": [
+        { "en": "Among them will be Debbie's mother.", "zh": "他们当中还有黛比的母亲。" },
+        { "en": "The house stands among the trees.", "zh": "房子坐落在树林之中。" }
+      ]
+    },
+    {
+      "word": "Debbie Hart",
+      "phonetic": "/ˈdebi hɑːt/",
+      "meaning": "n. 黛比·哈特（人名）",
+      "examples": [
+        { "en": "Debbie Hart is going to swim across the Channel.", "zh": "黛比·哈特准备横渡英吉利海峡。" },
+        { "en": "Debbie Hart is only eleven years old.", "zh": "黛比·哈特只有十一岁。" }
+      ]
+    },
+    {
+      "word": "English Channel",
+      "phonetic": "/ˈɪŋɡlɪʃ ˈtʃænl/",
+      "meaning": "n. 英吉利海峡",
+      "examples": [
+        { "en": "She will swim across the English Channel.", "zh": "她将横渡英吉利海峡。" },
+        { "en": "The English Channel lies between England and France.", "zh": "英吉利海峡位于英国和法国之间。" }
+      ]
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meaning": "adj. 法国的，法国人的",
+      "examples": [
+        { "en": "She will set out from the French coast.", "zh": "她将从法国海岸出发。" },
+        { "en": "He speaks French very well.", "zh": "他法语说得很好。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "She will set out from the French coast at five o'clock in the morning.",
+      "zh": "她将于早上五点钟从法国海岸出发。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "set", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "French", "roles": ["定语"] },
+        { "text": "coast", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "five", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Debbie is only eleven years old and she hopes to set up a new world record.",
+      "zh": "黛比只有十一岁，她希望创一项新的世界纪录。",
+      "analysis": [
+        { "text": "Debbie", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "only", "roles": ["状语"] },
+        { "text": "eleven", "roles": ["定语"] },
+        { "text": "years", "roles": ["定语"] },
+        { "text": "old", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "hopes", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "set", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "world", "roles": ["定语"] },
+        { "text": "record", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "zh": "她是个游泳能手，许多人认为她一定能成功。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "strong", "roles": ["定语"] },
+        { "text": "swimmer", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "feel", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "succeed", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "zh": "明天，当她游往英国的长途中，他将焦急地注视着她。",
+      "analysis": [
+        { "text": "Tomorrow", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "watching", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "anxiously", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "swims", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "long", "roles": ["定语"] },
+        { "text": "distance", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "England", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Debbie intends to take short rests every two hours.",
+      "zh": "黛比打算每两小时休息片刻。",
+      "analysis": [
+        { "text": "Debbie", "roles": ["主语"] },
+        { "text": "intends", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "short", "roles": ["定语"] },
+        { "text": "rests", "roles": ["宾语"] },
+        { "text": "every", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "hours", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Debbie Hart is going to swim across the English Channel tomorrow.", "zh": "黛比·哈特准备明天横渡英吉利海峡。" },
+    { "en": "She will set out from the French coast at five o'clock in the morning.", "zh": "她将于早上五点钟从法国海岸出发。" },
+    { "en": "Debbie is only eleven years old and she hopes to set up a new world record.", "zh": "黛比只有十一岁，她希望创一项新的世界纪录。" },
+    { "en": "She is a strong swimmer and many people feel that she is sure to succeed.", "zh": "她是个游泳能手，许多人认为她一定能成功。" },
+    { "en": "Debbie's father will set out with her in a small boat.", "zh": "黛比的父亲将乘一条小船与她一起出发。" },
+    { "en": "Tomorrow he will be watching her anxiously as she swims the long distance to England.", "zh": "明天，当她游往英国的长途中，他将焦急地注视着她。" },
+    { "en": "Debbie intends to take short rests every two hours.", "zh": "黛比打算每两小时休息片刻。" },
+    { "en": "Most of Debbie's school friends will be waiting for her on the English coast.", "zh": "黛比的大部分同学将在英国海岸等候她。" },
+    { "en": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl.", "zh": "他们当中还有黛比的母亲，她本人还是个姑娘时也曾横渡过海峡。" }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "L016",
+  "title": "Lesson 16 · A polite request",
+  "titleZh": "第16课 彬彬有礼的要求",
+  "words": [
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "meaning": "v. 停放（汽车）",
+      "examples": [
+        { "en": "If you park your car in the wrong place, a traffic policeman will soon find it.", "zh": "如果你把汽车停在了错误的地方，交通警察很快就会发现。" }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meaning": "n. 交通",
+      "examples": [
+        { "en": "A traffic policeman will soon find it.", "zh": "交通警察很快就会发现。" }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meaning": "n. 交通违章罚款单",
+      "examples": [
+        { "en": "You will be very lucky if he lets you go without a ticket.", "zh": "如果他没给你罚款单就放你走了，算你走运。" }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meaning": "n. 便条，笔记",
+      "examples": [
+        { "en": "I found this note on my car.", "zh": "我在我的车上发现了这样一张字条。" }
+      ]
+    },
+    {
+      "word": "area",
+      "phonetic": "/ˈeəriə/",
+      "meaning": "n. 地区",
+      "examples": [
+        { "en": "This is a No Parking area.", "zh": "此处是禁止停车区。" }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "n. 指示牌，标记",
+      "examples": [
+        { "en": "You will enjoy your stay here if you pay attention to our street signs.", "zh": "如果您对我们街上的标牌稍加注意，您在此会过得很愉快的。" }
+      ]
+    },
+    {
+      "word": "reminder",
+      "phonetic": "/rɪˈmaɪndə/",
+      "meaning": "n. 提示，提醒",
+      "examples": [
+        { "en": "This note is only a reminder.", "zh": "谨此提请注意。" }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meaning": "v. 失败，未能",
+      "examples": [
+        { "en": "You cannot fail to obey it.", "zh": "你是不会不遵照执行的。" }
+      ]
+    },
+    {
+      "word": "obey",
+      "phonetic": "/əˈbeɪ/",
+      "meaning": "v. 服从",
+      "examples": [
+        { "en": "You cannot fail to obey it.", "zh": "你是不会不遵照执行的。" }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meaning": "n. 警察",
+      "examples": [
+        { "en": "A traffic policeman will soon find it.", "zh": "交通警察很快就会发现。" }
+      ]
+    },
+    {
+      "word": "polite",
+      "phonetic": "/pəˈlaɪt/",
+      "meaning": "adj. 有礼貌的",
+      "examples": [
+        { "en": "Traffic police are sometimes very polite.", "zh": "交通警察有时也很客气。" }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meaning": "adj. 幸运的",
+      "examples": [
+        { "en": "You will be very lucky.", "zh": "算你走运。" }
+      ]
+    },
+    {
+      "word": "Sweden",
+      "phonetic": "/ˈswiːdn/",
+      "meaning": "n. 瑞典",
+      "examples": [
+        { "en": "During a holiday in Sweden, I found this note on my car.", "zh": "在瑞典度假期间，我在我的车上发现了这样一张字条。" }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meaning": "v. 享受，喜欢",
+      "examples": [
+        { "en": "You will enjoy your stay here.", "zh": "您在此会过得很愉快的。" }
+      ]
+    },
+    {
+      "word": "welcome",
+      "phonetic": "/ˈwelkəm/",
+      "meaning": "v. 欢迎",
+      "examples": [
+        { "en": "We welcome you to our city.", "zh": "欢迎您光临我们的城市。" }
+      ]
+    },
+    {
+      "word": "however",
+      "phonetic": "/haʊˈevə/",
+      "meaning": "adv. 然而",
+      "examples": [
+        { "en": "However, this does not always happen.", "zh": "然而，情况并不总是这样。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "zh": "如果你把汽车停在了错误的地方，交通警察很快就会发现。",
+      "analysis": [
+        { "text": "If", "roles": ["连词"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "park", "roles": ["谓语"] },
+        { "text": "your", "roles": ["定语"] },
+        { "text": "car", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wrong", "roles": ["定语"] },
+        { "text": "place", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "traffic", "roles": ["定语"] },
+        { "text": "policeman", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "find", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "You will be very lucky if he lets you go without a ticket.",
+      "zh": "如果他没给你罚款单就放你走了，算你走运。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "lucky", "roles": ["表语"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "lets", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "go", "roles": ["补语"] },
+        { "text": "without", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "ticket", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "However, this does not always happen.",
+      "zh": "然而，情况并不总是这样。",
+      "analysis": [
+        { "text": "However", "roles": ["状语"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "does", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "happen", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Traffic police are sometimes very polite.",
+      "zh": "交通警察有时也很客气。",
+      "analysis": [
+        { "text": "Traffic", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "sometimes", "roles": ["状语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "polite", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "During a holiday in Sweden, I found this note on my car.",
+      "zh": "在瑞典度假期间，我在我的车上发现了这样一张字条。",
+      "analysis": [
+        { "text": "During", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "holiday", "roles": ["状语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "Sweden", "roles": ["定语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "note", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "car", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "If you park your car in the wrong place, a traffic policeman will soon find it.", "zh": "如果你把汽车停在了错误的地方，交通警察很快就会发现。" },
+    { "en": "You will be very lucky if he lets you go without a ticket.", "zh": "如果他没给你罚款单就放你走了，算你走运。" },
+    { "en": "However, this does not always happen.", "zh": "然而，情况并不总是这样。" },
+    { "en": "Traffic police are sometimes very polite.", "zh": "交通警察有时也很客气。" },
+    { "en": "During a holiday in Sweden, I found this note on my car.", "zh": "在瑞典度假期间，我在我的车上发现了这样一张字条。" },
+    { "en": "It read, 'Sir, we welcome you to our city.'", "zh": "字条上写着：“先生，欢迎您光临我们的城市。”" },
+    { "en": "'This is a No Parking area.'", "zh": "“此处是禁止停车区。”" },
+    { "en": "'You will enjoy your stay here if you pay attention to our street signs.'", "zh": "“如果您对我们街上的标牌稍加注意，您在此会过得很愉快的。”" },
+    { "en": "'This note is only a reminder.'", "zh": "“谨此提请注意。”" },
+    { "en": "If you receive a request like this, you cannot fail to obey it!", "zh": "如果你收到这样的恳求，你是不会不遵照执行的！" }
+  ]
+}

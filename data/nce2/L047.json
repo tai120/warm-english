@@ -1,0 +1,255 @@
+{
+  "id": "L047",
+  "title": "Lesson 47 · A thirsty ghost",
+  "titleZh": "第47课 嗜酒的鬼魂",
+  "words": [
+    {
+      "word": "thirsty",
+      "phonetic": "/ˈθɜːsti/",
+      "meaning": "adj. 口渴的；嗜酒的",
+      "examples": [
+        { "en": "The ghost must have been thirsty.", "zh": "那鬼魂一定口渴了。" },
+        { "en": "I am thirsty. Give me some water.", "zh": "我渴了，给我点水喝。" }
+      ]
+    },
+    {
+      "word": "ghost",
+      "phonetic": "/ɡəʊst/",
+      "meaning": "n. 鬼魂",
+      "examples": [
+        { "en": "The pub is haunted by a ghost.", "zh": "小酒店闹鬼。" },
+        { "en": "The ghost must have drunk the whisky.", "zh": "一定是鬼魂喝了威士忌。" }
+      ]
+    },
+    {
+      "word": "public house",
+      "phonetic": "/ˈpʌblɪk haʊs/",
+      "meaning": "n. 小酒店，酒馆",
+      "examples": [
+        { "en": "A public house is up for sale.", "zh": "一家小酒店正待出售。" },
+        { "en": "They met at a public house in the village.", "zh": "他们在村里的小酒店见面。" }
+      ]
+    },
+    {
+      "word": "sale",
+      "phonetic": "/seɪl/",
+      "meaning": "n. 出售",
+      "examples": [
+        { "en": "The pub is up for sale.", "zh": "小酒店正待出售。" },
+        { "en": "The house is for sale.", "zh": "这幢房子待售。" }
+      ]
+    },
+    {
+      "word": "haunted",
+      "phonetic": "/ˈhɔːntɪd/",
+      "meaning": "adj. 闹鬼的",
+      "examples": [
+        { "en": "He is going to sell it because it is haunted.", "zh": "因为那里闹鬼，他打算把它卖掉。" },
+        { "en": "They said the old house was haunted.", "zh": "他们说那幢老房子闹鬼。" }
+      ]
+    },
+    {
+      "word": "bar",
+      "phonetic": "/bɑː(r)/",
+      "meaning": "n. 酒吧间",
+      "examples": [
+        { "en": "He heard a strange noise coming from the bar.", "zh": "他听到酒吧间里传来奇怪的响声。" },
+        { "en": "They sat at the bar and had a drink.", "zh": "他们坐在酒吧间里喝了一杯。" }
+      ]
+    },
+    {
+      "word": "block",
+      "phonetic": "/blɒk/",
+      "meaning": "v. 堵，挡住",
+      "examples": [
+        { "en": "The doors had been blocked by chairs.", "zh": "门被椅子堵住了。" },
+        { "en": "The road was blocked by heavy snow.", "zh": "道路被大雪堵住了。" }
+      ]
+    },
+    {
+      "word": "furniture",
+      "phonetic": "/ˈfɜːnɪtʃə(r)/",
+      "meaning": "n. 家具",
+      "examples": [
+        { "en": "The furniture had been moved.", "zh": "家具被挪动过。" },
+        { "en": "They bought some new furniture.", "zh": "他们买了一些新家具。" }
+      ]
+    },
+    {
+      "word": "whisky",
+      "phonetic": "/ˈwɪski/",
+      "meaning": "n. 威士忌酒",
+      "examples": [
+        { "en": "He found five empty whisky bottles.", "zh": "他发现了五只空威士忌酒瓶。" },
+        { "en": "Would you like a glass of whisky?", "zh": "你想来杯威士忌吗？" }
+      ]
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "meaning": "v. 暗示，建议",
+      "examples": [
+        { "en": "I suggested that some villagers had come in for a free drink.", "zh": "我暗示说一定是村里人进来喝不花钱的酒。" },
+        { "en": "He suggested going for a walk.", "zh": "他建议去散步。" }
+      ]
+    },
+    {
+      "word": "shake",
+      "phonetic": "/ʃeɪk/",
+      "meaning": "v. 摇动（shook, shaken）",
+      "examples": [
+        { "en": "Mr Thompson shook his head.", "zh": "汤普森先生摇了摇头。" },
+        { "en": "He shook hands with me.", "zh": "他和我握手。" }
+      ]
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "v. 接受",
+      "examples": [
+        { "en": "They will not accept the pub.", "zh": "他们不会接受这家小酒店。" },
+        { "en": "She accepted his invitation.", "zh": "她接受了他的邀请。" }
+      ]
+    },
+    {
+      "word": "give away",
+      "phonetic": "/ɡɪv əˈweɪ/",
+      "meaning": "v. 白送，赠送",
+      "examples": [
+        { "en": "He cannot give the pub away.", "zh": "他的小酒店白送都没人要。" },
+        { "en": "She gave away all her old clothes.", "zh": "她把旧衣服全都送人了。" }
+      ]
+    },
+    {
+      "word": "Ian Thompson",
+      "phonetic": "/ˈiːən ˈtɒmpsən/",
+      "meaning": "n. 伊恩·汤普森（人名）",
+      "examples": [
+        { "en": "Mr Ian Thompson bought the pub recently.", "zh": "伊恩·汤普森先生最近买下了这家小酒店。" },
+        { "en": "Mr Thompson is going to sell the pub.", "zh": "汤普森先生打算卖掉小酒店。" }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meaning": "n. 响声，噪音",
+      "examples": [
+        { "en": "He heard a strange noise.", "zh": "他听到一阵奇怪的响声。" },
+        { "en": "Don't make so much noise.", "zh": "别这么吵。" }
+      ]
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meaning": "adj. 奇怪的，陌生的",
+      "examples": [
+        { "en": "He heard a strange noise coming from the bar.", "zh": "他听到酒吧间里传来奇怪的响声。" },
+        { "en": "She saw a strange man at the door.", "zh": "她看见门口有个陌生人。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Mr Thompson is going to sell it because it is haunted.",
+      "zh": "汤普森先生之所以想卖它，是因为那里常闹鬼。",
+      "analysis": [
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Thompson", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sell", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "haunted", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "He told me that he could not go to sleep one night.",
+      "zh": "他告诉我有天夜里他怎么也睡不着。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "could", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sleep", "roles": ["谓语"] },
+        { "text": "one", "roles": ["定语"] },
+        { "text": "night", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "zh": "第二天早上，他发现酒吧间的门被椅子堵上了，家具也被挪动过。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "doors", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "blocked", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "chairs", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "furniture", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "moved", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I suggested that some villagers must have come in for a free drink.",
+      "zh": "我暗示说，一定是村里有些人来喝不花钱的酒。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "suggested", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "villagers", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "free", "roles": ["定语"] },
+        { "text": "drink", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Mr Thompson shook his head.",
+      "zh": "汤普森先生摇了摇头。",
+      "analysis": [
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Thompson", "roles": ["主语"] },
+        { "text": "shook", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "head", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "A public house which was recently bought by Mr Ian Thompson is up for sale.", "zh": "伊恩·汤普森先生最近才买的小酒店现在又要卖出去。" },
+    { "en": "Mr Thompson is going to sell it because it is haunted.", "zh": "汤普森先生之所以想卖它，是因为那里常闹鬼。" },
+    { "en": "He told me that he could not go to sleep one night.", "zh": "他告诉我有天夜里他怎么也睡不着。" },
+    { "en": "He heard a strange noise coming from the bar.", "zh": "他听到酒吧里传来一阵奇怪的响声。" },
+    { "en": "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.", "zh": "第二天早上，他发现酒吧间的门被椅子堵上了，家具也被挪动过。" },
+    { "en": "Though Mr Thompson had turned the lights off before he went to bed, they were on in the morning.", "zh": "虽然汤普森先生临睡觉时把灯关了，但早晨灯却亮着。" },
+    { "en": "He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.", "zh": "他还说发现了五只空的威士忌酒瓶子，这肯定是鬼魂头天晚上喝的。" },
+    { "en": "I suggested that some villagers must have come in for a free drink.", "zh": "我暗示说，一定是村里有些人来喝不花钱的酒。" },
+    { "en": "Mr Thompson shook his head.", "zh": "汤普森先生摇了摇头。" },
+    { "en": "The villagers have told him that they will not accept the pub even if he gives it away.", "zh": "村里人已经告诉他，即使他把小酒店白送人，他们也不要。" }
+  ]
+}

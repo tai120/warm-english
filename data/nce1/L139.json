@@ -1,0 +1,201 @@
+{
+  "id": "L139",
+  "title": "Lesson 139 · Is that you, John?",
+  "titleZh": "第139课 是你吗，约翰？",
+  "words": [
+    {
+      "word": "speak",
+      "phonetic": "/spiːk/",
+      "meaning": "v. 说话",
+      "examples": [
+        { "en": "Yes, speaking.", "zh": "是的，请讲。" }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə(r)/",
+      "meaning": "n. 晚餐，正餐",
+      "examples": [
+        { "en": "Tell Mary we'll be late for dinner this evening.", "zh": "告诉玛丽，今晚的饭我们要晚点到。" }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meaning": "v. 明白，理解",
+      "examples": [
+        { "en": "I'm afraid I don't understand.", "zh": "恐怕我听不懂你在说什么。" }
+      ]
+    },
+    {
+      "word": "boss",
+      "phonetic": "/bɒs/",
+      "meaning": "n. 老板",
+      "examples": [
+        { "en": "The boss wants me to do some extra work.", "zh": "老板要我加班。" }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meaning": "adj. 额外的",
+      "examples": [
+        { "en": "The boss wants me to do some extra work.", "zh": "老板要我加班。" }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə(r)/",
+      "meaning": "n. 工程师",
+      "examples": [
+        { "en": "You are John Smith, the engineer, aren't you?", "zh": "你是工程师约翰·史密斯，对吗？" }
+      ]
+    },
+    {
+      "word": "company",
+      "phonetic": "/ˈkʌmpəni/",
+      "meaning": "n. 公司",
+      "examples": [
+        { "en": "You work for the Overseas Engineering Company, don't you?", "zh": "你在海外工程公司上班，对吗？" }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meaning": "v. 修理",
+      "examples": [
+        { "en": "I'm repairing your telephone line.", "zh": "我正在修理你的电话线。" }
+      ]
+    },
+    {
+      "word": "line",
+      "phonetic": "/laɪn/",
+      "meaning": "n. 线路，线",
+      "examples": [
+        { "en": "I'm repairing your telephone line.", "zh": "我正在修理你的电话线。" }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meaning": "n. 电话",
+      "examples": [
+        { "en": "I'm John Smith the telephone engineer.", "zh": "我是电话修理工约翰·史密斯。" }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meaning": "adj. 迟的，晚的",
+      "examples": [
+        { "en": "We'll be late for dinner this evening.", "zh": "今晚的饭我们要晚点到。" }
+      ]
+    },
+    {
+      "word": "overseas",
+      "phonetic": "/ˌəʊvəˈsiːz/",
+      "meaning": "adj. 海外的",
+      "examples": [
+        { "en": "You work for the Overseas Engineering Company, don't you?", "zh": "你在海外工程公司上班，对吗？" }
+      ]
+    },
+    {
+      "word": "invite",
+      "phonetic": "/ɪnˈvaɪt/",
+      "meaning": "v. 邀请",
+      "examples": [
+        { "en": "She invited Charlotte and me to dinner this evening.", "zh": "她请我和夏洛特今晚去吃饭。" }
+      ]
+    },
+    {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "meaning": "n. 方面，路",
+      "examples": [
+        { "en": "By the way, my wife wants to know if Mary needs any help.", "zh": "顺便说一下，我妻子想知道玛丽是否需要帮忙。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Is that you, John?",
+      "zh": "是你吗，约翰？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "that", "roles": ["主语"] },
+        { "text": "you", "roles": ["表语"] },
+        { "text": "John", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Yes, speaking.",
+      "zh": "是的，请讲。",
+      "analysis": [
+        { "text": "Yes", "roles": ["感叹词"] },
+        { "text": "speaking", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Tell Mary we'll be late for dinner this evening.",
+      "zh": "告诉玛丽，今晚的饭我们要晚点到。",
+      "analysis": [
+        { "text": "Tell", "roles": ["谓语"] },
+        { "text": "Mary", "roles": ["宾语"] },
+        { "text": "we'll", "roles": ["主语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "late", "roles": ["表语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "dinner", "roles": ["状语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "evening", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I'm afraid I don't understand.",
+      "zh": "恐怕我听不懂你在说什么。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "afraid", "roles": ["表语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "understand", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Hasn't Mary told you?",
+      "zh": "玛丽没有告诉你吗？",
+      "analysis": [
+        { "text": "Hasn't", "roles": ["谓语"] },
+        { "text": "Mary", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "That is John Smith, isn't it?",
+      "zh": "你是约翰·史密斯，对吗？",
+      "analysis": [
+        { "text": "That", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "John", "roles": ["表语"] },
+        { "text": "Smith", "roles": ["表语"] },
+        { "text": "isn't", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Is that you, John?", "zh": "是你吗，约翰？" },
+    { "en": "Yes, speaking.", "zh": "是的，请讲。" },
+    { "en": "Tell Mary we'll be late for dinner this evening.", "zh": "告诉玛丽，今晚的饭我们要晚点到。" },
+    { "en": "I'm afraid I don't understand.", "zh": "恐怕我听不懂你在说什么。" },
+    { "en": "Hasn't Mary told you?", "zh": "玛丽没有告诉你吗？" },
+    { "en": "She invited Charlotte and me to dinner this evening.", "zh": "她请我和夏洛特今晚去吃饭。" },
+    { "en": "I said I would be at your house at six o'clock, but the boss wants me to do some extra work.", "zh": "我说过六点钟到你家，但老板要我加班。" },
+    { "en": "I don't know when I'll finish.", "zh": "我不知道什么时候能做完。" },
+    { "en": "That is John Smith, isn't it?", "zh": "你是约翰·史密斯，对吗？" },
+    { "en": "Yes, I'm John Smith.", "zh": "是的，我是约翰·史密斯。" },
+    { "en": "You are John Smith, the engineer, aren't you?", "zh": "你是工程师约翰·史密斯，对吗？" },
+    { "en": "No, I don't. I'm John Smith the telephone engineer and I'm repairing your telephone line.", "zh": "不，我不是。我是电话修理工约翰·史密斯，我正在修理你的电话线。" }
+  ]
+}

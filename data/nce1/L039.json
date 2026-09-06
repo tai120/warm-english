@@ -1,0 +1,180 @@
+{
+  "id": "L039",
+  "title": "Lesson 39 · Don't drop it!",
+  "titleZh": "第39课 别摔了！",
+  "words": [
+    {
+      "word": "vase",
+      "phonetic": "/vɑːz/",
+      "meaning": "n. 花瓶",
+      "examples": [
+        { "en": "It's a lovely vase.", "zh": "这是一只可爱的花瓶。" }
+      ]
+    },
+    {
+      "word": "put",
+      "phonetic": "/pʊt/",
+      "meaning": "v. 放，摆",
+      "examples": [
+        { "en": "I'm going to put it on this table.", "zh": "我打算把它放在这张桌子上。" }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meaning": "v. 掉落，摔落",
+      "examples": [
+        { "en": "Don't drop it!", "zh": "别摔了！" }
+      ]
+    },
+    {
+      "word": "careful",
+      "phonetic": "/ˈkeəfl/",
+      "meaning": "adj. 小心的",
+      "examples": [
+        { "en": "Be careful!", "zh": "小心！" }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meaning": "n. 前面",
+      "examples": [
+        { "en": "I'm going to put it in front of the window.", "zh": "我打算把它放在窗户前面。" }
+      ]
+    },
+    {
+      "word": "flower",
+      "phonetic": "/ˈflaʊə(r)/",
+      "meaning": "n. 花",
+      "examples": [
+        { "en": "Those flowers are lovely, too.", "zh": "那些花也很漂亮。" }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meaning": "adj. 可爱的，好看的",
+      "examples": [
+        { "en": "It's a lovely vase.", "zh": "这是一只可爱的花瓶。" },
+        { "en": "Those flowers are lovely, too.", "zh": "那些花也很漂亮。" }
+      ]
+    },
+    {
+      "word": "shelf",
+      "phonetic": "/ʃelf/",
+      "meaning": "n. 架子，搁板",
+      "examples": [
+        { "en": "Put it here, on this shelf.", "zh": "把它放在这儿，这个架子上。" }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "/ðeə(r)/",
+      "meaning": "adv. 那里",
+      "examples": [
+        { "en": "Don't put it there, Sam.", "zh": "别把它放在那里，萨姆。" }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meaning": "n. 窗户",
+      "examples": [
+        { "en": "I'm going to put it here, in front of the window.", "zh": "我打算把它放在这儿，窗户前面。" }
+      ]
+    },
+    {
+      "word": "do",
+      "phonetic": "/duː/",
+      "meaning": "v. 做",
+      "examples": [
+        { "en": "Don't do that.", "zh": "别那样做。" }
+      ]
+    },
+    {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "meaning": "prep. 用，和",
+      "examples": [
+        { "en": "What are you going to do with that vase?", "zh": "你打算用那只花瓶做什么？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Don't do that.",
+      "zh": "别那样做。",
+      "analysis": [
+        { "text": "Don't", "roles": ["谓语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "that", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Give it to me.",
+      "zh": "把它给我。",
+      "analysis": [
+        { "text": "Give", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "What are you going to do with it?",
+      "zh": "你打算用它做什么？",
+      "analysis": [
+        { "text": "What", "roles": ["宾语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "it", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Be careful!",
+      "zh": "小心！",
+      "analysis": [
+        { "text": "Be", "roles": ["谓语"] },
+        { "text": "careful", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Don't drop it!",
+      "zh": "别摔了！",
+      "analysis": [
+        { "text": "Don't", "roles": ["谓语"] },
+        { "text": "drop", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Those flowers are lovely, too.",
+      "zh": "那些花也很漂亮。",
+      "analysis": [
+        { "text": "Those", "roles": ["定语"] },
+        { "text": "flowers", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "lovely", "roles": ["表语"] },
+        { "text": "too", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What are you going to do with that vase, Penny?", "zh": "你打算用那只花瓶做什么，彭妮？" },
+    { "en": "I'm going to put it on this table, Sam.", "zh": "我打算把它放在这张桌子上，萨姆。" },
+    { "en": "Don't do that.", "zh": "别那样做。" },
+    { "en": "Give it to me.", "zh": "把它给我。" },
+    { "en": "What are you going to do with it?", "zh": "你打算用它做什么？" },
+    { "en": "I'm going to put it here, in front of the window.", "zh": "我打算把它放在这儿，窗户前面。" },
+    { "en": "Be careful!", "zh": "小心！" },
+    { "en": "Don't drop it!", "zh": "别摔了！" },
+    { "en": "Don't put it there, Sam. Put it here, on this shelf.", "zh": "别把它放在那里，萨姆。把它放在这儿，这个架子上。" },
+    { "en": "There we are! It's a lovely vase.", "zh": "好了！这是一只可爱的花瓶。" },
+    { "en": "Those flowers are lovely, too.", "zh": "那些花也很漂亮。" }
+  ]
+}

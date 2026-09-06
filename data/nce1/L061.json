@@ -1,0 +1,229 @@
+{
+  "id": "L061",
+  "title": "Lesson 61 · A bad cold",
+  "titleZh": "第61课 重感冒",
+  "words": [
+    {
+      "word": "feel",
+      "phonetic": "/fiːl/",
+      "meaning": "v. 感觉",
+      "examples": [
+        { "en": "He feels ill.", "zh": "他觉得不舒服。" },
+        { "en": "I feel happy today.", "zh": "我今天感到高兴。" }
+      ]
+    },
+    {
+      "word": "ill",
+      "phonetic": "/ɪl/",
+      "meaning": "adj. 生病的",
+      "examples": [
+        { "en": "He feels ill.", "zh": "他觉得不舒服。" },
+        { "en": "He looks ill.", "zh": "他看上去病了。" }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meaning": "v. 看；看起来",
+      "examples": [
+        { "en": "He looks ill.", "zh": "他看上去病了。" },
+        { "en": "Look at the blackboard.", "zh": "看黑板。" }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meaning": "v. 必须",
+      "examples": [
+        { "en": "We must call the doctor.", "zh": "我们必须请医生。" },
+        { "en": "You must stay in bed.", "zh": "你必须卧床休息。" }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic": "/kɔːl/",
+      "meaning": "v. 打电话；叫",
+      "examples": [
+        { "en": "We must call the doctor.", "zh": "我们必须请医生。" },
+        { "en": "Please call me tomorrow.", "zh": "请明天给我打电话。" }
+      ]
+    },
+    {
+      "word": "doctor",
+      "phonetic": "/ˈdɒktə(r)/",
+      "meaning": "n. 医生",
+      "examples": [
+        { "en": "We must call the doctor.", "zh": "我们必须请医生。" },
+        { "en": "The doctor is very kind.", "zh": "这位医生很和蔼。" }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meaning": "n. 电话",
+      "examples": [
+        { "en": "Can you remember the doctor's telephone number?", "zh": "你还记得医生的电话号码吗？" },
+        { "en": "The telephone is ringing.", "zh": "电话铃响了。" }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meaning": "v. 记得，记住",
+      "examples": [
+        { "en": "Can you remember the doctor's telephone number?", "zh": "你还记得医生的电话号码吗？" },
+        { "en": "I can't remember his name.", "zh": "我记不住他的名字。" }
+      ]
+    },
+    {
+      "word": "mouth",
+      "phonetic": "/maʊθ/",
+      "meaning": "n. 嘴",
+      "examples": [
+        { "en": "Open your mouth, Jimmy.", "zh": "吉米，把嘴张开。" },
+        { "en": "Close your mouth, please.", "zh": "请闭上嘴。" }
+      ]
+    },
+    {
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meaning": "n. 舌头",
+      "examples": [
+        { "en": "Show me your tongue.", "zh": "让我看看你的舌头。" },
+        { "en": "The dog has a long tongue.", "zh": "这条狗的舌头很长。" }
+      ]
+    },
+    {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "meaning": "adj. 坏的，严重的",
+      "examples": [
+        { "en": "He has a bad cold.", "zh": "他得了重感冒。" },
+        { "en": "What bad weather!", "zh": "多么糟糕的天气！" }
+      ]
+    },
+    {
+      "word": "cold",
+      "phonetic": "/kəʊld/",
+      "meaning": "n. 感冒",
+      "examples": [
+        { "en": "He has a bad cold.", "zh": "他得了重感冒。" },
+        { "en": "He has a cold, too.", "zh": "他也感冒了。" }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "/njuːz/",
+      "meaning": "n. 消息",
+      "examples": [
+        { "en": "That's good news for Jimmy.", "zh": "对吉米来说，这是个好消息。" },
+        { "en": "I have some good news.", "zh": "我有个好消息。" }
+      ]
+    },
+    {
+      "word": "week",
+      "phonetic": "/wiːk/",
+      "meaning": "n. 星期，周",
+      "examples": [
+        { "en": "He must stay in bed for a week.", "zh": "他必须卧床一周。" },
+        { "en": "See you next week.", "zh": "下周见。" }
+      ]
+    },
+    {
+      "word": "bed",
+      "phonetic": "/bed/",
+      "meaning": "n. 床",
+      "examples": [
+        { "en": "He's in bed.", "zh": "他躺在床上。" },
+        { "en": "He must stay in bed.", "zh": "他必须卧床休息。" }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "/ˈnʌmbə(r)/",
+      "meaning": "n. 号码；数字",
+      "examples": [
+        { "en": "Can you remember the doctor's telephone number?", "zh": "你还记得医生的电话号码吗？" },
+        { "en": "What's your telephone number?", "zh": "你的电话号码是多少？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What's the matter with him?",
+      "zh": "他怎么啦？",
+      "analysis": [
+        { "text": "What's", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "matter", "roles": ["主语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "him", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He feels ill.",
+      "zh": "他觉得不舒服。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "feels", "roles": ["谓语"] },
+        { "text": "ill", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "We must call the doctor.",
+      "zh": "我们必须请医生。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "call", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "doctor", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He has a bad cold, so he must stay in bed for a week.",
+      "zh": "他得了重感冒，因此必须卧床一周。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bad", "roles": ["定语"] },
+        { "text": "cold", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "stay", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "bed", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Because he doesn't like school!",
+      "zh": "因为他不想上学！",
+      "analysis": [
+        { "text": "Because", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "doesn't", "roles": ["谓语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "school", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where's Jimmy?", "zh": "吉米在哪儿？" },
+    { "en": "He's in bed.", "zh": "他躺在床上。" },
+    { "en": "What's the matter with him?", "zh": "他怎么啦？" },
+    { "en": "He feels ill.", "zh": "他觉得不舒服。" },
+    { "en": "He looks ill.", "zh": "他看上去病了。" },
+    { "en": "We must call the doctor.", "zh": "我们必须请医生。" },
+    { "en": "Yes, we must.", "zh": "是的，必须请。" },
+    { "en": "Open your mouth, Jimmy.", "zh": "吉米，把嘴张开。" },
+    { "en": "Show me your tongue. Say, 'Ah'.", "zh": "让我看看你的舌头。说'啊'。" },
+    { "en": "He has a bad cold, so he must stay in bed for a week.", "zh": "他得了重感冒，因此必须卧床一周。" },
+    { "en": "That's good news for Jimmy.", "zh": "对吉米来说，这是个好消息。" },
+    { "en": "Because he doesn't like school!", "zh": "因为他不想上学！" }
+  ]
+}

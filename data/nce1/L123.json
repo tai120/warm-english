@@ -1,0 +1,219 @@
+{
+  "id": "L123",
+  "title": "Lesson 123 · A trip to Australia",
+  "titleZh": "第123课 澳大利亚之行",
+  "words": [
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "n. 旅行",
+      "examples": [
+        { "en": "This is a photograph I took during my trip to Australia.", "zh": "这是我澳大利亚之行时拍的一张照片。" }
+      ]
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɒˈstreɪliə/",
+      "meaning": "n. 澳大利亚",
+      "examples": [
+        { "en": "This is a photograph I took during my trip to Australia.", "zh": "这是我澳大利亚之行时拍的一张照片。" }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meaning": "n. 照片",
+      "examples": [
+        { "en": "This is a good photograph.", "zh": "这张照片拍得很好。" }
+      ]
+    },
+    {
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "meaning": "n. 船，轮船",
+      "examples": [
+        { "en": "That's the ship we travelled on.", "zh": "那就是我们乘坐的船。" },
+        { "en": "What a beautiful ship!", "zh": "多漂亮的船啊！" }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meaning": "v. 旅行",
+      "examples": [
+        { "en": "That's the ship we travelled on.", "zh": "那就是我们乘坐的船。" }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə(r)/",
+      "meaning": "v. 提供",
+      "examples": [
+        { "en": "The one who offered you a job in Australia.", "zh": "就是给你提供澳大利亚那份工作的人。" }
+      ]
+    },
+    {
+      "word": "job",
+      "phonetic": "/dʒɒb/",
+      "meaning": "n. 工作",
+      "examples": [
+        { "en": "The one who offered you a job in Australia.", "zh": "就是给你提供澳大利亚那份工作的人。" }
+      ]
+    },
+    {
+      "word": "guess",
+      "phonetic": "/ɡes/",
+      "meaning": "v. 猜",
+      "examples": [
+        { "en": "Guess!", "zh": "你猜！" }
+      ]
+    },
+    {
+      "word": "beard",
+      "phonetic": "/bɪəd/",
+      "meaning": "n. 胡子",
+      "examples": [
+        { "en": "I grew a beard during the trip.", "zh": "旅行时我留了胡子。" }
+      ]
+    },
+    {
+      "word": "shave",
+      "phonetic": "/ʃeɪv/",
+      "meaning": "v. 刮（胡子）",
+      "examples": [
+        { "en": "I shaved it off when I came home.", "zh": "回家后我就把它剃掉了。" }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meaning": "v. 遇见",
+      "examples": [
+        { "en": "They're people I met during the trip.", "zh": "他们是我旅行中认识的人。" }
+      ]
+    },
+    {
+      "word": "during",
+      "phonetic": "/ˈdjʊərɪŋ/",
+      "meaning": "prep. 在……期间",
+      "examples": [
+        { "en": "I took the photograph during my trip to Australia.", "zh": "这张照片是我在澳大利亚旅行期间拍的。" }
+      ]
+    },
+    {
+      "word": "take",
+      "phonetic": "/teɪk/",
+      "meaning": "v. 拍摄（照片）",
+      "examples": [
+        { "en": "This is a photograph I took during my trip to Australia.", "zh": "这是我澳大利亚之行时拍的一张照片。" }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meaning": "n. 妻子",
+      "examples": [
+        { "en": "My wife didn't like it!", "zh": "我妻子不喜欢！" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This is a photograph I took during my trip to Australia.",
+      "zh": "这是我澳大利亚之行时拍的一张照片。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "photograph", "roles": ["表语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "during", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "trip", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Australia", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Who are these people?",
+      "zh": "这些人是谁？",
+      "analysis": [
+        { "text": "Who", "roles": ["表语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "these", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "That's the ship we travelled on.",
+      "zh": "那就是我们乘坐的船。",
+      "analysis": [
+        { "text": "That's", "roles": ["主语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ship", "roles": ["表语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "travelled", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It's not you, is it?",
+      "zh": "这不是你吧？",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "you", "roles": ["表语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "I grew a beard during the trip, but I shaved it off when I came home.",
+      "zh": "旅行时我留了胡子，但回家后我就把它剃掉了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "grew", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "beard", "roles": ["宾语"] },
+        { "text": "during", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "trip", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "shaved", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "My wife didn't like it!",
+      "zh": "我妻子不喜欢！",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "didn't", "roles": ["谓语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Look, Scott.", "zh": "看，斯科特。" },
+    { "en": "This is a photograph I took during my trip to Australia.", "zh": "这是我澳大利亚之行时拍的一张照片。" },
+    { "en": "Who are these people?", "zh": "这些人是谁？" },
+    { "en": "They're people I met during the trip.", "zh": "他们是我旅行中认识的人。" },
+    { "en": "That's the ship we travelled on.", "zh": "那就是我们乘坐的船。" },
+    { "en": "What a beautiful ship!", "zh": "多漂亮的船啊！" },
+    { "en": "That's the man I told you about.", "zh": "那就是我跟你说过的那个人。" },
+    { "en": "The one who offered you a job in Australia.", "zh": "就是给你提供澳大利亚那份工作的人。" },
+    { "en": "Guess!", "zh": "你猜！" },
+    { "en": "It's not you, is it?", "zh": "这不是你吧？" },
+    { "en": "I grew a beard during the trip, but I shaved it off when I came home.", "zh": "旅行时我留了胡子，但回家后我就把它剃掉了。" },
+    { "en": "My wife didn't like it!", "zh": "我妻子不喜欢！" }
+  ]
+}

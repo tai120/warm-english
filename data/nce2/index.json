@@ -1,0 +1,676 @@
+{
+  "lessons": [
+    {
+      "id": "L001",
+      "title": "Lesson 1 · A private conversation",
+      "titleZh": "第1课 私人谈话",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L002",
+      "title": "Lesson 2 · Breakfast or lunch?",
+      "titleZh": "第2课 早餐还是午餐？",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L003",
+      "title": "Lesson 3 · Please send me a card",
+      "titleZh": "第3课 请给我寄一张明信片",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L004",
+      "title": "Lesson 4 · An exciting trip",
+      "titleZh": "第4课 激动人心的旅行",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L005",
+      "title": "Lesson 5 · No wrong numbers",
+      "titleZh": "第5课 无错号之虞",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L006",
+      "title": "Lesson 6 · Percy Buttons",
+      "titleZh": "第6课 珀西·巴顿斯",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L007",
+      "title": "Lesson 7 · Too late",
+      "titleZh": "第7课 为时太晚",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L008",
+      "title": "Lesson 8 · The best and the worst",
+      "titleZh": "第8课 最好的和最差的",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L009",
+      "title": "Lesson 9 · A cold welcome",
+      "titleZh": "第9课 冷遇",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L010",
+      "title": "Lesson 10 · Not for jazz",
+      "titleZh": "第10课 不适于演奏爵士乐",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L011",
+      "title": "Lesson 11 · One good turn deserves another",
+      "titleZh": "第11课 礼尚往来",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L012",
+      "title": "Lesson 12 · Goodbye and good luck",
+      "titleZh": "第12课 再见，一路顺风",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L013",
+      "title": "Lesson 13 · The Greenwood Boys",
+      "titleZh": "第13课 绿林少年",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L014",
+      "title": "Lesson 14 · Do you speak English?",
+      "titleZh": "第14课 你会讲英语吗？",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L015",
+      "title": "Lesson 15 · Good news",
+      "titleZh": "第15课 佳音",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L016",
+      "title": "Lesson 16 · A polite request",
+      "titleZh": "第16课 彬彬有礼的要求",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L017",
+      "title": "Lesson 17 · Always young",
+      "titleZh": "第17课 青春常驻",
+      "wordCount": 15,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L018",
+      "title": "Lesson 18 · He often does this!",
+      "titleZh": "第18课 他经常干这种事！",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L019",
+      "title": "Lesson 19 · Sold out",
+      "titleZh": "第19课 票已售完",
+      "wordCount": 15,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L020",
+      "title": "Lesson 20 · One man in a boat",
+      "titleZh": "第20课 独坐孤舟",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L021",
+      "title": "Lesson 21 · Mad or not?",
+      "titleZh": "第21课 是不是疯了？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L022",
+      "title": "Lesson 22 · A glass envelope",
+      "titleZh": "第22课 玻璃信封",
+      "wordCount": 16,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L023",
+      "title": "Lesson 23 · A new house",
+      "titleZh": "第23课 新居",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L024",
+      "title": "Lesson 24 · It could be worse",
+      "titleZh": "第24课 不幸中之万幸",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L025",
+      "title": "Lesson 25 · Do the English speak English?",
+      "titleZh": "第25课 英国人讲的是英语吗？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L026",
+      "title": "Lesson 26 · The best art critics",
+      "titleZh": "第26课 最佳美术评论家",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L027",
+      "title": "Lesson 27 · A wet night",
+      "titleZh": "第27课 雨夜",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L028",
+      "title": "Lesson 28 · No parking",
+      "titleZh": "第28课 禁止停车",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L029",
+      "title": "Lesson 29 · Taxi!",
+      "titleZh": "第29课 出租汽车！",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L030",
+      "title": "Lesson 30 · Football or polo?",
+      "titleZh": "第30课 足球还是水球？",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L031",
+      "title": "Lesson 31 · Success story",
+      "titleZh": "第31课 成功者的故事",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L032",
+      "title": "Lesson 32 · Shopping made easy",
+      "titleZh": "第32课 购物变得很方便",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L033",
+      "title": "Lesson 33 · Out of the darkness",
+      "titleZh": "第33课 冲出黑暗",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L034",
+      "title": "Lesson 34 · Quick work",
+      "titleZh": "第34课 破案“神速”",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L035",
+      "title": "Lesson 35 · Stop thief!",
+      "titleZh": "第35课 捉贼！",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L036",
+      "title": "Lesson 36 · Across the Channel",
+      "titleZh": "第36课 横渡海峡",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L037",
+      "title": "Lesson 37 · The Olympic Games",
+      "titleZh": "第37课 奥林匹克运动会",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L038",
+      "title": "Lesson 38 · Everything except the weather",
+      "titleZh": "第38课 唯独没有考虑到天气",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L039",
+      "title": "Lesson 39 · Am I all right?",
+      "titleZh": "第39课 我是否痊愈？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L040",
+      "title": "Lesson 40 · Food and talk",
+      "titleZh": "第40课 进餐与交谈",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L041",
+      "title": "Lesson 41 · Do you call that a hat?",
+      "titleZh": "第41课 你把那个叫帽子吗？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L042",
+      "title": "Lesson 42 · Not very musical",
+      "titleZh": "第42课 并非很懂音乐",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L043",
+      "title": "Lesson 43 · Over the South Pole",
+      "titleZh": "第43课 飞越南极",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L044",
+      "title": "Lesson 44 · Through the forest",
+      "titleZh": "第44课 穿过森林",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L045",
+      "title": "Lesson 45 · A clear conscience",
+      "titleZh": "第45课 问心无愧",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L046",
+      "title": "Lesson 46 · Expensive and uncomfortable",
+      "titleZh": "第46课 既昂贵又受罪",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L047",
+      "title": "Lesson 47 · A thirsty ghost",
+      "titleZh": "第47课 嗜酒的鬼魂",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L048",
+      "title": "Lesson 48 · Did you want to tell me something?",
+      "titleZh": "第48课 你想对我说什么吗？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L049",
+      "title": "Lesson 49 · The end of a dream",
+      "titleZh": "第49课 美梦告终",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L050",
+      "title": "Lesson 50 · Taken for a ride",
+      "titleZh": "第50课 乘车兜风",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L051",
+      "title": "Lesson 51 · Reward for virtue",
+      "titleZh": "第51课 对美德的奖赏",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L052",
+      "title": "Lesson 52 · A pretty carpet",
+      "titleZh": "第52课 漂亮的地毯",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L053",
+      "title": "Lesson 53 · Hot snake",
+      "titleZh": "第53课 触电的蛇",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L054",
+      "title": "Lesson 54 · Sticky fingers",
+      "titleZh": "第54课 粘糊的手指",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L055",
+      "title": "Lesson 55 · Not a gold mine",
+      "titleZh": "第55课 并非金矿",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L056",
+      "title": "Lesson 56 · Faster than sound!",
+      "titleZh": "第56课 比声音还快！",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L057",
+      "title": "Lesson 57 · Can I help you, madam?",
+      "titleZh": "第57课 您要买什么，夫人？",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L058",
+      "title": "Lesson 58 · A blessing in disguise?",
+      "titleZh": "第58课 是因祸得福吗？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L059",
+      "title": "Lesson 59 · In or out?",
+      "titleZh": "第59课 进来还是出去？",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L060",
+      "title": "Lesson 60 · The future",
+      "titleZh": "第60课 卜算未来",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "L061",
+      "title": "Lesson 61 · Trouble with the Hubble",
+      "titleZh": "第61课 哈勃望远镜的困境",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L062",
+      "title": "Lesson 62 · After the fire",
+      "titleZh": "第62课 大火之后",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L063",
+      "title": "Lesson 63 · She was not amused",
+      "titleZh": "第63课 她并不觉得好笑",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L064",
+      "title": "Lesson 64 · The Channel Tunnel",
+      "titleZh": "第64课 海峡隧道",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L065",
+      "title": "Lesson 65 · Jumbo versus the police",
+      "titleZh": "第65课 小象对警察",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L066",
+      "title": "Lesson 66 · Sweet as honey!",
+      "titleZh": "第66课 像蜜一样甜！",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L067",
+      "title": "Lesson 67 · Volcanoes",
+      "titleZh": "第67课 火山",
+      "wordCount": 18,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L068",
+      "title": "Lesson 68 · Persistent",
+      "titleZh": "第68课 纠缠不休",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L069",
+      "title": "Lesson 69 · But not murder!",
+      "titleZh": "第69课 并非谋杀！",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L070",
+      "title": "Lesson 70 · Red for danger",
+      "titleZh": "第70课 危险的红色",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L071",
+      "title": "Lesson 71 · A famous clock",
+      "titleZh": "第71课 一个著名的大钟",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L072",
+      "title": "Lesson 72 · A car called Bluebird",
+      "titleZh": "第72课 '蓝鸟'汽车",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L073",
+      "title": "Lesson 73 · The record-holder",
+      "titleZh": "第73课 纪录保持者",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L074",
+      "title": "Lesson 74 · Out of the limelight",
+      "titleZh": "第74课 舞台之外",
+      "wordCount": 18,
+      "sentenceCount": 4
+    },
+    {
+      "id": "L075",
+      "title": "Lesson 75 · SOS",
+      "titleZh": "第75课 呼救信号",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L076",
+      "title": "Lesson 76 · April Fools' Day",
+      "titleZh": "第76课 愚人节",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L077",
+      "title": "Lesson 77 · A successful operation",
+      "titleZh": "第77课 一例成功的手术",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L078",
+      "title": "Lesson 78 · The last one?",
+      "titleZh": "第78课 最后一支吗？",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L079",
+      "title": "Lesson 79 · By air",
+      "titleZh": "第79课 乘飞机",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L080",
+      "title": "Lesson 80 · The Crystal Palace",
+      "titleZh": "第80课 水晶宫",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L081",
+      "title": "Lesson 81 · Escape",
+      "titleZh": "第81课 脱逃",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L082",
+      "title": "Lesson 82 · Monster or fish?",
+      "titleZh": "第82课 是妖还是鱼？",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L083",
+      "title": "Lesson 83 · After the elections",
+      "titleZh": "第83课 大选之后",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L084",
+      "title": "Lesson 84 · On strike",
+      "titleZh": "第84课 罢工",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L085",
+      "title": "Lesson 85 · Never too old to learn",
+      "titleZh": "第85课 活到老学到老",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L086",
+      "title": "Lesson 86 · Out of control",
+      "titleZh": "第86课 失控",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L087",
+      "title": "Lesson 87 · A perfect alibi",
+      "titleZh": "第87课 极好的不在犯罪现场的证据",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L088",
+      "title": "Lesson 88 · Trapped in a mine",
+      "titleZh": "第88课 困在矿井里",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L089",
+      "title": "Lesson 89 · A slip of the tongue",
+      "titleZh": "第89课 口误",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L090",
+      "title": "Lesson 90 · What's for supper?",
+      "titleZh": "第90课 晚餐吃什么？",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L091",
+      "title": "Lesson 91 · Three men in a basket",
+      "titleZh": "第91课 三人同篮",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L092",
+      "title": "Lesson 92 · Asking for trouble",
+      "titleZh": "第92课 自找麻烦",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L093",
+      "title": "Lesson 93 · A noble gift",
+      "titleZh": "第93课 崇高的礼物",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L094",
+      "title": "Lesson 94 · Future champions",
+      "titleZh": "第94课 未来的冠军",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L095",
+      "title": "Lesson 95 · A fantasy",
+      "titleZh": "第95课 纯属虚构",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "L096",
+      "title": "Lesson 96 · The dead return",
+      "titleZh": "第96课 亡灵返乡",
+      "wordCount": 16,
+      "sentenceCount": 5
+    }
+  ]
+}

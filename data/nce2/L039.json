@@ -1,0 +1,253 @@
+{
+  "id": "L039",
+  "title": "Lesson 39 · Am I all right?",
+  "titleZh": "第39课 我是否痊愈？",
+  "words": [
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meaning": "n. 手术",
+      "examples": [
+        { "en": "He asked if the operation had been successful.", "zh": "他问手术是否成功。" },
+        { "en": "The doctor performed an operation on him.", "zh": "医生给他做了手术。" }
+      ]
+    },
+    {
+      "word": "successful",
+      "phonetic": "/səkˈsesfl/",
+      "meaning": "adj. 成功的",
+      "examples": [
+        { "en": "The operation had been successful.", "zh": "手术很成功。" },
+        { "en": "The concert was very successful.", "zh": "音乐会非常成功。" }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meaning": "v. 拒绝",
+      "examples": [
+        { "en": "The doctor refused to tell him.", "zh": "医生拒绝告诉他。" },
+        { "en": "He refused to answer the question.", "zh": "他拒绝回答这个问题。" }
+      ]
+    },
+    {
+      "word": "following",
+      "phonetic": "/ˈfɒləʊɪŋ/",
+      "meaning": "adj. 接着的，以下的",
+      "examples": [
+        { "en": "The following day, the patient asked for a telephone.", "zh": "第二天，这位病人要了一部电话。" },
+        { "en": "Read the following sentences.", "zh": "朗读下面的句子。" }
+      ]
+    },
+    {
+      "word": "patient",
+      "phonetic": "/ˈpeɪʃnt/",
+      "meaning": "n. 病人",
+      "examples": [
+        { "en": "The patient asked for a bedside telephone.", "zh": "这位病人要了一部床头电话。" },
+        { "en": "The doctor is looking after his patients.", "zh": "医生正在照顾他的病人。" }
+      ]
+    },
+    {
+      "word": "bedside",
+      "phonetic": "/ˈbedsaɪd/",
+      "meaning": "adj. 床边的",
+      "examples": [
+        { "en": "The patient asked for a bedside telephone.", "zh": "病人要了一部床头电话。" },
+        { "en": "There is a lamp on the bedside table.", "zh": "床头柜上有一盏灯。" }
+      ]
+    },
+    {
+      "word": "exchange",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "meaning": "n. （电话）交换台，总机",
+      "examples": [
+        { "en": "He telephoned the hospital exchange.", "zh": "他给医院总机打了电话。" },
+        { "en": "Ask the exchange for the number.", "zh": "请总机查一下这个号码。" }
+      ]
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈləʊn/",
+      "meaning": "adj. 独自的，单独的",
+      "examples": [
+        { "en": "When he was alone, he telephoned the doctor.", "zh": "他独自一人时，给医生打了电话。" },
+        { "en": "She lives alone.", "zh": "她一个人住。" }
+      ]
+    },
+    {
+      "word": "inquire",
+      "phonetic": "/ɪnˈkwaɪə(r)/",
+      "meaning": "v. 询问，打听",
+      "examples": [
+        { "en": "He was inquiring about a certain patient.", "zh": "他在询问一位病人的情况。" },
+        { "en": "She inquired about the train times.", "zh": "她询问了火车时刻。" }
+      ]
+    },
+    {
+      "word": "certain",
+      "phonetic": "/ˈsɜːtn/",
+      "meaning": "adj. 某个；一定的",
+      "examples": [
+        { "en": "He asked about a certain patient.", "zh": "他打听某一位病人。" },
+        { "en": "I am certain that he will come.", "zh": "我确信他会来。" }
+      ]
+    },
+    {
+      "word": "caller",
+      "phonetic": "/ˈkɔːlə(r)/",
+      "meaning": "n. 打电话的人",
+      "examples": [
+        { "en": "The doctor asked the caller if he was a relative.", "zh": "医生问打电话的人是否是亲属。" },
+        { "en": "The caller hung up the phone.", "zh": "打电话的人挂断了电话。" }
+      ]
+    },
+    {
+      "word": "relative",
+      "phonetic": "/ˈrelətɪv/",
+      "meaning": "n. 亲属，亲戚",
+      "examples": [
+        { "en": "He is a relative of the patient.", "zh": "他是病人的一位亲属。" },
+        { "en": "She visited her relatives in the country.", "zh": "她去乡下看望亲戚。" }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "v. 回答",
+      "examples": [
+        { "en": "The doctor answered the phone.", "zh": "医生接起了电话。" },
+        { "en": "Please answer my question.", "zh": "请回答我的问题。" }
+      ]
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "v. 允许",
+      "examples": [
+        { "en": "He asked when he would be allowed to go home.", "zh": "他问什么时候可以回家。" },
+        { "en": "Smoking is not allowed here.", "zh": "这里不允许吸烟。" }
+      ]
+    },
+    {
+      "word": "John Gilbert",
+      "phonetic": "/dʒɒn ˈɡɪlbət/",
+      "meaning": "n. 约翰·吉尔伯特（人名）",
+      "examples": [
+        { "en": "John Gilbert was in hospital.", "zh": "约翰·吉尔伯特住院了。" },
+        { "en": "I am Mr John Gilbert.", "zh": "我就是约翰·吉尔伯特先生。" }
+      ]
+    },
+    {
+      "word": "Millington",
+      "phonetic": "/ˈmɪlɪŋtən/",
+      "meaning": "n. 米灵顿（人名）",
+      "examples": [
+        { "en": "He asked for Doctor Millington.", "zh": "他要求找米灵顿医生。" },
+        { "en": "Dr Millington answered the phone.", "zh": "米灵顿医生接起了电话。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The doctor refused to tell him.",
+      "zh": "医生拒绝告诉他。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "doctor", "roles": ["主语"] },
+        { "text": "refused", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The following day, the patient asked for a bedside telephone.",
+      "zh": "第二天，这位病人要了一部床头电话。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "following", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "patient", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bedside", "roles": ["定语"] },
+        { "text": "telephone", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "zh": "他独自一人时，给医院总机打了电话，要找米灵顿医生。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "alone", "roles": ["表语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "telephoned", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "hospital", "roles": ["定语"] },
+        { "text": "exchange", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "Doctor", "roles": ["定语"] },
+        { "text": "Millington", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He then asked when Mr Gilbert would be allowed to go home.",
+      "zh": "然后他又问吉尔伯特先生什么时候可以回家。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Gilbert", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "allowed", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The doctor told him that he would have to stay in hospital for another two weeks.",
+      "zh": "医生告诉他，他还得在医院再住两个星期。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "doctor", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "stay", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "hospital", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "weeks", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful.", "zh": "约翰·吉尔伯特住院时，问医生他的手术是否成功。" },
+    { "en": "The doctor refused to tell him.", "zh": "医生拒绝告诉他。" },
+    { "en": "The following day, the patient asked for a bedside telephone.", "zh": "第二天，这位病人要了一部床头电话。" },
+    { "en": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.", "zh": "他独自一人时，给医院总机打了电话，要找米灵顿医生。" },
+    { "en": "When the doctor answered the phone, Mr Gilbert said he was inquiring about a certain patient, a Mr John Gilbert.", "zh": "医生接起电话后，吉尔伯特先生说，他想询问一位病人的情况——一位名叫约翰·吉尔伯特的先生。" },
+    { "en": "He asked if the operation had been successful and the doctor told him that it had been.", "zh": "他问手术是否成功，医生告诉他手术很成功。" },
+    { "en": "He then asked when Mr Gilbert would be allowed to go home.", "zh": "然后他又问吉尔伯特先生什么时候可以回家。" },
+    { "en": "The doctor told him that he would have to stay in hospital for another two weeks.", "zh": "医生告诉他，他还得在医院再住两个星期。" },
+    { "en": "Then Dr Millington asked the caller if he was a relative of the patient.", "zh": "接着米灵顿医生问打电话的人是否是病人的亲属。" },
+    { "en": "'No,' the patient answered, 'I am Mr John Gilbert.'", "zh": "“不，”病人回答说，“我就是约翰·吉尔伯特先生。”" }
+  ]
+}

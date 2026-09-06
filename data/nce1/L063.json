@@ -1,0 +1,229 @@
+{
+  "id": "L063",
+  "title": "Lesson 63 · Thank you, doctor.",
+  "titleZh": "第63课 谢谢你，医生。",
+  "words": [
+    {
+      "word": "better",
+      "phonetic": "/ˈbetə(r)/",
+      "meaning": "adj. 更好的；（身体）好转",
+      "examples": [
+        { "en": "Better. Thank you, doctor.", "zh": "好一些了。谢谢你，医生。" },
+        { "en": "You are better now.", "zh": "你现在好多了。" }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meaning": "adv. 在楼上，到楼上",
+      "examples": [
+        { "en": "Come upstairs.", "zh": "到楼上来。" },
+        { "en": "He is upstairs.", "zh": "他在楼上。" }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "/wel/",
+      "meaning": "adj. 健康的，身体好的",
+      "examples": [
+        { "en": "You look very well, Jimmy.", "zh": "吉米，你看起来很好。" },
+        { "en": "I'm very well, thank you.", "zh": "我很好，谢谢。" }
+      ]
+    },
+    {
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meaning": "adv. 还，仍",
+      "examples": [
+        { "en": "You mustn't get up yet.", "zh": "你现在还不能起床。" },
+        { "en": "The boy mustn't go to school yet.", "zh": "这孩子还不能去上学。" }
+      ]
+    },
+    {
+      "word": "rich",
+      "phonetic": "/rɪtʃ/",
+      "meaning": "adj. 油腻的；丰富的",
+      "examples": [
+        { "en": "He mustn't eat rich food.", "zh": "他不能吃油腻的食物。" },
+        { "en": "Don't eat rich food.", "zh": "别吃油腻的食物。" }
+      ]
+    },
+    {
+      "word": "food",
+      "phonetic": "/fuːd/",
+      "meaning": "n. 食物",
+      "examples": [
+        { "en": "He mustn't eat rich food.", "zh": "他不能吃油腻的食物。" },
+        { "en": "I like Chinese food.", "zh": "我喜欢中国菜。" }
+      ]
+    },
+    {
+      "word": "remain",
+      "phonetic": "/rɪˈmeɪn/",
+      "meaning": "v. 保持，继续",
+      "examples": [
+        { "en": "He must remain in bed for another two days.", "zh": "他还得卧床两天。" },
+        { "en": "Please remain here.", "zh": "请留在这里。" }
+      ]
+    },
+    {
+      "word": "temperature",
+      "phonetic": "/ˈtemprətʃə(r)/",
+      "meaning": "n. 温度；体温",
+      "examples": [
+        { "en": "Does he have a temperature?", "zh": "他发烧吗？" },
+        { "en": "The temperature is high today.", "zh": "今天气温很高。" }
+      ]
+    },
+    {
+      "word": "keep",
+      "phonetic": "/kiːp/",
+      "meaning": "v. 保持",
+      "examples": [
+        { "en": "You must keep the room warm.", "zh": "你必须保持房间暖和。" },
+        { "en": "Keep quiet, please.", "zh": "请保持安静。" }
+      ]
+    },
+    {
+      "word": "room",
+      "phonetic": "/ruːm/",
+      "meaning": "n. 房间",
+      "examples": [
+        { "en": "You must keep the room warm.", "zh": "你必须保持房间暖和。" },
+        { "en": "This room is very big.", "zh": "这个房间很大。" }
+      ]
+    },
+    {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "meaning": "adv. 大约",
+      "examples": [
+        { "en": "He can get up for about two hours each day.", "zh": "他每天可以起床大约两个小时。" },
+        { "en": "There are about twenty cars.", "zh": "大约有二十辆汽车。" }
+      ]
+    },
+    {
+      "word": "hour",
+      "phonetic": "/ˈaʊə(r)/",
+      "meaning": "n. 小时",
+      "examples": [
+        { "en": "He can get up for about two hours each day.", "zh": "他每天可以起床大约两个小时。" },
+        { "en": "It takes one hour.", "zh": "这需要一小时。" }
+      ]
+    },
+    {
+      "word": "each",
+      "phonetic": "/iːtʃ/",
+      "meaning": "pron. 每，各",
+      "examples": [
+        { "en": "He can get up for about two hours each day.", "zh": "他每天可以起床大约两个小时。" },
+        { "en": "Each of us has a book.", "zh": "我们每人有一本书。" }
+      ]
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə(r)/",
+      "meaning": "pron. 另一个；再一个",
+      "examples": [
+        { "en": "He must remain in bed for another two days.", "zh": "他还得卧床两天。" },
+        { "en": "May I have another cup of tea?", "zh": "我能再来一杯茶吗？" }
+      ]
+    },
+    {
+      "word": "day",
+      "phonetic": "/deɪ/",
+      "meaning": "n. 天，日",
+      "examples": [
+        { "en": "He must remain in bed for another two days.", "zh": "他还得卧床两天。" },
+        { "en": "Have a nice day!", "zh": "祝你愉快！" }
+      ]
+    },
+    {
+      "word": "boy",
+      "phonetic": "/bɔɪ/",
+      "meaning": "n. 男孩",
+      "examples": [
+        { "en": "The boy mustn't go to school yet.", "zh": "这孩子还不能去上学。" },
+        { "en": "The boy is Jimmy.", "zh": "这个男孩是吉米。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "You look very well, Jimmy.",
+      "zh": "吉米，你看起来很好。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "look", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "well", "roles": ["表语"] },
+        { "text": "Jimmy", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "You mustn't get up yet.",
+      "zh": "你现在还不能起床。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "mustn't", "roles": ["谓语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "yet", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Does he have a temperature, doctor?",
+      "zh": "他发烧吗，医生？",
+      "analysis": [
+        { "text": "Does", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "temperature", "roles": ["宾语"] },
+        { "text": "doctor", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "He must remain in bed for another two days.",
+      "zh": "他还得卧床两天。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "remain", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "bed", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "days", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "But you must keep the room warm.",
+      "zh": "但你必须保持房间暖和。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "keep", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "room", "roles": ["宾语"] },
+        { "text": "warm", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "How's Jimmy today?", "zh": "吉米今天怎么样？" },
+    { "en": "Better. Thank you, doctor.", "zh": "好一些了。谢谢你，医生。" },
+    { "en": "Can I see him please, Mrs. Williams?", "zh": "我可以看看他吗，威廉斯夫人？" },
+    { "en": "Certainly, doctor. Come upstairs.", "zh": "当然可以，医生。到楼上来。" },
+    { "en": "You look very well, Jimmy.", "zh": "吉米，你看起来很好。" },
+    { "en": "You mustn't get up yet.", "zh": "你现在还不能起床。" },
+    { "en": "You must stay in bed for another two days.", "zh": "你必须再卧床两天。" },
+    { "en": "Does he have a temperature, doctor?", "zh": "他发烧吗，医生？" },
+    { "en": "No, he doesn't.", "zh": "不，他没有。" },
+    { "en": "He must remain in bed for another two days.", "zh": "他还得卧床两天。" },
+    { "en": "He can get up for about two hours each day.", "zh": "他每天可以起床大约两个小时。" },
+    { "en": "But you must keep the room warm.", "zh": "但你必须保持房间暖和。" }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": "L045",
+  "title": "Lesson 45 · A clear conscience",
+  "titleZh": "第45课 问心无愧",
+  "words": [
+    {
+      "word": "clear",
+      "phonetic": "/klɪə(r)/",
+      "meaning": "adj. 清白的；清楚的",
+      "examples": [
+        { "en": "He has a clear conscience.", "zh": "他问心无愧。" },
+        { "en": "The sky is clear today.", "zh": "今天天空晴朗。" }
+      ]
+    },
+    {
+      "word": "conscience",
+      "phonetic": "/ˈkɒnʃəns/",
+      "meaning": "n. 良心",
+      "examples": [
+        { "en": "The thief said he had a clear conscience now.", "zh": "小偷说他现在问心无愧。" },
+        { "en": "A clear conscience makes you sleep well.", "zh": "问心无愧，睡得安稳。" }
+      ]
+    },
+    {
+      "word": "wallet",
+      "phonetic": "/ˈwɒlɪt/",
+      "meaning": "n. 钱包",
+      "examples": [
+        { "en": "Sam had lost his wallet.", "zh": "萨姆丢了钱包。" },
+        { "en": "There is little money in my wallet.", "zh": "我钱包里没什么钱。" }
+      ]
+    },
+    {
+      "word": "savings",
+      "phonetic": "/ˈseɪvɪŋz/",
+      "meaning": "n. 存款",
+      "examples": [
+        { "en": "He was taking his savings to the post office.", "zh": "他正把存款送往邮局。" },
+        { "en": "She keeps her savings in the bank.", "zh": "她把存款存在银行里。" }
+      ]
+    },
+    {
+      "word": "villager",
+      "phonetic": "/ˈvɪlɪdʒə(r)/",
+      "meaning": "n. 村民",
+      "examples": [
+        { "en": "The wallet was found by one of the villagers.", "zh": "钱包被一个村民捡到了。" },
+        { "en": "The villagers were very friendly.", "zh": "村民们非常友好。" }
+      ]
+    },
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə(r)/",
+      "meaning": "n. 屠夫，肉商",
+      "examples": [
+        { "en": "Sam Benton was the local butcher.", "zh": "萨姆·本顿是当地的屠户。" },
+        { "en": "The butcher sells fresh meat.", "zh": "肉商出售新鲜肉。" }
+      ]
+    },
+    {
+      "word": "wrap",
+      "phonetic": "/ræp/",
+      "meaning": "v. 包，裹",
+      "examples": [
+        { "en": "The wallet was wrapped up in newspaper.", "zh": "钱包用报纸包着。" },
+        { "en": "She wrapped the present in nice paper.", "zh": "她用漂亮的纸把礼物包了起来。" }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə(r)/",
+      "meaning": "n. 报纸",
+      "examples": [
+        { "en": "The wallet was wrapped up in newspaper.", "zh": "钱包用报纸包着。" },
+        { "en": "Father is reading the newspaper.", "zh": "爸爸在看报纸。" }
+      ]
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "meaning": "v. 包含，装有",
+      "examples": [
+        { "en": "The wallet contained half the money.", "zh": "钱包里装着一半的钱。" },
+        { "en": "The book contains many pictures.", "zh": "这本书里有许多图画。" }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meaning": "n. 便条，纸条",
+      "examples": [
+        { "en": "There was a note in the wallet.", "zh": "钱包里有一张纸条。" },
+        { "en": "He left a note on the desk.", "zh": "他在桌上留了张便条。" }
+      ]
+    },
+    {
+      "word": "per cent",
+      "phonetic": "/pə ˈsent/",
+      "meaning": "n. 百分之……",
+      "examples": [
+        { "en": "The note said, 'Only 50 per cent a thief.'", "zh": "纸条上写着：“只是个百分之五十的小偷。”" },
+        { "en": "Eighty per cent of the students passed the exam.", "zh": "百分之八十的学生通过了考试。" }
+      ]
+    },
+    {
+      "word": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meaning": "adj. 诚实的，正直的",
+      "examples": [
+        { "en": "The last note said, 'I am 100 per cent honest now!'", "zh": "最后一张纸条上写着：“我现在是百分之百的正直人了！”" },
+        { "en": "He is an honest man.", "zh": "他是个诚实的人。" }
+      ]
+    },
+    {
+      "word": "post office",
+      "phonetic": "/ˈpəʊst ɒfɪs/",
+      "meaning": "n. 邮局",
+      "examples": [
+        { "en": "He was taking his savings to the post office.", "zh": "他正把存款送往邮局。" },
+        { "en": "The post office is next to the bank.", "zh": "邮局在银行旁边。" }
+      ]
+    },
+    {
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meaning": "n. 金额，一笔钱",
+      "examples": [
+        { "en": "A large sum of money had been lost.", "zh": "一大笔钱丢失了。" },
+        { "en": "He paid a large sum for the house.", "zh": "他花了一大笔钱买这幢房子。" }
+      ]
+    },
+    {
+      "word": "Sam Benton",
+      "phonetic": "/sæm ˈbentən/",
+      "meaning": "n. 萨姆·本顿（人名）",
+      "examples": [
+        { "en": "Sam Benton was the local butcher.", "zh": "萨姆·本顿是当地的屠户。" },
+        { "en": "Sam Benton found his wallet outside his front door.", "zh": "萨姆·本顿在大门外发现了自己的钱包。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 归还，返回",
+      "examples": [
+        { "en": "The wallet was not returned to him.", "zh": "钱包没有还给他。" },
+        { "en": "Please return the book to the library.", "zh": "请把书还给图书馆。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The whole village soon learnt that a large sum of money had been lost.",
+      "zh": "整个村子很快知道，有一大笔钱丢失了。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "village", "roles": ["主语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "learnt", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "sum", "roles": ["主语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "money", "roles": ["状语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "lost", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.",
+      "zh": "当地的屠户萨姆·本顿在把存款送往邮局的途中，丢失了钱包。",
+      "analysis": [
+        { "text": "Sam", "roles": ["定语"] },
+        { "text": "Benton", "roles": ["主语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "local", "roles": ["定语"] },
+        { "text": "butcher", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "lost", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "wallet", "roles": ["宾语"] },
+        { "text": "while", "roles": ["连词"] },
+        { "text": "taking", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "savings", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "post", "roles": ["定语"] },
+        { "text": "office", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Sam was sure that the wallet must have been found by one of the villagers.",
+      "zh": "萨姆确信钱包一定是被某个村民捡到了。",
+      "analysis": [
+        { "text": "Sam", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wallet", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "one", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "villagers", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Three months passed, and then one morning, Sam found his wallet outside his front door.",
+      "zh": "三个月过去了，一天早晨，萨姆在自己的大门外发现了那只钱包。",
+      "analysis": [
+        { "text": "Three", "roles": ["定语"] },
+        { "text": "months", "roles": ["主语"] },
+        { "text": "passed", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "one", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] },
+        { "text": "Sam", "roles": ["主语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "wallet", "roles": ["宾语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "front", "roles": ["定语"] },
+        { "text": "door", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note.",
+      "zh": "钱包是用报纸包着的，里面装着他丢失的一半的钱，还有一张纸条。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "wrapped", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "newspaper", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "contained", "roles": ["谓语"] },
+        { "text": "half", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "lost", "roles": ["谓语"] },
+        { "text": "together", "roles": ["状语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "note", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The whole village soon learnt that a large sum of money had been lost.", "zh": "整个村子很快知道，有一大笔钱丢失了。" },
+    { "en": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.", "zh": "当地的屠户萨姆·本顿在把存款送往邮局的途中，丢失了钱包。" },
+    { "en": "Sam was sure that the wallet must have been found by one of the villagers.", "zh": "萨姆确信钱包一定是被某个村民捡到了。" },
+    { "en": "But it was not returned to him.", "zh": "可是却没有人还给他。" },
+    { "en": "Three months passed, and then one morning, Sam found his wallet outside his front door.", "zh": "三个月过去了，一天早晨，萨姆在自己的大门外发现了那只钱包。" },
+    { "en": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note.", "zh": "钱包是用报纸包着的，里面装着他丢失的一半的钱，还有一张纸条。" },
+    { "en": "The note said, 'A thief, yes, but only 50 per cent a thief!'", "zh": "纸条上写着：“是小偷，没错，但只是个百分之五十的小偷！”" },
+    { "en": "Two months later, some more money was sent to Sam with another note.", "zh": "两个月后，又有人给萨姆寄来了一些钱，还附了一张纸条。" },
+    { "en": "In time, all Sam's money was paid back in this way.", "zh": "渐渐地，萨姆的钱全都以这种方式还清了。" },
+    { "en": "The last note said, 'I am 100 per cent honest now!'", "zh": "最后一张纸条上写着：“我现在是百分之百的正直人了！”" }
+  ]
+}

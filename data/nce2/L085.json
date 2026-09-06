@@ -1,0 +1,263 @@
+{
+  "id": "L085",
+  "title": "Lesson 85 · Never too old to learn",
+  "titleZh": "第85课 活到老学到老",
+  "words": [
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meaning": "v. 收到",
+      "examples": [
+        { "en": "I have just received a letter from my old school.", "zh": "我刚收到母校的一封信。" }
+      ]
+    },
+    {
+      "word": "inform",
+      "phonetic": "/ɪnˈfɔːm/",
+      "meaning": "v. 通知",
+      "examples": [
+        { "en": "The letter informed me that he would retire.", "zh": "信上通知我他将退休。" }
+      ]
+    },
+    {
+      "word": "headmaster",
+      "phonetic": "/ˌhedˈmɑːstə(r)/",
+      "meaning": "n. 校长",
+      "examples": [
+        { "en": "Mr. Page is our former headmaster.", "zh": "佩奇先生是我们的老校长。" }
+      ]
+    },
+    {
+      "word": "pupil",
+      "phonetic": "/ˈpjuːpl/",
+      "meaning": "n. 学生，小学生",
+      "examples": [
+        { "en": "Pupils of the school will send him a present.", "zh": "学校的学生们将送他一份礼物。" }
+      ]
+    },
+    {
+      "word": "mark",
+      "phonetic": "/mɑːk/",
+      "meaning": "v. 纪念；标志",
+      "examples": [
+        { "en": "The gift will mark the occasion.", "zh": "这份礼物将用来纪念这一时刻。" }
+      ]
+    },
+    {
+      "word": "occasion",
+      "phonetic": "/əˈkeɪʒn/",
+      "meaning": "n. 场合，时刻",
+      "examples": [
+        { "en": "We are sending him a present to mark the occasion.", "zh": "我们送他礼物来纪念这一时刻。" }
+      ]
+    },
+    {
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "meaning": "v. 捐助，贡献",
+      "examples": [
+        { "en": "Many pupils have contributed towards the gift.", "zh": "许多学生为这份礼物捐了钱。" }
+      ]
+    },
+    {
+      "word": "gift",
+      "phonetic": "/ɡɪft/",
+      "meaning": "n. 礼物",
+      "examples": [
+        { "en": "The gift will be sent to the headmaster's home.", "zh": "礼物将被送到校长家里。" }
+      ]
+    },
+    {
+      "word": "album",
+      "phonetic": "/ˈælbəm/",
+      "meaning": "n. 签名簿；相册",
+      "examples": [
+        { "en": "They signed their names in a large album.", "zh": "他们在一本大签名簿上签了名。" }
+      ]
+    },
+    {
+      "word": "patience",
+      "phonetic": "/ˈpeɪʃns/",
+      "meaning": "n. 耐心",
+      "examples": [
+        { "en": "We shall remember Mr. Page for his patience.", "zh": "我们将铭记佩奇先生的耐心。" }
+      ]
+    },
+    {
+      "word": "encouragement",
+      "phonetic": "/ɪnˈkʌrɪdʒmənt/",
+      "meaning": "n. 鼓励",
+      "examples": [
+        { "en": "He gave us kindly encouragement.", "zh": "他给了我们亲切的鼓励。" }
+      ]
+    },
+    {
+      "word": "farewell",
+      "phonetic": "/ˌfeəˈwel/",
+      "meaning": "adj. 告别的",
+      "examples": [
+        { "en": "A farewell dinner will be held next Thursday.", "zh": "下星期四将举行告别宴会。" }
+      ]
+    },
+    {
+      "word": "honour",
+      "phonetic": "/ˈɒnə(r)/",
+      "meaning": "n. 敬意，荣誉",
+      "examples": [
+        { "en": "The dinner will be held in his honour.", "zh": "宴会是为向他表示敬意而举行的。" }
+      ]
+    },
+    {
+      "word": "coincidence",
+      "phonetic": "/kəʊˈɪnsɪdəns/",
+      "meaning": "n. 巧合",
+      "examples": [
+        { "en": "It is a curious coincidence that he retires after forty years.", "zh": "他在从教四十年后退休，真是个奇妙的巧合。" }
+      ]
+    },
+    {
+      "word": "total",
+      "phonetic": "/ˈtəʊtl/",
+      "meaning": "n. 总数",
+      "examples": [
+        { "en": "He has been teaching for a total of forty years.", "zh": "他教书的时间总共已达四十年。" }
+      ]
+    },
+    {
+      "word": "devote",
+      "phonetic": "/dɪˈvəʊt/",
+      "meaning": "v. 奉献",
+      "examples": [
+        { "en": "He will devote himself to gardening.", "zh": "他将致力于园艺。" }
+      ]
+    },
+    {
+      "word": "gardening",
+      "phonetic": "/ˈɡɑːdnɪŋ/",
+      "meaning": "n. 园艺",
+      "examples": [
+        { "en": "Gardening will be his new hobby.", "zh": "园艺将是他的新爱好。" }
+      ]
+    },
+    {
+      "word": "hobby",
+      "phonetic": "/ˈhɒbi/",
+      "meaning": "n. 爱好",
+      "examples": [
+        { "en": "Collecting stamps is my hobby.", "zh": "集邮是我的爱好。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I have just received a letter from my old school.",
+      "zh": "我刚收到母校的一封信。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "received", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "school", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "My former headmaster, Mr. Stuart Page, will be retiring next week.",
+      "zh": "我的老校长斯图亚特·佩奇先生下星期就要退休了。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "former", "roles": ["定语"] },
+        { "text": "headmaster", "roles": ["主语"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Stuart", "roles": ["定语"] },
+        { "text": "Page", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "retiring", "roles": ["谓语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We shall all remember Mr. Page for his patience and for his kindly encouragement.",
+      "zh": "我们都将铭记佩奇先生的耐心和他亲切的鼓励。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "shall", "roles": ["谓语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "remember", "roles": ["谓语"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Page", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "patience", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "kindly", "roles": ["定语"] },
+        { "text": "encouragement", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
+      "zh": "下星期四，许多老校友将出席为他举行的告别宴会。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "great", "roles": ["定语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "former", "roles": ["定语"] },
+        { "text": "pupils", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "attending", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "farewell", "roles": ["定语"] },
+        { "text": "dinner", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "honour", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "Thursday", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "But this does not matter, for, as he has often remarked, one is never too old to learn.",
+      "zh": "但这无关紧要，因为正如他常说的那样，一个人活到老学到老。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "does", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "matter", "roles": ["谓语"] },
+        { "text": "for", "roles": ["连词"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "often", "roles": ["状语"] },
+        { "text": "remarked", "roles": ["谓语"] },
+        { "text": "one", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "old", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "learn", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I have just received a letter from my old school.", "zh": "我刚收到母校的一封信。" },
+    { "en": "My former headmaster, Mr. Stuart Page, will be retiring next week.", "zh": "我的老校长斯图亚特·佩奇先生下星期就要退休了。" },
+    { "en": "Pupils of the school, old and new, will be sending him a present to mark the occasion.", "zh": "学校的师生将送他一份礼物，以纪念这一时刻。" },
+    { "en": "All those who have contributed towards the gift will sign their names in a large album.", "zh": "所有为礼物捐款的人都将在一本大签名簿上签名。" },
+    { "en": "We shall all remember Mr. Page for his patience and for his kindly encouragement.", "zh": "我们都将铭记佩奇先生的耐心和他亲切的鼓励。" },
+    { "en": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.", "zh": "下星期四，许多老校友将出席为他举行的告别宴会。" },
+    { "en": "It is a curious coincidence that Mr. Page will have been teaching for a total of forty years when he retires.", "zh": "真是奇妙的巧合：佩奇先生退休时，他的教书生涯将整整满四十年。" },
+    { "en": "After he has retired, he will devote himself to gardening, which will be an entirely new hobby for him.", "zh": "退休后，他将致力于园艺，这对他来说将是一项全新的爱好。" },
+    { "en": "But this does not matter, for, as he has often remarked, one is never too old to learn.", "zh": "但这无关紧要，因为正如他常说的那样，一个人活到老学到老。" }
+  ]
+}

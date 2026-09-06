@@ -1,0 +1,226 @@
+{
+  "id": "L143",
+  "title": "Lesson 143 · A walk through the woods",
+  "titleZh": "第143课 林中散步",
+  "words": [
+    {
+      "word": "surround",
+      "phonetic": "/səˈraʊnd/",
+      "meaning": "v. 包围，环绕",
+      "examples": [
+        { "en": "I live in a very old town which is surrounded by beautiful woods.", "zh": "我住在一个被美丽树林环绕的古老小镇上。" }
+      ]
+    },
+    {
+      "word": "wood",
+      "phonetic": "/wʊd/",
+      "meaning": "n. 树林",
+      "examples": [
+        { "en": "I went for a walk in the woods.", "zh": "我到树林里去散步。" }
+      ]
+    },
+    {
+      "word": "beauty",
+      "phonetic": "/ˈbjuːti/",
+      "meaning": "n. 美丽，美景",
+      "examples": [
+        { "en": "It is a famous beauty spot.", "zh": "它是一个著名的风景胜地。" }
+      ]
+    },
+    {
+      "word": "spot",
+      "phonetic": "/spɒt/",
+      "meaning": "n. 地点，场所",
+      "examples": [
+        { "en": "It is a famous beauty spot.", "zh": "它是一个著名的风景胜地。" }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "/ˈvɪzɪtə(r)/",
+      "meaning": "n. 参观者，游客",
+      "examples": [
+        { "en": "Visitors have been asked to keep the woods clean and tidy.", "zh": "游客们被要求保持树林整洁。" }
+      ]
+    },
+    {
+      "word": "tidy",
+      "phonetic": "/ˈtaɪdi/",
+      "meaning": "adj. 整洁的",
+      "examples": [
+        { "en": "Visitors have been asked to keep the woods clean and tidy.", "zh": "游客们被要求保持树林整洁。" }
+      ]
+    },
+    {
+      "word": "litter",
+      "phonetic": "/ˈlɪtə(r)/",
+      "meaning": "n. 垃圾",
+      "examples": [
+        { "en": "The litter baskets were empty.", "zh": "废物筐是空的。" },
+        { "en": "Anyone who leaves litter in these woods will be prosecuted!", "zh": "凡在此林中丢弃垃圾者，将依法处置！" }
+      ]
+    },
+    {
+      "word": "rubbish",
+      "phonetic": "/ˈrʌbɪʃ/",
+      "meaning": "n. 垃圾",
+      "examples": [
+        { "en": "People still throw their rubbish everywhere.", "zh": "人们仍到处乱扔垃圾。" }
+      ]
+    },
+    {
+      "word": "count",
+      "phonetic": "/kaʊnt/",
+      "meaning": "v. 数，清点",
+      "examples": [
+        { "en": "I counted seven old cars and three old refrigerators.", "zh": "我数了一下，有七辆旧汽车和三台旧冰箱。" }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/",
+      "meaning": "n. 电冰箱",
+      "examples": [
+        { "en": "I counted seven old cars and three old refrigerators.", "zh": "我数了一下，有七辆旧汽车和三台旧冰箱。" }
+      ]
+    },
+    {
+      "word": "tyre",
+      "phonetic": "/ˈtaɪə(r)/",
+      "meaning": "n. 轮胎",
+      "examples": [
+        { "en": "The ground was covered with old tyres.", "zh": "地上全是旧轮胎。" }
+      ]
+    },
+    {
+      "word": "rusty",
+      "phonetic": "/ˈrʌsti/",
+      "meaning": "adj. 生锈的",
+      "examples": [
+        { "en": "The ground was covered with rusty tins.", "zh": "地上全是生锈的空罐子。" }
+      ]
+    },
+    {
+      "word": "tin",
+      "phonetic": "/tɪn/",
+      "meaning": "n. 罐，听",
+      "examples": [
+        { "en": "The ground was covered with rusty tins.", "zh": "地上全是生锈的空罐子。" }
+      ]
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "meaning": "v. 起诉，依法处置",
+      "examples": [
+        { "en": "Anyone who leaves litter in these woods will be prosecuted!", "zh": "凡在此林中丢弃垃圾者，将依法处置！" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I live in a very old town which is surrounded by beautiful woods.",
+      "zh": "我住在一个被美丽树林环绕的古老小镇上。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "town", "roles": ["状语"] },
+        { "text": "which", "roles": ["连词"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "surrounded", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "beautiful", "roles": ["定语"] },
+        { "text": "woods", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Visitors have been asked to keep the woods clean and tidy.",
+      "zh": "游客们被要求保持树林整洁。",
+      "analysis": [
+        { "text": "Visitors", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "keep", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "woods", "roles": ["宾语"] },
+        { "text": "clean", "roles": ["补语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "tidy", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "Last Wednesday, I went for a walk in the woods.",
+      "zh": "上星期三，我到树林里去散步。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "Wednesday", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "walk", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "woods", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "What I saw made me very sad.",
+      "zh": "我所见到的一切使我非常难过。",
+      "analysis": [
+        { "text": "What", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "sad", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "I counted seven old cars and three old refrigerators.",
+      "zh": "我数了一下，有七辆旧汽车和三台旧冰箱。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "counted", "roles": ["谓语"] },
+        { "text": "seven", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "cars", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "refrigerators", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The litter baskets were empty.",
+      "zh": "废物筐是空的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "litter", "roles": ["定语"] },
+        { "text": "baskets", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "empty", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I live in a very old town which is surrounded by beautiful woods.", "zh": "我住在一个被美丽树林环绕的古老小镇上。" },
+    { "en": "It is a famous beauty spot.", "zh": "它是一个著名的风景胜地。" },
+    { "en": "On Sundays, hundreds of people come from the city to see our town and to walk through the woods.", "zh": "每逢星期天，成百上千的人从城里来参观我们的小镇，在树林里散步。" },
+    { "en": "Visitors have been asked to keep the woods clean and tidy.", "zh": "游客们被要求保持树林整洁。" },
+    { "en": "Litter baskets have been placed under the trees, but people still throw their rubbish everywhere.", "zh": "树下已经放置了废物筐，但人们仍到处乱扔垃圾。" },
+    { "en": "Last Wednesday, I went for a walk in the woods.", "zh": "上星期三，我到树林里去散步。" },
+    { "en": "What I saw made me very sad.", "zh": "我所见到的一切使我非常难过。" },
+    { "en": "I counted seven old cars and three old refrigerators.", "zh": "我数了一下，有七辆旧汽车和三台旧冰箱。" },
+    { "en": "The litter baskets were empty.", "zh": "废物筐是空的。" },
+    { "en": "The ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.", "zh": "而地上全是纸片、烟头、旧轮胎、空瓶子和生锈的空罐子。" },
+    { "en": "Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'", "zh": "在垃圾堆中，我发现了一块牌子，上面写着：'凡在此林中丢弃垃圾者，将依法处置！'" }
+  ]
+}

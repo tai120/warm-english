@@ -1,0 +1,248 @@
+{
+  "id": "L079",
+  "title": "Lesson 79 · Carol's shopping list",
+  "titleZh": "第79课 卡罗尔的购物单",
+  "words": [
+    {
+      "word": "shopping",
+      "phonetic": "/ˈʃɒpɪŋ/",
+      "meaning": "n. 购物，买东西",
+      "examples": [
+        { "en": "I'm making a shopping list, Tom.", "zh": "汤姆，我在列购物单。" },
+        { "en": "Let's go shopping this afternoon.", "zh": "我们今天下午去购物吧。" }
+      ]
+    },
+    {
+      "word": "list",
+      "phonetic": "/lɪst/",
+      "meaning": "n. 单子，清单",
+      "examples": [
+        { "en": "I'm making a shopping list, Tom.", "zh": "汤姆，我在列购物单。" },
+        { "en": "My name is on the list.", "zh": "我的名字在名单上。" }
+      ]
+    },
+    {
+      "word": "vegetable",
+      "phonetic": "/ˈvedʒtəbl/",
+      "meaning": "n. 蔬菜",
+      "examples": [
+        { "en": "What about vegetables?", "zh": "蔬菜呢？" },
+        { "en": "We eat a lot of vegetables.", "zh": "我们吃很多蔬菜。" }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "/niːd/",
+      "meaning": "v. 需要",
+      "examples": [
+        { "en": "We need a lot of things this week.", "zh": "这星期我们需要很多东西。" },
+        { "en": "We need some meat.", "zh": "我们需要一些肉。" }
+      ]
+    },
+    {
+      "word": "hope",
+      "phonetic": "/həʊp/",
+      "meaning": "v. 希望",
+      "examples": [
+        { "en": "I hope that you've got some money.", "zh": "我希望你还有钱。" },
+        { "en": "I hope you are well.", "zh": "我希望你身体健康。" }
+      ]
+    },
+    {
+      "word": "thing",
+      "phonetic": "/θɪŋ/",
+      "meaning": "n. 东西，事物",
+      "examples": [
+        { "en": "We need a lot of things this week.", "zh": "这星期我们需要很多东西。" },
+        { "en": "What's that thing?", "zh": "那是什么东西？" }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meaning": "n. 钱",
+      "examples": [
+        { "en": "I hope that you've got some money.", "zh": "我希望你还有钱。" },
+        { "en": "I haven't got much money.", "zh": "我的钱不多了。" }
+      ]
+    },
+    {
+      "word": "tea",
+      "phonetic": "/tiː/",
+      "meaning": "n. 茶",
+      "examples": [
+        { "en": "We haven't got much tea or coffee.", "zh": "我们的茶叶和咖啡不多了。" },
+        { "en": "Would you like a cup of tea?", "zh": "你想喝杯茶吗？" }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meaning": "n. 咖啡",
+      "examples": [
+        { "en": "We haven't got much tea or coffee.", "zh": "我们的茶叶和咖啡不多了。" },
+        { "en": "Have a cup of coffee then.", "zh": "那就喝杯咖啡吧。" }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meaning": "n. 糖",
+      "examples": [
+        { "en": "We haven't got any sugar or jam.", "zh": "糖和果酱也没有了。" },
+        { "en": "Do you take sugar in your coffee?", "zh": "你的咖啡里放糖吗？" }
+      ]
+    },
+    {
+      "word": "tomato",
+      "phonetic": "/təˈmɑːtəʊ/",
+      "meaning": "n. 西红柿",
+      "examples": [
+        { "en": "We haven't got many tomatoes.", "zh": "我们的西红柿不多了。" },
+        { "en": "These tomatoes are very fresh.", "zh": "这些西红柿很新鲜。" }
+      ]
+    },
+    {
+      "word": "potato",
+      "phonetic": "/pəˈteɪtəʊ/",
+      "meaning": "n. 土豆",
+      "examples": [
+        { "en": "We've got a lot of potatoes.", "zh": "我们的土豆还有不少。" },
+        { "en": "We had roast beef and potatoes.", "zh": "我们吃了烤牛肉和土豆。" }
+      ]
+    },
+    {
+      "word": "meat",
+      "phonetic": "/miːt/",
+      "meaning": "n. 肉",
+      "examples": [
+        { "en": "We need some meat.", "zh": "我们需要一些肉。" },
+        { "en": "We haven't got any meat at all.", "zh": "我们一点肉也没有了。" }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə(r)/",
+      "meaning": "n. 啤酒",
+      "examples": [
+        { "en": "Have we got any beer and wine?", "zh": "我们还有啤酒和葡萄酒吗？" },
+        { "en": "He is drinking a glass of beer.", "zh": "他正在喝一杯啤酒。" }
+      ]
+    },
+    {
+      "word": "wine",
+      "phonetic": "/waɪn/",
+      "meaning": "n. 葡萄酒",
+      "examples": [
+        { "en": "Have we got any beer and wine?", "zh": "我们还有啤酒和葡萄酒吗？" },
+        { "en": "This wine is very good.", "zh": "这葡萄酒很好。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'm making a shopping list, Tom.",
+      "zh": "汤姆，我在列购物单。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "making", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "shopping", "roles": ["定语"] },
+        { "text": "list", "roles": ["宾语"] },
+        { "text": "Tom", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "We need a lot of things this week.",
+      "zh": "这星期我们需要很多东西。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "need", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "things", "roles": ["宾语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I must go to the grocer's.",
+      "zh": "我得去一下食品店。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "grocer's", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We haven't got much tea or coffee, and we haven't got any sugar or jam.",
+      "zh": "我们的茶叶和咖啡不多了，糖和果酱也没有了。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "haven't", "roles": ["谓语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "much", "roles": ["定语"] },
+        { "text": "tea", "roles": ["宾语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "coffee", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "haven't", "roles": ["谓语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "sugar", "roles": ["宾语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "jam", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "We haven't got many tomatoes, but we've got a lot of potatoes.",
+      "zh": "我们的西红柿不多了，但土豆还有不少。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "haven't", "roles": ["谓语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "tomatoes", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "we've", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lot", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "potatoes", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I hope that you've got some money.",
+      "zh": "我希望你还有钱。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "hope", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "you've", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What are you doing, Carol?", "zh": "卡罗尔，你在干什么？" },
+    { "en": "I'm making a shopping list, Tom.", "zh": "汤姆，我在列购物单。" },
+    { "en": "We need a lot of things this week.", "zh": "这星期我们需要很多东西。" },
+    { "en": "I must go to the grocer's.", "zh": "我得去一下食品店。" },
+    { "en": "We haven't got much tea or coffee, and we haven't got any sugar or jam.", "zh": "我们的茶叶和咖啡不多了，糖和果酱也没有了。" },
+    { "en": "I must go to the greengrocer's.", "zh": "我得去一下蔬菜水果店。" },
+    { "en": "We haven't got many tomatoes, but we've got a lot of potatoes.", "zh": "我们的西红柿不多了，但土豆还有不少。" },
+    { "en": "I must go to the butcher's, too.", "zh": "我还得去一趟肉店。" },
+    { "en": "We need some meat. We haven't got any meat at all.", "zh": "我们需要一些肉，我们一点肉也没有了。" },
+    { "en": "Have we got any beer and wine?", "zh": "我们还有啤酒和葡萄酒吗？" },
+    { "en": "I hope that you've got some money.", "zh": "我希望你还有钱。" },
+    { "en": "Well, I haven't got much either!", "zh": "唉，我的钱也不多了！" }
+  ]
+}

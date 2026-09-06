@@ -1,0 +1,238 @@
+{
+  "id": "L063",
+  "title": "Lesson 63 · She was not amused",
+  "titleZh": "第63课 她并不觉得好笑",
+  "words": [
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "n. 圈子，交际圈",
+      "examples": [
+        { "en": "He has a large circle of friends.", "zh": "他交际很广。" }
+      ]
+    },
+    {
+      "word": "admire",
+      "phonetic": "/ədˈmaɪə(r)/",
+      "meaning": "v. 钦佩",
+      "examples": [
+        { "en": "Everybody admires him for his humour.", "zh": "每个人都钦佩他的幽默感。" }
+      ]
+    },
+    {
+      "word": "sense",
+      "phonetic": "/sens/",
+      "meaning": "n. 感觉，意识",
+      "examples": [
+        { "en": "He has a great sense of humour.", "zh": "他很有幽默感。" }
+      ]
+    },
+    {
+      "word": "humour",
+      "phonetic": "/ˈhjuːmə(r)/",
+      "meaning": "n. 幽默",
+      "examples": [
+        { "en": "He has a great sense of humour.", "zh": "他很有幽默感。" }
+      ]
+    },
+    {
+      "word": "speech",
+      "phonetic": "/spiːtʃ/",
+      "meaning": "n. 演讲",
+      "examples": [
+        { "en": "He made a speech at a wedding reception.", "zh": "他在婚礼招待会上发表讲话。" }
+      ]
+    },
+    {
+      "word": "wedding",
+      "phonetic": "/ˈwedɪŋ/",
+      "meaning": "n. 婚礼",
+      "examples": [
+        { "en": "He went to the wedding with Jenny.", "zh": "他带着珍妮去参加婚礼。" }
+      ]
+    },
+    {
+      "word": "reception",
+      "phonetic": "/rɪˈsepʃn/",
+      "meaning": "n. 招待会",
+      "examples": [
+        { "en": "He made a speech at the wedding reception.", "zh": "他在婚礼招待会上发表了讲话。" }
+      ]
+    },
+    {
+      "word": "sort",
+      "phonetic": "/sɔːt/",
+      "meaning": "n. 种类",
+      "examples": [
+        { "en": "This is the sort of thing he loves.", "zh": "这正是他喜欢做的事。" }
+      ]
+    },
+    {
+      "word": "funny",
+      "phonetic": "/ˈfʌni/",
+      "meaning": "adj. 滑稽的",
+      "examples": [
+        { "en": "He included many funny stories in the speech.", "zh": "他在演讲中加进了许多滑稽故事。" }
+      ]
+    },
+    {
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "meaning": "n. 成功",
+      "examples": [
+        { "en": "The speech was a great success.", "zh": "演讲非常成功。" }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+      "meaning": "adj. 失望的",
+      "examples": [
+        { "en": "Jeremy was a little disappointed.", "zh": "杰里米有点失望。" }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/lɑːf/",
+      "meaning": "v. 笑",
+      "examples": [
+        { "en": "People were laughing at him.", "zh": "人们在嘲笑他。" }
+      ]
+    },
+    {
+      "word": "Jenny",
+      "phonetic": "/ˈdʒeni/",
+      "meaning": "n. 珍妮（人名）",
+      "examples": [
+        { "en": "Jenny is his six-year-old daughter.", "zh": "珍妮是他六岁的女儿。" }
+      ]
+    },
+    {
+      "word": "Jeremy Hampden",
+      "phonetic": "/ˈdʒerəmi ˈhæmpdən/",
+      "meaning": "n. 杰里米·汉普登（人名）",
+      "examples": [
+        { "en": "Jeremy Hampden is very popular at parties.", "zh": "杰里米·汉普登在聚会上很受欢迎。" }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meaning": "n. 女儿",
+      "examples": [
+        { "en": "Jenny is his daughter.", "zh": "珍妮是他的女儿。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+      "zh": "杰里米·汉普登交际很广，在聚会上很受欢迎。",
+      "analysis": [
+        { "text": "Jeremy", "roles": ["定语"] },
+        { "text": "Hampden", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "circle", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "friends", "roles": ["定语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "popular", "roles": ["表语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "parties", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "zh": "他认真准备了演讲稿，带着珍妮去参加婚礼。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "prepared", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "speech", "roles": ["宾语"] },
+        { "text": "carefully", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wedding", "roles": ["状语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "Jenny", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "As soon as he had finished, Jenny told him she wanted to go home.",
+      "zh": "他一讲完，珍妮就告诉他她想回家。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "finished", "roles": ["谓语"] },
+        { "text": "Jenny", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "wanted", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Jeremy was a little disappointed by this but he did as his daughter asked.",
+      "zh": "杰里米对此有点失望，但还是照女儿的话做了。",
+      "analysis": [
+        { "text": "Jeremy", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "a", "roles": ["状语"] },
+        { "text": "little", "roles": ["状语"] },
+        { "text": "disappointed", "roles": ["表语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "this", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "daughter", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "zh": "在回家的路上，他问珍妮是否喜欢他的演讲。",
+      "analysis": [
+        { "text": "On", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "way", "roles": ["状语"] },
+        { "text": "home", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "Jenny", "roles": ["宾语"] },
+        { "text": "if", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "enjoyed", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "speech", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Jeremy Hampden has a large circle of friends and is very popular at parties.", "zh": "杰里米·汉普登交际很广，在聚会上很受欢迎。" },
+    { "en": "Everybody admires him for his great sense of humour, everybody, that is, except his six-year-old daughter, Jenny.", "zh": "每个人都钦佩他的幽默感，也就是说，除了他六岁的女儿珍妮之外。" },
+    { "en": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.", "zh": "最近，杰里米的一位密友请他在婚礼招待会上讲话。" },
+    { "en": "This is the sort of thing that Jeremy loves.", "zh": "这正是杰里米喜欢做的事。" },
+    { "en": "He prepared the speech carefully and went to the wedding with Jenny.", "zh": "他认真准备了演讲稿，带着珍妮去参加婚礼。" },
+    { "en": "He had included a large number of funny stories in the speech and, of course, it was a great success.", "zh": "他在演讲中加进了大量滑稽故事，演讲当然非常成功。" },
+    { "en": "As soon as he had finished, Jenny told him she wanted to go home.", "zh": "他一讲完，珍妮就告诉他她想回家。" },
+    { "en": "Jeremy was a little disappointed by this but he did as his daughter asked.", "zh": "杰里米对此有点失望，但还是照女儿的话做了。" },
+    { "en": "On the way home, he asked Jenny if she had enjoyed the speech.", "zh": "在回家的路上，他问珍妮是否喜欢他的演讲。" },
+    { "en": "To his surprise, she said she had not, because she did not like to see so many people laughing at him!", "zh": "使他吃惊的是，她说她不喜欢，因为她不愿看到那么多人嘲笑他！" }
+  ]
+}

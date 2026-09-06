@@ -1,0 +1,219 @@
+{
+  "id": "L012",
+  "title": "Lesson 12 · Goodbye and good luck",
+  "titleZh": "第12课 再见，一路顺风",
+  "words": [
+    {
+      "word": "luck",
+      "phonetic": "/lʌk/",
+      "meaning": "n. 运气，幸运",
+      "examples": [
+        { "en": "Good luck!", "zh": "祝你好运！" },
+        { "en": "Goodbye and good luck!", "zh": "再见，一路顺风！" }
+      ]
+    },
+    {
+      "word": "captain",
+      "phonetic": "/ˈkæptɪn/",
+      "meaning": "n. 船长，队长",
+      "examples": [
+        { "en": "Captain Alison will sail from Portsmouth tomorrow.", "zh": "艾利森船长明天就要从朴次茅斯启航了。" }
+      ]
+    },
+    {
+      "word": "sail",
+      "phonetic": "/seɪl/",
+      "meaning": "v. 航行",
+      "examples": [
+        { "en": "Topsail has sailed across the Atlantic many times.", "zh": "“涛波赛尔”号已经多次横渡大西洋。" }
+      ]
+    },
+    {
+      "word": "harbour",
+      "phonetic": "/ˈhɑːbə/",
+      "meaning": "n. 港口",
+      "examples": [
+        { "en": "We shall meet him at the harbour early in the morning.", "zh": "明天一大早我们将在码头为他送行。" }
+      ]
+    },
+    {
+      "word": "proud",
+      "phonetic": "/praʊd/",
+      "meaning": "adj. 自豪的",
+      "examples": [
+        { "en": "We are very proud of him.", "zh": "我们真为他感到自豪。" }
+      ]
+    },
+    {
+      "word": "important",
+      "phonetic": "/ɪmˈpɔːtnt/",
+      "meaning": "adj. 重要的",
+      "examples": [
+        { "en": "He will take part in an important race.", "zh": "他将参加一次重大的比赛。" }
+      ]
+    },
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meaning": "n. 比赛，竞赛",
+      "examples": [
+        { "en": "He will take part in an important race across the Atlantic.", "zh": "他将参加一次重大的横渡大西洋的比赛。" }
+      ]
+    },
+    {
+      "word": "Atlantic",
+      "phonetic": "/ətˈlæntɪk/",
+      "meaning": "n. 大西洋",
+      "examples": [
+        { "en": "Topsail has sailed across the Atlantic many times.", "zh": "“涛波赛尔”号已经多次横渡大西洋。" }
+      ]
+    },
+    {
+      "word": "Portsmouth",
+      "phonetic": "/ˈpɔːtsməθ/",
+      "meaning": "n. 朴次茅斯（地名）",
+      "examples": [
+        { "en": "He will sail from Portsmouth tomorrow.", "zh": "他明天将从朴次茅斯启航。" }
+      ]
+    },
+    {
+      "word": "Charles Alison",
+      "phonetic": "/ˈtʃɑːlz ˈælɪsn/",
+      "meaning": "n. 查尔斯·艾利森（人名）",
+      "examples": [
+        { "en": "Captain Charles Alison will sail tomorrow.", "zh": "查尔斯·艾利森船长明天就要启航了。" }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meaning": "n. 大量，充足",
+      "examples": [
+        { "en": "We shall have plenty of time.", "zh": "我们有充裕的时间。" }
+      ]
+    },
+    {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "meaning": "adv. 离开",
+      "examples": [
+        { "en": "He will be away for two months.", "zh": "他要离开两个月。" }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meaning": "v. 遇见，迎接",
+      "examples": [
+        { "en": "We shall meet him at the harbour.", "zh": "我们将在码头为他送行。" }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meaning": "n. 小船",
+      "examples": [
+        { "en": "He will be in his small boat, Topsail.", "zh": "他将乘坐他的那艘小艇“涛波赛尔”号。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "zh": "我们的邻居查尔斯·艾利森船长明天就要从朴次茅斯启航了。",
+      "analysis": [
+        { "text": "Our", "roles": ["定语"] },
+        { "text": "neighbour", "roles": ["主语"] },
+        { "text": "Captain", "roles": ["定语"] },
+        { "text": "Charles", "roles": ["定语"] },
+        { "text": "Alison", "roles": ["定语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "sail", "roles": ["谓语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "Portsmouth", "roles": ["状语"] },
+        { "text": "tomorrow", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We shall meet him at the harbour early in the morning.",
+      "zh": "明天一大早我们将在码头为他送行。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "shall", "roles": ["谓语"] },
+        { "text": "meet", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "harbour", "roles": ["状语"] },
+        { "text": "early", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It has sailed across the Atlantic many times.",
+      "zh": "它已经多次横渡大西洋。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "sailed", "roles": ["谓语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Atlantic", "roles": ["状语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "times", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Captain Alison will set out at eight o'clock, so we shall have plenty of time.",
+      "zh": "艾利森船长将于八点钟启航，因此我们有充裕的时间。",
+      "analysis": [
+        { "text": "Captain", "roles": ["定语"] },
+        { "text": "Alison", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "set", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "eight", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["状语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "shall", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "plenty", "roles": ["定语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "time", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He will take part in an important race across the Atlantic.",
+      "zh": "他将参加一次重大的横渡大西洋的比赛。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "part", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "important", "roles": ["定语"] },
+        { "text": "race", "roles": ["状语"] },
+        { "text": "across", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Atlantic", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.", "zh": "我们的邻居查尔斯·艾利森船长明天就要从朴次茅斯启航了。" },
+    { "en": "We shall meet him at the harbour early in the morning.", "zh": "明天一大早我们将在码头为他送行。" },
+    { "en": "He will be in his small boat, Topsail.", "zh": "他将乘坐他的那艘小艇“涛波赛尔”号。" },
+    { "en": "Topsail is a famous little boat.", "zh": "“涛波赛尔”号是艘有名的小艇。" },
+    { "en": "It has sailed across the Atlantic many times.", "zh": "它已经多次横渡大西洋。" },
+    { "en": "Captain Alison will set out at eight o'clock, so we shall have plenty of time.", "zh": "艾利森船长将于八点钟启航，因此我们有充裕的时间。" },
+    { "en": "We shall see his boat and then we shall say goodbye to him.", "zh": "我们将参观他的船，然后和他告别。" },
+    { "en": "He will be away for two months.", "zh": "他要离开两个月。" },
+    { "en": "We are very proud of him.", "zh": "我们真为他感到自豪。" },
+    { "en": "He will take part in an important race across the Atlantic.", "zh": "他将参加一次重大的横渡大西洋的比赛。" }
+  ]
+}

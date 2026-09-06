@@ -1,0 +1,267 @@
+{
+  "id": "L032",
+  "title": "Lesson 32 · Shopping made easy",
+  "titleZh": "第32课 购物变得很方便",
+  "words": [
+    {
+      "word": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meaning": "adj. 诚实的",
+      "examples": [
+        { "en": "People are not so honest as they once were.", "zh": "如今人们不像以前那么诚实了。" },
+        { "en": "He is an honest man.", "zh": "他是个诚实的人。" }
+      ]
+    },
+    {
+      "word": "temptation",
+      "phonetic": "/tempˈteɪʃn/",
+      "meaning": "n. 诱惑",
+      "examples": [
+        { "en": "The temptation to steal is greater than ever before.", "zh": "偷窃的诱惑力比以往任何时候都更强烈。" },
+        { "en": "She could not resist the temptation.", "zh": "她抵挡不住诱惑。" }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meaning": "v. 偷",
+      "examples": [
+        { "en": "The temptation to steal is greater than ever before.", "zh": "偷窃的诱惑力比以往任何时候都更强烈。" },
+        { "en": "Someone stole his wallet.", "zh": "有人偷了他的钱包。" }
+      ]
+    },
+    {
+      "word": "detective",
+      "phonetic": "/dɪˈtektɪv/",
+      "meaning": "n. 侦探",
+      "examples": [
+        { "en": "A detective recently watched a well-dressed woman.", "zh": "一名侦探最近注意上了一位穿着讲究的妇女。" },
+        { "en": "The detective followed the man quietly.", "zh": "侦探悄悄地跟踪那个男人。" }
+      ]
+    },
+    {
+      "word": "recently",
+      "phonetic": "/ˈriːsntli/",
+      "meaning": "adv. 最近",
+      "examples": [
+        { "en": "A detective recently watched a well-dressed woman.", "zh": "一名侦探最近注意上了一位穿着讲究的妇女。" },
+        { "en": "I saw her recently.", "zh": "我最近见过她。" }
+      ]
+    },
+    {
+      "word": "watch",
+      "phonetic": "/wɒtʃ/",
+      "meaning": "v. 监视，注视",
+      "examples": [
+        { "en": "It was easier for the detective to watch her.", "zh": "侦探比较容易监视她。" },
+        { "en": "The police watched the house all night.", "zh": "警察整夜监视着那栋房子。" }
+      ]
+    },
+    {
+      "word": "well-dressed",
+      "phonetic": "/ˌwel ˈdrest/",
+      "meaning": "adj. 穿着讲究的",
+      "examples": [
+        { "en": "A detective watched a well-dressed woman.", "zh": "一名侦探注意上了一位穿着讲究的妇女。" },
+        { "en": "The well-dressed lady walked into the store.", "zh": "那位穿着讲究的女士走进了商店。" }
+      ]
+    },
+    {
+      "word": "store",
+      "phonetic": "/stɔː(r)/",
+      "meaning": "n. 商店",
+      "examples": [
+        { "en": "She always went into a large store on Monday mornings.", "zh": "她总是在星期一上午进入一家大商场。" },
+        { "en": "There is a big store near my house.", "zh": "我家附近有一家大商店。" }
+      ]
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːtɪkl/",
+      "meaning": "n. 物品，商品",
+      "examples": [
+        { "en": "The woman first bought a few small articles.", "zh": "这位妇女先是买了几样小商品。" },
+        { "en": "She bought some articles in the shop.", "zh": "她在商店里买了一些东西。" }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meaning": "adj. 昂贵的",
+      "examples": [
+        { "en": "She chose one of the most expensive dresses.", "zh": "她选了商场里最昂贵的一件衣服。" },
+        { "en": "The watch is too expensive for me.", "zh": "这块表对我来说太贵了。" }
+      ]
+    },
+    {
+      "word": "choose",
+      "phonetic": "/tʃuːz/",
+      "meaning": "v. 选择",
+      "examples": [
+        { "en": "She chose one of the most expensive dresses.", "zh": "她选了商场里最昂贵的一件衣服。" },
+        { "en": "Choose a book you like.", "zh": "选一本你喜欢的书。" }
+      ]
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪstənt/",
+      "meaning": "n. 售货员，助手",
+      "examples": [
+        { "en": "She handed it to an assistant.", "zh": "她把它递给了售货员。" },
+        { "en": "The shop assistant was her daughter.", "zh": "原来那售货员是她的女儿。" }
+      ]
+    },
+    {
+      "word": "wrap",
+      "phonetic": "/ræp/",
+      "meaning": "v. 包裹",
+      "examples": [
+        { "en": "The assistant wrapped it up for her.", "zh": "售货员为她包好了衣服。" },
+        { "en": "She wrapped the present in paper.", "zh": "她用纸把礼物包了起来。" }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meaning": "n. 包裹",
+      "examples": [
+        { "en": "The woman simply took the parcel.", "zh": "那妇女拿过了包裹。" },
+        { "en": "The postman brought a parcel.", "zh": "邮递员送来了一个包裹。" }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meaning": "v. 逮捕",
+      "examples": [
+        { "en": "When she was arrested, the detective found out the truth.", "zh": "她被逮捕后，侦探发现了真相。" },
+        { "en": "The police arrested the thief.", "zh": "警察逮捕了小偷。" }
+      ]
+    },
+    {
+      "word": "free",
+      "phonetic": "/friː/",
+      "meaning": "adj. 免费的",
+      "examples": [
+        { "en": "The girl 'gave' her mother a free dress once a week!", "zh": "那姑娘每星期‘送’她母亲一件免费的衣服！" },
+        { "en": "Children under five travel free.", "zh": "五岁以下儿童免费乘车。" }
+      ]
+    },
+    {
+      "word": "shop",
+      "phonetic": "/ʃɒp/",
+      "meaning": "n. 商店",
+      "examples": [
+        { "en": "The woman walked out of the shop without paying.", "zh": "那妇女没有付钱就走出了商场。" },
+        { "en": "The shop opens at nine.", "zh": "商店九点开门。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "People are not so honest as they once were.",
+      "zh": "如今人们不像以前那么诚实了。",
+      "analysis": [
+        { "text": "People", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "so", "roles": ["状语"] },
+        { "text": "honest", "roles": ["表语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "once", "roles": ["状语"] },
+        { "text": "were", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+      "zh": "一名侦探最近注意上了一位穿着讲究的妇女，她总是在星期一上午进入一家大商场。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "detective", "roles": ["主语"] },
+        { "text": "recently", "roles": ["状语"] },
+        { "text": "watched", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "well-dressed", "roles": ["定语"] },
+        { "text": "woman", "roles": ["宾语"] },
+        { "text": "who", "roles": ["连词"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "large", "roles": ["定语"] },
+        { "text": "store", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "Monday", "roles": ["定语"] },
+        { "text": "mornings", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The woman first bought a few small articles.",
+      "zh": "这位妇女先是买了几样小商品。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "first", "roles": ["状语"] },
+        { "text": "bought", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "few", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "articles", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Then the woman simply took the parcel and walked out of the shop without paying.",
+      "zh": "然后，那妇女拿过包就走出了商场，根本没有付钱。",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "simply", "roles": ["状语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "parcel", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "walked", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["宾语"] },
+        { "text": "without", "roles": ["状语"] },
+        { "text": "paying", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "When she was arrested, the detective found out that the shop assistant was her daughter.",
+      "zh": "她被逮捕后，侦探发现原来那售货员是她的女儿。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "arrested", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "detective", "roles": ["主语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["定语"] },
+        { "text": "assistant", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "daughter", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "People are not so honest as they once were.", "zh": "如今人们不像以前那么诚实了。" },
+    { "en": "The temptation to steal is greater than ever before - especially in large shops.", "zh": "偷窃的诱惑力比以往任何时候都更强烈——特别是在大的商店里。" },
+    { "en": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.", "zh": "一名侦探最近注意上了一位穿着讲究的妇女，她总是在星期一上午进入一家大商场。" },
+    { "en": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.", "zh": "有一个星期一，当这位妇女走进这家商场时，里面的人比往常少，因此，侦探比较容易监视她。" },
+    { "en": "The woman first bought a few small articles.", "zh": "这位妇女先是买了几样小商品。" },
+    { "en": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.", "zh": "过了一会儿，她又选了商场里最昂贵的一件衣服，把它递给了售货员。那售货员以最快的速度为她包好了衣服。" },
+    { "en": "Then the woman simply took the parcel and walked out of the shop without paying.", "zh": "然后，那妇女拿过包就走出了商场，根本没有付钱。" },
+    { "en": "When she was arrested, the detective found out that the shop assistant was her daughter.", "zh": "她被逮捕后，侦探发现原来那售货员是她的女儿。" },
+    { "en": "The girl 'gave' her mother a free dress once a week!", "zh": "那姑娘每星期‘送’她母亲一件免费的衣服！" }
+  ]
+}

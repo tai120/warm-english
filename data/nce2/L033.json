@@ -1,0 +1,239 @@
+{
+  "id": "L033",
+  "title": "Lesson 33 · Out of the darkness",
+  "titleZh": "第33课 冲出黑暗",
+  "words": [
+    {
+      "word": "darkness",
+      "phonetic": "/ˈdɑːknəs/",
+      "meaning": "n. 黑暗",
+      "examples": [
+        { "en": "The room was in complete darkness.", "zh": "房间里一片漆黑。" },
+        { "en": "The ship disappeared into the darkness.", "zh": "船消失在黑暗之中。" }
+      ]
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meaning": "n. 海岸，海滨",
+      "examples": [
+        { "en": "They live on the south coast.", "zh": "他们住在南海岸。" },
+        { "en": "The boat sailed along the coast.", "zh": "小船沿着海岸航行。" }
+      ]
+    },
+    {
+      "word": "storm",
+      "phonetic": "/stɔːm/",
+      "meaning": "n. 暴风雨，风暴",
+      "examples": [
+        { "en": "The small boat was caught in a storm.", "zh": "小船遇上了暴风雨。" },
+        { "en": "A storm is coming.", "zh": "暴风雨要来了。" }
+      ]
+    },
+    {
+      "word": "rock",
+      "phonetic": "/rɒk/",
+      "meaning": "n. 岩石，礁石",
+      "examples": [
+        { "en": "The boat struck a rock and sank.", "zh": "小船撞上礁石沉没了。" },
+        { "en": "The boys climbed onto the rock.", "zh": "男孩们爬上了岩石。" }
+      ]
+    },
+    {
+      "word": "shore",
+      "phonetic": "/ʃɔː(r)/",
+      "meaning": "n. 海岸，岸边",
+      "examples": [
+        { "en": "She swam to the shore.", "zh": "她游到了岸边。" },
+        { "en": "We walked along the shore.", "zh": "我们沿着岸边散步。" }
+      ]
+    },
+    {
+      "word": "struggle",
+      "phonetic": "/ˈstrʌɡl/",
+      "meaning": "v. 挣扎，奋斗，搏斗",
+      "examples": [
+        { "en": "The girl struggled up the cliff.", "zh": "姑娘挣扎着爬上悬崖。" },
+        { "en": "He struggled against the wind.", "zh": "他顶着风艰难地行走。" }
+      ]
+    },
+    {
+      "word": "light",
+      "phonetic": "/laɪt/",
+      "meaning": "n. 灯光，光线",
+      "examples": [
+        { "en": "She saw a light ahead.", "zh": "她看到前方有灯光。" },
+        { "en": "Turn on the light, please.", "zh": "请把灯打开。" }
+      ]
+    },
+    {
+      "word": "cliff",
+      "phonetic": "/klɪf/",
+      "meaning": "n. 悬崖，峭壁",
+      "examples": [
+        { "en": "The light was high up on the cliffs.", "zh": "灯光在悬崖高处。" },
+        { "en": "The house stands on the top of a cliff.", "zh": "房子坐落在悬崖顶上。" }
+      ]
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "meaning": "n. 距离",
+      "examples": [
+        { "en": "She covered a distance of eight miles.", "zh": "她游了八英里的距离。" },
+        { "en": "What is the distance between the two cities?", "zh": "这两座城市之间的距离是多少？" }
+      ]
+    },
+    {
+      "word": "hospital",
+      "phonetic": "/ˈhɒspɪtl/",
+      "meaning": "n. 医院",
+      "examples": [
+        { "en": "She found herself in hospital.", "zh": "她发现自己躺在医院里。" },
+        { "en": "He works in a hospital.", "zh": "他在一家医院工作。" }
+      ]
+    },
+    {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "meaning": "v. 解释，说明",
+      "examples": [
+        { "en": "Please explain this word to me.", "zh": "请给我解释一下这个词。" },
+        { "en": "She explained what had happened.", "zh": "她解释了所发生的事情。" }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "/ˈhæpən/",
+      "meaning": "v. 发生",
+      "examples": [
+        { "en": "What happened to her?", "zh": "她出了什么事？" },
+        { "en": "The accident happened at night.", "zh": "事故发生在夜里。" }
+      ]
+    },
+    {
+      "word": "ahead",
+      "phonetic": "/əˈhed/",
+      "meaning": "adv. 在前面，向前",
+      "examples": [
+        { "en": "There is a light ahead.", "zh": "前方有一盏灯。" },
+        { "en": "Go straight ahead.", "zh": "一直往前走。" }
+      ]
+    },
+    {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "meaning": "v. 醒来（woke, woken）",
+      "examples": [
+        { "en": "She woke up a day later.", "zh": "一天后她醒了过来。" },
+        { "en": "I wake up at six every morning.", "zh": "我每天早上六点醒来。" }
+      ]
+    },
+    {
+      "word": "jump",
+      "phonetic": "/dʒʌmp/",
+      "meaning": "v. 跳，跳跃",
+      "examples": [
+        { "en": "The girl jumped into the sea.", "zh": "姑娘跳进了大海。" },
+        { "en": "The cat jumped onto the table.", "zh": "猫跳上了桌子。" }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meaning": "v. 度过，花费（spent, spent）",
+      "examples": [
+        { "en": "She spent the whole night in the water.", "zh": "她在水里度过了整整一夜。" },
+        { "en": "He spent two hours on his homework.", "zh": "他花了两个小时做作业。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "She was caught in a storm.",
+      "zh": "她遇上了风暴。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "caught", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "storm", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "During that time she covered a distance of eight miles.",
+      "zh": "在那段时间里，她游了八英里。",
+      "analysis": [
+        { "text": "During", "roles": ["状语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "covered", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "distance", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "eight", "roles": ["定语"] },
+        { "text": "miles", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Early next morning, she saw a light ahead.",
+      "zh": "第二天清晨，她看到前方有灯光。",
+      "analysis": [
+        { "text": "Early", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "morning", "roles": ["状语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "light", "roles": ["宾语"] },
+        { "text": "ahead", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The girl struggled up the cliff towards the light.",
+      "zh": "姑娘朝着灯光的方向，挣扎着爬上了悬崖。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "girl", "roles": ["主语"] },
+        { "text": "struggled", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "cliff", "roles": ["状语"] },
+        { "text": "towards", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "light", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "When she woke up a day later, she found herself in hospital.",
+      "zh": "一天后她醒来时，发现自己躺在医院里。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "woke", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] },
+        { "text": "later", "roles": ["状语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "herself", "roles": ["宾语"] },
+        { "text": "in", "roles": ["补语"] },
+        { "text": "hospital", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "One afternoon a girl set out from the coast in a small boat.", "zh": "一天下午，一位姑娘乘小船从海岸出发。" },
+    { "en": "She was caught in a storm.", "zh": "她遇上了风暴。" },
+    { "en": "Towards evening, the boat struck a rock and the girl jumped into the sea.", "zh": "天将黑时，小船撞上礁石，姑娘跳进了大海。" },
+    { "en": "She swam to the shore after spending the whole night in the water.", "zh": "她在海里游了整整一夜，才游到岸边。" },
+    { "en": "During that time she covered a distance of eight miles.", "zh": "在那段时间里，她游了八英里。" },
+    { "en": "Early next morning, she saw a light ahead.", "zh": "第二天清晨，她看到前方有灯光。" },
+    { "en": "The girl struggled up the cliff towards the light.", "zh": "姑娘朝着灯光的方向，挣扎着爬上了悬崖。" },
+    { "en": "When she woke up a day later, she found herself in hospital.", "zh": "一天后她醒来时，发现自己躺在医院里。" },
+    { "en": "Nearly a week passed before she could explain what had happened.", "zh": "差不多过了一周，她才能解释发生的一切。" }
+  ]
+}

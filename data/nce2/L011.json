@@ -1,0 +1,220 @@
+{
+  "id": "L011",
+  "title": "Lesson 11 · One good turn deserves another",
+  "titleZh": "第11课 礼尚往来",
+  "words": [
+    {
+      "word": "turn",
+      "phonetic": "/tɜːn/",
+      "meaning": "n. 行为，举止",
+      "examples": [
+        { "en": "One good turn deserves another.", "zh": "礼尚往来。" }
+      ]
+    },
+    {
+      "word": "deserve",
+      "phonetic": "/dɪˈzɜːv/",
+      "meaning": "v. 应得到，值得",
+      "examples": [
+        { "en": "One good turn deserves another.", "zh": "礼尚往来。" }
+      ]
+    },
+    {
+      "word": "lawyer",
+      "phonetic": "/ˈlɔːjə/",
+      "meaning": "n. 律师",
+      "examples": [
+        { "en": "Tony worked in a lawyer's office years ago.", "zh": "托尼曾在一家律师事务所工作。" }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meaning": "n. 银行",
+      "examples": [
+        { "en": "He is now working at a bank.", "zh": "他现在正在一家银行上班。" }
+      ]
+    },
+    {
+      "word": "salary",
+      "phonetic": "/ˈsæləri/",
+      "meaning": "n. 工资",
+      "examples": [
+        { "en": "He gets a good salary.", "zh": "他的薪水很高。" }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meaning": "adv. 立刻，马上",
+      "examples": [
+        { "en": "He gave me the money immediately.", "zh": "他立刻把钱给了我。" }
+      ]
+    },
+    {
+      "word": "borrow",
+      "phonetic": "/ˈbɒrəʊ/",
+      "meaning": "v. 借入",
+      "examples": [
+        { "en": "He always borrows money from his friends.", "zh": "他总是向朋友借钱。" }
+      ]
+    },
+    {
+      "word": "lend",
+      "phonetic": "/lend/",
+      "meaning": "v. 借出",
+      "examples": [
+        { "en": "I asked him to lend me twenty pounds.", "zh": "我提出向他借二十英镑。" }
+      ]
+    },
+    {
+      "word": "restaurant",
+      "phonetic": "/ˈrestrɒnt/",
+      "meaning": "n. 饭馆，餐馆",
+      "examples": [
+        { "en": "I was having dinner at a restaurant.", "zh": "我正在一家饭馆吃饭。" }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "/peɪ/",
+      "meaning": "v. 支付",
+      "examples": [
+        { "en": "Now you can pay for my dinner.", "zh": "现在你可以替我付饭钱了。" }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meaning": "n. 英镑",
+      "examples": [
+        { "en": "I asked him to lend me twenty pounds.", "zh": "我提出向他借二十英镑。" }
+      ]
+    },
+    {
+      "word": "Tony Steele",
+      "phonetic": "/ˈtəʊni stiːl/",
+      "meaning": "n. 托尼·斯蒂尔（人名）",
+      "examples": [
+        { "en": "Tony Steele came in.", "zh": "托尼·斯蒂尔走了进来。" }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə/",
+      "meaning": "n. 晚餐，正餐",
+      "examples": [
+        { "en": "I was having dinner at a restaurant.", "zh": "我正在一家饭馆吃饭。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I was having dinner at a restaurant when Tony Steele came in.",
+      "zh": "我正在一家饭馆吃饭，托尼·斯蒂尔走了进来。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "having", "roles": ["谓语"] },
+        { "text": "dinner", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "restaurant", "roles": ["状语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "Tony", "roles": ["定语"] },
+        { "text": "Steele", "roles": ["主语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "zh": "托尼曾在一家律师事务所工作，而现在正在一家银行上班。",
+      "analysis": [
+        { "text": "Tony", "roles": ["主语"] },
+        { "text": "worked", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lawyer's", "roles": ["定语"] },
+        { "text": "office", "roles": ["状语"] },
+        { "text": "years", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "working", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bank", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "zh": "他的薪水很高，但他却总是向朋友借钱，并且从来不还。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "gets", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "good", "roles": ["定语"] },
+        { "text": "salary", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "borrows", "roles": ["谓语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "friends", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "pays", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "back", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "While he was eating, I asked him to lend me twenty pounds.",
+      "zh": "当他吃饭时，我提出向他借二十英镑。",
+      "analysis": [
+        { "text": "While", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "eating", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "lend", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "twenty", "roles": ["定语"] },
+        { "text": "pounds", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "To my surprise, he gave me the money immediately.",
+      "zh": "令我惊奇的是，他立刻把钱给了我。",
+      "analysis": [
+        { "text": "To", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "surprise", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "gave", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "money", "roles": ["宾语"] },
+        { "text": "immediately", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I was having dinner at a restaurant when Tony Steele came in.", "zh": "我正在一家饭馆吃饭，托尼·斯蒂尔走了进来。" },
+    { "en": "Tony worked in a lawyer's office years ago, but he is now working at a bank.", "zh": "托尼曾在一家律师事务所工作，而现在正在一家银行上班。" },
+    { "en": "He gets a good salary, but he always borrows money from his friends and never pays it back.", "zh": "他的薪水很高，但他却总是向朋友借钱，并且从来不还。" },
+    { "en": "Tony saw me and came and sat at the same table.", "zh": "托尼看见了我，就走过来和我坐到一张桌子前。" },
+    { "en": "He has never borrowed money from me.", "zh": "他从未向我借过钱。" },
+    { "en": "While he was eating, I asked him to lend me twenty pounds.", "zh": "当他吃饭时，我提出向他借二十英镑。" },
+    { "en": "To my surprise, he gave me the money immediately.", "zh": "令我惊奇的是，他立刻把钱给了我。" },
+    { "en": "Tony said, 'I have never borrowed any money from you, so now you can pay for my dinner!'", "zh": "托尼说：“我从未向你借过一分钱，所以现在你可以替我付饭钱了！”" }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "L054",
+  "title": "Lesson 54 · Sticky fingers",
+  "titleZh": "第54课 粘糊的手指",
+  "words": [
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "n. 早餐",
+      "examples": [
+        { "en": "After breakfast, I sent the children to school.", "zh": "早饭后，我把孩子们送到了学校。" }
+      ]
+    },
+    {
+      "word": "quiet",
+      "phonetic": "/ˈkwaɪət/",
+      "meaning": "adj. 安静的",
+      "examples": [
+        { "en": "The house was quiet.", "zh": "家里静悄悄的。" }
+      ]
+    },
+    {
+      "word": "pie",
+      "phonetic": "/paɪ/",
+      "meaning": "n. 馅饼",
+      "examples": [
+        { "en": "I decided to make some meat pies.", "zh": "我决定做一些肉馅饼。" }
+      ]
+    },
+    {
+      "word": "mix",
+      "phonetic": "/mɪks/",
+      "meaning": "v. 混合，搅拌",
+      "examples": [
+        { "en": "I was busy mixing butter and flour.", "zh": "我忙着和黄油和面粉。" }
+      ]
+    },
+    {
+      "word": "flour",
+      "phonetic": "/ˈflaʊə(r)/",
+      "meaning": "n. 面粉",
+      "examples": [
+        { "en": "She bought some flour and butter.", "zh": "她买了一些面粉和黄油。" }
+      ]
+    },
+    {
+      "word": "sticky",
+      "phonetic": "/ˈstɪki/",
+      "meaning": "adj. 粘的",
+      "examples": [
+        { "en": "My hands were covered with sticky pastry.", "zh": "我的手上沾满了粘糊糊的面团。" }
+      ]
+    },
+    {
+      "word": "pastry",
+      "phonetic": "/ˈpeɪstri/",
+      "meaning": "n. 面团，油酥面",
+      "examples": [
+        { "en": "There was pastry on my fingers.", "zh": "我的手指上都是面团。" }
+      ]
+    },
+    {
+      "word": "receiver",
+      "phonetic": "/rɪˈsiːvə(r)/",
+      "meaning": "n. 电话听筒",
+      "examples": [
+        { "en": "I picked up the receiver.", "zh": "我拿起了电话听筒。" }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meaning": "v. 使沮丧",
+      "examples": [
+        { "en": "I was dismayed when I heard her voice.", "zh": "听到她的声音时我很沮丧。" }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meaning": "v. 认出",
+      "examples": [
+        { "en": "I recognized the voice of Helen Bates.", "zh": "我听出了海伦·贝茨的声音。" }
+      ]
+    },
+    {
+      "word": "persuade",
+      "phonetic": "/pəˈsweɪd/",
+      "meaning": "v. 说服",
+      "examples": [
+        { "en": "It took me ten minutes to persuade her.", "zh": "我花了十分钟才说服她。" }
+      ]
+    },
+    {
+      "word": "mess",
+      "phonetic": "/mes/",
+      "meaning": "n. 混乱，脏乱",
+      "examples": [
+        { "en": "What a mess!", "zh": "真是一团糟！" }
+      ]
+    },
+    {
+      "word": "doorknob",
+      "phonetic": "/ˈdɔːnɒb/",
+      "meaning": "n. 门把手",
+      "examples": [
+        { "en": "There was pastry on the doorknobs.", "zh": "门把手上都是面团。" }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meaning": "v. 签字",
+      "examples": [
+        { "en": "The postman wanted me to sign for a letter.", "zh": "邮递员要我签字收一封信。" }
+      ]
+    },
+    {
+      "word": "registered",
+      "phonetic": "/ˈredʒɪstəd/",
+      "meaning": "adj. 挂号的",
+      "examples": [
+        { "en": "It was a registered letter.", "zh": "那是一封挂号信。" }
+      ]
+    },
+    {
+      "word": "Helen Bates",
+      "phonetic": "/ˈhelən beɪts/",
+      "meaning": "n. 海伦·贝茨（人名）",
+      "examples": [
+        { "en": "I recognized the voice of Helen Bates.", "zh": "我听出了海伦·贝茨的声音。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "After breakfast, I sent the children to school and then I went to the shops.",
+      "zh": "早饭后，我把孩子们送到学校，然后去了商店。",
+      "analysis": [
+        { "text": "After", "roles": ["状语"] },
+        { "text": "breakfast", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "sent", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shops", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It was still early when I returned home.",
+      "zh": "我回到家时天还早。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "early", "roles": ["表语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "returned", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "At exactly that moment, the telephone rang.",
+      "zh": "正在这时，电话铃响了。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "exactly", "roles": ["状语"] },
+        { "text": "that", "roles": ["定语"] },
+        { "text": "moment", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "telephone", "roles": ["主语"] },
+        { "text": "rang", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "At last I hung up the receiver.",
+      "zh": "我终于挂上了电话。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "last", "roles": ["状语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "hung", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "receiver", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It took me ten minutes to persuade her to ring back later.",
+      "zh": "我花了十分钟才说服她过一会儿再打来。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "ten", "roles": ["定语"] },
+        { "text": "minutes", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "persuade", "roles": ["谓语"] },
+        { "text": "her", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "ring", "roles": ["谓语"] },
+        { "text": "back", "roles": ["状语"] },
+        { "text": "later", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "After breakfast, I sent the children to school and then I went to the shops.", "zh": "早饭后，我把孩子们送到学校，然后去了商店。" },
+    { "en": "It was still early when I returned home.", "zh": "我回到家时天还早。" },
+    { "en": "The children were at school, my husband was at work and the house was quiet.", "zh": "孩子们在学校，丈夫在上班，家里静悄悄的。" },
+    { "en": "So I decided to make some meat pies.", "zh": "于是我决定做一些肉馅饼。" },
+    { "en": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.", "zh": "不一会儿我就忙着和黄油和面粉，手上很快沾满了粘糊糊的面团。" },
+    { "en": "At exactly that moment, the telephone rang.", "zh": "正在这时，电话铃响了。" },
+    { "en": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.", "zh": "我用两个粘糊糊的手指拿起听筒，当我听出海伦·贝茨的声音时，非常沮丧。" },
+    { "en": "It took me ten minutes to persuade her to ring back later.", "zh": "我花了十分钟才说服她过一会儿再打来。" },
+    { "en": "At last I hung up the receiver.", "zh": "我终于挂上了电话。" },
+    { "en": "There was pastry on my fingers, on the telephone and on the doorknobs!", "zh": "我的手指上、电话上和门把手上都是面团！" }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "L135",
+  "title": "Lesson 135 · The latest report",
+  "titleZh": "第135课 最新消息",
+  "words": [
+    {
+      "word": "latest",
+      "phonetic": "/ˈleɪtɪst/",
+      "meaning": "adj. 最新的",
+      "examples": [
+        { "en": "The latest report is sensational news.", "zh": "最新报道是爆炸性新闻。" }
+      ]
+    },
+    {
+      "word": "report",
+      "phonetic": "/rɪˈpɔːt/",
+      "meaning": "n. 报告，报道",
+      "examples": [
+        { "en": "The latest report is sensational news.", "zh": "最新报道是爆炸性新闻。" }
+      ]
+    },
+    {
+      "word": "really",
+      "phonetic": "/ˈrɪəli/",
+      "meaning": "adv. 真正地，真的",
+      "examples": [
+        { "en": "Are you really going to retire, Miss Marsh?", "zh": "马什小姐，您真的要退休吗？" }
+      ]
+    },
+    {
+      "word": "future",
+      "phonetic": "/ˈfjuːtʃə(r)/",
+      "meaning": "adj. 未来的",
+      "examples": [
+        { "en": "I shall have to ask my future husband.", "zh": "我得问问我未来的丈夫。" }
+      ]
+    },
+    {
+      "word": "introduce",
+      "phonetic": "/ˌɪntrəˈdjuːs/",
+      "meaning": "v. 介绍",
+      "examples": [
+        { "en": "Let me introduce him to you.", "zh": "让我把他介绍给你。" }
+      ]
+    },
+    {
+      "word": "marry",
+      "phonetic": "/ˈmæri/",
+      "meaning": "v. 结婚，娶，嫁",
+      "examples": [
+        { "en": "We are going to get married next week.", "zh": "我们下星期就要结婚了。" }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "/sel/",
+      "meaning": "v. 卖",
+      "examples": [
+        { "en": "He says he's going to sell his house.", "zh": "他说他要卖掉房子。" }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meaning": "n. 船，小船",
+      "examples": [
+        { "en": "He's going to live on a boat.", "zh": "他打算住到船上去。" }
+      ]
+    },
+    {
+      "word": "sailor",
+      "phonetic": "/ˈseɪlə(r)/",
+      "meaning": "n. 水手",
+      "examples": [
+        { "en": "He says he'll be a sailor.", "zh": "他说他要当水手。" }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meaning": "n. 剩余部分",
+      "examples": [
+        { "en": "He'll be on a boat for the rest of his life!", "zh": "他就要在船上度过余生了！" }
+      ]
+    },
+    {
+      "word": "life",
+      "phonetic": "/laɪf/",
+      "meaning": "n. 生活，一生",
+      "examples": [
+        { "en": "He'll be on a boat for the rest of his life!", "zh": "他就要在船上度过余生了！" }
+      ]
+    },
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "v. 相信",
+      "examples": [
+        { "en": "He's the man I'm going to marry, so I have to believe him.", "zh": "他是我要嫁的人，所以我得相信他。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Are you really going to retire, Miss Marsh?",
+      "zh": "马什小姐，您真的要退休吗？",
+      "analysis": [
+        { "text": "Are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "really", "roles": ["状语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "retire", "roles": ["谓语"] },
+        { "text": "Miss", "roles": ["感叹词"] },
+        { "text": "Marsh", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "He won't let me make another film.",
+      "zh": "他不会让我再拍电影了。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "won't", "roles": ["谓语"] },
+        { "text": "let", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "make", "roles": ["补语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "film", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Let me introduce him to you.",
+      "zh": "让我把他介绍给你。",
+      "analysis": [
+        { "text": "Let", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "introduce", "roles": ["补语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "you", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We are going to get married next week.",
+      "zh": "我们下星期就要结婚了。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "married", "roles": ["表语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He says he's going to sell his house and he's going to live on a boat.",
+      "zh": "他说他要卖掉房子，住到船上去。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "says", "roles": ["谓语"] },
+        { "text": "he's", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "sell", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "house", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "he's", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "live", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "boat", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He's joking, isn't he?",
+      "zh": "他在开玩笑，是吧？",
+      "analysis": [
+        { "text": "He's", "roles": ["主语"] },
+        { "text": "joking", "roles": ["谓语"] },
+        { "text": "isn't", "roles": ["谓语"] },
+        { "text": "he", "roles": ["主语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Are you really going to retire, Miss Marsh?", "zh": "马什小姐，您真的要退休吗？" },
+    { "en": "I may. I can't make up my mind.", "zh": "有可能。我还没拿定主意。" },
+    { "en": "I shall have to ask my future husband.", "zh": "我得问问我未来的丈夫。" },
+    { "en": "He won't let me make another film.", "zh": "他不会让我再拍电影了。" },
+    { "en": "Your future husband, Miss Marsh?", "zh": "您未来的丈夫，马什小姐？" },
+    { "en": "Let me introduce him to you.", "zh": "让我把他介绍给你。" },
+    { "en": "We are going to get married next week.", "zh": "我们下星期就要结婚了。" },
+    { "en": "He says he's going to sell his house and he's going to live on a boat.", "zh": "他说他要卖掉房子，住到船上去。" },
+    { "en": "He says he'll be a sailor.", "zh": "他说他要当水手。" },
+    { "en": "Will he really?", "zh": "他真的会吗？" },
+    { "en": "He's joking, isn't he?", "zh": "他在开玩笑，是吧？" },
+    { "en": "If he marries you, he'll be on a boat for the rest of his life!", "zh": "如果他娶了你，他就得在船上度过余生了！" }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "L033",
+  "title": "Lesson 33 · A fine day",
+  "titleZh": "第33课 晴天",
+  "words": [
+    {
+      "word": "fine",
+      "phonetic": "/faɪn/",
+      "meaning": "adj. 美好的，晴朗的",
+      "examples": [
+        { "en": "It is a fine day today.", "zh": "今天天气晴朗。" }
+      ]
+    },
+    {
+      "word": "cloud",
+      "phonetic": "/klaʊd/",
+      "meaning": "n. 云",
+      "examples": [
+        { "en": "There are some clouds in the sky.", "zh": "天空中有几朵云。" }
+      ]
+    },
+    {
+      "word": "sky",
+      "phonetic": "/skaɪ/",
+      "meaning": "n. 天空",
+      "examples": [
+        { "en": "There are some clouds in the sky.", "zh": "天空中有几朵云。" }
+      ]
+    },
+    {
+      "word": "sun",
+      "phonetic": "/sʌn/",
+      "meaning": "n. 太阳",
+      "examples": [
+        { "en": "The sun is shining.", "zh": "阳光灿烂。" }
+      ]
+    },
+    {
+      "word": "shine",
+      "phonetic": "/ʃaɪn/",
+      "meaning": "v. 照耀",
+      "examples": [
+        { "en": "The sun is shining.", "zh": "阳光灿烂。" }
+      ]
+    },
+    {
+      "word": "walk",
+      "phonetic": "/wɔːk/",
+      "meaning": "v. 步行，散步",
+      "examples": [
+        { "en": "They are walking over the bridge.", "zh": "他们正走过桥。" }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "n. 桥",
+      "examples": [
+        { "en": "They are walking over the bridge.", "zh": "他们正走过桥。" }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meaning": "n. 小船",
+      "examples": [
+        { "en": "There are some boats on the river.", "zh": "河上有几条小船。" }
+      ]
+    },
+    {
+      "word": "river",
+      "phonetic": "/ˈrɪvə(r)/",
+      "meaning": "n. 河流",
+      "examples": [
+        { "en": "There are some boats on the river.", "zh": "河上有几条小船。" }
+      ]
+    },
+    {
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "meaning": "n. 轮船",
+      "examples": [
+        { "en": "The ship is going under the bridge.", "zh": "轮船正从桥下驶过。" }
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meaning": "n. 飞机",
+      "examples": [
+        { "en": "Tim is looking at an aeroplane.", "zh": "蒂姆正在看一架飞机。" }
+      ]
+    },
+    {
+      "word": "fly",
+      "phonetic": "/flaɪ/",
+      "meaning": "v. 飞",
+      "examples": [
+        { "en": "The aeroplane is flying over the river.", "zh": "飞机正飞过河面。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It is a fine day today.",
+      "zh": "今天天气晴朗。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fine", "roles": ["定语"] },
+        { "text": "day", "roles": ["表语"] },
+        { "text": "today", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "There are some clouds in the sky, but the sun is shining.",
+      "zh": "天空中有几朵云，但阳光灿烂。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "clouds", "roles": ["主语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "sky", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "sun", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "shining", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "They are walking over the bridge.",
+      "zh": "他们正走过桥。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "walking", "roles": ["谓语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bridge", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "There are some boats on the river.",
+      "zh": "河上有几条小船。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "boats", "roles": ["主语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The ship is going under the bridge.",
+      "zh": "轮船正从桥下驶过。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "ship", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bridge", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The aeroplane is flying over the river.",
+      "zh": "飞机正飞过河面。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "aeroplane", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "flying", "roles": ["谓语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "It is a fine day today.", "zh": "今天天气晴朗。" },
+    { "en": "There are some clouds in the sky, but the sun is shining.", "zh": "天空中有几朵云，但阳光灿烂。" },
+    { "en": "Mr. Jones is with his family.", "zh": "琼斯先生和他的家人在一起。" },
+    { "en": "They are walking over the bridge.", "zh": "他们正走过桥。" },
+    { "en": "There are some boats on the river.", "zh": "河上有几条小船。" },
+    { "en": "Mr. Jones and his wife are looking at them.", "zh": "琼斯先生和他的妻子正看着这些小船。" },
+    { "en": "Sally is looking at a big ship.", "zh": "萨莉正在看一艘大轮船。" },
+    { "en": "The ship is going under the bridge.", "zh": "轮船正从桥下驶过。" },
+    { "en": "Tim is looking at an aeroplane.", "zh": "蒂姆正在看一架飞机。" },
+    { "en": "The aeroplane is flying over the river.", "zh": "飞机正飞过河面。" }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "L013",
+  "title": "Lesson 13 · A new dress",
+  "titleZh": "第13课 一件新连衣裙",
+  "words": [
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə(r)/",
+      "meaning": "n. 颜色",
+      "examples": [
+        { "en": "What colour is it?", "zh": "它是什么颜色的？" },
+        { "en": "What colour is your new dress?", "zh": "你的新连衣裙是什么颜色的？" }
+      ]
+    },
+    {
+      "word": "green",
+      "phonetic": "/ɡriːn/",
+      "meaning": "adj. 绿色的",
+      "examples": [
+        { "en": "It is green.", "zh": "它是绿色的。" },
+        { "en": "The tree is green.", "zh": "树是绿色的。" }
+      ]
+    },
+    {
+      "word": "come",
+      "phonetic": "/kʌm/",
+      "meaning": "v. 来",
+      "examples": [
+        { "en": "Come upstairs and see it.", "zh": "到楼上来看看它。" },
+        { "en": "Come in, please.", "zh": "请进。" }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meaning": "adv. 在楼上，到楼上",
+      "examples": [
+        { "en": "Come upstairs, please.", "zh": "请上楼。" },
+        { "en": "My bedroom is upstairs.", "zh": "我的卧室在楼上。" }
+      ]
+    },
+    {
+      "word": "smart",
+      "phonetic": "/smɑːt/",
+      "meaning": "adj. 时髦的，漂亮的",
+      "examples": [
+        { "en": "It is very smart.", "zh": "它很时髦。" },
+        { "en": "That is a smart dress.", "zh": "那是一件时髦的连衣裙。" }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meaning": "n. 帽子",
+      "examples": [
+        { "en": "My hat is new.", "zh": "我的帽子是新的。" },
+        { "en": "That is a lovely hat.", "zh": "那是一顶可爱的帽子。" }
+      ]
+    },
+    {
+      "word": "same",
+      "phonetic": "/seɪm/",
+      "meaning": "adj. 相同的",
+      "examples": [
+        { "en": "It is the same colour.", "zh": "是同样的颜色。" },
+        { "en": "We are in the same class.", "zh": "我们在同一个班。" }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meaning": "adj. 可爱的，好看的",
+      "examples": [
+        { "en": "That is a lovely hat.", "zh": "那是一顶可爱的帽子。" },
+        { "en": "What a lovely day!", "zh": "多好的天气啊！" }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meaning": "n. 连衣裙",
+      "examples": [
+        { "en": "That is a nice dress.", "zh": "那是一件漂亮的连衣裙。" },
+        { "en": "My new dress is green.", "zh": "我的新连衣裙是绿色的。" }
+      ]
+    },
+    {
+      "word": "new",
+      "phonetic": "/njuː/",
+      "meaning": "adj. 新的",
+      "examples": [
+        { "en": "My hat is new.", "zh": "我的帽子是新的。" },
+        { "en": "What colour is your new dress?", "zh": "你的新连衣裙是什么颜色的？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It's green.",
+      "zh": "是绿色的。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语", "谓语"] },
+        { "text": "green", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Come upstairs and see it.",
+      "zh": "到楼上来看看吧。",
+      "analysis": [
+        { "text": "Come", "roles": ["谓语"] },
+        { "text": "upstairs", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "see", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It's very smart.",
+      "zh": "它很时髦。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语", "谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "smart", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "My hat's new, too.",
+      "zh": "我的帽子也是新的。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "hat's", "roles": ["主语", "谓语"] },
+        { "text": "new", "roles": ["表语"] },
+        { "text": "too", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "What colour is it?",
+      "zh": "它是什么颜色的？",
+      "analysis": [
+        { "text": "What", "roles": ["定语"] },
+        { "text": "colour", "roles": ["表语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "That's a lovely hat!",
+      "zh": "那是一顶可爱的帽子！",
+      "analysis": [
+        { "text": "That's", "roles": ["主语", "谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lovely", "roles": ["定语"] },
+        { "text": "hat", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "What colour's your new dress?", "zh": "你的新连衣裙是什么颜色的？" },
+    { "en": "It's green.", "zh": "是绿色的。" },
+    { "en": "Come upstairs and see it.", "zh": "到楼上来看看吧。" },
+    { "en": "Thank you.", "zh": "谢谢。" },
+    { "en": "Look! Here it is!", "zh": "瞧！它在这儿！" },
+    { "en": "That's a nice dress.", "zh": "那是一件漂亮的连衣裙。" },
+    { "en": "It's very smart.", "zh": "它很时髦。" },
+    { "en": "My hat's new, too.", "zh": "我的帽子也是新的。" },
+    { "en": "What colour is it?", "zh": "它是什么颜色的？" },
+    { "en": "It's the same colour.", "zh": "是同样的颜色。" },
+    { "en": "It's green, too.", "zh": "它也是绿色的。" },
+    { "en": "That's a lovely hat!", "zh": "那是一顶可爱的帽子！" }
+  ]
+}

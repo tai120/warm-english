@@ -1,0 +1,235 @@
+{
+  "id": "L052",
+  "title": "Lesson 52 · A pretty carpet",
+  "titleZh": "第52课 漂亮的地毯",
+  "words": [
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meaning": "v. 搬家，移动",
+      "examples": [
+        { "en": "We have just moved into a new house.", "zh": "我们刚搬进一栋新房子。" }
+      ]
+    },
+    {
+      "word": "order",
+      "phonetic": "/ˈɔːdə(r)/",
+      "meaning": "n. 整齐，秩序",
+      "examples": [
+        { "en": "I have been trying to get my new room in order.", "zh": "我一直在设法把新房间收拾整齐。" }
+      ]
+    },
+    {
+      "word": "own",
+      "phonetic": "/əʊn/",
+      "meaning": "v. 拥有",
+      "examples": [
+        { "en": "I own over a thousand books.", "zh": "我拥有一千多本书。" }
+      ]
+    },
+    {
+      "word": "temporarily",
+      "phonetic": "/ˈtemprərəli/",
+      "meaning": "adv. 暂时地",
+      "examples": [
+        { "en": "I have temporarily put my books on the floor.", "zh": "我暂时把书放在了地板上。" }
+      ]
+    },
+    {
+      "word": "inch",
+      "phonetic": "/ɪntʃ/",
+      "meaning": "n. 英寸",
+      "examples": [
+        { "en": "The books cover every inch of floor space.", "zh": "书占据了每一寸地板。" }
+      ]
+    },
+    {
+      "word": "space",
+      "phonetic": "/speɪs/",
+      "meaning": "n. 空间",
+      "examples": [
+        { "en": "They cover every inch of floor space.", "zh": "它们占据了每一寸地板空间。" }
+      ]
+    },
+    {
+      "word": "bookcase",
+      "phonetic": "/ˈbʊkkeɪs/",
+      "meaning": "n. 书柜",
+      "examples": [
+        { "en": "My sister helped me to carry an old bookcase up the stairs.", "zh": "我妹妹帮我把旧书柜搬上楼。" }
+      ]
+    },
+    {
+      "word": "stairs",
+      "phonetic": "/steəz/",
+      "meaning": "n. 楼梯",
+      "examples": [
+        { "en": "She carried the bookcase up the stairs.", "zh": "她把书柜搬上楼。" }
+      ]
+    },
+    {
+      "word": "carpet",
+      "phonetic": "/ˈkɑːpɪt/",
+      "meaning": "n. 地毯",
+      "examples": [
+        { "en": "This is the prettiest carpet I have ever seen.", "zh": "这是我见过的最漂亮的地毯。" }
+      ]
+    },
+    {
+      "word": "pretty",
+      "phonetic": "/ˈprɪti/",
+      "meaning": "adj. 漂亮的",
+      "examples": [
+        { "en": "She bought a pretty carpet.", "zh": "她买了一条漂亮的地毯。" }
+      ]
+    },
+    {
+      "word": "gaze",
+      "phonetic": "/ɡeɪz/",
+      "meaning": "v. 凝视",
+      "examples": [
+        { "en": "She gazed at the books for some time.", "zh": "她凝视着那些书看了一会儿。" }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/speə(r)/",
+      "meaning": "adj. 空闲的",
+      "examples": [
+        { "en": "You can read the carpet in your spare time.", "zh": "你可以在空闲时间读地毯。" }
+      ]
+    },
+    {
+      "word": "thousand",
+      "phonetic": "/ˈθaʊznd/",
+      "meaning": "num. 一千",
+      "examples": [
+        { "en": "I own over a thousand books.", "zh": "我拥有一千多本书。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "n. 事情，麻烦",
+      "examples": [
+        { "en": "To make matters worse, the room is rather small.", "zh": "更糟糕的是，房间相当小。" }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə(r)/",
+      "meaning": "v. 覆盖",
+      "examples": [
+        { "en": "The books cover every inch of the floor.", "zh": "书覆盖了地板的每一寸。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This has not been easy because I own over a thousand books.",
+      "zh": "这并不容易，因为我拥有一千多本书。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "easy", "roles": ["表语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "own", "roles": ["谓语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "thousand", "roles": ["定语"] },
+        { "text": "books", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I have been trying to get my new room in order.",
+      "zh": "我一直在设法把新房间收拾整齐。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "trying", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "room", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "order", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "zh": "她走进我的房间，看到满地的书时大吃一惊。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "room", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "big", "roles": ["定语"] },
+        { "text": "surprise", "roles": ["宾语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "those", "roles": ["定语"] },
+        { "text": "books", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "floor", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She said that it was the prettiest carpet she had ever seen.",
+      "zh": "她说这是她见过的最漂亮的地毯。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "prettiest", "roles": ["定语"] },
+        { "text": "carpet", "roles": ["表语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "ever", "roles": ["状语"] },
+        { "text": "seen", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "She added that I did not need bookcases at all.",
+      "zh": "她补充说我根本不需要书柜。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "added", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "need", "roles": ["谓语"] },
+        { "text": "bookcases", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "all", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "We have just moved into a new house and I have been working hard all morning.", "zh": "我们刚搬进一栋新房子，我整个上午都在忙着干活。" },
+    { "en": "I have been trying to get my new room in order.", "zh": "我一直在设法把新房间收拾整齐。" },
+    { "en": "This has not been easy because I own over a thousand books.", "zh": "这并不容易，因为我拥有一千多本书。" },
+    { "en": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.", "zh": "更糟糕的是，房间相当小，所以我暂时把书都放在了地板上。" },
+    { "en": "At the moment, they cover every inch of floor space and I have to walk on them to get in or out of the room.", "zh": "现在它们占据了每一寸地板，我进出房间都不得不踩着书走。" },
+    { "en": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.", "zh": "不久前，我妹妹帮我把一个旧书柜搬上楼。" },
+    { "en": "She went into my room and got a big surprise when she saw all those books on the floor.", "zh": "她走进我的房间，看到满地的书时大吃一惊。" },
+    { "en": "She said that it was the prettiest carpet she had ever seen.", "zh": "她说这是她见过的最漂亮的地毯。" },
+    { "en": "She added that I did not need bookcases at all.", "zh": "她补充说我根本不需要书柜。" },
+    { "en": "She told me that I could sit here in my spare time and read the carpet!", "zh": "她告诉我可以在空闲时间坐在这里读地毯！" }
+  ]
+}

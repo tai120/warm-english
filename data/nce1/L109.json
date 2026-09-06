@@ -1,0 +1,201 @@
+{
+  "id": "L109",
+  "title": "Lesson 109 · A good idea",
+  "titleZh": "第109课 好主意",
+  "words": [
+    {
+      "word": "idea",
+      "phonetic": "/aɪˈdɪə/",
+      "meaning": "n. 主意，想法",
+      "examples": [
+        { "en": "That's a good idea, Charlotte.", "zh": "好主意，夏洛特。" }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meaning": "n. 咖啡",
+      "examples": [
+        { "en": "Shall I make some coffee, Jane?", "zh": "我来煮点咖啡好吗，简？" },
+        { "en": "I'd like a cup of coffee.", "zh": "我想要一杯咖啡。" }
+      ]
+    },
+    {
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "n. 牛奶",
+      "examples": [
+        { "en": "Do you want any milk?", "zh": "你要加点牛奶吗？" }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meaning": "n. 糖",
+      "examples": [
+        { "en": "What about some sugar?", "zh": "加点糖怎么样？" }
+      ]
+    },
+    {
+      "word": "teaspoonful",
+      "phonetic": "/ˈtiːspuːnfʊl/",
+      "meaning": "n. 一茶匙（的量）",
+      "examples": [
+        { "en": "One and a half teaspoonfuls, please.", "zh": "请加一茶匙半。" }
+      ]
+    },
+    {
+      "word": "little",
+      "phonetic": "/ˈlɪtl/",
+      "meaning": "adj. 小的；pron. 少许，一点",
+      "examples": [
+        { "en": "Just a little, please.", "zh": "请加一点点。" }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meaning": "n. 香烟",
+      "examples": [
+        { "en": "I'd like a cigarette, too.", "zh": "我还想要一支香烟。" }
+      ]
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "/ˈbɪskɪt/",
+      "meaning": "n. 饼干",
+      "examples": [
+        { "en": "Have a biscuit instead.", "zh": "改吃一块饼干吧。" }
+      ]
+    },
+    {
+      "word": "smoke",
+      "phonetic": "/sməʊk/",
+      "meaning": "v. 吸烟",
+      "examples": [
+        { "en": "Eat more and smoke less!", "zh": "多吃点，少抽点烟！" }
+      ]
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "n. 建议，忠告",
+      "examples": [
+        { "en": "That's very good advice!", "zh": "这是非常好的忠告！" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "v. 要紧，有关系",
+      "examples": [
+        { "en": "It doesn't matter.", "zh": "没关系。" }
+      ]
+    },
+    {
+      "word": "pity",
+      "phonetic": "/ˈpɪti/",
+      "meaning": "n. 遗憾",
+      "examples": [
+        { "en": "What a pity!", "zh": "真遗憾！" }
+      ]
+    },
+    {
+      "word": "instead",
+      "phonetic": "/ɪnˈsted/",
+      "meaning": "adv. 代替，反而",
+      "examples": [
+        { "en": "Have a biscuit instead.", "zh": "改吃一块饼干吧。" }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meaning": "adj. 空的",
+      "examples": [
+        { "en": "I'm afraid it's empty.", "zh": "恐怕盒子是空的。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Shall I make some coffee, Jane?",
+      "zh": "我来煮点咖啡好吗，简？",
+      "analysis": [
+        { "text": "Shall", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "make", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "coffee", "roles": ["宾语"] },
+        { "text": "Jane", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "That's a good idea, Charlotte.",
+      "zh": "好主意，夏洛特。",
+      "analysis": [
+        { "text": "That's", "roles": ["主语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "good", "roles": ["定语"] },
+        { "text": "idea", "roles": ["表语"] },
+        { "text": "Charlotte", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Would you like some more?",
+      "zh": "你再来点吗？",
+      "analysis": [
+        { "text": "Would", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "more", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "That was very nice.",
+      "zh": "咖啡味道好极了。",
+      "analysis": [
+        { "text": "That", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "nice", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Have a biscuit instead.",
+      "zh": "改吃一块饼干吧。",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "biscuit", "roles": ["宾语"] },
+        { "text": "instead", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Eat more and smoke less!",
+      "zh": "多吃点，少抽点烟！",
+      "analysis": [
+        { "text": "Eat", "roles": ["谓语"] },
+        { "text": "more", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "smoke", "roles": ["谓语"] },
+        { "text": "less", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Shall I make some coffee, Jane?", "zh": "我来煮点咖啡好吗，简？" },
+    { "en": "That's a good idea, Charlotte.", "zh": "好主意，夏洛特。" },
+    { "en": "Do you want any milk?", "zh": "你要加点牛奶吗？" },
+    { "en": "Just a little, please.", "zh": "请加一点点。" },
+    { "en": "What about some sugar? Two teaspoonfuls?", "zh": "加点糖怎么样？两茶匙？" },
+    { "en": "No, less than that. One and a half teaspoonfuls, please.", "zh": "不，再少一点。请加一茶匙半。" },
+    { "en": "That was very nice.", "zh": "咖啡味道好极了。" },
+    { "en": "Would you like some more?", "zh": "你再来点吗？" },
+    { "en": "I'd like a cigarette, too.", "zh": "我还想要一支香烟。" },
+    { "en": "It doesn't matter.", "zh": "没关系。" },
+    { "en": "Have a biscuit instead.", "zh": "改吃一块饼干吧。" },
+    { "en": "Eat more and smoke less!", "zh": "多吃点，少抽点烟！" }
+  ]
+}

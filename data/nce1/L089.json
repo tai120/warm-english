@@ -1,0 +1,219 @@
+{
+  "id": "L089",
+  "title": "Lesson 89 · For sale",
+  "titleZh": "第89课 待售",
+  "words": [
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "v. 相信，认为",
+      "examples": [
+        { "en": "I believe that this house is for sale.", "zh": "我想这房子是要出售的吧。" },
+        { "en": "I believe you.", "zh": "我相信你。" }
+      ]
+    },
+    {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "meaning": "v. （用于请求许可）可以",
+      "examples": [
+        { "en": "May I have a look at it, please?", "zh": "我可以看一看吗？" },
+        { "en": "May I come in?", "zh": "我可以进来吗？" }
+      ]
+    },
+    {
+      "word": "since",
+      "phonetic": "/sɪns/",
+      "meaning": "prep. 自从",
+      "examples": [
+        { "en": "I've been here since 1976.", "zh": "我从1976年起就住在这里。" },
+        { "en": "I have known him since 1980.", "zh": "我从1980年起就认识他。" }
+      ]
+    },
+    {
+      "word": "why",
+      "phonetic": "/waɪ/",
+      "meaning": "adv. 为什么",
+      "examples": [
+        { "en": "Then why do you want to sell it?", "zh": "那么您为什么要卖掉它呢？" },
+        { "en": "Why are you late?", "zh": "你为什么迟到？" }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "/sel/",
+      "meaning": "v. 卖，出售",
+      "examples": [
+        { "en": "I believe that this house is for sale.", "zh": "我想这房子是要出售的吧。" },
+        { "en": "Why do you want to sell it?", "zh": "您为什么要卖掉它呢？" }
+      ]
+    },
+    {
+      "word": "because",
+      "phonetic": "/bɪˈkɒz/",
+      "meaning": "conj. 因为",
+      "examples": [
+        { "en": "Because I've just retired.", "zh": "因为我刚退休。" },
+        { "en": "I stayed at home because it rained.", "zh": "因为下雨，我呆在家里。" }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meaning": "v. 退休",
+      "examples": [
+        { "en": "Because I've just retired.", "zh": "因为我刚退休。" },
+        { "en": "My father retired last year.", "zh": "我父亲去年退休了。" }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meaning": "v. 花费，值（多少钱）",
+      "examples": [
+        { "en": "How much does this house cost?", "zh": "这座房子卖多少钱？" },
+        { "en": "This book costs five pounds.", "zh": "这本书值5英镑。" }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meaning": "n. 英镑",
+      "examples": [
+        { "en": "Three pounds fifty pence, please.", "zh": "请付3英镑50便士。" },
+        { "en": "That's a lot of pounds!", "zh": "那要好多英镑呢！" }
+      ]
+    },
+    {
+      "word": "worth",
+      "phonetic": "/wɜːθ/",
+      "meaning": "prep. 值……钱",
+      "examples": [
+        { "en": "It's worth every penny of it.", "zh": "它确实值这么多钱。" },
+        { "en": "This book is worth reading.", "zh": "这本书值得一读。" }
+      ]
+    },
+    {
+      "word": "penny",
+      "phonetic": "/ˈpeni/",
+      "meaning": "n. 便士",
+      "examples": [
+        { "en": "It's worth every penny of it.", "zh": "它确实值这么多钱。" },
+        { "en": "Three pounds fifty pence, please.", "zh": "请付3英镑50便士。" }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "/dɪˈsaɪd/",
+      "meaning": "v. 决定",
+      "examples": [
+        { "en": "I can't decide yet.", "zh": "我还不能决定。" },
+        { "en": "We decided to buy the house.", "zh": "我们决定买下这所房子。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 乡村，乡下",
+      "examples": [
+        { "en": "I want to buy a small house in the country.", "zh": "我想在乡下买一座小房子。" },
+        { "en": "They live in the country.", "zh": "他们住在乡下。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I believe that this house is for sale.",
+      "zh": "我想这房子是要出售的吧。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "believe", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "house", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "for", "roles": ["表语"] },
+        { "text": "sale", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "May I have a look at it, please?",
+      "zh": "我可以看一看吗？",
+      "analysis": [
+        { "text": "May", "roles": ["谓语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "look", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "it", "roles": ["状语"] },
+        { "text": "please", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I've lived here for twenty years.",
+      "zh": "我在这里已经住了20年了。",
+      "analysis": [
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "lived", "roles": ["谓语"] },
+        { "text": "here", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "twenty", "roles": ["定语"] },
+        { "text": "years", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I've been here since 1976.",
+      "zh": "我从1976年起就住在这里。",
+      "analysis": [
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "here", "roles": ["状语"] },
+        { "text": "since", "roles": ["状语"] },
+        { "text": "1976", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I want to buy a small house in the country.",
+      "zh": "我想在乡下买一座小房子。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["宾语"] },
+        { "text": "buy", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "house", "roles": ["宾语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "country", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "How much does this house cost?",
+      "zh": "这座房子卖多少钱？",
+      "analysis": [
+        { "text": "How", "roles": ["状语"] },
+        { "text": "much", "roles": ["状语"] },
+        { "text": "does", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "house", "roles": ["主语"] },
+        { "text": "cost", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Good afternoon.", "zh": "下午好。" },
+    { "en": "I believe that this house is for sale.", "zh": "我想这房子是要出售的吧。" },
+    { "en": "May I have a look at it, please?", "zh": "我可以看一看吗？" },
+    { "en": "Yes, of course. Come in.", "zh": "可以，当然可以。请进。" },
+    { "en": "How long have you lived here?", "zh": "您在这里住了多久了？" },
+    { "en": "I've lived here for twenty years.", "zh": "我在这里已经住了20年了。" },
+    { "en": "I've been here since 1976.", "zh": "我从1976年起就住在这里。" },
+    { "en": "Because I've just retired.", "zh": "因为我刚退休。" },
+    { "en": "I want to buy a small house in the country.", "zh": "我想在乡下买一座小房子。" },
+    { "en": "How much does this house cost?", "zh": "这座房子卖多少钱？" },
+    { "en": "That's a lot of money!", "zh": "这可是一大笔钱呢！" },
+    { "en": "Women always have the last word.", "zh": "女人总是说了算。" }
+  ]
+}

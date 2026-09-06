@@ -1,0 +1,213 @@
+{
+  "id": "L101",
+  "title": "Lesson 101 · A card from Jimmy",
+  "titleZh": "第101课 吉米的明信片",
+  "words": [
+    {
+      "word": "Scotland",
+      "phonetic": "/ˈskɒtlənd/",
+      "meaning": "n. 苏格兰",
+      "examples": [
+        { "en": "I have just arrived in Scotland.", "zh": "我刚到苏格兰。" },
+        { "en": "Scotland is in the north of Britain.", "zh": "苏格兰位于英国北部。" }
+      ]
+    },
+    {
+      "word": "card",
+      "phonetic": "/kɑːd/",
+      "meaning": "n. 明信片；卡片",
+      "examples": [
+        { "en": "Read Jimmy's card to me please, Penny.", "zh": "彭妮，请把吉米的明信片念给我听听。" },
+        { "en": "He can't write very much on a card, Mum.", "zh": "妈妈，明信片上写不了那么多。" }
+      ]
+    },
+    {
+      "word": "youth",
+      "phonetic": "/juːθ/",
+      "meaning": "n. 青年，年轻人",
+      "examples": [
+        { "en": "I'm staying at a Youth Hostel.", "zh": "我住在一家青年招待所。" },
+        { "en": "The youth is very polite.", "zh": "那个年轻人很有礼貌。" }
+      ]
+    },
+    {
+      "word": "hostel",
+      "phonetic": "/ˈhɒstl/",
+      "meaning": "n. 招待所，旅馆",
+      "examples": [
+        { "en": "I'm staying at a Youth Hostel.", "zh": "我住在一家青年招待所。" },
+        { "en": "The hostel is near the station.", "zh": "招待所在车站附近。" }
+      ]
+    },
+    {
+      "word": "association",
+      "phonetic": "/əˌsəʊsiˈeɪʃn/",
+      "meaning": "n. 协会",
+      "examples": [
+        { "en": "The Youth Hostels Association.", "zh": "青年招待所协会。" },
+        { "en": "He joined the association last year.", "zh": "他去年加入了协会。" }
+      ]
+    },
+    {
+      "word": "soon",
+      "phonetic": "/suːn/",
+      "meaning": "adv. 不久",
+      "examples": [
+        { "en": "I'll write a letter soon.", "zh": "我很快会写信的。" },
+        { "en": "See you soon!", "zh": "回头见！" }
+      ]
+    },
+    {
+      "word": "write",
+      "phonetic": "/raɪt/",
+      "meaning": "v. 写",
+      "examples": [
+        { "en": "I'll write a letter soon.", "zh": "我很快会写信的。" },
+        { "en": "He can't write very much on a card.", "zh": "他在明信片上写不了那么多。" }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "/hɪə(r)/",
+      "meaning": "v. 听见",
+      "examples": [
+        { "en": "I'm afraid I can't hear you.", "zh": "恐怕我听不见。" },
+        { "en": "Can you hear me?", "zh": "你能听见我说话吗？" }
+      ]
+    },
+    {
+      "word": "member",
+      "phonetic": "/ˈmembə(r)/",
+      "meaning": "n. 成员，会员",
+      "examples": [
+        { "en": "He's a member of the Y.H.A.", "zh": "他是Y.H.A.的一个成员。" },
+        { "en": "She is a member of our club.", "zh": "她是我们俱乐部的成员。" }
+      ]
+    },
+    {
+      "word": "love",
+      "phonetic": "/lʌv/",
+      "meaning": "n. 爱；亲爱的（信末用语）",
+      "examples": [
+        { "en": "'Love, Jimmy.'", "zh": "“爱你们的，吉米。”" },
+        { "en": "Give my love to your mother.", "zh": "代我向你的母亲问好。" }
+      ]
+    },
+    {
+      "word": "else",
+      "phonetic": "/els/",
+      "meaning": "adv. 别的，其他",
+      "examples": [
+        { "en": "What else does he say?", "zh": "他还说了些什么？" },
+        { "en": "Is there anything else?", "zh": "还有别的事吗？" }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meaning": "n. 信",
+      "examples": [
+        { "en": "I'll write a letter soon.", "zh": "我很快会写信的。" },
+        { "en": "This letter's full of mistakes.", "zh": "这封信里错误百出。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Read Jimmy's card to me please, Penny.",
+      "zh": "彭妮，请把吉米的明信片念给我听听。",
+      "analysis": [
+        { "text": "Read", "roles": ["谓语"] },
+        { "text": "Jimmy's", "roles": ["定语"] },
+        { "text": "card", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] },
+        { "text": "please", "roles": ["状语"] },
+        { "text": "Penny", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "I have just arrived in Scotland and I'm staying at a Youth Hostel.",
+      "zh": "我刚到苏格兰，我住在一家青年招待所。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Scotland", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I'm", "roles": ["主语"] },
+        { "text": "staying", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "Youth", "roles": ["定语"] },
+        { "text": "Hostel", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He says he's just arrived in Scotland.",
+      "zh": "他说他刚到苏格兰。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "says", "roles": ["谓语"] },
+        { "text": "he's", "roles": ["主语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Scotland", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "You know he's a member of the Y.H.A.",
+      "zh": "您知道，他是Y.H.A.的一个成员。",
+      "analysis": [
+        { "text": "You", "roles": ["主语"] },
+        { "text": "know", "roles": ["谓语"] },
+        { "text": "he's", "roles": ["主语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "member", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "YHA", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "I'll write a letter soon.",
+      "zh": "我很快会写信的。",
+      "analysis": [
+        { "text": "I'll", "roles": ["主语"] },
+        { "text": "write", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "soon", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I hope you are all well.",
+      "zh": "祝你们大家身体都好。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "hope", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "well", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Read Jimmy's card to me please, Penny.", "zh": "彭妮，请把吉米的明信片念给我听听。" },
+    { "en": "I have just arrived in Scotland and I'm staying at a Youth Hostel.", "zh": "我刚到苏格兰，我住在一家青年招待所。" },
+    { "en": "He says he's just arrived in Scotland.", "zh": "他说他刚到苏格兰。" },
+    { "en": "He says he's staying at a Youth Hostel.", "zh": "他说他住在一家青年招待所。" },
+    { "en": "You know he's a member of the Y.H.A.", "zh": "您知道，他是Y.H.A.的一个成员。" },
+    { "en": "The Youth Hostels Association.", "zh": "青年招待所协会。" },
+    { "en": "What else does he say?", "zh": "他还说了些什么？" },
+    { "en": "I'll write a letter soon.", "zh": "我很快会写信的。" },
+    { "en": "I hope you are all well.", "zh": "祝你们大家身体都好。" },
+    { "en": "Speak up, Penny. I'm afraid I can't hear you.", "zh": "彭妮，大声一点，恐怕我听不见。" },
+    { "en": "He says he'll write a letter soon.", "zh": "他说他很快会写信的。" },
+    { "en": "He hopes we are all well.", "zh": "他祝我们大家身体好。" }
+  ]
+}

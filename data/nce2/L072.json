@@ -1,0 +1,258 @@
+{
+  "id": "L072",
+  "title": "Lesson 72 · A car called Bluebird",
+  "titleZh": "第72课 '蓝鸟'汽车",
+  "words": [
+    {
+      "word": "racing",
+      "phonetic": "/ˈreɪsɪŋ/",
+      "meaning": "adj. 赛车的，比赛的",
+      "examples": [
+        { "en": "He was a great racing driver.", "zh": "他是一位伟大的赛车手。" }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic": "/ˈdraɪvə(r)/",
+      "meaning": "n. 司机，驾驶员",
+      "examples": [
+        { "en": "The driver set up a new world record.", "zh": "这位车手创造了一项新的世界纪录。" }
+      ]
+    },
+    {
+      "word": "record",
+      "phonetic": "/ˈrekɔːd/",
+      "meaning": "n. 纪录",
+      "examples": [
+        { "en": "He set up a world record in 1935.", "zh": "他于1935年创造了一项世界纪录。" }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meaning": "n. 速度",
+      "examples": [
+        { "en": "He drove at a speed of over 300 miles per hour.", "zh": "他以每小时300多英里的速度驾驶。" }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "/maɪl/",
+      "meaning": "n. 英里",
+      "examples": [
+        { "en": "The salt flats are miles long.", "zh": "盐滩有好几英里长。" }
+      ]
+    },
+    {
+      "word": "specially",
+      "phonetic": "/ˈspeʃəli/",
+      "meaning": "adv. 专门地，特别地",
+      "examples": [
+        { "en": "The car was specially built for him.", "zh": "这辆汽车是专门为他制造的。" }
+      ]
+    },
+    {
+      "word": "build",
+      "phonetic": "/bɪld/",
+      "meaning": "v. 建造",
+      "examples": [
+        { "en": "Bluebird was built for Campbell.", "zh": "'蓝鸟'是为坎贝尔制造的。" }
+      ]
+    },
+    {
+      "word": "length",
+      "phonetic": "/leŋθ/",
+      "meaning": "n. 长度",
+      "examples": [
+        { "en": "The car was over thirty feet in length.", "zh": "这辆汽车有30多英尺长。" }
+      ]
+    },
+    {
+      "word": "horsepower",
+      "phonetic": "/ˈhɔːspaʊə(r)/",
+      "meaning": "n. 马力",
+      "examples": [
+        { "en": "The engine had 2,500 horsepower.", "zh": "这台发动机有2500马力。" }
+      ]
+    },
+    {
+      "word": "tyre",
+      "phonetic": "/ˈtaɪə(r)/",
+      "meaning": "n. 轮胎",
+      "examples": [
+        { "en": "A tyre burst during the first run.", "zh": "第一次行驶中一个轮胎爆了。" }
+      ]
+    },
+    {
+      "word": "burst",
+      "phonetic": "/bɜːst/",
+      "meaning": "v. 爆裂",
+      "examples": [
+        { "en": "The tyre burst suddenly.", "zh": "轮胎突然爆了。" }
+      ]
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meaning": "n. 尝试，努力",
+      "examples": [
+        { "en": "After his attempt, he was disappointed.", "zh": "尝试结束后，他很失望。" }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+      "meaning": "adj. 失望的",
+      "examples": [
+        { "en": "He was disappointed to learn the truth.", "zh": "得知真相后他很失望。" }
+      ]
+    },
+    {
+      "word": "average",
+      "phonetic": "/ˈævərɪdʒ/",
+      "meaning": "adj. 平均的",
+      "examples": [
+        { "en": "His average speed was 301 miles per hour.", "zh": "他的平均时速是301英里。" }
+      ]
+    },
+    {
+      "word": "mistake",
+      "phonetic": "/mɪˈsteɪk/",
+      "meaning": "n. 错误",
+      "examples": [
+        { "en": "A mistake had been made in the record.", "zh": "纪录上出了一个差错。" }
+      ]
+    },
+    {
+      "word": "Malcolm Campbell",
+      "phonetic": "/ˈmælkəm ˈkæmbl/",
+      "meaning": "n. 马尔科姆·坎贝尔（人名）",
+      "examples": [
+        { "en": "Malcolm Campbell was a famous racing driver.", "zh": "马尔科姆·坎贝尔是一位著名的赛车手。" }
+      ]
+    },
+    {
+      "word": "Bluebird",
+      "phonetic": "/ˈbluːbɜːd/",
+      "meaning": "n. 蓝鸟（汽车名）",
+      "examples": [
+        { "en": "Bluebird was the name of the car.", "zh": "'蓝鸟'是那辆汽车的名字。" }
+      ]
+    },
+    {
+      "word": "Bonneville Salt Flats",
+      "phonetic": "/ˈbɒnəvɪl sɔːlt flæts/",
+      "meaning": "n. 博纳维尔盐滩（地名）",
+      "examples": [
+        { "en": "Bonneville Salt Flats is in Utah.", "zh": "博纳维尔盐滩位于犹他州。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Bluebird, the car he was driving, had been specially built for him.",
+      "zh": "他驾驶的'蓝鸟'汽车是专门为他制造的。",
+      "analysis": [
+        { "text": "Bluebird", "roles": ["主语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "car", "roles": ["主语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "driving", "roles": ["谓语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "specially", "roles": ["状语"] },
+        { "text": "built", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "him", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It was over thirty feet in length and had a 2,500-horsepower engine.",
+      "zh": "它长30多英尺，配有一台2500马力的发动机。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "thirty", "roles": ["定语"] },
+        { "text": "feet", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "length", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "2500horsepower", "roles": ["定语"] },
+        { "text": "engine", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Campbell reached a speed of over 304 miles per hour, but a tyre burst during the first run.",
+      "zh": "坎贝尔的时速超过了304英里，但在第一次行驶中一个轮胎爆了。",
+      "analysis": [
+        { "text": "Campbell", "roles": ["主语"] },
+        { "text": "reached", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "speed", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "304", "roles": ["定语"] },
+        { "text": "miles", "roles": ["宾语"] },
+        { "text": "per", "roles": ["状语"] },
+        { "text": "hour", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "tyre", "roles": ["主语"] },
+        { "text": "burst", "roles": ["谓语"] },
+        { "text": "during", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "first", "roles": ["定语"] },
+        { "text": "run", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "A few days later, he was told that a mistake had been made.",
+      "zh": "几天后，有人告诉他出了个差错。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "few", "roles": ["定语"] },
+        { "text": "days", "roles": ["状语"] },
+        { "text": "later", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "mistake", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "His average speed had been 301 miles per hour.",
+      "zh": "他的平均时速是301英里。",
+      "analysis": [
+        { "text": "His", "roles": ["定语"] },
+        { "text": "average", "roles": ["定语"] },
+        { "text": "speed", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "301", "roles": ["定语"] },
+        { "text": "miles", "roles": ["表语"] },
+        { "text": "per", "roles": ["状语"] },
+        { "text": "hour", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Sir Malcolm Campbell, the great racing driver, was the first man to drive at over 300 miles per hour.", "zh": "伟大的赛车手马尔科姆·坎贝尔爵士是第一个驾车时速超过300英里的人。" },
+    { "en": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.", "zh": "1935年9月，他在犹他州的博纳维尔盐滩创造了一项新的世界纪录。" },
+    { "en": "Bluebird, the car he was driving, had been specially built for him.", "zh": "他驾驶的'蓝鸟'汽车是专门为他制造的。" },
+    { "en": "It was over thirty feet in length and had a 2,500-horsepower engine.", "zh": "它长30多英尺，配有一台2500马力的发动机。" },
+    { "en": "Campbell reached a speed of over 304 miles per hour, but a tyre burst during the first run.", "zh": "坎贝尔的时速超过了304英里，但在第一次行驶中一个轮胎爆了。" },
+    { "en": "After his attempt, Campbell was disappointed to learn that his average speed had been 299 miles per hour.", "zh": "尝试结束后，坎贝尔失望地得知他的平均时速是299英里。" },
+    { "en": "A few days later, he was told that a mistake had been made.", "zh": "几天后，有人告诉他出了个差错。" },
+    { "en": "His average speed had been 301 miles per hour.", "zh": "他的平均时速是301英里。" },
+    { "en": "Since that time, racing drivers have reached speeds of over 600 miles an hour.", "zh": "自那时以来，赛车手们已经达到了每小时600多英里的速度。" }
+  ]
+}

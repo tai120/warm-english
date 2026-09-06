@@ -1,0 +1,246 @@
+{
+  "id": "L095",
+  "title": "Lesson 95 · A fantasy",
+  "titleZh": "第95课 纯属虚构",
+  "words": [
+    {
+      "word": "fantasy",
+      "phonetic": "/ˈfæntəsi/",
+      "meaning": "n. 幻想，虚构",
+      "examples": [
+        { "en": "The story is pure fantasy.", "zh": "这个故事纯属虚构。" }
+      ]
+    },
+    {
+      "word": "ambassador",
+      "phonetic": "/æmˈbæsədə(r)/",
+      "meaning": "n. 大使",
+      "examples": [
+        { "en": "The Ambassador returned home for lunch.", "zh": "大使回家吃午饭。" }
+      ]
+    },
+    {
+      "word": "Escalopia",
+      "phonetic": "/ˌeskəˈləʊpiə/",
+      "meaning": "n. 艾斯卡罗比亚（虚构国名）",
+      "examples": [
+        { "en": "The Ambassador of Escalopia returned home.", "zh": "艾斯卡罗比亚的大使回到了家。" }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meaning": "n. 震惊",
+      "examples": [
+        { "en": "His wife got a shock.", "zh": "他的妻子大吃一惊。" }
+      ]
+    },
+    {
+      "word": "pale",
+      "phonetic": "/peɪl/",
+      "meaning": "adj. 苍白的",
+      "examples": [
+        { "en": "He looked pale.", "zh": "他脸色苍白。" }
+      ]
+    },
+    {
+      "word": "frightful",
+      "phonetic": "/ˈfraɪtfl/",
+      "meaning": "adj. 可怕的",
+      "examples": [
+        { "en": "His clothes were in a frightful state.", "zh": "他的衣服破得一塌糊涂。" }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meaning": "adj. 幸运的",
+      "examples": [
+        { "en": "He was lucky enough to escape.", "zh": "他很幸运地逃了出来。" }
+      ]
+    },
+    {
+      "word": "fire",
+      "phonetic": "/ˈfaɪə(r)/",
+      "meaning": "n. 火，火灾",
+      "examples": [
+        { "en": "A fire broke out in the embassy basement.", "zh": "大使馆地下室起火了。" }
+      ]
+    },
+    {
+      "word": "embassy",
+      "phonetic": "/ˈembəsi/",
+      "meaning": "n. 大使馆",
+      "examples": [
+        { "en": "The fire broke out in the embassy.", "zh": "大使馆里起了火。" }
+      ]
+    },
+    {
+      "word": "basement",
+      "phonetic": "/ˈbeɪsmənt/",
+      "meaning": "n. 地下室",
+      "examples": [
+        { "en": "The basement was on fire.", "zh": "地下室着火了。" }
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "phonetic": "/ˈdemənstreɪt/",
+      "meaning": "v. 示威",
+      "examples": [
+        { "en": "The students were demonstrating outside the embassy.", "zh": "学生们在大使馆外示威。" }
+      ]
+    },
+    {
+      "word": "scene",
+      "phonetic": "/siːn/",
+      "meaning": "n. 场面",
+      "examples": [
+        { "en": "He will never forget the frightful scenes.", "zh": "他永远不会忘记那些可怕的场面。" }
+      ]
+    },
+    {
+      "word": "serious",
+      "phonetic": "/ˈsɪəriəs/",
+      "meaning": "adj. 严重的",
+      "examples": [
+        { "en": "The fire was not very serious.", "zh": "火势并不严重。" }
+      ]
+    },
+    {
+      "word": "reporter",
+      "phonetic": "/rɪˈpɔːtə(r)/",
+      "meaning": "n. 记者",
+      "examples": [
+        { "en": "The Ambassador was interviewed by a reporter.", "zh": "大使接受了记者的采访。" }
+      ]
+    },
+    {
+      "word": "burnt",
+      "phonetic": "/bɜːnt/",
+      "meaning": "adj. 烧焦的",
+      "examples": [
+        { "en": "His clothes were badly burnt.", "zh": "他的衣服被烧焦得很厉害。" }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "n. 微笑",
+      "examples": [
+        { "en": "He replied with a smile.", "zh": "他微笑着回答。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "When the Ambassador of Escalopia returned home for lunch, his wife got a shock.",
+      "zh": "当艾斯卡罗比亚的大使回家吃午饭时，他的妻子大吃一惊。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Ambassador", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "Escalopia", "roles": ["定语"] },
+        { "text": "returned", "roles": ["谓语"] },
+        { "text": "home", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "lunch", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "shock", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He looked pale and his clothes were in a frightful state.",
+      "zh": "他脸色苍白，衣服也破烂不堪。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "pale", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "clothes", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "frightful", "roles": ["定语"] },
+        { "text": "state", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She asked him what had happened, and he explained that a fire had broken out in the embassy basement.",
+      "zh": "她问他发生了什么事，他解释说大使馆地下室起火了。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "what", "roles": ["连词"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "happened", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "explained", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fire", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "broken", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "embassy", "roles": ["定语"] },
+        { "text": "basement", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The fire had been started by some university students who were demonstrating outside the embassy.",
+      "zh": "火是一些在大使馆外示威的大学生点燃的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "fire", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "started", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "some", "roles": ["定语"] },
+        { "text": "university", "roles": ["定语"] },
+        { "text": "students", "roles": ["状语"] },
+        { "text": "who", "roles": ["连词"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "demonstrating", "roles": ["谓语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "embassy", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The Ambassador was certainly lucky to be alive.",
+      "zh": "大使能活着当然很幸运。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Ambassador", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "certainly", "roles": ["状语"] },
+        { "text": "lucky", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "alive", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "When the Ambassador of Escalopia returned home for lunch, his wife got a shock.", "zh": "当艾斯卡罗比亚的大使回家吃午饭时，他的妻子大吃一惊。" },
+    { "en": "He looked pale and his clothes were in a frightful state.", "zh": "他脸色苍白，衣服也破烂不堪。" },
+    { "en": "She asked him what had happened, and he explained that a fire had broken out in the embassy basement.", "zh": "她问他发生了什么事，他解释说大使馆地下室起火了。" },
+    { "en": "He said he was lucky enough to escape, but he would never be able to forget the frightful scenes.", "zh": "他说自己很幸运逃了出来，但他永远也忘不了那些可怕的场面。" },
+    { "en": "The fire had been started by some university students who were demonstrating outside the embassy.", "zh": "火是一些在大使馆外示威的大学生点燃的。" },
+    { "en": "The Ambassador was certainly lucky to be alive.", "zh": "大使能活着当然很幸运。" },
+    { "en": "Later that day, he told a reporter that the students had set the embassy on fire.", "zh": "当天晚些时候，他告诉记者，学生们点燃了大使馆。" },
+    { "en": "He added that the fire was not very serious and that the students had not done much damage.", "zh": "他补充说，火势并不严重，学生们没有造成多大破坏。" },
+    { "en": "The reporter asked him how his clothes had become so badly burnt.", "zh": "记者问他衣服怎么会烧得这么厉害。" },
+    { "en": "With a smile, the Ambassador replied, 'Everything will be all right in time, my dear.'", "zh": "大使微笑着回答：“一切迟早都会好起来的，亲爱的。”" }
+  ]
+}

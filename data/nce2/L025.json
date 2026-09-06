@@ -1,0 +1,244 @@
+{
+  "id": "L025",
+  "title": "Lesson 25 · Do the English speak English?",
+  "titleZh": "第25课 英国人讲的是英语吗？",
+  "words": [
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "v. 到达",
+      "examples": [
+        { "en": "I arrived in London at last.", "zh": "我终于到了伦敦。" },
+        { "en": "The train arrived at the station.", "zh": "火车到站了。" }
+      ]
+    },
+    {
+      "word": "railway",
+      "phonetic": "/ˈreɪlweɪ/",
+      "meaning": "n. 铁路",
+      "examples": [
+        { "en": "The railway station was big, black and dark.", "zh": "火车站很大，又黑又暗。" },
+        { "en": "He works on the railway.", "zh": "他在铁路上工作。" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站",
+      "examples": [
+        { "en": "The railway station was big, black and dark.", "zh": "火车站很大，又黑又暗。" },
+        { "en": "The station is near my home.", "zh": "车站离我家很近。" }
+      ]
+    },
+    {
+      "word": "porter",
+      "phonetic": "/ˈpɔːtə(r)/",
+      "meaning": "n. 搬运工，行李员",
+      "examples": [
+        { "en": "I asked a porter.", "zh": "我向一个搬运工打听。" },
+        { "en": "The porter carried my bags.", "zh": "搬运工帮我搬了行李。" }
+      ]
+    },
+    {
+      "word": "several",
+      "phonetic": "/ˈsevrəl/",
+      "meaning": "adj. 几个",
+      "examples": [
+        { "en": "I repeated my question several times.", "zh": "我把问话重复了很多遍。" },
+        { "en": "I have read the book several times.", "zh": "这本书我读过好几遍了。" }
+      ]
+    },
+    {
+      "word": "repeat",
+      "phonetic": "/rɪˈpiːt/",
+      "meaning": "v. 重复",
+      "examples": [
+        { "en": "I repeated my question several times.", "zh": "我把问话重复了很多遍。" },
+        { "en": "Please repeat the sentence.", "zh": "请把这句话重复一遍。" }
+      ]
+    },
+    {
+      "word": "question",
+      "phonetic": "/ˈkwestʃən/",
+      "meaning": "n. 问题",
+      "examples": [
+        { "en": "I repeated my question several times.", "zh": "我把问话重复了很多遍。" },
+        { "en": "May I ask a question?", "zh": "我可以问一个问题吗？" }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meaning": "v. 理解，懂",
+      "examples": [
+        { "en": "At last he understood.", "zh": "他终于听懂了。" },
+        { "en": "I can't understand this word.", "zh": "我不懂这个词。" }
+      ]
+    },
+    {
+      "word": "foreigner",
+      "phonetic": "/ˈfɒrənə(r)/",
+      "meaning": "n. 外国人",
+      "examples": [
+        { "en": "'I am a foreigner,' I said.", "zh": "‘我是个外国人，’我说。" },
+        { "en": "Many foreigners visit London.", "zh": "许多外国人到伦敦游览。" }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "v. 感到奇怪，想知道",
+      "examples": [
+        { "en": "I wonder.", "zh": "我感到奇怪。" },
+        { "en": "I wonder why he is late.", "zh": "我想知道他为什么迟到。" }
+      ]
+    },
+    {
+      "word": "English",
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "meaning": "n. 英国人；英语",
+      "examples": [
+        { "en": "The English understand each other.", "zh": "英国人之间相互听得懂。" },
+        { "en": "Do the English speak English?", "zh": "英国人讲的是英语吗？" }
+      ]
+    },
+    {
+      "word": "clearly",
+      "phonetic": "/ˈklɪəli/",
+      "meaning": "adv. 清楚地",
+      "examples": [
+        { "en": "I spoke English very clearly.", "zh": "我的英语说得很清楚。" },
+        { "en": "Please speak clearly.", "zh": "请说清楚些。" }
+      ]
+    },
+    {
+      "word": "carefully",
+      "phonetic": "/ˈkeəfəli/",
+      "meaning": "adv. 仔细地",
+      "examples": [
+        { "en": "I spoke English very carefully.", "zh": "我的英语讲得非常认真。" },
+        { "en": "Read the letter carefully.", "zh": "仔细读这封信。" }
+      ]
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləʊli/",
+      "meaning": "adv. 缓慢地",
+      "examples": [
+        { "en": "Then he spoke slowly.", "zh": "于是他说得慢了些。" },
+        { "en": "Please speak more slowly.", "zh": "请说得再慢一点。" }
+      ]
+    },
+    {
+      "word": "language",
+      "phonetic": "/ˈlæŋɡwɪdʒ/",
+      "meaning": "n. 语言",
+      "examples": [
+        { "en": "Each person speaks a different language.", "zh": "人们各自说着一种不同的语言。" },
+        { "en": "English is an important language.", "zh": "英语是一门重要的语言。" }
+      ]
+    },
+    {
+      "word": "each",
+      "phonetic": "/iːtʃ/",
+      "meaning": "pron. 每个",
+      "examples": [
+        { "en": "Each person speaks a different language.", "zh": "人们各自说着一种不同的语言。" },
+        { "en": "Each of them has a book.", "zh": "他们每个人都有一本书。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I arrived in London at last.",
+      "zh": "我终于到了伦敦。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "arrived", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "London", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "last", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The railway station was big, black and dark.",
+      "zh": "火车站很大，又黑又暗。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "railway", "roles": ["定语"] },
+        { "text": "station", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "big", "roles": ["表语"] },
+        { "text": "black", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "dark", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "I did not know the way to my hotel, so I asked a porter.",
+      "zh": "我不知道去饭店的路该怎么走，于是向一个搬运工打听。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "know", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "hotel", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "asked", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "porter", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I repeated my question several times and at last he understood.",
+      "zh": "我把问话重复了很多遍，他终于听懂了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "repeated", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "question", "roles": ["宾语"] },
+        { "text": "several", "roles": ["定语"] },
+        { "text": "times", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "last", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "understood", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "He answered me, but he spoke neither slowly nor clearly.",
+      "zh": "他回答了，但他讲得既不慢也不清楚。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "answered", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "spoke", "roles": ["谓语"] },
+        { "text": "neither", "roles": ["状语"] },
+        { "text": "slowly", "roles": ["状语"] },
+        { "text": "nor", "roles": ["连词"] },
+        { "text": "clearly", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I arrived in London at last.", "zh": "我终于到了伦敦。" },
+    { "en": "The railway station was big, black and dark.", "zh": "火车站很大，又黑又暗。" },
+    { "en": "I did not know the way to my hotel, so I asked a porter.", "zh": "我不知道去饭店的路该怎么走，于是向一个搬运工打听。" },
+    { "en": "I not only spoke English very carefully, but very clearly as well.", "zh": "我的英语讲得不但非常认真，而且咬字也非常清楚。" },
+    { "en": "The porter, however, could not understand me.", "zh": "然而搬运工却不明白我的话。" },
+    { "en": "I repeated my question several times and at last he understood.", "zh": "我把问话重复了很多遍，他终于听懂了。" },
+    { "en": "He answered me, but he spoke neither slowly nor clearly.", "zh": "他回答了，但他讲得既不慢也不清楚。" },
+    { "en": "'I am a foreigner,' I said.", "zh": "‘我是个外国人，’我说。" },
+    { "en": "Then he spoke slowly, but I could not understand him.", "zh": "于是他说得慢了些，可我还是听不懂。" },
+    { "en": "The English understand each other, but I don't understand them! Do they speak English?", "zh": "英国人之间相互听得懂，可我却听不懂他们的话！他们说的是英语吗？" }
+  ]
+}

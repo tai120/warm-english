@@ -1,0 +1,247 @@
+{
+  "id": "L035",
+  "title": "Lesson 35 · Stop thief!",
+  "titleZh": "第35课 捉贼！",
+  "words": [
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meaning": "n. 小偷，贼（复数 thieves）",
+      "examples": [
+        { "en": "The police caught the two thieves.", "zh": "警察抓住了那两个小偷。" },
+        { "en": "Stop thief!", "zh": "捉贼！" }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic": "/ˈdraɪvə(r)/",
+      "meaning": "n. 司机，驾驶员",
+      "examples": [
+        { "en": "He became a bus driver.", "zh": "他成了一名公共汽车司机。" },
+        { "en": "My father is a taxi driver.", "zh": "我父亲是出租车司机。" }
+      ]
+    },
+    {
+      "word": "regret",
+      "phonetic": "/rɪˈɡret/",
+      "meaning": "v. 后悔，遗憾",
+      "examples": [
+        { "en": "He has not regretted his new job.", "zh": "他对新工作并不后悔。" },
+        { "en": "I regret telling him the truth.", "zh": "我后悔把真相告诉了他。" }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meaning": "adj. 令人兴奋的，有趣的",
+      "examples": [
+        { "en": "His new work is far more exciting.", "zh": "他的新工作有意思得多。" },
+        { "en": "It was an exciting football match.", "zh": "那是一场激动人心的足球赛。" }
+      ]
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meaning": "v. 冲，奔",
+      "examples": [
+        { "en": "Two thieves rushed out of a shop.", "zh": "两个小偷从商店里冲了出来。" },
+        { "en": "The children rushed into the room.", "zh": "孩子们冲进了房间。" }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "/ˈkæri/",
+      "meaning": "v. 携带，提，搬",
+      "examples": [
+        { "en": "One of them was carrying a bag full of money.", "zh": "其中一人提着一只装满钱的手提包。" },
+        { "en": "Let me carry the box for you.", "zh": "让我帮你搬这个箱子。" }
+      ]
+    },
+    {
+      "word": "fright",
+      "phonetic": "/fraɪt/",
+      "meaning": "n. 惊吓，害怕",
+      "examples": [
+        { "en": "The thief got such a fright that he dropped the bag.", "zh": "小偷吓得把包都扔了。" },
+        { "en": "She gave me a fright.", "zh": "她吓了我一跳。" }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meaning": "v. 扔下，掉下",
+      "examples": [
+        { "en": "He dropped the bag and ran away.", "zh": "他扔下包逃跑了。" },
+        { "en": "Be careful not to drop the glass.", "zh": "小心别把玻璃杯掉在地上。" }
+      ]
+    },
+    {
+      "word": "straight",
+      "phonetic": "/streɪt/",
+      "meaning": "adv. 径直地；直接",
+      "examples": [
+        { "en": "Roy drove the bus straight at the thieves.", "zh": "罗伊开车径直向小偷撞去。" },
+        { "en": "Go straight along this road.", "zh": "沿着这条路一直走。" }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meaning": "v. 逮捕",
+      "examples": [
+        { "en": "Both men were arrested.", "zh": "两个人都被逮捕了。" },
+        { "en": "The police arrested the thief.", "zh": "警察逮捕了那个小偷。" }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meaning": "v. 打电话",
+      "examples": [
+        { "en": "Roy stopped his bus and telephoned the police.", "zh": "罗伊停下车，给警察局打了电话。" },
+        { "en": "I will telephone you this evening.", "zh": "我今晚给你打电话。" }
+      ]
+    },
+    {
+      "word": "afterwards",
+      "phonetic": "/ˈɑːftəwədz/",
+      "meaning": "adv. 后来，然后",
+      "examples": [
+        { "en": "Shortly afterwards, the police stopped the car.", "zh": "不一会儿，警察拦住了那辆车。" },
+        { "en": "We had dinner and went home afterwards.", "zh": "我们吃了晚饭，然后就回家了。" }
+      ]
+    },
+    {
+      "word": "while",
+      "phonetic": "/waɪl/",
+      "meaning": "n. 一段时间",
+      "examples": [
+        { "en": "A short while ago, he became a bus driver.", "zh": "不久前，他成了一名公共汽车司机。" },
+        { "en": "I haven't seen him for a long while.", "zh": "我很久没见到他了。" }
+      ]
+    },
+    {
+      "word": "Roy Trenton",
+      "phonetic": "/rɔɪ ˈtrentən/",
+      "meaning": "n. 罗伊·特伦顿（人名）",
+      "examples": [
+        { "en": "Roy Trenton used to drive a taxi.", "zh": "罗伊·特伦顿过去开出租车。" },
+        { "en": "Roy Trenton is now a bus driver.", "zh": "罗伊·特伦顿现在是一名公共汽车司机。" }
+      ]
+    },
+    {
+      "word": "Catford Street",
+      "phonetic": "/ˈkætfəd striːt/",
+      "meaning": "n. 卡特福德街（地名）",
+      "examples": [
+        { "en": "He was driving along Catford Street.", "zh": "他当时正开车行驶在卡特福德街上。" },
+        { "en": "The shop is in Catford Street.", "zh": "那家商店在卡特福德街上。" }
+      ]
+    },
+    {
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meaning": "n. 包，袋子",
+      "examples": [
+        { "en": "The thief was carrying a bag full of money.", "zh": "小偷提着一只装满钱的手提包。" },
+        { "en": "She put the books in her bag.", "zh": "她把书放进包里。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A short while ago, he became a bus driver and he has not regretted it.",
+      "zh": "不久前，他改开公共汽车，但他并不后悔。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "short", "roles": ["定语"] },
+        { "text": "while", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "became", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bus", "roles": ["定语"] },
+        { "text": "driver", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "regretted", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "One of them was carrying a bag full of money.",
+      "zh": "其中一人提着一只装满钱的手提包。",
+      "analysis": [
+        { "text": "One", "roles": ["主语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "them", "roles": ["状语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "carrying", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bag", "roles": ["宾语"] },
+        { "text": "full", "roles": ["定语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "money", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Roy drove the bus straight at the thieves.",
+      "zh": "罗伊开车径直向小偷撞去。",
+      "analysis": [
+        { "text": "Roy", "roles": ["主语"] },
+        { "text": "drove", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bus", "roles": ["宾语"] },
+        { "text": "straight", "roles": ["状语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "thieves", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Roy stopped his bus and telephoned the police.",
+      "zh": "罗伊停下车，给警察局打了电话。",
+      "analysis": [
+        { "text": "Roy", "roles": ["主语"] },
+        { "text": "stopped", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "bus", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "telephoned", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "police", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "zh": "不一会儿，警察拦住了那辆车，两个人都被逮捕了。",
+      "analysis": [
+        { "text": "Shortly", "roles": ["状语"] },
+        { "text": "afterwards", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "stopped", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "car", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "both", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "arrested", "roles": ["谓语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Roy Trenton used to drive a taxi.", "zh": "罗伊·特伦顿过去开出租车。" },
+    { "en": "A short while ago, he became a bus driver and he has not regretted it.", "zh": "不久前，他改开公共汽车，但他并不后悔。" },
+    { "en": "He is finding his new work far more exciting.", "zh": "他觉得新工作有意思得多。" },
+    { "en": "Recently he was driving along Catford Street when he saw two thieves rush out of a shop.", "zh": "最近，他开车行驶在卡特福德街上，忽然看见两个小偷从一家商店里冲出来。" },
+    { "en": "One of them was carrying a bag full of money.", "zh": "其中一人提着一只装满钱的手提包。" },
+    { "en": "Roy drove the bus straight at the thieves.", "zh": "罗伊开车径直向小偷撞去。" },
+    { "en": "The one with the money got such a fright that he dropped the bag.", "zh": "拿钱的那个小偷吓得把包都扔了。" },
+    { "en": "Roy stopped his bus and telephoned the police.", "zh": "罗伊停下车，给警察局打了电话。" },
+    { "en": "Shortly afterwards, the police stopped the car and both men were arrested.", "zh": "不一会儿，警察拦住了那辆车，两个人都被逮捕了。" }
+  ]
+}

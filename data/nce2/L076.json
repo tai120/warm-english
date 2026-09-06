@@ -1,0 +1,264 @@
+{
+  "id": "L076",
+  "title": "Lesson 76 · April Fools' Day",
+  "titleZh": "第76课 愚人节",
+  "words": [
+    {
+      "word": "fool",
+      "phonetic": "/fuːl/",
+      "meaning": "n. 傻瓜",
+      "examples": [
+        { "en": "April Fools' Day is on the first of April.", "zh": "愚人节在4月1日。" }
+      ]
+    },
+    {
+      "word": "bulletin",
+      "phonetic": "/ˈbʊlətɪn/",
+      "meaning": "n. 新闻简报",
+      "examples": [
+        { "en": "The announcer began a special news bulletin.", "zh": "播音员开始播报特别新闻。" }
+      ]
+    },
+    {
+      "word": "announcer",
+      "phonetic": "/əˈnaʊnsə(r)/",
+      "meaning": "n. 播音员",
+      "examples": [
+        { "en": "The television announcer told the story.", "zh": "电视播音员讲述了这个故事。" }
+      ]
+    },
+    {
+      "word": "macaroni",
+      "phonetic": "/ˌmækəˈrəʊni/",
+      "meaning": "n. 通心粉",
+      "examples": [
+        { "en": "Macaroni was grown in Calabria.", "zh": "卡拉布里亚种植通心粉。" }
+      ]
+    },
+    {
+      "word": "leading",
+      "phonetic": "/ˈliːdɪŋ/",
+      "meaning": "adj. 主要的，领先的",
+      "examples": [
+        { "en": "Two of the leading growers spoke to the viewers.", "zh": "两位主要的种植者对着观众讲话。" }
+      ]
+    },
+    {
+      "word": "grower",
+      "phonetic": "/ˈɡrəʊə(r)/",
+      "meaning": "n. 种植者",
+      "examples": [
+        { "en": "The growers were expecting a splendid crop.", "zh": "种植者们预计会有好收成。" }
+      ]
+    },
+    {
+      "word": "splendid",
+      "phonetic": "/ˈsplendɪd/",
+      "meaning": "adj. 极好的，壮丽的",
+      "examples": [
+        { "en": "They were expecting a splendid crop.", "zh": "他们预计会有极好的收成。" }
+      ]
+    },
+    {
+      "word": "crop",
+      "phonetic": "/krɒp/",
+      "meaning": "n. 收成，庄稼",
+      "examples": [
+        { "en": "The villagers gathered the crop day and night.", "zh": "村民们日夜收割庄稼。" }
+      ]
+    },
+    {
+      "word": "harvest",
+      "phonetic": "/ˈhɑːvɪst/",
+      "meaning": "n. 收获，收成",
+      "examples": [
+        { "en": "The harvest began earlier than usual.", "zh": "收获比往年提前开始。" }
+      ]
+    },
+    {
+      "word": "cartload",
+      "phonetic": "/ˈkɑːtləʊd/",
+      "meaning": "n. 一车之量",
+      "examples": [
+        { "en": "They cut three cartloads of macaroni stalks.", "zh": "他们割了三车通心粉茎秆。" }
+      ]
+    },
+    {
+      "word": "stalk",
+      "phonetic": "/stɔːk/",
+      "meaning": "n. 茎，秆",
+      "examples": [
+        { "en": "The stalks were golden brown.", "zh": "茎秆是金褐色的。" }
+      ]
+    },
+    {
+      "word": "thresh",
+      "phonetic": "/θreʃ/",
+      "meaning": "v. 脱粒",
+      "examples": [
+        { "en": "The villagers threshed the crop.", "zh": "村民们给庄稼脱粒。" }
+      ]
+    },
+    {
+      "word": "competition",
+      "phonetic": "/ˌkɒmpəˈtɪʃn/",
+      "meaning": "n. 比赛，竞赛",
+      "examples": [
+        { "en": "The macaroni-eating competition is famous.", "zh": "吃通心粉比赛很有名。" }
+      ]
+    },
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meaning": "n. 冠军",
+      "examples": [
+        { "en": "Fratelli was the present champion.", "zh": "弗拉泰利是现任冠军。" }
+      ]
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈprəʊses/",
+      "meaning": "v. 加工",
+      "examples": [
+        { "en": "The crop is processed in the local factory.", "zh": "庄稼在当地的工厂加工。" }
+      ]
+    },
+    {
+      "word": "studio",
+      "phonetic": "/ˈstjuːdiəʊ/",
+      "meaning": "n. 演播室",
+      "examples": [
+        { "en": "The announcer went back to the studio.", "zh": "播音员回到了演播室。" }
+      ]
+    },
+    {
+      "word": "Calabria",
+      "phonetic": "/kəˈlæbriə/",
+      "meaning": "n. 卡拉布里亚（地名）",
+      "examples": [
+        { "en": "Calabria is a region in Italy.", "zh": "卡拉布里亚是意大利的一个地区。" }
+      ]
+    },
+    {
+      "word": "Fratelli",
+      "phonetic": "/frɑːˈteli/",
+      "meaning": "n. 弗拉泰利（人名）",
+      "examples": [
+        { "en": "Signor Fratelli has won every year since 1991.", "zh": "弗拉泰利先生自1991年以来每年获胜。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He told the viewers that macaroni had been grown in this area for over six hundred years.",
+      "zh": "他告诉观众，这个地区种植通心粉已经有六百多年了。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "viewers", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "macaroni", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "grown", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "area", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "six", "roles": ["定语"] },
+        { "text": "hundred", "roles": ["定语"] },
+        { "text": "years", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Two workers had just finished cutting three cartloads of golden brown macaroni stalks.",
+      "zh": "两名工人刚刚割完了三车金黄色的通心粉茎秆。",
+      "analysis": [
+        { "text": "Two", "roles": ["定语"] },
+        { "text": "workers", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "finished", "roles": ["谓语"] },
+        { "text": "cutting", "roles": ["宾语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "cartloads", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "golden", "roles": ["定语"] },
+        { "text": "brown", "roles": ["定语"] },
+        { "text": "macaroni", "roles": ["定语"] },
+        { "text": "stalks", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The whole village had been working day and night gathering and threshing the crop.",
+      "zh": "全村人日夜不停地收割、脱粒。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "village", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "working", "roles": ["谓语"] },
+        { "text": "day", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "night", "roles": ["状语"] },
+        { "text": "gathering", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "threshing", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "crop", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Signor Fratelli, the present champion, had won it every year since 1991.",
+      "zh": "现任冠军弗拉泰利先生自1991年以来每年都赢得比赛。",
+      "analysis": [
+        { "text": "Signor", "roles": ["定语"] },
+        { "text": "Fratelli", "roles": ["主语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "present", "roles": ["定语"] },
+        { "text": "champion", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "won", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "every", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "since", "roles": ["状语"] },
+        { "text": "1991", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "It was April Fools' Day, and the whole story was just a joke!",
+      "zh": "那天是愚人节，整个故事只是一个玩笑！",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "April", "roles": ["定语"] },
+        { "text": "Fools'", "roles": ["定语"] },
+        { "text": "Day", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "story", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "joke", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "'We are going over to the macaroni fields of Calabria,' said the television announcer.", "zh": "'我们现在到卡拉布里亚的通心粉田去。'电视播音员说。" },
+    { "en": "He told the viewers that macaroni had been grown in this area for over six hundred years.", "zh": "他告诉观众，这个地区种植通心粉已经有六百多年了。" },
+    { "en": "Two of the leading growers said that they were expecting a splendid crop that year.", "zh": "两位主要的种植者说，他们预计当年会有一个极好的收成。" },
+    { "en": "Two workers had just finished cutting three cartloads of golden brown macaroni stalks.", "zh": "两名工人刚刚割完了三车金黄色的通心粉茎秆。" },
+    { "en": "The whole village had been working day and night gathering and threshing the crop.", "zh": "全村人日夜不停地收割、脱粒。" },
+    { "en": "The announcer also showed Mrs Brabante, who had been helping her husband for thirty years.", "zh": "播音员还介绍了布拉班特太太，她帮助丈夫干活已有30年了。" },
+    { "en": "The last scene showed the famous Calabrian macaroni-eating competition.", "zh": "最后一个镜头是著名的卡拉布里亚通心粉吃面比赛。" },
+    { "en": "Signor Fratelli, the present champion, had won it every year since 1991.", "zh": "现任冠军弗拉泰利先生自1991年以来每年都赢得比赛。" },
+    { "en": "'And that ends our special bulletin for today,' said the announcer.", "zh": "'今天的特别新闻节目到此结束。'播音员说。" },
+    { "en": "It was April Fools' Day, and the whole story was just a joke!", "zh": "那天是愚人节，整个故事只是一个玩笑！" }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "L083",
+  "title": "Lesson 83 · After the elections",
+  "titleZh": "第83课 大选之后",
+  "words": [
+    {
+      "word": "election",
+      "phonetic": "/ɪˈlekʃn/",
+      "meaning": "n. 选举",
+      "examples": [
+        { "en": "The elections were held last month.", "zh": "选举上个月举行。" }
+      ]
+    },
+    {
+      "word": "former",
+      "phonetic": "/ˈfɔːmə(r)/",
+      "meaning": "adj. 前任的，以前的",
+      "examples": [
+        { "en": "He is a former Prime Minister.", "zh": "他是前任首相。" }
+      ]
+    },
+    {
+      "word": "prime",
+      "phonetic": "/praɪm/",
+      "meaning": "adj. 首要的",
+      "examples": [
+        { "en": "He was the Prime Minister of the country.", "zh": "他曾是这个国家的首相。" }
+      ]
+    },
+    {
+      "word": "minister",
+      "phonetic": "/ˈmɪnɪstə(r)/",
+      "meaning": "n. 大臣，部长",
+      "examples": [
+        { "en": "The Prime Minister lives in that house.", "zh": "首相住在那座房子里。" }
+      ]
+    },
+    {
+      "word": "defeat",
+      "phonetic": "/dɪˈfiːt/",
+      "meaning": "v. 打败",
+      "examples": [
+        { "en": "He was defeated in the elections.", "zh": "他在选举中失败了。" }
+      ]
+    },
+    {
+      "word": "recent",
+      "phonetic": "/ˈriːsnt/",
+      "meaning": "adj. 最近的",
+      "examples": [
+        { "en": "He was defeated in the recent elections.", "zh": "他在最近的选举中落败了。" }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meaning": "v. 退休，退隐",
+      "examples": [
+        { "en": "He is retiring from political life.", "zh": "他即将退出政坛。" }
+      ]
+    },
+    {
+      "word": "political",
+      "phonetic": "/pəˈlɪtɪkl/",
+      "meaning": "adj. 政治的",
+      "examples": [
+        { "en": "He has retired from political life.", "zh": "他已经退出政坛。" }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "adv. 在国外，到国外",
+      "examples": [
+        { "en": "The ex-Prime Minister has gone abroad.", "zh": "前首相出国了。" }
+      ]
+    },
+    {
+      "word": "fanatical",
+      "phonetic": "/fəˈnætɪkl/",
+      "meaning": "adj. 狂热的",
+      "examples": [
+        { "en": "Patrick is a fanatical opponent of the party.", "zh": "帕特里克是那个政党的狂热反对者。" }
+      ]
+    },
+    {
+      "word": "opponent",
+      "phonetic": "/əˈpəʊnənt/",
+      "meaning": "n. 反对者，对手",
+      "examples": [
+        { "en": "He is a strong opponent of the plan.", "zh": "他是这项计划的强烈反对者。" }
+      ]
+    },
+    {
+      "word": "party",
+      "phonetic": "/ˈpɑːti/",
+      "meaning": "n. 政党",
+      "examples": [
+        { "en": "He leads the Radical Progressive Party.", "zh": "他领导着激进进步党。" }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meaning": "n. 警察",
+      "examples": [
+        { "en": "The policeman was walking on the pavement.", "zh": "那名警察在人行道上走着。" }
+      ]
+    },
+    {
+      "word": "duty",
+      "phonetic": "/ˈdjuːti/",
+      "meaning": "n. 职责；值班",
+      "examples": [
+        { "en": "A policeman on duty told him the news.", "zh": "一名值班警察把这个消息告诉了他。" }
+      ]
+    },
+    {
+      "word": "pavement",
+      "phonetic": "/ˈpeɪvmənt/",
+      "meaning": "n. 人行道",
+      "examples": [
+        { "en": "He was walking on the pavement outside.", "zh": "他在外面的人行道上走着。" }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meaning": "v. 逮捕",
+      "examples": [
+        { "en": "Mr. Lane had been arrested.", "zh": "莱恩先生被捕了。" }
+      ]
+    },
+    {
+      "word": "prison",
+      "phonetic": "/ˈprɪzn/",
+      "meaning": "n. 监狱",
+      "examples": [
+        { "en": "The ex-Prime Minister was sent to prison.", "zh": "前首相被送进了监狱。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "My friend Patrick has always been a fanatical opponent of Mr. Lane's party.",
+      "zh": "我的朋友帕特里克一直是莱恩先生的政党的狂热反对者。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "friend", "roles": ["主语"] },
+        { "text": "Patrick", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "fanatical", "roles": ["定语"] },
+        { "text": "opponent", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "Mr", "roles": ["定语"] },
+        { "text": "Lane's", "roles": ["定语"] },
+        { "text": "party", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "After the elections, Patrick went to the former Prime Minister's house.",
+      "zh": "大选之后，帕特里克去了前首相的家。",
+      "analysis": [
+        { "text": "After", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "elections", "roles": ["状语"] },
+        { "text": "Patrick", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "former", "roles": ["定语"] },
+        { "text": "Prime", "roles": ["定语"] },
+        { "text": "Minister's", "roles": ["定语"] },
+        { "text": "house", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A policeman on duty told him that the ex-Prime Minister had gone abroad.",
+      "zh": "一名值班警察告诉他，自从落选以后，前首相就出国了。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "policeman", "roles": ["主语"] },
+        { "text": "on", "roles": ["定语"] },
+        { "text": "duty", "roles": ["定语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ex-Prime", "roles": ["定语"] },
+        { "text": "Minister", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "gone", "roles": ["谓语"] },
+        { "text": "abroad", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The same policeman was walking on the pavement outside and gave him the same answer.",
+      "zh": "还是那名警察，正在外面的人行道上踱步，给了他同样的回答。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "same", "roles": ["定语"] },
+        { "text": "policeman", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "walking", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "pavement", "roles": ["状语"] },
+        { "text": "outside", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "gave", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "same", "roles": ["定语"] },
+        { "text": "answer", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The ex-Prime Minister had been arrested and sent to prison.",
+      "zh": "前首相已被逮捕并送进了监狱。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "ex-Prime", "roles": ["定语"] },
+        { "text": "Minister", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "arrested", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sent", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "prison", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.", "zh": "前任首相温特沃斯·莱恩先生在最近的大选中被击败。" },
+    { "en": "He is now retiring from political life and has gone abroad.", "zh": "他现在即将退出政坛，并且已经出国。" },
+    { "en": "My friend Patrick has always been a fanatical opponent of Mr. Lane's party.", "zh": "我的朋友帕特里克一直是莱恩先生的政党的狂热反对者。" },
+    { "en": "After the elections, Patrick went to the former Prime Minister's house.", "zh": "大选之后，帕特里克去了前首相的家。" },
+    { "en": "A policeman on duty told him that the ex-Prime Minister had gone abroad.", "zh": "一名值班警察告诉他，自从落选以后，前首相就出国了。" },
+    { "en": "On the following day, Patrick went to the house again and asked the same question.", "zh": "第二天，帕特里克又去了那座房子，问了同样的问题。" },
+    { "en": "The same policeman was walking on the pavement outside and gave him the same answer.", "zh": "还是那名警察，正在外面的人行道上踱步，给了他同样的回答。" },
+    { "en": "Patrick visited the house once more the day after.", "zh": "第三天，帕特里克又一次去了那座房子。" },
+    { "en": "This time the policeman was delighted to tell him the latest news.", "zh": "这一次警察很高兴地告诉了他最新的消息。" },
+    { "en": "The ex-Prime Minister had been arrested and sent to prison.", "zh": "前首相已被逮捕并送进了监狱。" }
+  ]
+}

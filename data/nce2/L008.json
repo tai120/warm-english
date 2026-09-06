@@ -1,0 +1,217 @@
+{
+  "id": "L008",
+  "title": "Lesson 8 · The best and the worst",
+  "titleZh": "第8课 最好的和最差的",
+  "words": [
+    {
+      "word": "competition",
+      "phonetic": "/ˌkɒmpəˈtɪʃn/",
+      "meaning": "n. 比赛，竞赛",
+      "examples": [
+        { "en": "Nearly everybody enters for the garden competition.", "zh": "几乎每个人都参加花园竞赛。" }
+      ]
+    },
+    {
+      "word": "neat",
+      "phonetic": "/niːt/",
+      "meaning": "adj. 整洁的，整齐的",
+      "examples": [
+        { "en": "He has made neat paths.", "zh": "他修筑了一条条整洁的小路。" }
+      ]
+    },
+    {
+      "word": "path",
+      "phonetic": "/pɑːθ/",
+      "meaning": "n. 小路，小径",
+      "examples": [
+        { "en": "He has made neat paths.", "zh": "他修筑了一条条整洁的小路。" }
+      ]
+    },
+    {
+      "word": "wooden",
+      "phonetic": "/ˈwʊdn/",
+      "meaning": "adj. 木头的",
+      "examples": [
+        { "en": "He has built a wooden bridge over a pool.", "zh": "他在一个池塘上架了一座小木桥。" }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "/puːl/",
+      "meaning": "n. 水池",
+      "examples": [
+        { "en": "He has built a bridge over a pool.", "zh": "他在一个池塘上架了一座桥。" }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "n. 花园",
+      "examples": [
+        { "en": "Joe has the most beautiful garden in our town.", "zh": "乔拥有我们镇上最漂亮的花园。" }
+      ]
+    },
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "meaning": "n. 奖赏，奖品",
+      "examples": [
+        { "en": "I always win a little prize.", "zh": "我总能获得一个小奖。" }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 美丽的",
+      "examples": [
+        { "en": "Joe has the most beautiful garden.", "zh": "乔拥有最漂亮的花园。" }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "/hɑːd/",
+      "meaning": "adv. 努力地，辛苦地",
+      "examples": [
+        { "en": "Bill works harder than Joe.", "zh": "比尔比乔更勤奋。" }
+      ]
+    },
+    {
+      "word": "worst",
+      "phonetic": "/wɜːst/",
+      "meaning": "adj. 最差的",
+      "examples": [
+        { "en": "I win a prize for the worst garden in the town.", "zh": "我因是镇上最差的花园而获得一个奖。" }
+      ]
+    },
+    {
+      "word": "best",
+      "phonetic": "/best/",
+      "meaning": "adj. 最好的",
+      "examples": [
+        { "en": "Joe has the best garden in our town.", "zh": "乔拥有我们镇上最好的花园。" }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə/",
+      "meaning": "v. 参加，进入",
+      "examples": [
+        { "en": "Every year I enter for the garden competition.", "zh": "每年的花园竞赛我都参加。" }
+      ]
+    },
+    {
+      "word": "Joe Sanders",
+      "phonetic": "/ˈdʒəʊ ˈsɑːndəz/",
+      "meaning": "n. 乔·桑德斯（人名）",
+      "examples": [
+        { "en": "Joe Sanders has the most beautiful garden.", "zh": "乔·桑德斯拥有最漂亮的花园。" }
+      ]
+    },
+    {
+      "word": "Bill Frith",
+      "phonetic": "/ˈbɪl ˈfrɪθ/",
+      "meaning": "n. 比尔·弗里斯（人名）",
+      "examples": [
+        { "en": "Bill Frith's garden is larger than Joe's.", "zh": "比尔·弗里斯的花园比乔的花园大。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Joe Sanders has the most beautiful garden in our town.",
+      "zh": "乔·桑德斯拥有我们镇上最漂亮的花园。",
+      "analysis": [
+        { "text": "Joe", "roles": ["定语"] },
+        { "text": "Sanders", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "beautiful", "roles": ["定语"] },
+        { "text": "garden", "roles": ["宾语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "town", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Bill Frith's garden is larger than Joe's.",
+      "zh": "比尔·弗里斯的花园比乔的花园大。",
+      "analysis": [
+        { "text": "Bill", "roles": ["定语"] },
+        { "text": "Frith's", "roles": ["定语"] },
+        { "text": "garden", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "larger", "roles": ["表语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "Joe's", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Bill works harder than Joe and grows more flowers and vegetables.",
+      "zh": "比尔比乔也更为勤奋，种植的花卉和蔬菜也更多。",
+      "analysis": [
+        { "text": "Bill", "roles": ["主语"] },
+        { "text": "works", "roles": ["谓语"] },
+        { "text": "harder", "roles": ["状语"] },
+        { "text": "than", "roles": ["连词"] },
+        { "text": "Joe", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "grows", "roles": ["谓语"] },
+        { "text": "more", "roles": ["定语"] },
+        { "text": "flowers", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "vegetables", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "He has made neat paths and has built a wooden bridge over a pool.",
+      "zh": "他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "neat", "roles": ["定语"] },
+        { "text": "paths", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "built", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "wooden", "roles": ["定语"] },
+        { "text": "bridge", "roles": ["宾语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "pool", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I always win a little prize for the worst garden in the town!",
+      "zh": "而且总因是镇上最差的花园而获得一个小奖！",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "win", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "little", "roles": ["定语"] },
+        { "text": "prize", "roles": ["宾语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "worst", "roles": ["定语"] },
+        { "text": "garden", "roles": ["状语"] },
+        { "text": "in", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "town", "roles": ["定语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Joe Sanders has the most beautiful garden in our town.", "zh": "乔·桑德斯拥有我们镇上最漂亮的花园。" },
+    { "en": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.", "zh": "几乎每个人都参加每年举办的“最佳花园竞赛”，而每次都是乔获胜。" },
+    { "en": "Bill Frith's garden is larger than Joe's.", "zh": "比尔·弗里斯的花园比乔的花园大。" },
+    { "en": "Bill works harder than Joe and grows more flowers and vegetables.", "zh": "比尔比乔也更为勤奋，种植的花卉和蔬菜也更多。" },
+    { "en": "Joe's garden is more interesting.", "zh": "但乔的花园更富有情趣。" },
+    { "en": "He has made neat paths and has built a wooden bridge over a pool.", "zh": "他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。" },
+    { "en": "I like gardens too, but I do not like hard work.", "zh": "我也喜欢花园，但我却不愿意辛勤劳动。" },
+    { "en": "Every year I enter for the garden competition too.", "zh": "每年的花园竞赛我也参加。" },
+    { "en": "I always win a little prize for the worst garden in the town!", "zh": "而且总因是镇上最差的花园而获得一个小奖！" }
+  ]
+}

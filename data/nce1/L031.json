@@ -1,0 +1,182 @@
+{
+  "id": "L031",
+  "title": "Lesson 31 · Where's Sally?",
+  "titleZh": "第31课 萨莉在哪里？",
+  "words": [
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "n. 花园",
+      "examples": [
+        { "en": "She's in the garden.", "zh": "她在花园里。" }
+      ]
+    },
+    {
+      "word": "under",
+      "phonetic": "/ˈʌndə(r)/",
+      "meaning": "prep. 在……下面",
+      "examples": [
+        { "en": "She's sitting under the tree.", "zh": "她正坐在树下。" }
+      ]
+    },
+    {
+      "word": "tree",
+      "phonetic": "/triː/",
+      "meaning": "n. 树",
+      "examples": [
+        { "en": "He's climbing the tree.", "zh": "他正在爬树。" }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "v. 爬",
+      "examples": [
+        { "en": "Who's climbing the tree?", "zh": "谁在爬树？" }
+      ]
+    },
+    {
+      "word": "who",
+      "phonetic": "/huː/",
+      "meaning": "pron. 谁",
+      "examples": [
+        { "en": "Who's climbing the tree?", "zh": "谁在爬树？" },
+        { "en": "Who is this young man?", "zh": "这个年轻人是谁？" }
+      ]
+    },
+    {
+      "word": "run",
+      "phonetic": "/rʌn/",
+      "meaning": "v. 跑",
+      "examples": [
+        { "en": "It's running across the grass.", "zh": "它正跑过草地。" }
+      ]
+    },
+    {
+      "word": "grass",
+      "phonetic": "/ɡrɑːs/",
+      "meaning": "n. 草，草地",
+      "examples": [
+        { "en": "The dog is running across the grass.", "zh": "狗正跑过草地。" }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meaning": "prep. 横过，穿过",
+      "examples": [
+        { "en": "It's running across the grass.", "zh": "它正跑过草地。" }
+      ]
+    },
+    {
+      "word": "after",
+      "phonetic": "/ˈɑːftə(r)/",
+      "meaning": "prep. 在……后面",
+      "examples": [
+        { "en": "It's running after a cat.", "zh": "它正在追一只猫。" }
+      ]
+    },
+    {
+      "word": "cat",
+      "phonetic": "/kæt/",
+      "meaning": "n. 猫",
+      "examples": [
+        { "en": "It's running after a cat.", "zh": "它正在追一只猫。" }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic": "/dɒɡ/",
+      "meaning": "n. 狗",
+      "examples": [
+        { "en": "The dog's in the garden, too.", "zh": "狗也在花园里。" }
+      ]
+    },
+    {
+      "word": "sit",
+      "phonetic": "/sɪt/",
+      "meaning": "v. 坐",
+      "examples": [
+        { "en": "She's sitting under the tree.", "zh": "她正坐在树下。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What's she doing?",
+      "zh": "她在做什么？",
+      "analysis": [
+        { "text": "What's", "roles": ["宾语", "谓语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "doing", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "She's sitting under the tree.",
+      "zh": "她正坐在树下。",
+      "analysis": [
+        { "text": "She's", "roles": ["主语", "谓语"] },
+        { "text": "sitting", "roles": ["谓语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "tree", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Is Tim in the garden, too?",
+      "zh": "蒂姆也在花园里吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "Tim", "roles": ["主语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "garden", "roles": ["状语"] },
+        { "text": "too", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Tim is.",
+      "zh": "是蒂姆。",
+      "analysis": [
+        { "text": "Tim", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "It's running across the grass.",
+      "zh": "它正跑过草地。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语", "谓语"] },
+        { "text": "running", "roles": ["谓语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "grass", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It's running after a cat.",
+      "zh": "它正在追一只猫。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语", "谓语"] },
+        { "text": "running", "roles": ["谓语"] },
+        { "text": "after", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cat", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where's Sally, Jack?", "zh": "萨莉在哪里，杰克？" },
+    { "en": "She's in the garden, Jean.", "zh": "她在花园里，琼。" },
+    { "en": "What's she doing?", "zh": "她在做什么？" },
+    { "en": "She's sitting under the tree.", "zh": "她正坐在树下。" },
+    { "en": "Is Tim in the garden, too?", "zh": "蒂姆也在花园里吗？" },
+    { "en": "Yes, he is. He's climbing the tree.", "zh": "是的，他在。他正在爬树。" },
+    { "en": "I beg your pardon? Who's climbing the tree?", "zh": "你说什么？谁在爬树？" },
+    { "en": "Tim is.", "zh": "是蒂姆。" },
+    { "en": "What about the dog?", "zh": "狗呢？" },
+    { "en": "The dog's in the garden, too.", "zh": "狗也在花园里。" },
+    { "en": "It's running across the grass.", "zh": "它正跑过草地。" },
+    { "en": "It's running after a cat.", "zh": "它正在追一只猫。" }
+  ]
+}

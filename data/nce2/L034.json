@@ -1,0 +1,237 @@
+{
+  "id": "L034",
+  "title": "Lesson 34 · Quick work",
+  "titleZh": "第34课 破案“神速”",
+  "words": [
+    {
+      "word": "worried",
+      "phonetic": "/ˈwʌrid/",
+      "meaning": "adj. 担心的，发愁的",
+      "examples": [
+        { "en": "Dan has been worried all week.", "zh": "丹整整一周都在担心。" },
+        { "en": "She is worried about her exam.", "zh": "她担心自己的考试。" }
+      ]
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meaning": "v. 收到，接到",
+      "examples": [
+        { "en": "He received a letter from the police.", "zh": "他收到了警察局的一封信。" },
+        { "en": "I received your email yesterday.", "zh": "我昨天收到了你的电子邮件。" }
+      ]
+    },
+    {
+      "word": "local",
+      "phonetic": "/ˈləʊkl/",
+      "meaning": "adj. 当地的，地方的",
+      "examples": [
+        { "en": "He got the news from the local police.", "zh": "他从当地警方得到这个消息。" },
+        { "en": "This is a local newspaper.", "zh": "这是一份地方报纸。" }
+      ]
+    },
+    {
+      "word": "police",
+      "phonetic": "/pəˈliːs/",
+      "meaning": "n. 警察，警方",
+      "examples": [
+        { "en": "The police found his bicycle.", "zh": "警方找到了他的自行车。" },
+        { "en": "Call the police!", "zh": "快报警！" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. （警察）局；车站",
+      "examples": [
+        { "en": "He was asked to call at the station.", "zh": "他被要求到警察局去一趟。" },
+        { "en": "The railway station is near here.", "zh": "火车站离这儿很近。" }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "v. 想知道，纳闷",
+      "examples": [
+        { "en": "Dan wondered why he was wanted by the police.", "zh": "丹纳闷警察为什么找他。" },
+        { "en": "I wonder who he is.", "zh": "我想知道他是谁。" }
+      ]
+    },
+    {
+      "word": "smiling",
+      "phonetic": "/ˈsmaɪlɪŋ/",
+      "meaning": "adj. 微笑的",
+      "examples": [
+        { "en": "A smiling policeman told him the news.", "zh": "一位面带笑容的警察把这个消息告诉了他。" },
+        { "en": "She is a smiling, friendly girl.", "zh": "她是个爱笑、友好的女孩。" }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "/ˈbaɪsɪkl/",
+      "meaning": "n. 自行车",
+      "examples": [
+        { "en": "His bicycle was found in a small village.", "zh": "他的自行车在一个小村子里找到了。" },
+        { "en": "I go to school by bicycle.", "zh": "我骑自行车上学。" }
+      ]
+    },
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meaning": "n. 村庄",
+      "examples": [
+        { "en": "The village is four hundred miles away.", "zh": "那个村庄在四百英里以外。" },
+        { "en": "He lives in a small village.", "zh": "他住在一个小村子里。" }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "/maɪl/",
+      "meaning": "n. 英里",
+      "examples": [
+        { "en": "The village is four hundred miles away.", "zh": "那个村庄在四百英里以外。" },
+        { "en": "We walked five miles today.", "zh": "我们今天走了五英里。" }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meaning": "v. 使惊讶",
+      "examples": [
+        { "en": "The news surprised Dan.", "zh": "这个消息使丹很惊讶。" },
+        { "en": "Her answer surprised everyone.", "zh": "她的回答使大家很吃惊。" }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meaning": "v. 期望，预料",
+      "examples": [
+        { "en": "He never expected the bicycle to be found.", "zh": "他从没指望自行车还能找到。" },
+        { "en": "I expect to see him tomorrow.", "zh": "我期望明天见到他。" }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meaning": "v. 偷（stole, stolen）",
+      "examples": [
+        { "en": "The bicycle was stolen twenty years ago.", "zh": "那辆自行车是二十年前被偷走的。" },
+        { "en": "Someone stole my wallet.", "zh": "有人偷了我的钱包。" }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "/njuːz/",
+      "meaning": "n. 消息，新闻",
+      "examples": [
+        { "en": "Dan was surprised when he heard the news.", "zh": "丹听到这个消息时很惊讶。" },
+        { "en": "No news is good news.", "zh": "没有消息就是好消息。" }
+      ]
+    },
+    {
+      "word": "Dan Robinson",
+      "phonetic": "/dæn ˈrɒbɪnsn/",
+      "meaning": "n. 丹·鲁滨逊（人名）",
+      "examples": [
+        { "en": "Dan Robinson has been worried all week.", "zh": "丹·鲁滨逊整整一周都在担心。" },
+        { "en": "Dan Robinson lost his bicycle twenty years ago.", "zh": "丹·鲁滨逊二十年前丢了自行车。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Dan Robinson has been worried all week.",
+      "zh": "丹·鲁滨逊整整一周都忧心忡忡。",
+      "analysis": [
+        { "text": "Dan", "roles": ["定语"] },
+        { "text": "Robinson", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "worried", "roles": ["表语"] },
+        { "text": "all", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Last Tuesday he received a letter from the local police.",
+      "zh": "上周二，他收到了当地警察局的一封信。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "Tuesday", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "received", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "local", "roles": ["定语"] },
+        { "text": "police", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Yesterday he went to the station and now he is not worried any more.",
+      "zh": "昨天他去了警察局，现在他不再担心了。",
+      "analysis": [
+        { "text": "Yesterday", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "station", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "worried", "roles": ["表语"] },
+        { "text": "any", "roles": ["状语"] },
+        { "text": "more", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A smiling policeman told him that his bicycle had been found.",
+      "zh": "一位面带笑容的警察告诉他，他的自行车找到了。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "smiling", "roles": ["定语"] },
+        { "text": "policeman", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "bicycle", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "found", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Dan was most surprised when he heard the news.",
+      "zh": "丹听到这个消息，非常吃惊。",
+      "analysis": [
+        { "text": "Dan", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "most", "roles": ["状语"] },
+        { "text": "surprised", "roles": ["表语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "heard", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "news", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Dan Robinson has been worried all week.", "zh": "丹·鲁滨逊整整一周都忧心忡忡。" },
+    { "en": "Last Tuesday he received a letter from the local police.", "zh": "上周二，他收到了当地警察局的一封信。" },
+    { "en": "In the letter he was asked to call at the station.", "zh": "信里请他到警察局去一趟。" },
+    { "en": "Yesterday he went to the station and now he is not worried any more.", "zh": "昨天他去了警察局，现在他不再担心了。" },
+    { "en": "A smiling policeman told him that his bicycle had been found.", "zh": "一位面带笑容的警察告诉他，他的自行车找到了。" },
+    { "en": "Five days ago, someone picked up the bicycle in a small village four hundred miles away.", "zh": "五天前，有人在四百英里外的一个小村子里捡到了那辆自行车。" },
+    { "en": "The police are now sending it to his home by train.", "zh": "警察现在正用火车把它运回家。" },
+    { "en": "Dan was most surprised when he heard the news.", "zh": "丹听到这个消息，非常吃惊。" },
+    { "en": "He never expected the bicycle to be found.", "zh": "他从没指望那辆自行车还能找到。" },
+    { "en": "It was stolen twenty years ago when Dan was a boy of fifteen.", "zh": "那辆车是二十年前丹十五岁时被偷走的。" }
+  ]
+}

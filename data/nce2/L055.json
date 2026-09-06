@@ -1,0 +1,236 @@
+{
+  "id": "L055",
+  "title": "Lesson 55 · Not a gold mine",
+  "titleZh": "第55课 并非金矿",
+  "words": [
+    {
+      "word": "treasure",
+      "phonetic": "/ˈtreʒə(r)/",
+      "meaning": "n. 财宝，宝藏",
+      "examples": [
+        { "en": "They were hoping to find buried treasure.", "zh": "他们希望找到埋藏的宝藏。" }
+      ]
+    },
+    {
+      "word": "invent",
+      "phonetic": "/ɪnˈvent/",
+      "meaning": "v. 发明",
+      "examples": [
+        { "en": "A new machine has been invented.", "zh": "一种新机器被发明了出来。" }
+      ]
+    },
+    {
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "meaning": "v. 探测，察觉",
+      "examples": [
+        { "en": "The machine was used to detect gold.", "zh": "这台机器被用来探测金子。" }
+      ]
+    },
+    {
+      "word": "bury",
+      "phonetic": "/ˈberi/",
+      "meaning": "v. 埋藏",
+      "examples": [
+        { "en": "The pirates used to bury gold in the cave.", "zh": "海盗们过去常把金子埋在山洞里。" }
+      ]
+    },
+    {
+      "word": "cave",
+      "phonetic": "/keɪv/",
+      "meaning": "n. 山洞，洞穴",
+      "examples": [
+        { "en": "The machine was used in a cave near the seashore.", "zh": "这台机器被用在海岸附近的一个山洞里。" }
+      ]
+    },
+    {
+      "word": "seashore",
+      "phonetic": "/ˈsiːʃɔː(r)/",
+      "meaning": "n. 海岸",
+      "examples": [
+        { "en": "The cave is near the seashore.", "zh": "这个山洞靠近海岸。" }
+      ]
+    },
+    {
+      "word": "pirate",
+      "phonetic": "/ˈpaɪrət/",
+      "meaning": "n. 海盗",
+      "examples": [
+        { "en": "Pirates used to hide gold here.", "zh": "海盗们过去常在这里藏金子。" }
+      ]
+    },
+    {
+      "word": "search",
+      "phonetic": "/sɜːtʃ/",
+      "meaning": "v. 搜查，寻找",
+      "examples": [
+        { "en": "The party searched the whole cave thoroughly.", "zh": "搜索队彻底搜查了整个山洞。" }
+      ]
+    },
+    {
+      "word": "entrance",
+      "phonetic": "/ˈentrəns/",
+      "meaning": "n. 入口",
+      "examples": [
+        { "en": "The leader examined the soil near the entrance.", "zh": "队长检查了洞口附近的土壤。" }
+      ]
+    },
+    {
+      "word": "worthless",
+      "phonetic": "/ˈwɜːθləs/",
+      "meaning": "adj. 无价值的",
+      "examples": [
+        { "en": "They found a gold coin which was almost worthless.", "zh": "他们找到一枚几乎不值钱的金币。" }
+      ]
+    },
+    {
+      "word": "thoroughly",
+      "phonetic": "/ˈθʌrəli/",
+      "meaning": "adv. 彻底地",
+      "examples": [
+        { "en": "They searched the cave thoroughly.", "zh": "他们彻底搜查了山洞。" }
+      ]
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "n. （大）箱子",
+      "examples": [
+        { "en": "They found nothing except an empty tin trunk.", "zh": "除了一个空铁皮箱，他们什么也没找到。" }
+      ]
+    },
+    {
+      "word": "confident",
+      "phonetic": "/ˈkɒnfɪdənt/",
+      "meaning": "adj. 有信心的",
+      "examples": [
+        { "en": "Many people are confident that the machine will work.", "zh": "许多人相信这台机器会起作用。" }
+      ]
+    },
+    {
+      "word": "value",
+      "phonetic": "/ˈvæljuː/",
+      "meaning": "n. 价值",
+      "examples": [
+        { "en": "The machine may reveal something of value.", "zh": "这台机器可能会发现有价值的东西。" }
+      ]
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "meaning": "v. 揭示，显露",
+      "examples": [
+        { "en": "The machine may reveal something of value.", "zh": "这台机器可能会发现有价值的东西。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Dreams of finding lost treasure almost came true recently.",
+      "zh": "寻找丢失宝藏的梦想最近几乎变成了现实。",
+      "analysis": [
+        { "text": "Dreams", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "finding", "roles": ["定语"] },
+        { "text": "lost", "roles": ["定语"] },
+        { "text": "treasure", "roles": ["定语"] },
+        { "text": "almost", "roles": ["状语"] },
+        { "text": "came", "roles": ["谓语"] },
+        { "text": "true", "roles": ["表语"] },
+        { "text": "recently", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Very excited, the party dug a hole two feet deep.",
+      "zh": "大家非常兴奋，挖了一个两英尺深的洞。",
+      "analysis": [
+        { "text": "Very", "roles": ["状语"] },
+        { "text": "excited", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "party", "roles": ["主语"] },
+        { "text": "dug", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hole", "roles": ["宾语"] },
+        { "text": "two", "roles": ["状语"] },
+        { "text": "feet", "roles": ["状语"] },
+        { "text": "deep", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "They finally found a small gold coin which was almost worthless.",
+      "zh": "他们最终找到了一枚几乎不值钱的小金币。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "finally", "roles": ["状语"] },
+        { "text": "found", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "gold", "roles": ["定语"] },
+        { "text": "coin", "roles": ["宾语"] },
+        { "text": "which", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "almost", "roles": ["状语"] },
+        { "text": "worthless", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "zh": "搜索队随后彻底搜查了整个山洞，但除了一个空铁皮箱外什么也没找到。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "party", "roles": ["主语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "searched", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "cave", "roles": ["宾语"] },
+        { "text": "thoroughly", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "find", "roles": ["谓语"] },
+        { "text": "anything", "roles": ["宾语"] },
+        { "text": "except", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "empty", "roles": ["定语"] },
+        { "text": "tin", "roles": ["定语"] },
+        { "text": "trunk", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "In spite of this, many people are confident that the machine may reveal something of value fairly soon.",
+      "zh": "尽管如此，许多人仍然相信这台机器不久就会发现有价值的东西。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "spite", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "this", "roles": ["状语"] },
+        { "text": "many", "roles": ["定语"] },
+        { "text": "people", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "confident", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "machine", "roles": ["主语"] },
+        { "text": "may", "roles": ["谓语"] },
+        { "text": "reveal", "roles": ["谓语"] },
+        { "text": "something", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "value", "roles": ["定语"] },
+        { "text": "fairly", "roles": ["状语"] },
+        { "text": "soon", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Dreams of finding lost treasure almost came true recently.", "zh": "寻找丢失宝藏的梦想最近几乎变成了现实。" },
+    { "en": "A new machine called The Revealer has been invented to detect gold which has been buried in the ground.", "zh": "一种叫探宝器的新机器被发明出来，用来探测埋在地下的金子。" },
+    { "en": "The machine was used in a cave near the seashore where pirates used to hide gold.", "zh": "这台机器被用在海岸附近的一个山洞里，据说海盗们曾在那里藏金子。" },
+    { "en": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.", "zh": "一支搜索队带着这台新机器进入山洞，希望能找到埋藏的宝藏。" },
+    { "en": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.", "zh": "搜索队队长正在洞口附近检查土壤，这时机器显示地下有金子。" },
+    { "en": "Very excited, the party dug a hole two feet deep.", "zh": "大家非常兴奋，挖了一个两英尺深的洞。" },
+    { "en": "They finally found a small gold coin which was almost worthless.", "zh": "他们最终找到了一枚几乎不值钱的小金币。" },
+    { "en": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.", "zh": "搜索队随后彻底搜查了整个山洞，但除了一个空铁皮箱外什么也没找到。" },
+    { "en": "In spite of this, many people are confident that the machine may reveal something of value fairly soon.", "zh": "尽管如此，许多人仍然相信这台机器不久就会发现有价值的东西。" }
+  ]
+}

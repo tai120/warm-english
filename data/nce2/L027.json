@@ -1,0 +1,274 @@
+{
+  "id": "L027",
+  "title": "Lesson 27 · A wet night",
+  "titleZh": "第27课 雨夜",
+  "words": [
+    {
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meaning": "n. 帐篷",
+      "examples": [
+        { "en": "The boys put up their tent in the middle of a field.", "zh": "孩子们在田野中央搭起了帐篷。" },
+        { "en": "We slept in a tent.", "zh": "我们睡在帐篷里。" }
+      ]
+    },
+    {
+      "word": "field",
+      "phonetic": "/fiːld/",
+      "meaning": "n. 田地，田野",
+      "examples": [
+        { "en": "The boys put up their tent in the middle of a field.", "zh": "孩子们在田野中央搭起了帐篷。" },
+        { "en": "The horses are in the field.", "zh": "马在田野里。" }
+      ]
+    },
+    {
+      "word": "campfire",
+      "phonetic": "/ˈkæmpfaɪə(r)/",
+      "meaning": "n. 篝火，营火",
+      "examples": [
+        { "en": "They told stories by the campfire.", "zh": "他们围在营火旁讲故事。" },
+        { "en": "We sat around the campfire.", "zh": "我们围坐在篝火旁。" }
+      ]
+    },
+    {
+      "word": "hungry",
+      "phonetic": "/ˈhʌŋɡri/",
+      "meaning": "adj. 饥饿的",
+      "examples": [
+        { "en": "They were all hungry.", "zh": "他们全都饿了。" },
+        { "en": "I'm hungry, let's have dinner.", "zh": "我饿了，我们吃饭吧。" }
+      ]
+    },
+    {
+      "word": "smell",
+      "phonetic": "/smel/",
+      "meaning": "v. 闻起来",
+      "examples": [
+        { "en": "The food smelled good.", "zh": "饭菜散发出阵阵香味。" },
+        { "en": "The flowers smell sweet.", "zh": "这些花闻起来很香。" }
+      ]
+    },
+    {
+      "word": "wonderful",
+      "phonetic": "/ˈwʌndəfl/",
+      "meaning": "adj. 极好的",
+      "examples": [
+        { "en": "After a wonderful meal, they told stories.", "zh": "美美地吃了一顿饭后，他们讲起了故事。" },
+        { "en": "We had a wonderful time.", "zh": "我们玩得非常开心。" }
+      ]
+    },
+    {
+      "word": "sing",
+      "phonetic": "/sɪŋ/",
+      "meaning": "v. 唱",
+      "examples": [
+        { "en": "They sang songs by the campfire.", "zh": "他们围在营火旁唱歌。" },
+        { "en": "She sings very well.", "zh": "她唱得很好。" }
+      ]
+    },
+    {
+      "word": "song",
+      "phonetic": "/sɒŋ/",
+      "meaning": "n. 歌曲",
+      "examples": [
+        { "en": "They told stories and sang songs.", "zh": "他们讲起了故事，唱起了歌。" },
+        { "en": "This song is very popular.", "zh": "这首歌很流行。" }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meaning": "adj. 疲劳的",
+      "examples": [
+        { "en": "The boys felt tired.", "zh": "孩子们感到累了。" },
+        { "en": "I felt tired after the long walk.", "zh": "长途步行后我感到很累。" }
+      ]
+    },
+    {
+      "word": "sleeping bag",
+      "phonetic": "/ˈsliːpɪŋ bæɡ/",
+      "meaning": "n. 睡袋",
+      "examples": [
+        { "en": "Their sleeping bags were warm and comfortable.", "zh": "睡袋既暖和又舒服。" },
+        { "en": "I bought a new sleeping bag.", "zh": "我买了一个新睡袋。" }
+      ]
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meaning": "adj. 舒适的",
+      "examples": [
+        { "en": "Their sleeping bags were warm and comfortable.", "zh": "睡袋既暖和又舒服。" },
+        { "en": "This chair is very comfortable.", "zh": "这把椅子很舒服。" }
+      ]
+    },
+    {
+      "word": "soundly",
+      "phonetic": "/ˈsaʊndli/",
+      "meaning": "adv. 香甜地，酣畅地",
+      "examples": [
+        { "en": "They all slept soundly.", "zh": "他们都睡得很香。" },
+        { "en": "The baby slept soundly all night.", "zh": "婴儿整夜睡得很香甜。" }
+      ]
+    },
+    {
+      "word": "leap",
+      "phonetic": "/liːp/",
+      "meaning": "v. 跳跃，跳起",
+      "examples": [
+        { "en": "They all leapt out of their sleeping bags.", "zh": "他们全都跳出睡袋。" },
+        { "en": "The cat leapt onto the table.", "zh": "猫跳上了桌子。" }
+      ]
+    },
+    {
+      "word": "heavily",
+      "phonetic": "/ˈhevɪli/",
+      "meaning": "adv. 大量地，猛烈地",
+      "examples": [
+        { "en": "It was raining heavily.", "zh": "雨下得很大。" },
+        { "en": "It snowed heavily last night.", "zh": "昨晚雪下得很大。" }
+      ]
+    },
+    {
+      "word": "stream",
+      "phonetic": "/striːm/",
+      "meaning": "n. 小溪",
+      "examples": [
+        { "en": "A stream had formed in the field.", "zh": "田野上已经形成了一条小溪。" },
+        { "en": "There is a stream behind the house.", "zh": "房子后面有一条小溪。" }
+      ]
+    },
+    {
+      "word": "flow",
+      "phonetic": "/fləʊ/",
+      "meaning": "v. 流，流动",
+      "examples": [
+        { "en": "The stream flowed right under their tent.", "zh": "小溪正好从他们的帐篷底下流过。" },
+        { "en": "The river flows into the sea.", "zh": "这条河流入大海。" }
+      ]
+    },
+    {
+      "word": "wind",
+      "phonetic": "/waɪnd/",
+      "meaning": "v. 蜿蜒",
+      "examples": [
+        { "en": "The stream wound its way across the field.", "zh": "小溪弯弯曲曲穿过田野。" },
+        { "en": "The road winds through the mountains.", "zh": "公路蜿蜒穿过群山。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "zh": "傍晚时分，孩子们在田野中央搭起了帐篷。",
+      "analysis": [
+        { "text": "Late", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "afternoon", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "boys", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "tent", "roles": ["宾语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "middle", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "field", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "As soon as this was done, they cooked a meal over an open fire.",
+      "zh": "这件事刚刚做完，他们就在篝火上烧起了饭。",
+      "analysis": [
+        { "text": "As", "roles": ["连词"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "as", "roles": ["连词"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "done", "roles": ["谓语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "cooked", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "meal", "roles": ["宾语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "open", "roles": ["定语"] },
+        { "text": "fire", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "zh": "他们美美地吃了一顿饭后，就围在营火旁讲起了故事，唱起了歌。",
+      "analysis": [
+        { "text": "After", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "wonderful", "roles": ["定语"] },
+        { "text": "meal", "roles": ["宾语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "stories", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sang", "roles": ["谓语"] },
+        { "text": "songs", "roles": ["宾语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "campfire", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "zh": "睡袋既暖和又舒服，所以他们都睡得很香。",
+      "analysis": [
+        { "text": "Their", "roles": ["定语"] },
+        { "text": "sleeping", "roles": ["定语"] },
+        { "text": "bags", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "warm", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "comfortable", "roles": ["表语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "slept", "roles": ["谓语"] },
+        { "text": "soundly", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The stream wound its way across the field and then flowed right under their tent!",
+      "zh": "那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "stream", "roles": ["主语"] },
+        { "text": "wound", "roles": ["谓语"] },
+        { "text": "its", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "field", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "flowed", "roles": ["谓语"] },
+        { "text": "right", "roles": ["状语"] },
+        { "text": "under", "roles": ["状语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "tent", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Late in the afternoon, the boys put up their tent in the middle of a field.", "zh": "傍晚时分，孩子们在田野中央搭起了帐篷。" },
+    { "en": "As soon as this was done, they cooked a meal over an open fire.", "zh": "这件事刚刚做完，他们就在篝火上烧起了饭。" },
+    { "en": "After a wonderful meal, they told stories and sang songs by the campfire.", "zh": "他们美美地吃了一顿饭后，就围在营火旁讲起了故事，唱起了歌。" },
+    { "en": "But some time later it began to rain.", "zh": "但过了一阵子，天下起雨来。" },
+    { "en": "The boys felt tired so they put out the fire and crept into their tent.", "zh": "孩子们感到累了，于是他们扑灭了篝火，钻进了帐篷。" },
+    { "en": "Their sleeping bags were warm and comfortable, so they all slept soundly.", "zh": "睡袋既暖和又舒服，所以他们都睡得很香。" },
+    { "en": "In the middle of the night, two boys woke up and began shouting.", "zh": "午夜时分，有两个孩子醒了，大声叫了起来。" },
+    { "en": "The tent was full of water!", "zh": "原来帐篷里到处都是水！" },
+    { "en": "It was raining heavily and they found that a stream had formed in the field.", "zh": "雨下得很大，他们发现地上已经形成了一条小溪。" },
+    { "en": "The stream wound its way across the field and then flowed right under their tent!", "zh": "那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！" }
+  ]
+}

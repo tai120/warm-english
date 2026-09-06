@@ -1,0 +1,264 @@
+{
+  "id": "L065",
+  "title": "Lesson 65 · Jumbo versus the police",
+  "titleZh": "第65课 小象对警察",
+  "words": [
+    {
+      "word": "versus",
+      "phonetic": "/ˈvɜːsəs/",
+      "meaning": "prep. 对，与…相对",
+      "examples": [
+        { "en": "It was Jumbo versus the police.", "zh": "这是小象江伯与警察的较量。" },
+        { "en": "The final is England versus France.", "zh": "决赛是英格兰队对法国队。" }
+      ]
+    },
+    {
+      "word": "circus",
+      "phonetic": "/ˈsɜːkəs/",
+      "meaning": "n. 马戏团",
+      "examples": [
+        { "en": "The circus came to our town last week.", "zh": "马戏团上周来到了我们镇上。" }
+      ]
+    },
+    {
+      "word": "owner",
+      "phonetic": "/ˈəʊnə(r)/",
+      "meaning": "n. 主人，所有者",
+      "examples": [
+        { "en": "He is the owner of the circus.", "zh": "他是马戏团的老板。" }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/ˈpreznt/",
+      "meaning": "n. 礼物",
+      "examples": [
+        { "en": "I bought a present for my mother.", "zh": "我给妈妈买了一件礼物。" }
+      ]
+    },
+    {
+      "word": "hospital",
+      "phonetic": "/ˈhɒspɪtl/",
+      "meaning": "n. 医院",
+      "examples": [
+        { "en": "She works in a hospital.", "zh": "她在一家医院工作。" }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meaning": "v. 穿衣，打扮",
+      "examples": [
+        { "en": "He dressed up as Father Christmas.", "zh": "他打扮成圣诞老人。" }
+      ]
+    },
+    {
+      "word": "elephant",
+      "phonetic": "/ˈelɪfənt/",
+      "meaning": "n. 大象",
+      "examples": [
+        { "en": "Jumbo is a very big elephant.", "zh": "江伯是一头非常大的大象。" }
+      ]
+    },
+    {
+      "word": "main",
+      "phonetic": "/meɪn/",
+      "meaning": "adj. 主要的",
+      "examples": [
+        { "en": "The car is on the main street.", "zh": "汽车在主要街道上。" }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meaning": "n. 交通",
+      "examples": [
+        { "en": "The traffic is heavy in the morning.", "zh": "早晨的交通很拥挤。" }
+      ]
+    },
+    {
+      "word": "side",
+      "phonetic": "/saɪd/",
+      "meaning": "n. 边，侧面",
+      "examples": [
+        { "en": "They live on the other side of the river.", "zh": "他们住在河的另一边。" }
+      ]
+    },
+    {
+      "word": "argument",
+      "phonetic": "/ˈɑːɡjumənt/",
+      "meaning": "n. 争论，争吵",
+      "examples": [
+        { "en": "After a long argument, they agreed.", "zh": "经过长时间的争论，他们达成了一致。" }
+      ]
+    },
+    {
+      "word": "escort",
+      "phonetic": "/ɪˈskɔːt/",
+      "meaning": "v. 护送",
+      "examples": [
+        { "en": "A policeman agreed to escort them.", "zh": "一名警察同意护送他们。" }
+      ]
+    },
+    {
+      "word": "pleasure",
+      "phonetic": "/ˈpleʒə(r)/",
+      "meaning": "n. 快乐，乐趣",
+      "examples": [
+        { "en": "Jumbo gave the children a lot of pleasure.", "zh": "江伯给孩子们带来了许多快乐。" }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meaning": "n. 车站；（警察）局",
+      "examples": [
+        { "en": "They did not take Jumbo to the station.", "zh": "他们没有把江伯带到警察局。" }
+      ]
+    },
+    {
+      "word": "Christmas",
+      "phonetic": "/ˈkrɪsməs/",
+      "meaning": "n. 圣诞节",
+      "examples": [
+        { "en": "Merry Christmas!", "zh": "圣诞快乐！" }
+      ]
+    },
+    {
+      "word": "Father Christmas",
+      "phonetic": "/ˌfɑːðə(r) ˈkrɪsməs/",
+      "meaning": "n. 圣诞老人",
+      "examples": [
+        { "en": "Children love Father Christmas.", "zh": "孩子们喜欢圣诞老人。" }
+      ]
+    },
+    {
+      "word": "Jumbo",
+      "phonetic": "/ˈdʒʌmbəʊ/",
+      "meaning": "n. 江伯（大象的名字）",
+      "examples": [
+        { "en": "Jumbo is an elephant in the circus.", "zh": "江伯是马戏团里的一头大象。" }
+      ]
+    },
+    {
+      "word": "Jimmy Gates",
+      "phonetic": "/ˈdʒɪmi ˈɡeɪts/",
+      "meaning": "n. 吉米·盖茨（人名）",
+      "examples": [
+        { "en": "Jimmy Gates is the owner of the circus.", "zh": "吉米·盖茨是马戏团的老板。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "When the police saw them, they told Jimmy that he must not take the elephant into the main streets.",
+      "zh": "警察看见他们后，告诉吉米不能让大象上主要街道。",
+      "analysis": [
+        { "text": "When", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "saw", "roles": ["谓语"] },
+        { "text": "them", "roles": ["宾语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "told", "roles": ["谓语"] },
+        { "text": "Jimmy", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "elephant", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "main", "roles": ["定语"] },
+        { "text": "streets", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The police said that Jumbo was holding up the traffic.",
+      "zh": "警察说江伯阻塞了交通。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "said", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "Jumbo", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "holding", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "traffic", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The police did not agree at first, but they finally let Jumbo go through the side streets.",
+      "zh": "警察起初不同意，但最后他们让江伯走小路。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "agree", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "first", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "finally", "roles": ["状语"] },
+        { "text": "let", "roles": ["谓语"] },
+        { "text": "Jumbo", "roles": ["宾语"] },
+        { "text": "go", "roles": ["补语"] },
+        { "text": "through", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "side", "roles": ["定语"] },
+        { "text": "streets", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "At the hospital, the children were very happy to see Jumbo.",
+      "zh": "在医院里，孩子们看到江伯非常高兴。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "hospital", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "happy", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "see", "roles": ["状语"] },
+        { "text": "Jumbo", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The police had a difficult job, but they were never angry with Jumbo.",
+      "zh": "警察的任务很艰巨，但他们从不对江伯发火。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "police", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "difficult", "roles": ["定语"] },
+        { "text": "job", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "angry", "roles": ["表语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "Jumbo", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to the children in hospital.", "zh": "去年圣诞节，马戏团老板吉米·盖茨决定给医院的孩子们送些礼物。" },
+    { "en": "He dressed up as Father Christmas and rode through the streets on an elephant called Jumbo.", "zh": "他打扮成圣诞老人，骑着一头名叫江伯的大象穿过街道。" },
+    { "en": "When the police saw them, they told Jimmy that he must not take the elephant into the main streets.", "zh": "警察看见他们后，告诉吉米不能让大象上主要街道。" },
+    { "en": "The police said that Jumbo was holding up the traffic.", "zh": "警察说江伯阻塞了交通。" },
+    { "en": "The police did not agree at first, but they finally let Jumbo go through the side streets.", "zh": "警察起初不同意，但最后他们让江伯走小路。" },
+    { "en": "At the hospital, the children were very happy to see Jumbo.", "zh": "在医院里，孩子们看到江伯非常高兴。" },
+    { "en": "Jumbo gave the children a lovely ride, and they all laughed happily.", "zh": "江伯驮着孩子们玩了一圈，大家都开心地笑了。" },
+    { "en": "The police had a difficult job, but they were never angry with Jumbo.", "zh": "警察的任务很艰巨，但他们从不对江伯发火。" }
+  ]
+}

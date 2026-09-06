@@ -1,0 +1,228 @@
+{
+  "id": "L069",
+  "title": "Lesson 69 · The car race",
+  "titleZh": "第69课 汽车比赛",
+  "words": [
+    {
+      "word": "year",
+      "phonetic": "/jɪə(r)/",
+      "meaning": "n. 年",
+      "examples": [
+        { "en": "There is a car race near our town every year.", "zh": "我们镇附近每年都有一场汽车比赛。" },
+        { "en": "In 1995, there was a very big race.", "zh": "1995年举行了一次盛大的比赛。" }
+      ]
+    },
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meaning": "n. 比赛，竞赛",
+      "examples": [
+        { "en": "There is a car race near our town every year.", "zh": "我们镇附近每年都有一场汽车比赛。" },
+        { "en": "My wife and I were at the race.", "zh": "我和我妻子去看了比赛。" }
+      ]
+    },
+    {
+      "word": "town",
+      "phonetic": "/taʊn/",
+      "meaning": "n. 城镇，镇",
+      "examples": [
+        { "en": "There is a car race near our town every year.", "zh": "我们镇附近每年都有一场汽车比赛。" },
+        { "en": "I live in a small town.", "zh": "我住在一个小镇上。" }
+      ]
+    },
+    {
+      "word": "hundred",
+      "phonetic": "/ˈhʌndrəd/",
+      "meaning": "num. 百",
+      "examples": [
+        { "en": "There were hundreds of people there.", "zh": "那里有成千上万的人。" },
+        { "en": "Five hundred people were there.", "zh": "那里有五百人。" }
+      ]
+    },
+    {
+      "word": "people",
+      "phonetic": "/ˈpiːpl/",
+      "meaning": "n. 人们",
+      "examples": [
+        { "en": "There were hundreds of people there.", "zh": "那里有成千上万的人。" },
+        { "en": "Many people like the race.", "zh": "许多人喜欢这场比赛。" }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meaning": "n. 人群",
+      "examples": [
+        { "en": "You can see us in the crowd.", "zh": "你可以在人群中看到我们。" },
+        { "en": "The crowd is very big.", "zh": "人群非常庞大。" }
+      ]
+    },
+    {
+      "word": "stand",
+      "phonetic": "/stænd/",
+      "meaning": "v. 站立",
+      "examples": [
+        { "en": "We are standing on the left.", "zh": "我们站在左边。" },
+        { "en": "Please stand up.", "zh": "请起立。" }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meaning": "n. 左边",
+      "examples": [
+        { "en": "We are standing on the left.", "zh": "我们站在左边。" },
+        { "en": "The book is on your left.", "zh": "书在你的左边。" }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meaning": "adj. 令人兴奋的",
+      "examples": [
+        { "en": "It was an exciting finish.", "zh": "比赛的结果令人兴奋。" },
+        { "en": "The race was very exciting.", "zh": "这场比赛非常激动人心。" }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meaning": "n. 结尾，结束",
+      "examples": [
+        { "en": "It was an exciting finish.", "zh": "比赛的结果令人兴奋。" },
+        { "en": "The finish was exciting.", "zh": "结局令人兴奋。" }
+      ]
+    },
+    {
+      "word": "winner",
+      "phonetic": "/ˈwɪnə(r)/",
+      "meaning": "n. 获胜者",
+      "examples": [
+        { "en": "The winner was Billy Stewart.", "zh": "获胜者是比利·斯图尔特。" },
+        { "en": "Who is the winner?", "zh": "谁是获胜者？" }
+      ]
+    },
+    {
+      "word": "quickly",
+      "phonetic": "/ˈkwɪkli/",
+      "meaning": "adv. 快地",
+      "examples": [
+        { "en": "Don't drive so quickly!", "zh": "别开得这么快！" },
+        { "en": "Come here quickly.", "zh": "快点过来。" }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "/draɪv/",
+      "meaning": "v. 开车",
+      "examples": [
+        { "en": "Don't drive so quickly!", "zh": "别开得这么快！" },
+        { "en": "He drives to work every day.", "zh": "他每天开车上班。" }
+      ]
+    },
+    {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "meaning": "n. 路，路途",
+      "examples": [
+        { "en": "On the way home, my wife said to me, 'Don't drive so quickly!'", "zh": "在回家的路上，我妻子对我说：‘别开得这么快！’" },
+        { "en": "Which way shall we go?", "zh": "我们该走哪条路？" }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meaning": "n. 妻子",
+      "examples": [
+        { "en": "My wife and I were at the race.", "zh": "我和我妻子去看了比赛。" },
+        { "en": "His wife is a teacher.", "zh": "他的妻子是位老师。" }
+      ]
+    },
+    {
+      "word": "say",
+      "phonetic": "/seɪ/",
+      "meaning": "v. 说",
+      "examples": [
+        { "en": "My wife said to me, 'Don't drive so quickly!'", "zh": "我妻子对我说：‘别开得这么快！’" },
+        { "en": "What did he say?", "zh": "他说了什么？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There is a car race near our town every year.",
+      "zh": "我们镇附近每年都有一场汽车比赛。",
+      "analysis": [
+        { "text": "There", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "car", "roles": ["定语"] },
+        { "text": "race", "roles": ["主语"] },
+        { "text": "near", "roles": ["状语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "town", "roles": ["状语"] },
+        { "text": "every", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "There were hundreds of people there.",
+      "zh": "那里有成千上万的人。",
+      "analysis": [
+        { "text": "There", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "hundreds", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "people", "roles": ["定语"] },
+        { "text": "there", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We are standing on the left.",
+      "zh": "我们站在左边。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "standing", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "left", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The winner was Billy Stewart.",
+      "zh": "获胜者是比利·斯图尔特。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "winner", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "Billy", "roles": ["表语"] },
+        { "text": "Stewart", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "You're not Billy Stewart!",
+      "zh": "你不是比利·斯图尔特！",
+      "analysis": [
+        { "text": "You're", "roles": ["主语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "Billy", "roles": ["表语"] },
+        { "text": "Stewart", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "There is a car race near our town every year.", "zh": "我们镇附近每年都有一场汽车比赛。" },
+    { "en": "In 1995, there was a very big race.", "zh": "1995年，举行了一次盛大的比赛。" },
+    { "en": "There were hundreds of people there.", "zh": "那里有成千上万的人。" },
+    { "en": "My wife and I were at the race.", "zh": "我和我妻子也去看了比赛。" },
+    { "en": "You can see us in the crowd.", "zh": "你可以在人群中看到我们。" },
+    { "en": "We are standing on the left.", "zh": "我们站在左边。" },
+    { "en": "There were twenty cars in the race.", "zh": "参加比赛的有二十辆汽车。" },
+    { "en": "It was an exciting finish.", "zh": "比赛的结果令人兴奋。" },
+    { "en": "The winner was Billy Stewart.", "zh": "获胜者是比利·斯图尔特。" },
+    { "en": "Five other cars were just behind him.", "zh": "另外五辆汽车紧随其后。" },
+    { "en": "On the way home, my wife said to me, 'Don't drive so quickly!'", "zh": "在回家的路上，我妻子对我说：‘别开得这么快！’" },
+    { "en": "You're not Billy Stewart!", "zh": "你不是比利·斯图尔特！" }
+  ]
+}

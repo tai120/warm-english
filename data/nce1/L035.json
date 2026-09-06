@@ -1,0 +1,196 @@
+{
+  "id": "L035",
+  "title": "Lesson 35 · Our village",
+  "titleZh": "第35课 我们的村庄",
+  "words": [
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meaning": "n. 照片",
+      "examples": [
+        { "en": "This is a photograph of our village.", "zh": "这是我们村庄的一张照片。" }
+      ]
+    },
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meaning": "n. 村庄",
+      "examples": [
+        { "en": "Our village is in a valley.", "zh": "我们的村庄在一个山谷里。" }
+      ]
+    },
+    {
+      "word": "valley",
+      "phonetic": "/ˈvæli/",
+      "meaning": "n. 山谷",
+      "examples": [
+        { "en": "Our village is in a valley.", "zh": "我们的村庄在一个山谷里。" }
+      ]
+    },
+    {
+      "word": "between",
+      "phonetic": "/bɪˈtwiːn/",
+      "meaning": "prep. 在……之间",
+      "examples": [
+        { "en": "It is between two hills.", "zh": "它在两座小山之间。" }
+      ]
+    },
+    {
+      "word": "hill",
+      "phonetic": "/hɪl/",
+      "meaning": "n. 小山",
+      "examples": [
+        { "en": "It is between two hills.", "zh": "它在两座小山之间。" }
+      ]
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɒŋ/",
+      "meaning": "prep. 沿着",
+      "examples": [
+        { "en": "My wife and I are walking along the banks of the river.", "zh": "我和妻子正沿着河岸散步。" }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meaning": "n. 河岸",
+      "examples": [
+        { "en": "We are walking along the banks of the river.", "zh": "我们正沿着河岸散步。" }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meaning": "n. 水",
+      "examples": [
+        { "en": "There is a boy in the water.", "zh": "水里有一个男孩。" }
+      ]
+    },
+    {
+      "word": "swim",
+      "phonetic": "/swɪm/",
+      "meaning": "v. 游泳",
+      "examples": [
+        { "en": "He is swimming across the river.", "zh": "他正横渡这条河。" }
+      ]
+    },
+    {
+      "word": "building",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "meaning": "n. 建筑物，大楼",
+      "examples": [
+        { "en": "This is the school building.", "zh": "这是学校大楼。" }
+      ]
+    },
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "meaning": "n. 公园",
+      "examples": [
+        { "en": "It is beside a park.", "zh": "它在公园旁边。" }
+      ]
+    },
+    {
+      "word": "into",
+      "phonetic": "/ˈɪntə/",
+      "meaning": "prep. 进入",
+      "examples": [
+        { "en": "Some of them are going into the park.", "zh": "其中一些人正走进公园。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This is a photograph of our village.",
+      "zh": "这是我们村庄的一张照片。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "photograph", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "village", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "Our village is in a valley.",
+      "zh": "我们的村庄在一个山谷里。",
+      "analysis": [
+        { "text": "Our", "roles": ["定语"] },
+        { "text": "village", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "in", "roles": ["表语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "valley", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "It is between two hills.",
+      "zh": "它在两座小山之间。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "between", "roles": ["表语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "hills", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "My wife and I are walking along the banks of the river.",
+      "zh": "我和妻子正沿着河岸散步。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "walking", "roles": ["谓语"] },
+        { "text": "along", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "banks", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "We are on the left.",
+      "zh": "我们在左边。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "on", "roles": ["表语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "left", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He is swimming across the river.",
+      "zh": "他正横渡这条河。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "swimming", "roles": ["谓语"] },
+        { "text": "across", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "river", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "This is a photograph of our village.", "zh": "这是我们村庄的一张照片。" },
+    { "en": "Our village is in a valley.", "zh": "我们的村庄在一个山谷里。" },
+    { "en": "It is between two hills.", "zh": "它在两座小山之间。" },
+    { "en": "The village is on a river.", "zh": "村庄在一条河边。" },
+    { "en": "Here is another photograph of the village.", "zh": "这是村庄的另一张照片。" },
+    { "en": "My wife and I are walking along the banks of the river.", "zh": "我和妻子正沿着河岸散步。" },
+    { "en": "We are on the left.", "zh": "我们在左边。" },
+    { "en": "There is a boy in the water.", "zh": "水里有一个男孩。" },
+    { "en": "He is swimming across the river.", "zh": "他正横渡这条河。" },
+    { "en": "Here is another photograph. This is the school building.", "zh": "这是另一张照片。这是学校大楼。" },
+    { "en": "It is beside a park. The park is on the right.", "zh": "它在公园旁边。公园在右边。" },
+    { "en": "Some children are coming out of the building. Some of them are going into the park.", "zh": "一些孩子正从大楼里出来。其中一些人正走进公园。" }
+  ]
+}

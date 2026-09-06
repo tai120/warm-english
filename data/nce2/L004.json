@@ -1,0 +1,211 @@
+{
+  "id": "L004",
+  "title": "Lesson 4 · An exciting trip",
+  "titleZh": "第4课 激动人心的旅行",
+  "words": [
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meaning": "adj. 令人兴奋的",
+      "examples": [
+        { "en": "He is finding this trip very exciting.", "zh": "他觉得这次旅行非常激动人心。" }
+      ]
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meaning": "v. 接收，收到",
+      "examples": [
+        { "en": "I have just received a letter from my brother.", "zh": "我刚刚收到弟弟的来信。" }
+      ]
+    },
+    {
+      "word": "firm",
+      "phonetic": "/fɜːm/",
+      "meaning": "n. 商行，公司",
+      "examples": [
+        { "en": "He is working for a big firm.", "zh": "他正在为一家大公司工作。" }
+      ]
+    },
+    {
+      "word": "different",
+      "phonetic": "/ˈdɪfrənt/",
+      "meaning": "adj. 不同的",
+      "examples": [
+        { "en": "He has visited a great number of different places.", "zh": "他已经去过许多不同的地方。" }
+      ]
+    },
+    {
+      "word": "centre",
+      "phonetic": "/ˈsentə/",
+      "meaning": "n. 中心",
+      "examples": [
+        { "en": "Alice Springs is a small town in the centre of Australia.", "zh": "艾利斯斯普林斯是澳大利亚中部的一个小镇。" }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "adv. 在国外",
+      "examples": [
+        { "en": "My brother has never been abroad before.", "zh": "我弟弟以前从未出过国。" }
+      ]
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɒˈstreɪliə/",
+      "meaning": "n. 澳大利亚",
+      "examples": [
+        { "en": "He is in Australia.", "zh": "他正在澳大利亚。" }
+      ]
+    },
+    {
+      "word": "Tim",
+      "phonetic": "/tɪm/",
+      "meaning": "n. 蒂姆（人名）",
+      "examples": [
+        { "en": "Tim is an engineer.", "zh": "蒂姆是个工程师。" }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə/",
+      "meaning": "n. 工程师",
+      "examples": [
+        { "en": "Tim is an engineer.", "zh": "蒂姆是个工程师。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "He has already visited many places.", "zh": "他已经去过许多地方。" }
+      ]
+    },
+    {
+      "word": "soon",
+      "phonetic": "/suːn/",
+      "meaning": "adv. 不久，很快",
+      "examples": [
+        { "en": "He will soon visit Darwin.", "zh": "他不久还将到达尔文去。" }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meaning": "n. 旅行",
+      "examples": [
+        { "en": "He is finding this trip very exciting.", "zh": "他觉得这次旅行非常激动人心。" }
+      ]
+    },
+    {
+      "word": "brother",
+      "phonetic": "/ˈbrʌðə/",
+      "meaning": "n. 兄弟",
+      "examples": [
+        { "en": "My brother is in Australia.", "zh": "我弟弟在澳大利亚。" }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnevə/",
+      "meaning": "adv. 从不",
+      "examples": [
+        { "en": "He has never been abroad.", "zh": "他从未出过国。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I have just received a letter from my brother, Tim.",
+      "zh": "我刚刚收到弟弟蒂姆的来信。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "received", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "letter", "roles": ["宾语"] },
+        { "text": "from", "roles": ["定语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "brother", "roles": ["定语"] },
+        { "text": "Tim", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "He has been there for six months.",
+      "zh": "他在那儿已经住了六个月了。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "there", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "six", "roles": ["定语"] },
+        { "text": "months", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Tim is an engineer and he is working for a big firm.",
+      "zh": "蒂姆是个工程师，正在为一家大公司工作。",
+      "analysis": [
+        { "text": "Tim", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "engineer", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "working", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "big", "roles": ["定语"] },
+        { "text": "firm", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He will soon visit Darwin.",
+      "zh": "他不久还将到达尔文去。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "visit", "roles": ["谓语"] },
+        { "text": "Darwin", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "My brother has never been abroad before, so he is finding this trip very exciting.",
+      "zh": "我弟弟以前从未出过国，因此他觉得这次旅行非常激动人心。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "brother", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "never", "roles": ["状语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "abroad", "roles": ["状语"] },
+        { "text": "before", "roles": ["状语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "finding", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "trip", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "exciting", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I have just received a letter from my brother, Tim.", "zh": "我刚刚收到弟弟蒂姆的来信。" },
+    { "en": "He is in Australia.", "zh": "他正在澳大利亚。" },
+    { "en": "He has been there for six months.", "zh": "他在那儿已经住了六个月了。" },
+    { "en": "Tim is an engineer and he is working for a big firm.", "zh": "蒂姆是个工程师，正在为一家大公司工作。" },
+    { "en": "He has already visited a great number of different places in Australia.", "zh": "他已经去过澳大利亚的许多地方了。" },
+    { "en": "He has just bought an Australian car and has gone to Alice Springs.", "zh": "他刚买了一辆澳大利亚小汽车，现在去了艾利斯斯普林斯。" },
+    { "en": "He will soon visit Darwin.", "zh": "他不久还将到达尔文去。" },
+    { "en": "From there, he will fly to Perth.", "zh": "从那里，他再飞往珀斯。" },
+    { "en": "My brother has never been abroad before, so he is finding this trip very exciting.", "zh": "我弟弟以前从未出过国，因此他觉得这次旅行非常激动人心。" }
+  ]
+}

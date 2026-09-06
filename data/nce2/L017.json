@@ -1,0 +1,215 @@
+{
+  "id": "L017",
+  "title": "Lesson 17 · Always young",
+  "titleZh": "第17课 青春常驻",
+  "words": [
+    {
+      "word": "aunt",
+      "phonetic": "/ɑːnt/",
+      "meaning": "n. 姑母；姨母",
+      "examples": [
+        { "en": "My aunt Jennifer is an actress.", "zh": "我的姑姑詹妮弗是一位女演员。" },
+        { "en": "My aunt often visits us.", "zh": "我姑姑经常来看我们。" }
+      ]
+    },
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meaning": "n. 女演员",
+      "examples": [
+        { "en": "Her aunt is an actress.", "zh": "她的姑姑是一位女演员。" },
+        { "en": "She is a famous actress.", "zh": "她是一位著名的女演员。" }
+      ]
+    },
+    {
+      "word": "least",
+      "phonetic": "/liːst/",
+      "meaning": "adv. 至少，最少",
+      "examples": [
+        { "en": "She must be at least thirty-five years old.", "zh": "她至少也有三十五岁了。" },
+        { "en": "The tickets cost at least ten pounds.", "zh": "这些票至少要十英镑。" }
+      ]
+    },
+    {
+      "word": "appear",
+      "phonetic": "/əˈpɪə(r)/",
+      "meaning": "v. 出现；登场",
+      "examples": [
+        { "en": "She often appears on the stage.", "zh": "她经常登台演出。" },
+        { "en": "The sun appeared after the rain.", "zh": "雨后太阳出来了。" }
+      ]
+    },
+    {
+      "word": "stage",
+      "phonetic": "/steɪdʒ/",
+      "meaning": "n. 舞台",
+      "examples": [
+        { "en": "She appears on the stage as a young girl.", "zh": "她以小姑娘的形象出现在舞台上。" },
+        { "en": "The actors walked onto the stage.", "zh": "演员们走上了舞台。" }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meaning": "n. 戏剧",
+      "examples": [
+        { "en": "She will take part in a new play soon.", "zh": "她不久将参加一部新剧的演出。" },
+        { "en": "We saw a play last night.", "zh": "昨晚我们看了一出戏。" }
+      ]
+    },
+    {
+      "word": "girl",
+      "phonetic": "/ɡɜːl/",
+      "meaning": "n. 女孩，少女",
+      "examples": [
+        { "en": "This time she will be a girl of seventeen.", "zh": "这一次她将扮演一个十七岁的少女。" },
+        { "en": "The girl is very pretty.", "zh": "那个女孩很漂亮。" }
+      ]
+    },
+    {
+      "word": "bright",
+      "phonetic": "/braɪt/",
+      "meaning": "adj. 明亮的；鲜艳的",
+      "examples": [
+        { "en": "She wore a bright red dress.", "zh": "她穿着一件鲜红色的连衣裙。" },
+        { "en": "The room is bright and clean.", "zh": "这个房间明亮又干净。" }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meaning": "n. 连衣裙",
+      "examples": [
+        { "en": "She must appear in a bright red dress.", "zh": "她必须穿着一件鲜红色的连衣裙出场。" },
+        { "en": "Her dress is very beautiful.", "zh": "她的连衣裙很漂亮。" }
+      ]
+    },
+    {
+      "word": "stockings",
+      "phonetic": "/ˈstɒkɪŋz/",
+      "meaning": "n. （女用）长筒袜",
+      "examples": [
+        { "en": "She wore long black stockings.", "zh": "她穿着黑色的长筒袜。" },
+        { "en": "These stockings are new.", "zh": "这些长筒袜是新的。" }
+      ]
+    },
+    {
+      "word": "sock",
+      "phonetic": "/sɒk/",
+      "meaning": "n. 短袜",
+      "examples": [
+        { "en": "She had to wear short socks.", "zh": "她不得不穿短袜。" },
+        { "en": "I bought three pairs of socks.", "zh": "我买了三双短袜。" }
+      ]
+    },
+    {
+      "word": "ever",
+      "phonetic": "/ˈevə(r)/",
+      "meaning": "adv. 在任何时候",
+      "examples": [
+        { "en": "If anyone ever asks her age, she never answers.", "zh": "要是有人问她的年龄，她从不回答。" },
+        { "en": "Have you ever been to London?", "zh": "你曾经去过伦敦吗？" }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "v. 回答",
+      "examples": [
+        { "en": "She always answers with a smile.", "zh": "她总是微笑着回答。" },
+        { "en": "Please answer my question.", "zh": "请回答我的问题。" }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "adj. 可怕的；糟糕的",
+      "examples": [
+        { "en": "It must be terrible to be grown up!", "zh": "长大成人一定很糟糕！" },
+        { "en": "The weather was terrible yesterday.", "zh": "昨天的天气糟透了。" }
+      ]
+    },
+    {
+      "word": "grown",
+      "phonetic": "/ɡrəʊn/",
+      "meaning": "adj. 成年的",
+      "examples": [
+        { "en": "She does not want to be grown up.", "zh": "她不想长大成人。" },
+        { "en": "Her son is a grown man now.", "zh": "她的儿子现在已经是成年人了。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "My aunt Jennifer is an actress.",
+      "zh": "我的姑姑詹妮弗是一位女演员。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "aunt", "roles": ["主语"] },
+        { "text": "Jennifer", "roles": ["定语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "actress", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "She must be at least thirty-five years old.",
+      "zh": "她至少也有三十五岁了。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "least", "roles": ["状语"] },
+        { "text": "thirty-five", "roles": ["定语"] },
+        { "text": "years", "roles": ["状语"] },
+        { "text": "old", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "In the play, she must appear in a bright red dress and long black stockings.",
+      "zh": "在剧中，她必须穿着一件鲜红色的连衣裙和黑色的长筒袜。",
+      "analysis": [
+        { "text": "In", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "play", "roles": ["宾语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "must", "roles": ["谓语"] },
+        { "text": "appear", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bright", "roles": ["定语"] },
+        { "text": "red", "roles": ["定语"] },
+        { "text": "dress", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "long", "roles": ["定语"] },
+        { "text": "black", "roles": ["定语"] },
+        { "text": "stockings", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This time, she will be a girl of seventeen.",
+      "zh": "这一次，她将扮演一个十七岁的少女。",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "time", "roles": ["状语"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "girl", "roles": ["表语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "seventeen", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "My aunt Jennifer is an actress.", "zh": "我的姑姑詹妮弗是一位女演员。" },
+    { "en": "She must be at least thirty-five years old.", "zh": "她至少也有三十五岁了。" },
+    { "en": "In spite of this, she often appears on the stage as a young girl.", "zh": "尽管如此，她却常常在舞台上扮演小姑娘。" },
+    { "en": "This time, she will be a girl of seventeen.", "zh": "这一次，她将扮演一个十七岁的少女。" },
+    { "en": "In the play, she must appear in a bright red dress and long black stockings.", "zh": "在剧中，她必须穿着一件鲜红色的连衣裙和黑色的长筒袜。" },
+    { "en": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.", "zh": "去年在另一部戏里，她不得不穿短袜和一条鲜艳的橘黄色连衣裙。" },
+    { "en": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'", "zh": "一旦有人问她有多大年纪，她总是回答：‘亲爱的，长大成人真是糟糕透了！’" }
+  ]
+}

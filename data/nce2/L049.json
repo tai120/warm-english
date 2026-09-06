@@ -1,0 +1,267 @@
+{
+  "id": "L049",
+  "title": "Lesson 49 · The end of a dream",
+  "titleZh": "第49课 美梦告终",
+  "words": [
+    {
+      "word": "Teheran",
+      "phonetic": "/ˌteəˈrɑːn/",
+      "meaning": "n. 德黑兰（伊朗首都）",
+      "examples": [
+        { "en": "Teheran is the capital of Iran.", "zh": "德黑兰是伊朗的首都。" },
+        { "en": "The young man lived in Teheran.", "zh": "这个年轻人住在德黑兰。" }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meaning": "adj. 疲倦的，厌倦的",
+      "examples": [
+        { "en": "He was tired of sleeping on the floor.", "zh": "他厌倦了睡地板。" },
+        { "en": "I feel tired after a long walk.", "zh": "走了很长的路后我感到很疲倦。" }
+      ]
+    },
+    {
+      "word": "real",
+      "phonetic": "/ˈrɪəl/",
+      "meaning": "adj. 真正的，真实的",
+      "examples": [
+        { "en": "He saved up for years to buy a real bed.", "zh": "他攒了好几年的钱买一张真正的床。" },
+        { "en": "This is a real diamond.", "zh": "这是一颗真正的钻石。" }
+      ]
+    },
+    {
+      "word": "owner",
+      "phonetic": "/ˈəʊnə(r)/",
+      "meaning": "n. 主人，所有者",
+      "examples": [
+        { "en": "He became the proud owner of a bed.", "zh": "他自豪地拥有了一张床。" },
+        { "en": "Who is the owner of this shop?", "zh": "这家商店的主人是谁？" }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meaning": "n. 弹簧",
+      "examples": [
+        { "en": "The bed had springs and a mattress.", "zh": "这张床有弹簧和床垫。" }
+      ]
+    },
+    {
+      "word": "mattress",
+      "phonetic": "/ˈmætrəs/",
+      "meaning": "n. 床垫",
+      "examples": [
+        { "en": "He was still on the mattress.", "zh": "他仍躺在床垫上。" },
+        { "en": "The mattress was carried into the house.", "zh": "床垫被搬进了屋里。" }
+      ]
+    },
+    {
+      "word": "gust",
+      "phonetic": "/ɡʌst/",
+      "meaning": "n. 一阵狂风",
+      "examples": [
+        { "en": "A gust of wind swept the bed off the roof.", "zh": "一阵狂风把床刮下了屋顶。" }
+      ]
+    },
+    {
+      "word": "sweep",
+      "phonetic": "/swiːp/",
+      "meaning": "v. 扫，刮走",
+      "examples": [
+        { "en": "The wind swept the bed off the roof.", "zh": "风把床刮下了屋顶。" },
+        { "en": "Please sweep the floor.", "zh": "请扫地。" }
+      ]
+    },
+    {
+      "word": "courtyard",
+      "phonetic": "/ˈkɔːtjɑːd/",
+      "meaning": "n. 院子",
+      "examples": [
+        { "en": "The bed fell into the courtyard below.", "zh": "床掉到了下面的院子里。" },
+        { "en": "The children are playing in the courtyard.", "zh": "孩子们正在院子里玩耍。" }
+      ]
+    },
+    {
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meaning": "v. 打碎，摔碎",
+      "examples": [
+        { "en": "The bed was smashed to pieces.", "zh": "床摔成了碎片。" },
+        { "en": "He smashed the window with a stone.", "zh": "他用石头打碎了窗户。" }
+      ]
+    },
+    {
+      "word": "miraculously",
+      "phonetic": "/mɪˈrækjələsli/",
+      "meaning": "adv. 奇迹般地",
+      "examples": [
+        { "en": "The man was miraculously unhurt.", "zh": "这个人奇迹般地没有受伤。" }
+      ]
+    },
+    {
+      "word": "unhurt",
+      "phonetic": "/ˌʌnˈhɜːt/",
+      "meaning": "adj. 没有受伤的",
+      "examples": [
+        { "en": "The man was unhurt after the accident.", "zh": "事故发生后这个人没有受伤。" }
+      ]
+    },
+    {
+      "word": "glance",
+      "phonetic": "/ɡlɑːns/",
+      "meaning": "v. 一瞥，扫视",
+      "examples": [
+        { "en": "He glanced at the broken bed.", "zh": "他瞥了一眼摔坏的床。" },
+        { "en": "She glanced at her watch.", "zh": "她看了一眼手表。" }
+      ]
+    },
+    {
+      "word": "promptly",
+      "phonetic": "/ˈprɒmptli/",
+      "meaning": "adv. 迅速地，立即",
+      "examples": [
+        { "en": "He promptly went to sleep again.", "zh": "他立刻又睡着了。" },
+        { "en": "She answered the question promptly.", "zh": "她迅速回答了问题。" }
+      ]
+    },
+    {
+      "word": "blow",
+      "phonetic": "/bləʊ/",
+      "meaning": "v. 吹，刮",
+      "examples": [
+        { "en": "A storm blew up on the third night.", "zh": "第三天夜里刮起了风暴。" },
+        { "en": "The wind is blowing hard.", "zh": "风刮得很大。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The weather was very hot, so he carried the bed on to the roof of his house.",
+      "zh": "天气很热，于是他把床搬到了屋顶上。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "weather", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "hot", "roles": ["表语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bed", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "roof", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "house", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He slept very well for the first two nights.",
+      "zh": "头两个晚上他睡得非常好。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "slept", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "well", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "first", "roles": ["定语"] },
+        { "text": "two", "roles": ["定语"] },
+        { "text": "nights", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "On the third night, a storm blew up.",
+      "zh": "第三天夜里刮起了风暴。",
+      "analysis": [
+        { "text": "On", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "third", "roles": ["定语"] },
+        { "text": "night", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "storm", "roles": ["主语"] },
+        { "text": "blew", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "zh": "一阵狂风把床刮下屋顶，让它摔到了下面的院子里。",
+      "analysis": [
+        { "text": "A", "roles": ["定语"] },
+        { "text": "gust", "roles": ["主语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "wind", "roles": ["定语"] },
+        { "text": "swept", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "bed", "roles": ["宾语"] },
+        { "text": "off", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "roof", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sent", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "crashing", "roles": ["补语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "courtyard", "roles": ["状语"] },
+        { "text": "below", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The bed struck the ground and was smashed to pieces, but the man was miraculously unhurt.",
+      "zh": "床撞到地面摔成了碎片，但这个人却奇迹般地没有受伤。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bed", "roles": ["主语"] },
+        { "text": "struck", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ground", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "smashed", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "pieces", "roles": ["状语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "miraculously", "roles": ["状语"] },
+        { "text": "unhurt", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "He sadly picked up the mattress and carried it into his house.",
+      "zh": "他伤心地捡起床垫，把它搬进了屋里。",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "sadly", "roles": ["状语"] },
+        { "text": "picked", "roles": ["谓语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "mattress", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "carried", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "house", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.", "zh": "一位德黑兰的年轻人厌倦了睡地板，攒了好几年的钱买了一张真正的床。" },
+    { "en": "For the first time in his life, he became the proud owner of a bed with springs and a mattress.", "zh": "他有生以来第一次自豪地拥有了一张带弹簧和床垫的床。" },
+    { "en": "The weather was very hot, so he carried the bed on to the roof of his house.", "zh": "天气很热，于是他把床搬到了屋顶上。" },
+    { "en": "He slept very well for the first two nights.", "zh": "头两个晚上他睡得非常好。" },
+    { "en": "On the third night, a storm blew up.", "zh": "第三天夜里刮起了风暴。" },
+    { "en": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.", "zh": "一阵狂风把床刮下屋顶，让它摔到了下面的院子里。" },
+    { "en": "The bed struck the ground and was smashed to pieces, but the man was miraculously unhurt.", "zh": "床撞到地面摔成了碎片，但这个人却奇迹般地没有受伤。" },
+    { "en": "He sadly picked up the mattress and carried it into his house.", "zh": "他伤心地捡起床垫，把它搬进了屋里。" },
+    { "en": "After he had put it on the floor, he promptly went to sleep again.", "zh": "把它放到地板上后，他又立刻睡着了。" }
+  ]
+}

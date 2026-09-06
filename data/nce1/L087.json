@@ -1,0 +1,202 @@
+{
+  "id": "L087",
+  "title": "Lesson 87 · A car crash",
+  "titleZh": "第87课 车祸",
+  "words": [
+    {
+      "word": "attendant",
+      "phonetic": "/əˈtendənt/",
+      "meaning": "n. 接待员，服务员",
+      "examples": [
+        { "en": "The attendant is working in the garage.", "zh": "接待员在汽车修理厂工作。" }
+      ]
+    },
+    {
+      "word": "bring",
+      "phonetic": "/brɪŋ/",
+      "meaning": "v. 带来，送来",
+      "examples": [
+        { "en": "When did you bring it to us?", "zh": "您什么时候送来的？" },
+        { "en": "I brought it here three days ago.", "zh": "我三天前送来的。" }
+      ]
+    },
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meaning": "n. 车库，汽车修理厂",
+      "examples": [
+        { "en": "Let's go into the garage and have a look at it.", "zh": "我们到车库去看一下吧。" },
+        { "en": "My car is in the garage.", "zh": "我的汽车在修理厂。" }
+      ]
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meaning": "n. 碰撞，车祸",
+      "examples": [
+        { "en": "Didn't you have a crash?", "zh": "您是不是出过车祸？" },
+        { "en": "He had a car crash last week.", "zh": "他上周出了车祸。" }
+      ]
+    },
+    {
+      "word": "lamp-post",
+      "phonetic": "/ˈlæmp pəʊst/",
+      "meaning": "n. 灯柱",
+      "examples": [
+        { "en": "I drove it into a lamp-post.", "zh": "我把车撞到电线杆上了。" },
+        { "en": "The car hit a lamp-post.", "zh": "汽车撞到了灯柱上。" }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meaning": "v. 修理",
+      "examples": [
+        { "en": "Can your mechanics repair it?", "zh": "你们的机械师能修好吗？" },
+        { "en": "They're trying to repair it, sir.", "zh": "先生，他们正在设法修理。" }
+      ]
+    },
+    {
+      "word": "try",
+      "phonetic": "/traɪ/",
+      "meaning": "v. 努力，设法",
+      "examples": [
+        { "en": "They're trying to repair it, sir.", "zh": "先生，他们正在设法修理。" },
+        { "en": "Try and stand up.", "zh": "试着站起来。" }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "phonetic": "/məˈkænɪk/",
+      "meaning": "n. 机械师，机修工",
+      "examples": [
+        { "en": "Have your mechanics finished yet?", "zh": "你们的机械师修完了吗？" },
+        { "en": "The mechanic is repairing my car.", "zh": "机修工正在修我的车。" }
+      ]
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meaning": "n. 事实，真相",
+      "examples": [
+        { "en": "But to tell you the truth, you need a new car!", "zh": "不过说实话，您需要一辆新车了！" },
+        { "en": "Tell me the truth.", "zh": "告诉我实话。" }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meaning": "v. 记得，记住",
+      "examples": [
+        { "en": "Ah yes, I remember now.", "zh": "啊，是的，我现在记起来了。" },
+        { "en": "I remember your name.", "zh": "我记得你的名字。" }
+      ]
+    },
+    {
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meaning": "adv. 还，仍",
+      "examples": [
+        { "en": "Is my car ready yet?", "zh": "我的汽车修好了吗？" },
+        { "en": "Have your mechanics finished yet?", "zh": "你们的机械师修完了吗？" }
+      ]
+    },
+    {
+      "word": "new",
+      "phonetic": "/njuː/",
+      "meaning": "adj. 新的",
+      "examples": [
+        { "en": "You need a new car!", "zh": "您需要一辆新车了！" },
+        { "en": "I want to buy a new car.", "zh": "我想买一辆新车。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Is my car ready yet?",
+      "zh": "我的汽车修好了吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "car", "roles": ["主语"] },
+        { "text": "ready", "roles": ["表语"] },
+        { "text": "yet", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "When did you bring it to us?",
+      "zh": "您什么时候送来的？",
+      "analysis": [
+        { "text": "When", "roles": ["状语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "bring", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "us", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I brought it here three days ago.",
+      "zh": "我三天前送来的。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "brought", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "here", "roles": ["状语"] },
+        { "text": "three", "roles": ["定语"] },
+        { "text": "days", "roles": ["状语"] },
+        { "text": "ago", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "No, they're still working on it.",
+      "zh": "没有，他们还在修呢。",
+      "analysis": [
+        { "text": "No", "roles": ["感叹词"] },
+        { "text": "they're", "roles": ["主语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "working", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "it", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I drove it into a lamp-post.",
+      "zh": "我把车撞到电线杆上了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "drove", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lamp-post", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Can your mechanics repair it?",
+      "zh": "你们的机械师能修好吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "your", "roles": ["定语"] },
+        { "text": "mechanics", "roles": ["主语"] },
+        { "text": "repair", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Is my car ready yet?", "zh": "我的汽车修好了吗？" },
+    { "en": "I don't know, sir. What's the number of your car? It's LFZ 312G.", "zh": "我不知道，先生。您的车号是多少？是 LFZ 312G。" },
+    { "en": "When did you bring it to us?", "zh": "您什么时候送来的？" },
+    { "en": "I brought it here three days ago.", "zh": "我三天前送来的。" },
+    { "en": "Ah yes, I remember now.", "zh": "啊，是的，我现在记起来了。" },
+    { "en": "No, they're still working on it.", "zh": "没有，他们还在修呢。" },
+    { "en": "Let's go into the garage and have a look at it.", "zh": "我们到车库去看一下吧。" },
+    { "en": "Didn't you have a crash?", "zh": "您是不是出过车祸？" },
+    { "en": "That's right.", "zh": "是的。" },
+    { "en": "I drove it into a lamp-post.", "zh": "我把车撞到电线杆上了。" },
+    { "en": "Can your mechanics repair it?", "zh": "你们的机械师能修好吗？" },
+    { "en": "But to tell you the truth, you need a new car!", "zh": "不过说实话，您需要一辆新车了！" }
+  ]
+}

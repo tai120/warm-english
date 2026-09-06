@@ -1,0 +1,261 @@
+{
+  "id": "L029",
+  "title": "Lesson 29 · Taxi!",
+  "titleZh": "第29课 出租汽车！",
+  "words": [
+    {
+      "word": "taxi",
+      "phonetic": "/ˈtæksi/",
+      "meaning": "n. 出租汽车",
+      "examples": [
+        { "en": "Captain Ben Fawcett has bought an unusual taxi.", "zh": "本·福西特机长买了一辆不同寻常的出租汽车。" },
+        { "en": "I took a taxi to the station.", "zh": "我乘出租车去了车站。" }
+      ]
+    },
+    {
+      "word": "captain",
+      "phonetic": "/ˈkæptɪn/",
+      "meaning": "n. 机长，船长",
+      "examples": [
+        { "en": "Captain Ben Fawcett has bought an unusual taxi.", "zh": "本·福西特机长买了一辆不同寻常的出租汽车。" },
+        { "en": "The captain welcomed us on board.", "zh": "机长欢迎我们登机。" }
+      ]
+    },
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meaning": "adj. 不寻常的",
+      "examples": [
+        { "en": "Captain Ben Fawcett has bought an unusual taxi.", "zh": "本·福西特机长买了一辆不同寻常的出租汽车。" },
+        { "en": "It is unusual to see snow here.", "zh": "在这里看到雪很不寻常。" }
+      ]
+    },
+    {
+      "word": "Swiss",
+      "phonetic": "/swɪs/",
+      "meaning": "adj. 瑞士的",
+      "examples": [
+        { "en": "The 'taxi' is a small Swiss aeroplane.", "zh": "这辆‘出租汽车’是一架小型瑞士飞机。" },
+        { "en": "Swiss watches are famous.", "zh": "瑞士手表很有名。" }
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meaning": "n. 飞机",
+      "examples": [
+        { "en": "The 'taxi' is a small Swiss aeroplane.", "zh": "这辆‘出租汽车’是一架小型瑞士飞机。" },
+        { "en": "The aeroplane took off on time.", "zh": "飞机准时起飞了。" }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meaning": "n. 乘客",
+      "examples": [
+        { "en": "This wonderful plane can carry seven passengers.", "zh": "这架奇妙的飞机可以载7名乘客。" },
+        { "en": "The bus is full of passengers.", "zh": "公共汽车上挤满了乘客。" }
+      ]
+    },
+    {
+      "word": "land",
+      "phonetic": "/lænd/",
+      "meaning": "v. 着陆",
+      "examples": [
+        { "en": "It can land anywhere.", "zh": "它能够在任何地方降落。" },
+        { "en": "The plane landed safely.", "zh": "飞机安全着陆了。" }
+      ]
+    },
+    {
+      "word": "ploughed",
+      "phonetic": "/plaʊd/",
+      "meaning": "adj. 耕过的",
+      "examples": [
+        { "en": "It can land on a ploughed field.", "zh": "它甚至能在刚耕过的田里降落。" },
+        { "en": "The ploughed field was ready for planting.", "zh": "耕过的田地已经准备好播种了。" }
+      ]
+    },
+    {
+      "word": "lonely",
+      "phonetic": "/ˈləʊnli/",
+      "meaning": "adj. 偏僻的；孤独的",
+      "examples": [
+        { "en": "He flew to a lonely village in the Welsh mountains.", "zh": "他飞往威尔士山区一个偏僻的村庄。" },
+        { "en": "The old man lives a lonely life.", "zh": "这位老人过着孤独的生活。" }
+      ]
+    },
+    {
+      "word": "Welsh",
+      "phonetic": "/welʃ/",
+      "meaning": "adj. 威尔士的",
+      "examples": [
+        { "en": "He flew to a lonely village in the Welsh mountains.", "zh": "他飞往威尔士山区一个偏僻的村庄。" },
+        { "en": "They live in a Welsh village.", "zh": "他们住在一个威尔士村庄里。" }
+      ]
+    },
+    {
+      "word": "roof",
+      "phonetic": "/ruːf/",
+      "meaning": "n. 屋顶",
+      "examples": [
+        { "en": "Once he landed on the roof of a block of flats.", "zh": "一次，他把飞机降落在一栋公寓楼的屋顶上。" },
+        { "en": "There is a cat on the roof.", "zh": "屋顶上有一只猫。" }
+      ]
+    },
+    {
+      "word": "deserted",
+      "phonetic": "/dɪˈzɜːtɪd/",
+      "meaning": "adj. 废弃的",
+      "examples": [
+        { "en": "He landed in a deserted car park.", "zh": "他降落在一个废弃的停车场上。" },
+        { "en": "The streets were deserted at night.", "zh": "夜里街道上空无一人。" }
+      ]
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meaning": "n. 请求，要求",
+      "examples": [
+        { "en": "He has just refused a strange request from a businessman.", "zh": "他刚刚拒绝了一位商人的奇怪要求。" },
+        { "en": "She made a request for help.", "zh": "她请求帮助。" }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meaning": "v. 拒绝",
+      "examples": [
+        { "en": "Captain Fawcett has just refused a strange request.", "zh": "福西特机长刚刚拒绝了一个奇怪的要求。" },
+        { "en": "He refused my invitation.", "zh": "他拒绝了我的邀请。" }
+      ]
+    },
+    {
+      "word": "businessman",
+      "phonetic": "/ˈbɪznəsmæn/",
+      "meaning": "n. 商人",
+      "examples": [
+        { "en": "He refused a request from a businessman.", "zh": "他拒绝了一位商人的要求。" },
+        { "en": "The businessman travelled to London.", "zh": "这位商人去了伦敦。" }
+      ]
+    },
+    {
+      "word": "dangerous",
+      "phonetic": "/ˈdeɪndʒərəs/",
+      "meaning": "adj. 危险的",
+      "examples": [
+        { "en": "The trip was too dangerous.", "zh": "那段飞行太危险了。" },
+        { "en": "It is dangerous to swim here.", "zh": "在这里游泳很危险。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This wonderful plane can carry seven passengers.",
+      "zh": "这架奇妙的飞机可以载7名乘客。",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "wonderful", "roles": ["定语"] },
+        { "text": "plane", "roles": ["主语"] },
+        { "text": "can", "roles": ["谓语"] },
+        { "text": "carry", "roles": ["谓语"] },
+        { "text": "seven", "roles": ["定语"] },
+        { "text": "passengers", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Captain Fawcett has just refused a strange request from a businessman.",
+      "zh": "福西特机长刚刚拒绝了一位商人的奇怪要求。",
+      "analysis": [
+        { "text": "Captain", "roles": ["定语"] },
+        { "text": "Fawcett", "roles": ["主语"] },
+        { "text": "has", "roles": ["谓语"] },
+        { "text": "just", "roles": ["状语"] },
+        { "text": "refused", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "strange", "roles": ["定语"] },
+        { "text": "request", "roles": ["宾语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "businessman", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
+      "zh": "一次，他把飞机降落在一栋公寓楼的屋顶上；还有一次，降落在了一个废弃的停车场上。",
+      "analysis": [
+        { "text": "Once", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "landed", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "roof", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "block", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "flats", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "another", "roles": ["定语"] },
+        { "text": "occasion", "roles": ["宾语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "landed", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "deserted", "roles": ["定语"] },
+        { "text": "car", "roles": ["定语"] },
+        { "text": "park", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean.",
+      "zh": "这个人想要飞往大西洋上的一个孤岛——罗卡尔岛。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "wanted", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "fly", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "Rockall", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lonely", "roles": ["定语"] },
+        { "text": "island", "roles": ["定语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Atlantic", "roles": ["定语"] },
+        { "text": "Ocean", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Captain Fawcett did not take him because the trip was too dangerous.",
+      "zh": "福西特机长之所以不送他去，是因为那段飞行太危险了。",
+      "analysis": [
+        { "text": "Captain", "roles": ["定语"] },
+        { "text": "Fawcett", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "him", "roles": ["宾语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "trip", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "too", "roles": ["状语"] },
+        { "text": "dangerous", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.", "zh": "本·福西特机长买了一辆不同寻常的出租汽车，并开始了一项新的业务。" },
+    { "en": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.", "zh": "这辆‘出租汽车’是一架小型瑞士飞机，叫‘皮勒特斯·波特’号。" },
+    { "en": "This wonderful plane can carry seven passengers.", "zh": "这架奇妙的飞机可以载7名乘客。" },
+    { "en": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.", "zh": "然而，最令人惊奇的是它能够在任何地方降落：雪地上，水面上，甚至刚耕过的田里。" },
+    { "en": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.", "zh": "福西特机长的第一名乘客是位医生，他从伯明翰飞往威尔士山区一个偏僻的村庄。" },
+    { "en": "Since then, Captain Fawcett has flown passengers to many unusual places.", "zh": "从那时开始，福西特机长已经载送乘客到过许多不寻常的地方。" },
+    { "en": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.", "zh": "一次，他把飞机降落在一栋公寓楼的屋顶上；还有一次，降落在了一个废弃的停车场上。" },
+    { "en": "Captain Fawcett has just refused a strange request from a businessman.", "zh": "福西特机长刚刚拒绝了一位商人的奇怪要求。" },
+    { "en": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean.", "zh": "这个人想要飞往大西洋上的一个孤岛——罗卡尔岛。" },
+    { "en": "Captain Fawcett did not take him because the trip was too dangerous.", "zh": "福西特机长之所以不送他去，是因为那段飞行太危险了。" }
+  ]
+}

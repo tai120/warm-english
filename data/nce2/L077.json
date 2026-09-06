@@ -1,0 +1,264 @@
+{
+  "id": "L077",
+  "title": "Lesson 77 · A successful operation",
+  "titleZh": "第77课 一例成功的手术",
+  "words": [
+    {
+      "word": "mummy",
+      "phonetic": "/ˈmʌmi/",
+      "meaning": "n. 木乃伊",
+      "examples": [
+        { "en": "The mummy had an operation.", "zh": "这具木乃伊做了一次手术。" }
+      ]
+    },
+    {
+      "word": "Egyptian",
+      "phonetic": "/ɪˈdʒɪpʃn/",
+      "meaning": "adj. 埃及的",
+      "examples": [
+        { "en": "The mummy is that of an Egyptian woman.", "zh": "这具木乃伊是一位埃及妇女的。" }
+      ]
+    },
+    {
+      "word": "B.C.",
+      "phonetic": "/ˌbiː ˈsiː/",
+      "meaning": "adv. 公元前",
+      "examples": [
+        { "en": "She died in 800 B.C.", "zh": "她死于公元前800年。" }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meaning": "n. 手术",
+      "examples": [
+        { "en": "The operation lasted for over four hours.", "zh": "手术持续了四个多小时。" }
+      ]
+    },
+    {
+      "word": "temple",
+      "phonetic": "/ˈtempl/",
+      "meaning": "n. 庙，神殿",
+      "examples": [
+        { "en": "She was a singer in the Temple of Thebes.", "zh": "她是底比斯神庙里的歌手。" }
+      ]
+    },
+    {
+      "word": "singer",
+      "phonetic": "/ˈsɪŋə(r)/",
+      "meaning": "n. 歌手",
+      "examples": [
+        { "en": "Shepenmut was once a singer.", "zh": "谢佩姆特曾是一名歌手。" }
+      ]
+    },
+    {
+      "word": "X-ray",
+      "phonetic": "/ˈeks reɪ/",
+      "meaning": "n. X光，X射线",
+      "examples": [
+        { "en": "The doctors studied the X-ray plates.", "zh": "医生们研究了X光片。" }
+      ]
+    },
+    {
+      "word": "mark",
+      "phonetic": "/mɑːk/",
+      "meaning": "n. 斑点，痕迹",
+      "examples": [
+        { "en": "There were strange marks on the plates.", "zh": "底片上有奇怪的斑点。" }
+      ]
+    },
+    {
+      "word": "plate",
+      "phonetic": "/pleɪt/",
+      "meaning": "n. 底片，盘子",
+      "examples": [
+        { "en": "The X-ray plates showed strange marks.", "zh": "X光片显示出奇怪的斑点。" }
+      ]
+    },
+    {
+      "word": "disease",
+      "phonetic": "/dɪˈziːz/",
+      "meaning": "n. 疾病",
+      "examples": [
+        { "en": "The doctors wanted to know if she died of a rare disease.", "zh": "医生们想知道她是否死于一种罕见的疾病。" }
+      ]
+    },
+    {
+      "word": "resin",
+      "phonetic": "/ˈrezɪn/",
+      "meaning": "n. 树脂",
+      "examples": [
+        { "en": "Hard resin covered the skin.", "zh": "坚硬的树脂覆盖着皮肤。" }
+      ]
+    },
+    {
+      "word": "skin",
+      "phonetic": "/skɪn/",
+      "meaning": "n. 皮肤",
+      "examples": [
+        { "en": "The mummy's skin was covered with resin.", "zh": "木乃伊的皮肤上覆盖着树脂。" }
+      ]
+    },
+    {
+      "word": "section",
+      "phonetic": "/ˈsekʃn/",
+      "meaning": "n. 部分，切片",
+      "examples": [
+        { "en": "They removed a section of the mummy.", "zh": "他们切下了木乃伊的一部分。" }
+      ]
+    },
+    {
+      "word": "laboratory",
+      "phonetic": "/ləˈbɒrətri/",
+      "meaning": "n. 实验室",
+      "examples": [
+        { "en": "They sent the section to a laboratory.", "zh": "他们把切片送到了实验室。" }
+      ]
+    },
+    {
+      "word": "wax",
+      "phonetic": "/wæks/",
+      "meaning": "n. 蜡",
+      "examples": [
+        { "en": "They found a small wax figure.", "zh": "他们发现了一个小蜡像。" }
+      ]
+    },
+    {
+      "word": "figure",
+      "phonetic": "/ˈfɪɡə(r)/",
+      "meaning": "n. 雕像，形象",
+      "examples": [
+        { "en": "The wax figure was the god Duamutef.", "zh": "那个蜡像是杜阿姆特夫神。" }
+      ]
+    },
+    {
+      "word": "survive",
+      "phonetic": "/səˈvaɪv/",
+      "meaning": "v. 幸存，挺过",
+      "examples": [
+        { "en": "The mummy survived the operation.", "zh": "木乃伊挺过了手术。" }
+      ]
+    },
+    {
+      "word": "Shepenmut",
+      "phonetic": "/ˈʃepənmʌt/",
+      "meaning": "n. 谢佩姆特（人名）",
+      "examples": [
+        { "en": "Shepenmut died in 800 B.C.", "zh": "谢佩姆特死于公元前800年。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There were strange marks on the X-ray plates, so doctors wanted to find out how the woman died.",
+      "zh": "X光片上有奇怪的斑点，因此医生们想查明这位妇女的死因。",
+      "analysis": [
+        { "text": "There", "roles": ["状语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "strange", "roles": ["定语"] },
+        { "text": "marks", "roles": ["主语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "X-ray", "roles": ["定语"] },
+        { "text": "plates", "roles": ["宾语"] },
+        { "text": "so", "roles": ["连词"] },
+        { "text": "doctors", "roles": ["主语"] },
+        { "text": "wanted", "roles": ["谓语"] },
+        { "text": "to", "roles": ["宾语"] },
+        { "text": "find", "roles": ["宾语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "how", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "woman", "roles": ["主语"] },
+        { "text": "died", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "The doctors decided on an operation, and it lasted for over four hours.",
+      "zh": "医生们决定进行手术，手术持续了四个多小时。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "doctors", "roles": ["主语"] },
+        { "text": "decided", "roles": ["谓语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "operation", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "lasted", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "over", "roles": ["状语"] },
+        { "text": "four", "roles": ["定语"] },
+        { "text": "hours", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The operation was very difficult because hard resin covered the skin.",
+      "zh": "手术非常困难，因为坚硬的树脂覆盖着皮肤。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "operation", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "difficult", "roles": ["表语"] },
+        { "text": "because", "roles": ["连词"] },
+        { "text": "hard", "roles": ["定语"] },
+        { "text": "resin", "roles": ["主语"] },
+        { "text": "covered", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "skin", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The doctors feared that the mummy would fall to pieces when they cut it open.",
+      "zh": "医生们担心切开时木乃伊会碎成碎片。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "doctors", "roles": ["主语"] },
+        { "text": "feared", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "mummy", "roles": ["主语"] },
+        { "text": "would", "roles": ["谓语"] },
+        { "text": "fall", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "pieces", "roles": ["宾语"] },
+        { "text": "when", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "cut", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "open", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "Fortunately, this did not happen, and the mummy successfully survived the operation.",
+      "zh": "幸运的是，这种情况没有发生，木乃伊成功挺过了手术。",
+      "analysis": [
+        { "text": "Fortunately", "roles": ["状语"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "happen", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "mummy", "roles": ["主语"] },
+        { "text": "successfully", "roles": ["状语"] },
+        { "text": "survived", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "operation", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.", "zh": "一位死于公元前800年的埃及妇女的木乃伊刚刚接受了一次手术。" },
+    { "en": "The mummy is that of Shepenmut, who was once a singer in the Temple of Thebes.", "zh": "这具木乃伊是谢佩姆特的，她生前是底比斯神庙里的歌手。" },
+    { "en": "There were strange marks on the X-ray plates, so doctors wanted to find out how the woman died.", "zh": "X光片上有奇怪的斑点，因此医生们想查明这位妇女的死因。" },
+    { "en": "The doctors decided on an operation, and it lasted for over four hours.", "zh": "医生们决定进行手术，手术持续了四个多小时。" },
+    { "en": "The operation was very difficult because hard resin covered the skin.", "zh": "手术非常困难，因为坚硬的树脂覆盖着皮肤。" },
+    { "en": "The doctors removed a section of the mummy and sent it to a laboratory.", "zh": "医生们切下木乃伊的一部分，送到了实验室。" },
+    { "en": "They also found a small wax figure of the god Duamutef, which the X-ray plates did not show.", "zh": "他们还发现了一个X光片没有显示出来的小蜡像——杜阿姆特夫神像。" },
+    { "en": "This god, which has the head of a cow, was normally placed inside a mummy.", "zh": "这个长着牛头的神通常被放在木乃伊体内。" },
+    { "en": "The doctors feared that the mummy would fall to pieces when they cut it open.", "zh": "医生们担心切开时木乃伊会碎成碎片。" },
+    { "en": "Fortunately, this did not happen, and the mummy successfully survived the operation.", "zh": "幸运的是，这种情况没有发生，木乃伊成功挺过了手术。" }
+  ]
+}

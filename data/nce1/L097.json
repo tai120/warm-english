@@ -1,0 +1,210 @@
+{
+  "id": "L097",
+  "title": "Lesson 97 · A small blue case",
+  "titleZh": "第97课 一只蓝色的小箱子",
+  "words": [
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meaning": "v. 遗留，落下",
+      "examples": [
+        { "en": "I left a suitcase on the train to London the other day.", "zh": "几天前我把一只手提箱忘在开往伦敦的火车上了。" },
+        { "en": "I left my key at home.", "zh": "我把钥匙忘在家里了。" }
+      ]
+    },
+    {
+      "word": "describe",
+      "phonetic": "/dɪˈskraɪb/",
+      "meaning": "v. 描述",
+      "examples": [
+        { "en": "Can you describe it, sir?", "zh": "先生，您能描述一下它吗？" },
+        { "en": "Please describe your case.", "zh": "请描述一下您的箱子。" }
+      ]
+    },
+    {
+      "word": "zip",
+      "phonetic": "/zɪp/",
+      "meaning": "n. 拉链",
+      "examples": [
+        { "en": "It's a small blue case and it's got a zip.", "zh": "它是一只蓝色的小箱子，上面有拉链。" },
+        { "en": "The zip is broken.", "zh": "拉链坏了。" }
+      ]
+    },
+    {
+      "word": "label",
+      "phonetic": "/ˈleɪbl/",
+      "meaning": "n. 标签，签条",
+      "examples": [
+        { "en": "There's a label on the handle with my name and address on it.", "zh": "箱把手上有一个标签，上面写着我的姓名和住址。" },
+        { "en": "This one's got a label.", "zh": "这只箱子有张标签。" }
+      ]
+    },
+    {
+      "word": "handle",
+      "phonetic": "/ˈhændl/",
+      "meaning": "n. 提手，把手",
+      "examples": [
+        { "en": "There's a label on the handle.", "zh": "把手上有一个标签。" },
+        { "en": "The handle of the case is broken.", "zh": "箱子的把手坏了。" }
+      ]
+    },
+    {
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meaning": "n. 地址",
+      "examples": [
+        { "en": "What's your name and address?", "zh": "您的姓名和住址？" },
+        { "en": "David Hall, 83 Bridge Street.", "zh": "大卫·霍尔，大桥街83号。" }
+      ]
+    },
+    {
+      "word": "pence",
+      "phonetic": "/pens/",
+      "meaning": "n. 便士（penny 的复数）",
+      "examples": [
+        { "en": "Three pounds fifty pence, please.", "zh": "请付3英镑50便士。" },
+        { "en": "It costs fifty pence.", "zh": "它值50便士。" }
+      ]
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "meaning": "v. 属于",
+      "examples": [
+        { "en": "This case doesn't belong to me!", "zh": "这个箱子不是我的！" },
+        { "en": "This book belongs to me.", "zh": "这本书是我的。" }
+      ]
+    },
+    {
+      "word": "case",
+      "phonetic": "/keɪs/",
+      "meaning": "n. 箱子",
+      "examples": [
+        { "en": "It's a small blue case and it's got a zip.", "zh": "它是一只蓝色的小箱子，上面有拉链。" },
+        { "en": "Is this case yours?", "zh": "这个箱子是您的吗？" }
+      ]
+    },
+    {
+      "word": "wrong",
+      "phonetic": "/rɒŋ/",
+      "meaning": "adj. 错误的",
+      "examples": [
+        { "en": "You've given me the wrong case!", "zh": "您给错箱子了！" },
+        { "en": "That's the wrong answer.", "zh": "那是错误的答案。" }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meaning": "n. 事情，麻烦",
+      "examples": [
+        { "en": "What's the matter?", "zh": "怎么了？" },
+        { "en": "What's the matter, Andy?", "zh": "安迪，怎么了？" }
+      ]
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meaning": "n. 手提箱",
+      "examples": [
+        { "en": "I left a suitcase on the train to London the other day.", "zh": "几天前我把一只手提箱忘在开往伦敦的火车上了。" },
+        { "en": "This suitcase is very heavy.", "zh": "这个手提箱很重。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I left a suitcase on the train to London the other day.",
+      "zh": "几天前我把一只手提箱忘在开往伦敦的火车上了。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "left", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "suitcase", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "train", "roles": ["状语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "London", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "other", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Can you describe it, sir?",
+      "zh": "先生，您能描述一下它吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "describe", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "sir", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "It's a small blue case and it's got a zip.",
+      "zh": "它是一只蓝色的小箱子，上面有拉链。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "small", "roles": ["定语"] },
+        { "text": "blue", "roles": ["定语"] },
+        { "text": "case", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it's", "roles": ["主语"] },
+        { "text": "got", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "zip", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Is this case yours?",
+      "zh": "这个箱子是您的吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "this", "roles": ["定语"] },
+        { "text": "case", "roles": ["主语"] },
+        { "text": "yours", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "You've given me the wrong case!",
+      "zh": "您给错箱子了！",
+      "analysis": [
+        { "text": "You've", "roles": ["主语"] },
+        { "text": "given", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "wrong", "roles": ["定语"] },
+        { "text": "case", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This case doesn't belong to me!",
+      "zh": "这个箱子不是我的！",
+      "analysis": [
+        { "text": "This", "roles": ["定语"] },
+        { "text": "case", "roles": ["主语"] },
+        { "text": "doesn't", "roles": ["谓语"] },
+        { "text": "belong", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "me", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I left a suitcase on the train to London the other day.", "zh": "几天前我把一只手提箱忘在开往伦敦的火车上了。" },
+    { "en": "Can you describe it, sir?", "zh": "先生，您能描述一下它吗？" },
+    { "en": "It's a small blue case and it's got a zip.", "zh": "它是一只蓝色的小箱子，上面有拉链。" },
+    { "en": "There's a label on the handle with my name and address on it.", "zh": "箱把手上有一个标签，上面写着我的姓名和住址。" },
+    { "en": "Is this case yours?", "zh": "这个箱子是您的吗？" },
+    { "en": "No, that's not mine.", "zh": "不，那不是我的。" },
+    { "en": "What about this one? This one's got a label.", "zh": "这只呢？这只箱子有张标签。" },
+    { "en": "What's your name and address?", "zh": "您的姓名和住址？" },
+    { "en": "David Hall, 83 Bridge Street.", "zh": "大卫·霍尔，大桥街83号。" },
+    { "en": "Three pounds fifty pence, please.", "zh": "请付3英镑50便士。" },
+    { "en": "This case doesn't belong to me!", "zh": "这个箱子不是我的！" },
+    { "en": "You've given me the wrong case!", "zh": "您给错箱子了！" }
+  ]
+}

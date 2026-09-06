@@ -1,0 +1,232 @@
+{
+  "id": "L053",
+  "title": "Lesson 53 · An interesting climate",
+  "titleZh": "第53课 有趣的气候",
+  "words": [
+    {
+      "word": "England",
+      "phonetic": "/ˈɪŋɡlənd/",
+      "meaning": "n. 英格兰，英国",
+      "examples": [
+        { "en": "I come from England.", "zh": "我来自英国。" },
+        { "en": "England is my home.", "zh": "英格兰是我的家乡。" }
+      ]
+    },
+    {
+      "word": "mild",
+      "phonetic": "/maɪld/",
+      "meaning": "adj. 温和的，温暖的",
+      "examples": [
+        { "en": "It's mild, but it's not always pleasant.", "zh": "气候温和，但并不总是宜人。" },
+        { "en": "The climate here is mild.", "zh": "这里的气候温和。" }
+      ]
+    },
+    {
+      "word": "north",
+      "phonetic": "/nɔːθ/",
+      "meaning": "n. 北方",
+      "examples": [
+        { "en": "The weather's often cold in the North.", "zh": "北部的天气常常很冷。" },
+        { "en": "He lives in the North.", "zh": "他住在北方。" }
+      ]
+    },
+    {
+      "word": "east",
+      "phonetic": "/iːst/",
+      "meaning": "n. 东方",
+      "examples": [
+        { "en": "It's often windy in the East.", "zh": "东部常常刮风。" },
+        { "en": "The sun rises in the East.", "zh": "太阳从东方升起。" }
+      ]
+    },
+    {
+      "word": "west",
+      "phonetic": "/west/",
+      "meaning": "n. 西方",
+      "examples": [
+        { "en": "It's often wet in the West.", "zh": "西部常常下雨。" },
+        { "en": "The sun sets in the West.", "zh": "太阳从西方落下。" }
+      ]
+    },
+    {
+      "word": "south",
+      "phonetic": "/saʊθ/",
+      "meaning": "n. 南方",
+      "examples": [
+        { "en": "It's sometimes warm in the South.", "zh": "南部有时很暖和。" },
+        { "en": "She comes from the South.", "zh": "她来自南方。" }
+      ]
+    },
+    {
+      "word": "wet",
+      "phonetic": "/wet/",
+      "meaning": "adj. 潮湿的，多雨的",
+      "examples": [
+        { "en": "It's often wet in the West.", "zh": "西部常常下雨。" },
+        { "en": "The road is wet.", "zh": "路面是湿的。" }
+      ]
+    },
+    {
+      "word": "season",
+      "phonetic": "/ˈsiːzn/",
+      "meaning": "n. 季节",
+      "examples": [
+        { "en": "Which seasons do you like best?", "zh": "你最喜欢哪些季节？" },
+        { "en": "There are four seasons in a year.", "zh": "一年有四季。" }
+      ]
+    },
+    {
+      "word": "best",
+      "phonetic": "/best/",
+      "meaning": "adv. 最，最好",
+      "examples": [
+        { "en": "Which seasons do you like best?", "zh": "你最喜欢哪些季节？" },
+        { "en": "I like spring best.", "zh": "我最喜欢春天。" }
+      ]
+    },
+    {
+      "word": "night",
+      "phonetic": "/naɪt/",
+      "meaning": "n. 夜晚",
+      "examples": [
+        { "en": "The nights are short.", "zh": "夜晚很短。" },
+        { "en": "The nights are long in winter.", "zh": "冬天夜晚很长。" }
+      ]
+    },
+    {
+      "word": "rise",
+      "phonetic": "/raɪz/",
+      "meaning": "v. 升起",
+      "examples": [
+        { "en": "The sun rises early.", "zh": "太阳升得早。" },
+        { "en": "The sun rises in the East.", "zh": "太阳从东方升起。" }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic": "/ˈɜːli/",
+      "meaning": "adv. 早",
+      "examples": [
+        { "en": "The sun rises early.", "zh": "太阳升得早。" },
+        { "en": "They arrive home early.", "zh": "他们到得很早。" }
+      ]
+    },
+    {
+      "word": "set",
+      "phonetic": "/set/",
+      "meaning": "v. （太阳等）落下",
+      "examples": [
+        { "en": "The sun sets late.", "zh": "太阳落得晚。" },
+        { "en": "The sun sets in the West.", "zh": "太阳从西方落下。" }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meaning": "adv. 晚，迟",
+      "examples": [
+        { "en": "The sun sets late.", "zh": "太阳落得晚。" },
+        { "en": "He arrives home late.", "zh": "他到得很晚。" }
+      ]
+    },
+    {
+      "word": "interesting",
+      "phonetic": "/ˈɪntrəstɪŋ/",
+      "meaning": "adj. 有趣的",
+      "examples": [
+        { "en": "It's certainly interesting.", "zh": "当然，气候也很有趣。" },
+        { "en": "This book is very interesting.", "zh": "这本书很有趣。" }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "n. 谈话，会话",
+      "examples": [
+        { "en": "It's our favourite subject of conversation.", "zh": "这是我们最喜欢谈论的话题。" },
+        { "en": "We had a long conversation.", "zh": "我们谈了很长时间。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It's mild, but it's not always pleasant.",
+      "zh": "气候温和，但并不总是宜人。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "mild", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it's", "roles": ["主语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "always", "roles": ["状语"] },
+        { "text": "pleasant", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The weather's often cold in the North.",
+      "zh": "北部的天气常常很冷。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "weather's", "roles": ["主语"] },
+        { "text": "often", "roles": ["状语"] },
+        { "text": "cold", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "North", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Which seasons do you like best?",
+      "zh": "你最喜欢哪些季节？",
+      "analysis": [
+        { "text": "Which", "roles": ["定语"] },
+        { "text": "seasons", "roles": ["宾语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "best", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The days are long and the nights are short.",
+      "zh": "白天长，夜晚短。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "days", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "long", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "nights", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "short", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "The sun rises early and sets late.",
+      "zh": "太阳升得早，落得晚。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "sun", "roles": ["主语"] },
+        { "text": "rises", "roles": ["谓语"] },
+        { "text": "early", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "sets", "roles": ["谓语"] },
+        { "text": "late", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where do you come from?", "zh": "你来自哪个国家？" },
+    { "en": "I come from England.", "zh": "我来自英国。" },
+    { "en": "What's the climate like in your country?", "zh": "你们国家的气候怎么样？" },
+    { "en": "It's mild, but it's not always pleasant.", "zh": "气候温和，但并不总是宜人。" },
+    { "en": "The weather's often cold in the North.", "zh": "北部的天气常常很冷。" },
+    { "en": "It's often wet in the West.", "zh": "西部常常下雨。" },
+    { "en": "Which seasons do you like best?", "zh": "你最喜欢哪些季节？" },
+    { "en": "The days are long and the nights are short.", "zh": "白天长，夜晚短。" },
+    { "en": "The sun rises early and sets late.", "zh": "太阳升得早，落得晚。" },
+    { "en": "Our climate is not very good, but it's certainly interesting.", "zh": "我们的气候并不很好，但确实很有趣。" },
+    { "en": "It's our favourite subject of conversation.", "zh": "这是我们最喜欢谈论的话题。" }
+  ]
+}

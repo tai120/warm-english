@@ -1,0 +1,204 @@
+{
+  "id": "L057",
+  "title": "Lesson 57 · An unusual day",
+  "titleZh": "第57课 很不平常的一天",
+  "words": [
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meaning": "adj. 不平常的，不寻常的",
+      "examples": [
+        { "en": "Today is an unusual day for the Sawyers.", "zh": "对索耶一家来说，今天是不平常的一天。" },
+        { "en": "What an unusual day!", "zh": "多么不平常的一天！" }
+      ]
+    },
+    {
+      "word": "o'clock",
+      "phonetic": "/əˈklɒk/",
+      "meaning": "adv. ……点钟",
+      "examples": [
+        { "en": "It is eight o'clock.", "zh": "现在是八点钟。" },
+        { "en": "It is nine o'clock at night.", "zh": "现在是晚上九点。" }
+      ]
+    },
+    {
+      "word": "today",
+      "phonetic": "/təˈdeɪ/",
+      "meaning": "adv. 今天",
+      "examples": [
+        { "en": "But today, they are going to school on foot.", "zh": "但今天，他们正步行去上学。" },
+        { "en": "It is cold today.", "zh": "今天很冷。" }
+      ]
+    },
+    {
+      "word": "foot",
+      "phonetic": "/fʊt/",
+      "meaning": "n. 脚",
+      "examples": [
+        { "en": "They are going to school on foot.", "zh": "他们正步行去上学。" },
+        { "en": "I go to work on foot.", "zh": "我步行上班。" }
+      ]
+    },
+    {
+      "word": "shop",
+      "phonetic": "/ʃɒp/",
+      "meaning": "n. 商店",
+      "examples": [
+        { "en": "She is going to the shops.", "zh": "她正要去商店。" },
+        { "en": "The shops are near my home.", "zh": "商店就在我家附近。" }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meaning": "n. 片刻，瞬间",
+      "examples": [
+        { "en": "At the moment, they are playing in the garden.", "zh": "此刻，他们正在花园里玩。" },
+        { "en": "Just a moment, please.", "zh": "请稍等。" }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meaning": "v. 玩，玩耍",
+      "examples": [
+        { "en": "They are playing in the garden.", "zh": "他们正在花园里玩。" },
+        { "en": "The children like to play.", "zh": "孩子们喜欢玩。" }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "n. 花园",
+      "examples": [
+        { "en": "She is drinking tea in the garden.", "zh": "她正在花园里喝茶。" },
+        { "en": "The garden is beautiful.", "zh": "花园很漂亮。" }
+      ]
+    },
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meaning": "n. 书",
+      "examples": [
+        { "en": "He's reading an interesting book.", "zh": "他正在读一本有趣的书。" },
+        { "en": "This is my book.", "zh": "这是我的书。" }
+      ]
+    },
+    {
+      "word": "tonight",
+      "phonetic": "/təˈnaɪt/",
+      "meaning": "adv. 今晚",
+      "examples": [
+        { "en": "He's not reading his newspaper tonight.", "zh": "今晚他不看报。" },
+        { "en": "See you tonight.", "zh": "今晚见。" }
+      ]
+    },
+    {
+      "word": "car",
+      "phonetic": "/kɑː(r)/",
+      "meaning": "n. 汽车",
+      "examples": [
+        { "en": "The children go to school by car every day.", "zh": "孩子们每天乘汽车上学。" },
+        { "en": "My car is new.", "zh": "我的汽车是新的。" }
+      ]
+    },
+    {
+      "word": "by",
+      "phonetic": "/baɪ/",
+      "meaning": "prep. 乘坐；靠，通过",
+      "examples": [
+        { "en": "The children go to school by car every day.", "zh": "孩子们每天乘汽车上学。" },
+        { "en": "I go to work by bus.", "zh": "我乘公共汽车上班。" }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meaning": "n. 早晨，上午",
+      "examples": [
+        { "en": "This morning, she is going to the shops.", "zh": "今天上午，她正要去商店。" },
+        { "en": "Good morning!", "zh": "早上好！" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It is eight o'clock.",
+      "zh": "现在是八点钟。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "eight", "roles": ["定语"] },
+        { "text": "o'clock", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The children go to school by car every day.",
+      "zh": "孩子们每天乘汽车上学。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "children", "roles": ["主语"] },
+        { "text": "go", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "car", "roles": ["状语"] },
+        { "text": "every", "roles": ["定语"] },
+        { "text": "day", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "But today, they are going to school on foot.",
+      "zh": "但今天，他们正步行去上学。",
+      "analysis": [
+        { "text": "But", "roles": ["连词"] },
+        { "text": "today", "roles": ["状语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "school", "roles": ["状语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "foot", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "At the moment, they are playing in the garden.",
+      "zh": "此刻，他们正在花园里玩。",
+      "analysis": [
+        { "text": "At", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "moment", "roles": ["状语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "playing", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "garden", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He's reading an interesting book.",
+      "zh": "他正在读一本有趣的书。",
+      "analysis": [
+        { "text": "He's", "roles": ["主语"] },
+        { "text": "reading", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "interesting", "roles": ["定语"] },
+        { "text": "book", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "It is eight o'clock.", "zh": "现在是八点钟。" },
+    { "en": "The children go to school by car every day.", "zh": "孩子们每天乘汽车上学。" },
+    { "en": "But today, they are going to school on foot.", "zh": "但今天，他们正步行去上学。" },
+    { "en": "It is ten o'clock.", "zh": "现在是十点钟。" },
+    { "en": "Mrs. Sawyer usually stays at home in the morning.", "zh": "索耶夫人上午通常待在家里。" },
+    { "en": "But this morning, she is going to the shops.", "zh": "但今天上午，她正要去商店。" },
+    { "en": "At the moment, they are playing in the garden.", "zh": "此刻，他们正在花园里玩。" },
+    { "en": "It is nine o'clock.", "zh": "现在是九点钟。" },
+    { "en": "He's not reading his newspaper tonight.", "zh": "今晚他不看报。" },
+    { "en": "He's reading an interesting book.", "zh": "他正在读一本有趣的书。" }
+  ]
+}

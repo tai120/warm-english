@@ -1,0 +1,262 @@
+{
+  "id": "L070",
+  "title": "Lesson 70 · Red for danger",
+  "titleZh": "第70课 危险的红色",
+  "words": [
+    {
+      "word": "bullfight",
+      "phonetic": "/ˈbʊlfaɪt/",
+      "meaning": "n. 斗牛",
+      "examples": [
+        { "en": "During a bullfight, a drunk walked into the ring.", "zh": "在一次斗牛比赛中，一个醉汉走进了场地。" }
+      ]
+    },
+    {
+      "word": "drunk",
+      "phonetic": "/drʌŋk/",
+      "meaning": "n. 醉汉",
+      "examples": [
+        { "en": "The drunk was unaware of the danger.", "zh": "那个醉汉没有意识到危险。" }
+      ]
+    },
+    {
+      "word": "wander",
+      "phonetic": "/ˈwɒndə(r)/",
+      "meaning": "v. 游荡，闲逛",
+      "examples": [
+        { "en": "He wandered into the middle of the ring.", "zh": "他游荡到了场地中央。" }
+      ]
+    },
+    {
+      "word": "ring",
+      "phonetic": "/rɪŋ/",
+      "meaning": "n. 圆形场地",
+      "examples": [
+        { "en": "The bull was in the middle of the ring.", "zh": "公牛在场地中央。" }
+      ]
+    },
+    {
+      "word": "unaware",
+      "phonetic": "/ˌʌnəˈweə(r)/",
+      "meaning": "adj. 不知道的，未察觉的",
+      "examples": [
+        { "en": "He was unaware of the danger.", "zh": "他没有意识到危险。" }
+      ]
+    },
+    {
+      "word": "bull",
+      "phonetic": "/bʊl/",
+      "meaning": "n. 公牛",
+      "examples": [
+        { "en": "The bull charged at the drunk.", "zh": "公牛向醉汉冲去。" }
+      ]
+    },
+    {
+      "word": "matador",
+      "phonetic": "/ˈmætədɔː(r)/",
+      "meaning": "n. 斗牛士",
+      "examples": [
+        { "en": "The bull was busy with the matador.", "zh": "公牛正忙着对付斗牛士。" }
+      ]
+    },
+    {
+      "word": "remark",
+      "phonetic": "/rɪˈmɑːk/",
+      "meaning": "n. 话语，评论",
+      "examples": [
+        { "en": "The drunk was shouting rude remarks.", "zh": "醉汉在大声说粗话。" }
+      ]
+    },
+    {
+      "word": "rude",
+      "phonetic": "/ruːd/",
+      "meaning": "adj. 无礼的，粗鲁的",
+      "examples": [
+        { "en": "He made a rude remark.", "zh": "他说了一句粗话。" }
+      ]
+    },
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meaning": "v. 挥动",
+      "examples": [
+        { "en": "He was waving a red cap.", "zh": "他挥动着一顶红帽子。" }
+      ]
+    },
+    {
+      "word": "cap",
+      "phonetic": "/kæp/",
+      "meaning": "n. 帽子",
+      "examples": [
+        { "en": "The drunk held a red cap.", "zh": "醉汉拿着一顶红帽子。" }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "meaning": "v. 冲，冲锋",
+      "examples": [
+        { "en": "The bull charged at him.", "zh": "公牛朝他冲了过去。" }
+      ]
+    },
+    {
+      "word": "clumsy",
+      "phonetic": "/ˈklʌmzi/",
+      "meaning": "adj. 笨拙的",
+      "examples": [
+        { "en": "He stepped aside clumsily.", "zh": "他笨拙地闪到一边。" }
+      ]
+    },
+    {
+      "word": "drag",
+      "phonetic": "/dræɡ/",
+      "meaning": "v. 拖，拉",
+      "examples": [
+        { "en": "Three men dragged him to safety.", "zh": "三个人把他拖到了安全的地方。" }
+      ]
+    },
+    {
+      "word": "safety",
+      "phonetic": "/ˈseɪfti/",
+      "meaning": "n. 安全",
+      "examples": [
+        { "en": "They carried him to safety.", "zh": "他们把他带到了安全处。" }
+      ]
+    },
+    {
+      "word": "cheer",
+      "phonetic": "/tʃɪə(r)/",
+      "meaning": "n. 欢呼",
+      "examples": [
+        { "en": "The crowd broke into cheers.", "zh": "观众爆发出欢呼声。" }
+      ]
+    },
+    {
+      "word": "aside",
+      "phonetic": "/əˈsaɪd/",
+      "meaning": "adv. 向旁边",
+      "examples": [
+        { "en": "He stepped aside to let the bull pass.", "zh": "他闪到一边让公牛过去。" }
+      ]
+    },
+    {
+      "word": "bow",
+      "phonetic": "/baʊ/",
+      "meaning": "v. 鞠躬",
+      "examples": [
+        { "en": "The drunk bowed to the crowd.", "zh": "醉汉向观众鞠躬。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "zh": "在一次斗牛比赛中，一个醉汉突然晃晃悠悠地走进了场地中央。",
+      "analysis": [
+        { "text": "During", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bullfight", "roles": ["宾语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "drunk", "roles": ["主语"] },
+        { "text": "suddenly", "roles": ["状语"] },
+        { "text": "wandered", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "middle", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ring", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk.",
+      "zh": "当时公牛正忙着对付斗牛士，但它突然看见了那个醉汉。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bull", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "busy", "roles": ["表语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "matador", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "time", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "suddenly", "roles": ["状语"] },
+        { "text": "caught", "roles": ["谓语"] },
+        { "text": "sight", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "drunk", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The bull forgot all about the matador and charged at the drunk.",
+      "zh": "公牛把斗牛士忘得一干二净，朝醉汉冲了过去。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "bull", "roles": ["主语"] },
+        { "text": "forgot", "roles": ["谓语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "matador", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "charged", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "drunk", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The crowd grew quiet, but the drunk seemed quite sure of himself.",
+      "zh": "观众安静下来，但醉汉似乎很有把握。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "crowd", "roles": ["主语"] },
+        { "text": "grew", "roles": ["谓语"] },
+        { "text": "quiet", "roles": ["表语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "drunk", "roles": ["主语"] },
+        { "text": "seemed", "roles": ["谓语"] },
+        { "text": "quite", "roles": ["状语"] },
+        { "text": "sure", "roles": ["表语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "himself", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Three men quickly dragged the drunk to safety, and the crowd broke into cheers.",
+      "zh": "三个人迅速把醉汉拖到安全的地方，观众爆发出一阵欢呼。",
+      "analysis": [
+        { "text": "Three", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "quickly", "roles": ["状语"] },
+        { "text": "dragged", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "drunk", "roles": ["宾语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "safety", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "crowd", "roles": ["主语"] },
+        { "text": "broke", "roles": ["谓语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "cheers", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "During a bullfight, a drunk suddenly wandered into the middle of the ring.", "zh": "在一次斗牛比赛中，一个醉汉突然晃晃悠悠地走进了场地中央。" },
+    { "en": "The crowd began to shout, but the drunk was unaware of the danger.", "zh": "观众开始大喊起来，但那个醉汉没有意识到危险。" },
+    { "en": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk.", "zh": "当时公牛正忙着对付斗牛士，但它突然看见了那个醉汉。" },
+    { "en": "The drunk was shouting rude remarks and waving a red cap.", "zh": "醉汉正在大声说着粗话，还挥动着一顶红帽子。" },
+    { "en": "The bull forgot all about the matador and charged at the drunk.", "zh": "公牛把斗牛士忘得一干二净，朝醉汉冲了过去。" },
+    { "en": "The crowd grew quiet, but the drunk seemed quite sure of himself.", "zh": "观众安静下来，但醉汉似乎很有把握。" },
+    { "en": "When the bull got close to him, he clumsily stepped aside to let it pass.", "zh": "当公牛逼近他时，他笨拙地闪到一边，让公牛冲了过去。" },
+    { "en": "Three men quickly dragged the drunk to safety, and the crowd broke into cheers.", "zh": "三个人迅速把醉汉拖到安全的地方，观众爆发出一阵欢呼。" }
+  ]
+}

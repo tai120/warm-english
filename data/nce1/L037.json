@@ -1,0 +1,175 @@
+{
+  "id": "L037",
+  "title": "Lesson 37 · Making a bookcase",
+  "titleZh": "第37课 做书架",
+  "words": [
+    {
+      "word": "work",
+      "phonetic": "/wɜːk/",
+      "meaning": "v. 工作",
+      "examples": [
+        { "en": "You're working hard, George.", "zh": "你干得很努力，乔治。" }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "/hɑːd/",
+      "meaning": "adv. 努力地",
+      "examples": [
+        { "en": "You're working hard.", "zh": "你干得很努力。" }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "meaning": "v. 制作",
+      "examples": [
+        { "en": "I'm making a bookcase.", "zh": "我在做一个书架。" }
+      ]
+    },
+    {
+      "word": "bookcase",
+      "phonetic": "/ˈbʊkkeɪs/",
+      "meaning": "n. 书架，书橱",
+      "examples": [
+        { "en": "I'm making a bookcase.", "zh": "我在做一个书架。" }
+      ]
+    },
+    {
+      "word": "hammer",
+      "phonetic": "/ˈhæmə(r)/",
+      "meaning": "n. 锤子",
+      "examples": [
+        { "en": "Give me that hammer please, Dan.", "zh": "请把那个锤子递给我，丹。" }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meaning": "v. 上漆，涂",
+      "examples": [
+        { "en": "I'm going to paint it.", "zh": "我打算给它上漆。" }
+      ]
+    },
+    {
+      "word": "pink",
+      "phonetic": "/pɪŋk/",
+      "meaning": "adj. 粉红色的",
+      "examples": [
+        { "en": "I'm going to paint it pink.", "zh": "我打算把它漆成粉红色。" }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meaning": "adj. 最喜欢的",
+      "examples": [
+        { "en": "Pink's her favourite colour.", "zh": "粉红色是她最喜欢的颜色。" }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meaning": "n. 女儿",
+      "examples": [
+        { "en": "It's for my daughter, Susan.", "zh": "这是给我女儿苏珊的。" }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə(r)/",
+      "meaning": "n. 颜色",
+      "examples": [
+        { "en": "What colour are you going to paint it?", "zh": "你打算把它漆成什么颜色？" }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic": "/ɡɪv/",
+      "meaning": "v. 给",
+      "examples": [
+        { "en": "Give me that hammer, please.", "zh": "请把那个锤子给我。" }
+      ]
+    },
+    {
+      "word": "big",
+      "phonetic": "/bɪɡ/",
+      "meaning": "adj. 大的",
+      "examples": [
+        { "en": "The big one.", "zh": "大的那个。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I'm making a bookcase.",
+      "zh": "我在做一个书架。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语", "谓语"] },
+        { "text": "making", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "bookcase", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Here you are.",
+      "zh": "给你。",
+      "analysis": [
+        { "text": "Here", "roles": ["状语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "I'm going to paint it.",
+      "zh": "我打算给它上漆。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语", "谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "paint", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "What colour are you going to paint it?",
+      "zh": "你打算把它漆成什么颜色？",
+      "analysis": [
+        { "text": "What", "roles": ["定语"] },
+        { "text": "colour", "roles": ["宾语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "paint", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I'm going to paint it pink.",
+      "zh": "我打算把它漆成粉红色。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语", "谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "paint", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] },
+        { "text": "pink", "roles": ["补语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "You're working hard, George. What are you doing?", "zh": "你干得很努力，乔治。你在做什么？" },
+    { "en": "I'm making a bookcase.", "zh": "我在做一个书架。" },
+    { "en": "Give me that hammer please, Dan.", "zh": "请把那个锤子递给我，丹。" },
+    { "en": "Which hammer? This one?", "zh": "哪个锤子？这个吗？" },
+    { "en": "No, not that one. The big one.", "zh": "不，不是那个。是大的那个。" },
+    { "en": "Here you are.", "zh": "给你。" },
+    { "en": "Thanks, Dan.", "zh": "谢谢，丹。" },
+    { "en": "What are you going to do now, George?", "zh": "你现在打算做什么，乔治？" },
+    { "en": "I'm going to paint it.", "zh": "我打算给它上漆。" },
+    { "en": "What colour are you going to paint it?", "zh": "你打算把它漆成什么颜色？" },
+    { "en": "I'm going to paint it pink.", "zh": "我打算把它漆成粉红色。" },
+    { "en": "Pink! This bookcase isn't for me. It's for my daughter, Susan. Pink's her favourite colour.", "zh": "粉红色！这书架不是给我做的。是给我女儿苏珊做的。粉红色是她最喜欢的颜色。" }
+  ]
+}

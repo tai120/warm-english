@@ -1,0 +1,258 @@
+{
+  "id": "L088",
+  "title": "Lesson 88 · Trapped in a mine",
+  "titleZh": "第88课 困在矿井里",
+  "words": [
+    {
+      "word": "trap",
+      "phonetic": "/træp/",
+      "meaning": "v. 使陷入困境",
+      "examples": [
+        { "en": "Six men have been trapped in a mine.", "zh": "六个人被困在矿井里。" }
+      ]
+    },
+    {
+      "word": "mine",
+      "phonetic": "/maɪn/",
+      "meaning": "n. 矿井",
+      "examples": [
+        { "en": "The men are trapped in the mine.", "zh": "那些人被困在矿井里。" }
+      ]
+    },
+    {
+      "word": "surface",
+      "phonetic": "/ˈsɜːfɪs/",
+      "meaning": "n. 地面，表面",
+      "examples": [
+        { "en": "They must be brought to the surface soon.", "zh": "必须尽快把他们带到地面上来。" }
+      ]
+    },
+    {
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "meaning": "n. 营救",
+      "examples": [
+        { "en": "Rescue operations are proving difficult.", "zh": "营救工作进展困难。" }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meaning": "n. 行动，手术",
+      "examples": [
+        { "en": "The rescue operation is still going on.", "zh": "营救行动仍在进行。" }
+      ]
+    },
+    {
+      "word": "prove",
+      "phonetic": "/pruːv/",
+      "meaning": "v. 证明是",
+      "examples": [
+        { "en": "The rescue is proving difficult.", "zh": "事实证明营救工作很困难。" }
+      ]
+    },
+    {
+      "word": "explosive",
+      "phonetic": "/ɪkˈspləʊsɪv/",
+      "meaning": "n. 炸药",
+      "examples": [
+        { "en": "Explosives cannot be used in the mine.", "zh": "矿井里不能用炸药。" }
+      ]
+    },
+    {
+      "word": "vibration",
+      "phonetic": "/vaɪˈbreɪʃn/",
+      "meaning": "n. 震动",
+      "examples": [
+        { "en": "Vibrations will cause the roof to collapse.", "zh": "震动会使矿井顶部坍塌。" }
+      ]
+    },
+    {
+      "word": "collapse",
+      "phonetic": "/kəˈlæps/",
+      "meaning": "v. 坍塌",
+      "examples": [
+        { "en": "The roof of the mine may collapse.", "zh": "矿井的顶部可能会坍塌。" }
+      ]
+    },
+    {
+      "word": "drill",
+      "phonetic": "/drɪl/",
+      "meaning": "v. 钻孔",
+      "examples": [
+        { "en": "The workers are drilling a hole.", "zh": "工人们正在钻一个孔。" }
+      ]
+    },
+    {
+      "word": "capsule",
+      "phonetic": "/ˈkæpsjuːl/",
+      "meaning": "n. 容器，舱",
+      "examples": [
+        { "en": "They will bring the men up in a special capsule.", "zh": "他们将用特制容器把人救上来。" }
+      ]
+    },
+    {
+      "word": "layer",
+      "phonetic": "/ˈleɪə(r)/",
+      "meaning": "n. 层",
+      "examples": [
+        { "en": "There is a hard layer of rock beneath the soil.", "zh": "土壤下面有一层坚硬的岩石。" }
+      ]
+    },
+    {
+      "word": "beneath",
+      "phonetic": "/bɪˈniːθ/",
+      "meaning": "prep. 在……下方",
+      "examples": [
+        { "en": "The rock lies beneath the soil.", "zh": "岩石位于土壤下方。" }
+      ]
+    },
+    {
+      "word": "microphone",
+      "phonetic": "/ˈmaɪkrəfəʊn/",
+      "meaning": "n. 麦克风",
+      "examples": [
+        { "en": "A microphone was lowered into the mine.", "zh": "一只麦克风被送到了矿井下。" }
+      ]
+    },
+    {
+      "word": "relative",
+      "phonetic": "/ˈrelətɪv/",
+      "meaning": "n. 亲属",
+      "examples": [
+        { "en": "The men keep in touch with their relatives.", "zh": "被困的人与亲属保持着联系。" }
+      ]
+    },
+    {
+      "word": "cheerful",
+      "phonetic": "/ˈtʃɪəfl/",
+      "meaning": "adj. 高兴的",
+      "examples": [
+        { "en": "The trapped men are still cheerful.", "zh": "被困的人仍然很乐观。" }
+      ]
+    },
+    {
+      "word": "confident",
+      "phonetic": "/ˈkɒnfɪdənt/",
+      "meaning": "adj. 有信心的",
+      "examples": [
+        { "en": "They are confident that they will get out soon.", "zh": "他们相信自己很快就能出来。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Six men have been trapped in a mine for seventeen hours.",
+      "zh": "六个人被困在矿井里已有十七个小时了。",
+      "analysis": [
+        { "text": "Six", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "trapped", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "mine", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "seventeen", "roles": ["定语"] },
+        { "text": "hours", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "If they are not brought to the surface soon, they may lose their lives.",
+      "zh": "如果不尽快把他们带到地面上来，他们可能会丧命。",
+      "analysis": [
+        { "text": "If", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "brought", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "surface", "roles": ["状语"] },
+        { "text": "soon", "roles": ["状语"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "may", "roles": ["谓语"] },
+        { "text": "lose", "roles": ["谓语"] },
+        { "text": "their", "roles": ["定语"] },
+        { "text": "lives", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "zh": "因此，营救人员正在矿井北侧钻一个孔。",
+      "analysis": [
+        { "text": "Rescue", "roles": ["定语"] },
+        { "text": "workers", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "therefore", "roles": ["状语"] },
+        { "text": "drilling", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hole", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "north", "roles": ["定语"] },
+        { "text": "side", "roles": ["状语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "mine", "roles": ["定语"] }
+      ]
+    },
+    {
+      "en": "They intend to bring the men up in a special capsule.",
+      "zh": "他们打算用特制的容器把这些人救上来。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "intend", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "bring", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "men", "roles": ["宾语"] },
+        { "text": "up", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "special", "roles": ["定语"] },
+        { "text": "capsule", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "zh": "虽然食物和饮水快要用完，但被困的人们情绪高涨，他们相信自己很快就会出来。",
+      "analysis": [
+        { "text": "Though", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "running", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "food", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "drink", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "men", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "cheerful", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "confident", "roles": ["表语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "they", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "get", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "soon", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Six men have been trapped in a mine for seventeen hours.", "zh": "六个人被困在矿井里已有十七个小时了。" },
+    { "en": "If they are not brought to the surface soon, they may lose their lives.", "zh": "如果不尽快把他们带到地面上来，他们可能会丧命。" },
+    { "en": "However, rescue operations are proving difficult.", "zh": "然而事实证明，营救工作非常困难。" },
+    { "en": "If explosives are used, vibrations will cause the roof of the mine to collapse.", "zh": "如果使用炸药，震动会使矿井顶部坍塌。" },
+    { "en": "Rescue workers are therefore drilling a hole on the north side of the mine.", "zh": "因此，营救人员正在矿井北侧钻一个孔。" },
+    { "en": "They intend to bring the men up in a special capsule.", "zh": "他们打算用特制的容器把这些人救上来。" },
+    { "en": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.", "zh": "如果不是土壤下面有一层坚硬的岩石，他们几小时就能完成这项工作。" },
+    { "en": "As it is, they have been drilling for sixteen hours and they still have a long way to go.", "zh": "实际上，他们已经钻了十六个小时，而且还有很长的路要走。" },
+    { "en": "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.", "zh": "与此同时，两小时前被送到井下的麦克风使被困者能与最亲近的亲属保持联系。" },
+    { "en": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.", "zh": "虽然食物和饮水快要用完，但被困的人们情绪高涨，他们相信自己很快就会出来。" }
+  ]
+}

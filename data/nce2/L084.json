@@ -1,0 +1,250 @@
+{
+  "id": "L084",
+  "title": "Lesson 84 · On strike",
+  "titleZh": "第84课 罢工",
+  "words": [
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meaning": "n. 罢工",
+      "examples": [
+        { "en": "The busmen are going on strike next week.", "zh": "公共汽车司机们下星期要罢工。" }
+      ]
+    },
+    {
+      "word": "busman",
+      "phonetic": "/ˈbʌsmən/",
+      "meaning": "n. 公共汽车司机",
+      "examples": [
+        { "en": "The busmen have decided to go on strike.", "zh": "公共汽车司机们决定罢工。" }
+      ]
+    },
+    {
+      "word": "due",
+      "phonetic": "/djuː/",
+      "meaning": "adj. 预定的，到期的",
+      "examples": [
+        { "en": "The strike is due to begin on Tuesday.", "zh": "罢工定于星期二开始。" },
+        { "en": "The train is due to arrive at ten.", "zh": "火车定于十点到达。" }
+      ]
+    },
+    {
+      "word": "state",
+      "phonetic": "/steɪt/",
+      "meaning": "v. 声明，陈述",
+      "examples": [
+        { "en": "They have stated that the strike will continue.", "zh": "他们声明罢工会继续下去。" }
+      ]
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meaning": "v. 继续",
+      "examples": [
+        { "en": "The strike will continue for at least a week.", "zh": "罢工至少会持续一个星期。" }
+      ]
+    },
+    {
+      "word": "general",
+      "phonetic": "/ˈdʒenrəl/",
+      "meaning": "adj. 普遍的，总的",
+      "examples": [
+        { "en": "A general agreement has not been reached.", "zh": "尚未达成全面协议。" }
+      ]
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaning": "n. 协议，一致",
+      "examples": [
+        { "en": "They reached an agreement about pay.", "zh": "他们就工资问题达成了协议。" }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "/peɪ/",
+      "meaning": "n. 工资",
+      "examples": [
+        { "en": "They want higher pay.", "zh": "他们想要更高的工资。" }
+      ]
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "meaning": "n. 条件；环境",
+      "examples": [
+        { "en": "Working conditions must be improved.", "zh": "工作条件必须改善。" }
+      ]
+    },
+    {
+      "word": "private",
+      "phonetic": "/ˈpraɪvət/",
+      "meaning": "adj. 私人的",
+      "examples": [
+        { "en": "Many owners of private cars offer free rides.", "zh": "许多私家车主提供免费搭乘。" }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə(r)/",
+      "meaning": "v. 提供",
+      "examples": [
+        { "en": "He offered me a free ride to work.", "zh": "他让我免费搭车上班。" }
+      ]
+    },
+    {
+      "word": "relieve",
+      "phonetic": "/rɪˈliːv/",
+      "meaning": "v. 减轻",
+      "examples": [
+        { "en": "This will relieve pressure on the trains.", "zh": "这将减轻火车的压力。" }
+      ]
+    },
+    {
+      "word": "pressure",
+      "phonetic": "/ˈpreʃə(r)/",
+      "meaning": "n. 压力",
+      "examples": [
+        { "en": "The trains are under great pressure.", "zh": "火车压力很大。" }
+      ]
+    },
+    {
+      "word": "extent",
+      "phonetic": "/ɪkˈstent/",
+      "meaning": "n. 程度",
+      "examples": [
+        { "en": "This helps to some extent.", "zh": "这在某种程度上有所帮助。" }
+      ]
+    },
+    {
+      "word": "volunteer",
+      "phonetic": "/ˌvɒlənˈtɪə(r)/",
+      "meaning": "v. 自愿",
+      "examples": [
+        { "en": "The students volunteered to drive buses.", "zh": "学生们自愿来开公共汽车。" }
+      ]
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈekspɜːt/",
+      "meaning": "adj. 熟练的，内行的",
+      "examples": [
+        { "en": "All the students are expert drivers.", "zh": "所有学生都是驾驶能手。" }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meaning": "v. 通过",
+      "examples": [
+        { "en": "They will have to pass a special test.", "zh": "他们必须通过一次专门考试。" }
+      ]
+    },
+    {
+      "word": "test",
+      "phonetic": "/test/",
+      "meaning": "n. 考试，测验",
+      "examples": [
+        { "en": "The students are going to take the test very soon.", "zh": "学生们很快就要参加考试。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Busmen have decided to go on strike next week.",
+      "zh": "公共汽车司机们决定下星期举行罢工。",
+      "analysis": [
+        { "text": "Busmen", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "decided", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "go", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "strike", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The strike is due to begin on Tuesday.",
+      "zh": "罢工定于星期二开始。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "strike", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "due", "roles": ["表语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "begin", "roles": ["补语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "Tuesday", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "No one knows how long it will last.",
+      "zh": "没有人知道罢工将持续多久。",
+      "analysis": [
+        { "text": "No", "roles": ["定语"] },
+        { "text": "one", "roles": ["主语"] },
+        { "text": "knows", "roles": ["谓语"] },
+        { "text": "how", "roles": ["连词"] },
+        { "text": "long", "roles": ["状语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "last", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.",
+      "zh": "司机们声明，在工资和工作条件方面达成全面协议之前，罢工将继续进行。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "busmen", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "stated", "roles": ["谓语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "strike", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "continue", "roles": ["谓语"] },
+        { "text": "until", "roles": ["连词"] },
+        { "text": "general", "roles": ["定语"] },
+        { "text": "agreement", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "reached", "roles": ["谓语"] },
+        { "text": "about", "roles": ["状语"] },
+        { "text": "pay", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "working", "roles": ["定语"] },
+        { "text": "conditions", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "The students are going to take the test very soon.",
+      "zh": "学生们很快就要参加考试。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "students", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "take", "roles": ["谓语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "test", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "soon", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Busmen have decided to go on strike next week.", "zh": "公共汽车司机们决定下星期举行罢工。" },
+    { "en": "The strike is due to begin on Tuesday.", "zh": "罢工定于星期二开始。" },
+    { "en": "No one knows how long it will last.", "zh": "没有人知道罢工将持续多久。" },
+    { "en": "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.", "zh": "司机们声明，在工资和工作条件方面达成全面协议之前，罢工将继续进行。" },
+    { "en": "Most people believe that the strike will last for at least a week.", "zh": "大多数人认为罢工至少会持续一个星期。" },
+    { "en": "Many owners of private cars are going to offer free rides to people on their way to work.", "zh": "许多私家车主将向上班的人们提供免费乘车。" },
+    { "en": "This will relieve pressure on the trains to some extent.", "zh": "这将在一定程度上减轻火车的压力。" },
+    { "en": "Meanwhile, a number of university students have volunteered to drive buses while the strike lasts.", "zh": "与此同时，一些大学生自愿在罢工期间驾驶公共汽车。" },
+    { "en": "All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test.", "zh": "所有学生都是驾驶能手，但在驾驶任何公共汽车之前，他们必须通过一次专门考试。" },
+    { "en": "The students are going to take the test very soon.", "zh": "学生们很快就要参加考试。" }
+  ]
+}

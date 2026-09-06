@@ -1,0 +1,202 @@
+{
+  "id": "L083",
+  "title": "Lesson 83 · Going on holiday",
+  "titleZh": "第83课 度假",
+  "words": [
+    {
+      "word": "mess",
+      "phonetic": "/mes/",
+      "meaning": "n. 杂乱，凌乱",
+      "examples": [
+        { "en": "Excuse the mess, Sam.", "zh": "萨姆，屋子很乱，请别见怪。" },
+        { "en": "The room is in a mess.", "zh": "房间乱糟糟的。" }
+      ]
+    },
+    {
+      "word": "pack",
+      "phonetic": "/pæk/",
+      "meaning": "v. 打包，装箱",
+      "examples": [
+        { "en": "We're packing our suitcases.", "zh": "我们正在收拾手提箱。" },
+        { "en": "I am packing my clothes.", "zh": "我在把衣服装箱。" }
+      ]
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meaning": "n. 手提箱，旅行箱",
+      "examples": [
+        { "en": "We're packing our suitcases.", "zh": "我们正在收拾手提箱。" },
+        { "en": "This suitcase is very heavy.", "zh": "这个手提箱很重。" }
+      ]
+    },
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meaning": "v. 离开，出发",
+      "examples": [
+        { "en": "We're going to leave tomorrow.", "zh": "我们明天就要走了。" },
+        { "en": "The train leaves at eight o'clock.", "zh": "火车8点出发。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "I've already had lunch.", "zh": "我已经吃过午饭了。" },
+        { "en": "I've already had my holiday this year.", "zh": "今年我已经度过假了。" }
+      ]
+    },
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "meaning": "n. 假日，假期",
+      "examples": [
+        { "en": "Tom and I are going to have a holiday.", "zh": "汤姆和我准备去度假。" },
+        { "en": "When are you going to have a holiday, Sam?", "zh": "萨姆，你什么时候去度假？" }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meaning": "adj. 幸运的",
+      "examples": [
+        { "en": "Aren't you lucky!", "zh": "你们真幸运！" },
+        { "en": "You are a lucky man.", "zh": "你是个幸运的人。" }
+      ]
+    },
+    {
+      "word": "untidy",
+      "phonetic": "/ʌnˈtaɪdi/",
+      "meaning": "adj. 不整洁的，乱的",
+      "examples": [
+        { "en": "This room's very untidy.", "zh": "这个房间很不整洁。" },
+        { "en": "His desk is always untidy.", "zh": "他的书桌总是乱糟糟的。" }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meaning": "v. 停留，呆",
+      "examples": [
+        { "en": "I stayed at home!", "zh": "我呆在家里了！" },
+        { "en": "We stayed in a hotel.", "zh": "我们住在一家旅馆里。" }
+      ]
+    },
+    {
+      "word": "home",
+      "phonetic": "/həʊm/",
+      "meaning": "n. 家",
+      "examples": [
+        { "en": "I stayed at home!", "zh": "我呆在家里了！" },
+        { "en": "I go home at five o'clock.", "zh": "我5点钟回家。" }
+      ]
+    },
+    {
+      "word": "half",
+      "phonetic": "/hɑːf/",
+      "meaning": "n. 半，一半",
+      "examples": [
+        { "en": "I had lunch at half past twelve.", "zh": "我在12点半吃的午饭。" },
+        { "en": "It's half past seven now.", "zh": "现在7点半了。" }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meaning": "n. 杯子",
+      "examples": [
+        { "en": "Have a cup of coffee then.", "zh": "那就喝杯咖啡吧。" },
+        { "en": "I've just had a cup, thank you.", "zh": "谢谢，我刚喝了一杯。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you want to have lunch with us?",
+      "zh": "你想和我们一起吃午饭吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "to", "roles": ["宾语"] },
+        { "text": "have", "roles": ["宾语"] },
+        { "text": "lunch", "roles": ["宾语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "us", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I've already had lunch.",
+      "zh": "我已经吃过午饭了。",
+      "analysis": [
+        { "text": "I've", "roles": ["主语"] },
+        { "text": "already", "roles": ["状语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "lunch", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Have a cup of coffee then.",
+      "zh": "那就喝杯咖啡吧。",
+      "analysis": [
+        { "text": "Have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "cup", "roles": ["宾语"] },
+        { "text": "of", "roles": ["定语"] },
+        { "text": "coffee", "roles": ["定语"] },
+        { "text": "then", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We're packing our suitcases.",
+      "zh": "我们正在收拾手提箱。",
+      "analysis": [
+        { "text": "We're", "roles": ["主语"] },
+        { "text": "packing", "roles": ["谓语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "suitcases", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Tom and I are going to have a holiday.",
+      "zh": "汤姆和我准备去度假。",
+      "analysis": [
+        { "text": "Tom", "roles": ["主语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "going", "roles": ["谓语"] },
+        { "text": "to", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "holiday", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I stayed at home!",
+      "zh": "我呆在家里了！",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "stayed", "roles": ["谓语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "home", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Hi, Sam. We're having lunch.", "zh": "嗨，萨姆，我们正在吃午饭。" },
+    { "en": "Do you want to have lunch with us?", "zh": "你想和我们一起吃午饭吗？" },
+    { "en": "I've already had lunch.", "zh": "我已经吃过午饭了。" },
+    { "en": "Have a cup of coffee then.", "zh": "那就喝杯咖啡吧。" },
+    { "en": "I've just had a cup, thank you.", "zh": "谢谢，我刚喝了一杯。" },
+    { "en": "Excuse the mess, Sam.", "zh": "萨姆，屋子很乱，请别见怪。" },
+    { "en": "We're packing our suitcases.", "zh": "我们正在收拾手提箱。" },
+    { "en": "Tom and I are going to have a holiday.", "zh": "汤姆和我准备去度假。" },
+    { "en": "Aren't you lucky!", "zh": "你们真幸运！" },
+    { "en": "When are you going to have a holiday, Sam?", "zh": "萨姆，你什么时候去度假？" },
+    { "en": "I don't know. I've already had my holiday this year.", "zh": "我不知道。今年我已经度过假了。" },
+    { "en": "I stayed at home!", "zh": "我呆在家里了！" }
+  ]
+}

@@ -982,7 +982,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.1.6 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.2.0 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);

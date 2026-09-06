@@ -1,0 +1,226 @@
+{
+  "id": "L073",
+  "title": "Lesson 73 · The way to King Street",
+  "titleZh": "第73课 到国王街的走法",
+  "words": [
+    {
+      "word": "week",
+      "phonetic": "/wiːk/",
+      "meaning": "n. 周，星期",
+      "examples": [
+        { "en": "Last week Mrs. Mills went to London.", "zh": "上星期米尔斯夫人去了伦敦。" },
+        { "en": "We need a lot of things this week.", "zh": "这星期我们需要很多东西。" }
+      ]
+    },
+    {
+      "word": "London",
+      "phonetic": "/ˈlʌndən/",
+      "meaning": "n. 伦敦",
+      "examples": [
+        { "en": "Last week Mrs. Mills went to London.", "zh": "上星期米尔斯夫人去了伦敦。" },
+        { "en": "London is the capital of Britain.", "zh": "伦敦是英国的首都。" }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meaning": "adv. 突然地",
+      "examples": [
+        { "en": "Suddenly, she saw a man near a bus stop.", "zh": "突然，她在公共汽车站附近看见一个男人。" },
+        { "en": "Suddenly, it began to rain.", "zh": "突然下起雨来。" }
+      ]
+    },
+    {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "meaning": "n. 路，路线",
+      "examples": [
+        { "en": "She lost her way.", "zh": "她迷路了。" },
+        { "en": "Can you tell me the way to King Street, please?", "zh": "您能告诉我去国王街怎么走吗？" }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "v. 微笑",
+      "examples": [
+        { "en": "The man smiled pleasantly.", "zh": "那人愉快地笑了笑。" },
+        { "en": "She smiled at me.", "zh": "她朝我微笑。" }
+      ]
+    },
+    {
+      "word": "pleasantly",
+      "phonetic": "/ˈplezntli/",
+      "meaning": "adv. 愉快地",
+      "examples": [
+        { "en": "The man smiled pleasantly.", "zh": "那人愉快地笑了笑。" }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meaning": "v. 懂，理解",
+      "examples": [
+        { "en": "He did not understand English!", "zh": "他不懂英语！" },
+        { "en": "I understand what you mean.", "zh": "我明白你的意思。" }
+      ]
+    },
+    {
+      "word": "speak",
+      "phonetic": "/spiːk/",
+      "meaning": "v. 讲，说（语言）",
+      "examples": [
+        { "en": "He spoke German.", "zh": "他讲德语。" },
+        { "en": "I do not speak English.", "zh": "我不会讲英语。" }
+      ]
+    },
+    {
+      "word": "tourist",
+      "phonetic": "/ˈtʊərɪst/",
+      "meaning": "n. 旅行者，观光客",
+      "examples": [
+        { "en": "He was a tourist.", "zh": "他是来旅游的。" },
+        { "en": "There are many tourists in London.", "zh": "伦敦有很多游客。" }
+      ]
+    },
+    {
+      "word": "pocket",
+      "phonetic": "/ˈpɒkɪt/",
+      "meaning": "n. 口袋",
+      "examples": [
+        { "en": "He put his hand into his pocket.", "zh": "他把手伸进衣袋。" },
+        { "en": "The key is in my pocket.", "zh": "钥匙在我的口袋里。" }
+      ]
+    },
+    {
+      "word": "phrasebook",
+      "phonetic": "/ˈfreɪzbʊk/",
+      "meaning": "n. 短语手册",
+      "examples": [
+        { "en": "He took out a phrasebook.", "zh": "他掏出一本短语手册。" }
+      ]
+    },
+    {
+      "word": "phrase",
+      "phonetic": "/freɪz/",
+      "meaning": "n. 短语",
+      "examples": [
+        { "en": "He found a phrase in the book.", "zh": "他在书里找到一条短语。" },
+        { "en": "He read the phrase slowly.", "zh": "他缓慢地念着短语。" }
+      ]
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləʊli/",
+      "meaning": "adv. 缓慢地",
+      "examples": [
+        { "en": "He read the phrase slowly.", "zh": "他缓慢地念着短语。" },
+        { "en": "Please speak slowly.", "zh": "请讲慢一点。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Last week Mrs. Mills went to London.",
+      "zh": "上星期米尔斯夫人去了伦敦。",
+      "analysis": [
+        { "text": "Last", "roles": ["定语"] },
+        { "text": "week", "roles": ["状语"] },
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Mills", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "London", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "She does not know London very well, and she lost her way.",
+      "zh": "她对伦敦不很熟悉，因此迷了路。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "does", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "know", "roles": ["谓语"] },
+        { "text": "London", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "well", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "she", "roles": ["主语"] },
+        { "text": "lost", "roles": ["谓语"] },
+        { "text": "her", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Can you tell me the way to King Street, please?",
+      "zh": "您能告诉我去国王街怎么走吗？",
+      "analysis": [
+        { "text": "Can", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "tell", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "way", "roles": ["宾语"] },
+        { "text": "to", "roles": ["定语"] },
+        { "text": "King", "roles": ["定语"] },
+        { "text": "Street", "roles": ["定语"] },
+        { "text": "please", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "He did not understand English!",
+      "zh": "他不懂英语！",
+      "analysis": [
+        { "text": "He", "roles": ["主语"] },
+        { "text": "did", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "understand", "roles": ["谓语"] },
+        { "text": "English", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Then he put his hand into his pocket, and took out a phrasebook.",
+      "zh": "然后他把手伸进衣袋，掏出了一本短语手册。",
+      "analysis": [
+        { "text": "Then", "roles": ["状语"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "put", "roles": ["谓语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "hand", "roles": ["宾语"] },
+        { "text": "into", "roles": ["状语"] },
+        { "text": "his", "roles": ["定语"] },
+        { "text": "pocket", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "took", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "phrasebook", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I do not speak English.",
+      "zh": "我不会讲英语。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "speak", "roles": ["谓语"] },
+        { "text": "English", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Last week Mrs. Mills went to London.", "zh": "上星期米尔斯夫人去了伦敦。" },
+    { "en": "She does not know London very well, and she lost her way.", "zh": "她对伦敦不很熟悉，因此迷了路。" },
+    { "en": "Suddenly, she saw a man near a bus stop.", "zh": "突然，她在公共汽车站附近看见一个男人。" },
+    { "en": "'I can ask him the way,' she said to herself.", "zh": "“我可以向他问路，”她自言自语地说。" },
+    { "en": "Can you tell me the way to King Street, please?", "zh": "您能告诉我去国王街怎么走吗？" },
+    { "en": "The man smiled pleasantly.", "zh": "那人愉快地笑了笑。" },
+    { "en": "He did not understand English!", "zh": "他不懂英语！" },
+    { "en": "He spoke German. He was a tourist.", "zh": "他讲德语。他是来旅游的。" },
+    { "en": "Then he put his hand into his pocket, and took out a phrasebook.", "zh": "然后他把手伸进衣袋，掏出了一本短语手册。" },
+    { "en": "He read the phrase slowly.", "zh": "他缓慢地念着短语。" },
+    { "en": "'I am sorry,' he said.", "zh": "“很抱歉，”他说。" },
+    { "en": "I do not speak English.", "zh": "“我不会讲英语。”" }
+  ]
+}

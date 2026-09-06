@@ -1,0 +1,218 @@
+{
+  "id": "L051",
+  "title": "Lesson 51 · A pleasant climate",
+  "titleZh": "第51课 宜人的气候",
+  "words": [
+    {
+      "word": "Greece",
+      "phonetic": "/ɡriːs/",
+      "meaning": "n. 希腊",
+      "examples": [
+        { "en": "I come from Greece.", "zh": "我来自希腊。" },
+        { "en": "Greece is a beautiful country.", "zh": "希腊是个美丽的国家。" }
+      ]
+    },
+    {
+      "word": "climate",
+      "phonetic": "/ˈklaɪmət/",
+      "meaning": "n. 气候",
+      "examples": [
+        { "en": "What's the climate like in your country?", "zh": "你们国家的气候怎么样？" },
+        { "en": "The climate there is very pleasant.", "zh": "那里的气候非常宜人。" }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "n. 国家",
+      "examples": [
+        { "en": "What's the climate like in your country?", "zh": "你们国家的气候怎么样？" },
+        { "en": "I come from a big country.", "zh": "我来自一个大国。" }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "phonetic": "/ˈpleznt/",
+      "meaning": "adj. 宜人的，舒适的",
+      "examples": [
+        { "en": "It's very pleasant.", "zh": "气候非常宜人。" },
+        { "en": "What a pleasant day!", "zh": "多么宜人的一天！" }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "n. 天气",
+      "examples": [
+        { "en": "What's the weather like in spring?", "zh": "春季的天气怎么样？" },
+        { "en": "The weather is nice today.", "zh": "今天天气很好。" }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meaning": "n. 春天",
+      "examples": [
+        { "en": "What's the weather like in spring?", "zh": "春季的天气怎么样？" },
+        { "en": "I like spring best.", "zh": "我最喜欢春天。" }
+      ]
+    },
+    {
+      "word": "windy",
+      "phonetic": "/ˈwɪndi/",
+      "meaning": "adj. 有风的，多风的",
+      "examples": [
+        { "en": "It's often windy in March.", "zh": "三月份常常刮风。" },
+        { "en": "It's windy today.", "zh": "今天有风。" }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "/wɔːm/",
+      "meaning": "adj. 温暖的",
+      "examples": [
+        { "en": "It's always warm in April and May.", "zh": "四月和五月总是暖洋洋的。" },
+        { "en": "It's warm in the South.", "zh": "南方很暖和。" }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meaning": "v. 下雨",
+      "examples": [
+        { "en": "It rains sometimes.", "zh": "有时下雨。" },
+        { "en": "It often rains in November.", "zh": "十一月常常下雨。" }
+      ]
+    },
+    {
+      "word": "summer",
+      "phonetic": "/ˈsʌmə(r)/",
+      "meaning": "n. 夏天",
+      "examples": [
+        { "en": "What's it like in summer?", "zh": "夏季的天气怎么样？" },
+        { "en": "It's hot in summer.", "zh": "夏天很热。" }
+      ]
+    },
+    {
+      "word": "autumn",
+      "phonetic": "/ˈɔːtəm/",
+      "meaning": "n. 秋天",
+      "examples": [
+        { "en": "Is it cold or warm in autumn?", "zh": "秋季的天气是冷还是暖呢？" },
+        { "en": "Autumn is a nice season.", "zh": "秋天是个好季节。" }
+      ]
+    },
+    {
+      "word": "winter",
+      "phonetic": "/ˈwɪntə(r)/",
+      "meaning": "n. 冬天",
+      "examples": [
+        { "en": "Is it very cold in winter?", "zh": "冬季的天气很冷吗？" },
+        { "en": "It snows in winter.", "zh": "冬天会下雪。" }
+      ]
+    },
+    {
+      "word": "snow",
+      "phonetic": "/snəʊ/",
+      "meaning": "v. 下雪",
+      "examples": [
+        { "en": "It snows sometimes.", "zh": "有时下雪。" },
+        { "en": "It often snows in winter.", "zh": "冬天常常下雪。" }
+      ]
+    },
+    {
+      "word": "hot",
+      "phonetic": "/hɒt/",
+      "meaning": "adj. 热的",
+      "examples": [
+        { "en": "It's always hot in June, July and August.", "zh": "六月、七月和八月总是很热。" },
+        { "en": "It's hot in summer.", "zh": "夏天很热。" }
+      ]
+    },
+    {
+      "word": "March",
+      "phonetic": "/mɑːtʃ/",
+      "meaning": "n. 三月",
+      "examples": [
+        { "en": "It's often windy in March.", "zh": "三月份常常刮风。" },
+        { "en": "March is windy.", "zh": "三月多风。" }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "meaning": "adv. 有时",
+      "examples": [
+        { "en": "It rains sometimes.", "zh": "有时下雨。" },
+        { "en": "It snows sometimes.", "zh": "有时下雪。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where do you come from?",
+      "zh": "你来自哪个国家？",
+      "analysis": [
+        { "text": "Where", "roles": ["状语"] },
+        { "text": "do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "from", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I come from Greece.",
+      "zh": "我来自希腊。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "come", "roles": ["谓语"] },
+        { "text": "from", "roles": ["状语"] },
+        { "text": "Greece", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It's very pleasant.",
+      "zh": "气候非常宜人。",
+      "analysis": [
+        { "text": "It's", "roles": ["主语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "pleasant", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Is it very cold in winter?",
+      "zh": "冬季的天气很冷吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "cold", "roles": ["表语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "winter", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "It snows sometimes.",
+      "zh": "有时下雪。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "snows", "roles": ["谓语"] },
+        { "text": "sometimes", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Where do you come from?", "zh": "你来自哪个国家？" },
+    { "en": "I come from Greece.", "zh": "我来自希腊。" },
+    { "en": "What's the climate like in your country?", "zh": "你们国家的气候怎么样？" },
+    { "en": "It's very pleasant.", "zh": "气候非常宜人。" },
+    { "en": "What's the weather like in spring?", "zh": "春季的天气怎么样？" },
+    { "en": "It's often windy in March.", "zh": "三月份常常刮风。" },
+    { "en": "It's always warm in April and May, but it rains sometimes.", "zh": "四月和五月总是暖洋洋的，但有时下雨。" },
+    { "en": "What's it like in summer?", "zh": "夏季的天气怎么样？" },
+    { "en": "It's always hot in June, July and August.", "zh": "六月、七月和八月总是很热。" },
+    { "en": "Is it very cold in winter?", "zh": "冬季的天气很冷吗？" },
+    { "en": "It's often cold in December, January and February.", "zh": "十二月、一月和二月常常很冷。" },
+    { "en": "It snows sometimes.", "zh": "有时下雪。" }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "L019",
+  "title": "Lesson 19 · Sold out",
+  "titleZh": "第19课 票已售完",
+  "words": [
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhʌri/",
+      "meaning": "v. 匆忙",
+      "examples": [
+        { "en": "I hurried to the ticket office.", "zh": "我匆忙赶到售票处。" },
+        { "en": "Don't hurry, we have plenty of time.", "zh": "别着急，我们时间很充裕。" }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meaning": "n. 票",
+      "examples": [
+        { "en": "May I have two tickets please?", "zh": "请给我两张票好吗？" },
+        { "en": "I bought a ticket for the play.", "zh": "我买了一张戏票。" }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meaning": "n. 办公室；售票处",
+      "examples": [
+        { "en": "I hurried to the ticket office.", "zh": "我匆忙赶到售票处。" },
+        { "en": "She works in an office.", "zh": "她在办公室工作。" }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtnli/",
+      "meaning": "adv. 当然，可以",
+      "examples": [
+        { "en": "'Certainly,' the girl said.", "zh": "‘当然可以，’姑娘说。" },
+        { "en": "Certainly, you may come in.", "zh": "当然，你可以进来。" }
+      ]
+    },
+    {
+      "word": "pity",
+      "phonetic": "/ˈpɪti/",
+      "meaning": "n. 遗憾的事",
+      "examples": [
+        { "en": "What a pity!", "zh": "真可惜！" },
+        { "en": "It's a pity that you can't come.", "zh": "你不能来真是遗憾。" }
+      ]
+    },
+    {
+      "word": "exclaim",
+      "phonetic": "/ɪkˈskleɪm/",
+      "meaning": "v. 大声说，惊叫",
+      "examples": [
+        { "en": "'What a pity!' Susan exclaimed.", "zh": "‘真可惜！’苏珊大声说。" },
+        { "en": "She exclaimed in surprise.", "zh": "她惊讶地叫了起来。" }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meaning": "v. 退回，归还",
+      "examples": [
+        { "en": "Can I return these two tickets?", "zh": "我可以退掉这两张票吗？" },
+        { "en": "Please return the book to me.", "zh": "请把书还给我。" }
+      ]
+    },
+    {
+      "word": "sad",
+      "phonetic": "/sæd/",
+      "meaning": "adj. 悲哀的",
+      "examples": [
+        { "en": "He felt very sad.", "zh": "他感到很难过。" },
+        { "en": "It was a sad story.", "zh": "那是一个悲伤的故事。" }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meaning": "n. 时刻，瞬间",
+      "examples": [
+        { "en": "The play may begin at any moment.", "zh": "剧随时都可能开演。" },
+        { "en": "Wait a moment, please.", "zh": "请稍等片刻。" }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "adv. 已经",
+      "examples": [
+        { "en": "It may have begun already.", "zh": "也许已经开演了呢。" },
+        { "en": "He has already left.", "zh": "他已经走了。" }
+      ]
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meaning": "v. 开始",
+      "examples": [
+        { "en": "The play may begin at any moment.", "zh": "剧随时都可能开演。" },
+        { "en": "The meeting will begin soon.", "zh": "会议马上就要开始了。" }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meaning": "n. 演出",
+      "examples": [
+        { "en": "The tickets were for next Wednesday's performance.", "zh": "这两张票是下星期三演出的。" },
+        { "en": "The performance begins at eight.", "zh": "演出八点开始。" }
+      ]
+    },
+    {
+      "word": "might",
+      "phonetic": "/maɪt/",
+      "meaning": "v. 可能，也许",
+      "examples": [
+        { "en": "I might as well have them.", "zh": "我还是买下的好。" },
+        { "en": "He might come tomorrow.", "zh": "他明天可能会来。" }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "/sel/",
+      "meaning": "v. 卖，出售",
+      "examples": [
+        { "en": "We've sold out.", "zh": "票已售完。" },
+        { "en": "They sell fruit and vegetables.", "zh": "他们卖水果和蔬菜。" }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "/dʒʌst/",
+      "meaning": "adv. 刚刚，正好",
+      "examples": [
+        { "en": "Just then, a man hurried to the ticket office.", "zh": "正在这时，一个男子匆匆奔向售票处。" },
+        { "en": "He has just arrived.", "zh": "他刚刚到达。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I hurried to the ticket office.",
+      "zh": "我匆忙赶到售票处。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "hurried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ticket", "roles": ["定语"] },
+        { "text": "office", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Just then, a man hurried to the ticket office.",
+      "zh": "正在这时，一个男子匆匆奔向售票处。",
+      "analysis": [
+        { "text": "Just", "roles": ["状语"] },
+        { "text": "then", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "man", "roles": ["主语"] },
+        { "text": "hurried", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ticket", "roles": ["定语"] },
+        { "text": "office", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The tickets were for next Wednesday's performance.",
+      "zh": "不过这两张票是下星期三演出的。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "tickets", "roles": ["主语"] },
+        { "text": "were", "roles": ["谓语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "Wednesday's", "roles": ["定语"] },
+        { "text": "performance", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I went back to the ticket office at once.",
+      "zh": "我立刻又回到售票处。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "went", "roles": ["谓语"] },
+        { "text": "back", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "ticket", "roles": ["定语"] },
+        { "text": "office", "roles": ["宾语"] },
+        { "text": "at", "roles": ["状语"] },
+        { "text": "once", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "'The play may begin at any moment,' I said.", "zh": "‘剧马上就要开演了，’我说。" },
+    { "en": "'It may have begun already,' Susan answered.", "zh": "‘也许已经开演了呢，’苏珊回答说。" },
+    { "en": "I hurried to the ticket office.", "zh": "我匆忙赶到售票处。" },
+    { "en": "'I'm sorry, we've sold out,' the girl said.", "zh": "‘对不起，票已售完，’那位姑娘说。" },
+    { "en": "Just then, a man hurried to the ticket office.", "zh": "正在这时，一个男子匆匆奔向售票处。" },
+    { "en": "'Can I return these two tickets?' he asked.", "zh": "‘我可以退掉这两张票吗？’他问。" },
+    { "en": "'Certainly,' the girl said.", "zh": "‘当然可以，’姑娘说。" },
+    { "en": "I went back to the ticket office at once.", "zh": "我立刻又回到售票处。" },
+    { "en": "The tickets were for next Wednesday's performance.", "zh": "不过这两张票是下星期三演出的。" },
+    { "en": "'I might as well have them,' I said sadly.", "zh": "‘我还是买下的好，’我垂头丧气地说。" }
+  ]
+}

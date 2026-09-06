@@ -1,0 +1,250 @@
+{
+  "id": "L041",
+  "title": "Lesson 41 · Do you call that a hat?",
+  "titleZh": "第41课 你把那个叫帽子吗？",
+  "words": [
+    {
+      "word": "call",
+      "phonetic": "/kɔːl/",
+      "meaning": "v. 叫，称呼",
+      "examples": [
+        { "en": "Do you call that a hat?", "zh": "你把那个叫帽子吗？" },
+        { "en": "We call him Tom.", "zh": "我们叫他汤姆。" }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meaning": "n. 帽子",
+      "examples": [
+        { "en": "My wife was wearing a hat.", "zh": "我妻子戴着一顶帽子。" },
+        { "en": "He took off his hat.", "zh": "他摘下了帽子。" }
+      ]
+    },
+    {
+      "word": "rude",
+      "phonetic": "/ruːd/",
+      "meaning": "adj. 无礼的，粗鲁的",
+      "examples": [
+        { "en": "You needn't be so rude about it.", "zh": "你说话不必这样刻薄。" },
+        { "en": "It is rude to point at people.", "zh": "用手指人是不礼貌的。" }
+      ]
+    },
+    {
+      "word": "mirror",
+      "phonetic": "/ˈmɪrə(r)/",
+      "meaning": "n. 镜子",
+      "examples": [
+        { "en": "She looked at herself in the mirror.", "zh": "她照着镜子打量自己。" },
+        { "en": "He looked at his face in the mirror.", "zh": "他在镜子里看自己的脸。" }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "/ˈmɒdn/",
+      "meaning": "adj. 现代的，新式的",
+      "examples": [
+        { "en": "I sat down on a modern chair.", "zh": "我坐在一把新式椅子上。" },
+        { "en": "They live in a modern house.", "zh": "他们住在一幢现代住宅里。" }
+      ]
+    },
+    {
+      "word": "hole",
+      "phonetic": "/həʊl/",
+      "meaning": "n. 洞，孔",
+      "examples": [
+        { "en": "The modern chairs have holes in them.", "zh": "这种新式椅子上有窟窿。" },
+        { "en": "There is a hole in my sock.", "zh": "我的袜子上有个洞。" }
+      ]
+    },
+    {
+      "word": "remark",
+      "phonetic": "/rɪˈmɑːk/",
+      "meaning": "v. 评论，说",
+      "examples": [
+        { "en": "'We mustn't buy things we don't need,' I remarked.", "zh": "“我们不应该买我们不需要的东西。”我说。" },
+        { "en": "He remarked that the weather was fine.", "zh": "他说天气很好。" }
+      ]
+    },
+    {
+      "word": "remind",
+      "phonetic": "/rɪˈmaɪnd/",
+      "meaning": "v. 提醒",
+      "examples": [
+        { "en": "I need not remind you of that terrible tie.", "zh": "我不必提醒你那条糟糕的领带。" },
+        { "en": "Please remind me to call him.", "zh": "请提醒我给他打电话。" }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meaning": "adj. 糟糕的，可怕的",
+      "examples": [
+        { "en": "He bought a terrible tie yesterday.", "zh": "他昨天买了一条糟糕的领带。" },
+        { "en": "The weather was terrible.", "zh": "天气糟透了。" }
+      ]
+    },
+    {
+      "word": "tie",
+      "phonetic": "/taɪ/",
+      "meaning": "n. 领带",
+      "examples": [
+        { "en": "A man can never have too many ties.", "zh": "男人有多少领带也不会嫌多。" },
+        { "en": "He wore a blue tie.", "zh": "他系着一条蓝色领带。" }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meaning": "adj. 美丽的，漂亮的",
+      "examples": [
+        { "en": "I find the tie beautiful.", "zh": "我觉得这条领带好看。" },
+        { "en": "What a beautiful garden!", "zh": "多么漂亮的花园！" }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "phonetic": "/ˈlaɪthaʊs/",
+      "meaning": "n. 灯塔",
+      "examples": [
+        { "en": "The hat looked like a lighthouse!", "zh": "那顶帽子看起来像一座灯塔！" },
+        { "en": "The lighthouse stands on the coast.", "zh": "灯塔矗立在海岸上。" }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "/weə(r)/",
+      "meaning": "v. 穿戴（wore, worn）",
+      "examples": [
+        { "en": "My wife was wearing a hat.", "zh": "我妻子戴着一顶帽子。" },
+        { "en": "She wears glasses.", "zh": "她戴眼镜。" }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "/niːd/",
+      "meaning": "v. 需要",
+      "examples": [
+        { "en": "We mustn't buy things we don't need.", "zh": "我们不应该买我们不需要的东西。" },
+        { "en": "You needn't have said that.", "zh": "你没必要这么说。" }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meaning": "v. 买（bought, bought）",
+      "examples": [
+        { "en": "We mustn't buy things we don't need.", "zh": "我们不应该买我们不需要的东西。" },
+        { "en": "He bought a tie yesterday.", "zh": "他昨天买了一条领带。" }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meaning": "n. 前面",
+      "examples": [
+        { "en": "My wife was still in front of the mirror.", "zh": "我妻子还在镜子前面。" },
+        { "en": "The car stopped in front of the house.", "zh": "汽车停在房子前面。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I sat down on one of those modern chairs with holes in it and waited.",
+      "zh": "我坐在一把带窟窿的新式椅子上等待着。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "sat", "roles": ["谓语"] },
+        { "text": "down", "roles": ["状语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "one", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "those", "roles": ["定语"] },
+        { "text": "modern", "roles": ["定语"] },
+        { "text": "chairs", "roles": ["状语"] },
+        { "text": "with", "roles": ["状语"] },
+        { "text": "holes", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "it", "roles": ["状语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "waited", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "We had been in the hat shop for half an hour.",
+      "zh": "我们在帽店里已经呆了半个小时。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "had", "roles": ["谓语"] },
+        { "text": "been", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "hat", "roles": ["定语"] },
+        { "text": "shop", "roles": ["状语"] },
+        { "text": "for", "roles": ["状语"] },
+        { "text": "half", "roles": ["定语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "hour", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "My wife was still in front of the mirror.",
+      "zh": "我妻子还在镜子面前。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "still", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "front", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "mirror", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Ten minutes later we walked out of the shop together.",
+      "zh": "十分钟后，我们一起走出了商店。",
+      "analysis": [
+        { "text": "Ten", "roles": ["定语"] },
+        { "text": "minutes", "roles": ["状语"] },
+        { "text": "later", "roles": ["状语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "walked", "roles": ["谓语"] },
+        { "text": "out", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "shop", "roles": ["状语"] },
+        { "text": "together", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "My wife was wearing a hat that looked like a lighthouse!",
+      "zh": "我妻子戴着一顶像灯塔一样的帽子！",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "wife", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "wearing", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "hat", "roles": ["宾语"] },
+        { "text": "that", "roles": ["连词"] },
+        { "text": "looked", "roles": ["谓语"] },
+        { "text": "like", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "lighthouse", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "'Do you call that a hat?' I said to my wife.", "zh": "“你把那个叫帽子吗？”我对妻子说。" },
+    { "en": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.", "zh": "“你说话不必这样刻薄，”我妻子边照着镜子边回答说。" },
+    { "en": "I sat down on one of those modern chairs with holes in it and waited.", "zh": "我坐在一把带窟窿的新式椅子上等待着。" },
+    { "en": "We had been in the hat shop for half an hour.", "zh": "我们在帽店里已经呆了半个小时。" },
+    { "en": "My wife was still in front of the mirror.", "zh": "我妻子还在镜子面前。" },
+    { "en": "'We mustn't buy things we don't need,' I remarked suddenly. 'You needn't have said that,' my wife answered.", "zh": "“我们不应该买我们不需要的东西，”我突然说。“你没必要这么说，”我妻子回答说。" },
+    { "en": "'A man can never have too many ties,' I said.", "zh": "“男人有多少领带也不会嫌多，”我说。" },
+    { "en": "Ten minutes later we walked out of the shop together.", "zh": "十分钟后，我们一起走出了商店。" },
+    { "en": "My wife was wearing a hat that looked like a lighthouse!", "zh": "我妻子戴着一顶像灯塔一样的帽子！" }
+  ]
+}

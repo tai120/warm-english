@@ -1,0 +1,217 @@
+{
+  "id": "L010",
+  "title": "Lesson 10 · Not for jazz",
+  "titleZh": "第10课 不适于演奏爵士乐",
+  "words": [
+    {
+      "word": "jazz",
+      "phonetic": "/dʒæz/",
+      "meaning": "n. 爵士乐",
+      "examples": [
+        { "en": "She tried to play jazz on it.", "zh": "她竟用它来弹奏爵士乐。" }
+      ]
+    },
+    {
+      "word": "musical",
+      "phonetic": "/ˈmjuːzɪkl/",
+      "meaning": "adj. 音乐的",
+      "examples": [
+        { "en": "We have an old musical instrument.", "zh": "我家有件古乐器。" }
+      ]
+    },
+    {
+      "word": "instrument",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "meaning": "n. 乐器，仪器",
+      "examples": [
+        { "en": "We have an old musical instrument.", "zh": "我家有件古乐器。" }
+      ]
+    },
+    {
+      "word": "clavichord",
+      "phonetic": "/ˈklævɪkɔːd/",
+      "meaning": "n. 古钢琴",
+      "examples": [
+        { "en": "It is called a clavichord.", "zh": "它叫古钢琴。" }
+      ]
+    },
+    {
+      "word": "recently",
+      "phonetic": "/ˈriːsntli/",
+      "meaning": "adv. 最近",
+      "examples": [
+        { "en": "Recently it was damaged by a visitor.", "zh": "最近它被一个客人弄坏了。" }
+      ]
+    },
+    {
+      "word": "damage",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "meaning": "v. 损坏",
+      "examples": [
+        { "en": "Recently it was damaged by a visitor.", "zh": "最近它被一个客人弄坏了。" }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "/kiː/",
+      "meaning": "n. 琴键",
+      "examples": [
+        { "en": "She struck the keys too hard.", "zh": "她在击琴键时用力过猛。" }
+      ]
+    },
+    {
+      "word": "string",
+      "phonetic": "/strɪŋ/",
+      "meaning": "n. （乐器的）弦",
+      "examples": [
+        { "en": "Two of the strings were broken.", "zh": "损坏了两根琴弦。" }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meaning": "v. 使震惊",
+      "examples": [
+        { "en": "My father was shocked.", "zh": "我父亲大为吃惊。" }
+      ]
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "v. 允许",
+      "examples": [
+        { "en": "We are not allowed to touch it.", "zh": "不许我们再动它。" }
+      ]
+    },
+    {
+      "word": "touch",
+      "phonetic": "/tʌtʃ/",
+      "meaning": "v. 触摸",
+      "examples": [
+        { "en": "We are not allowed to touch it.", "zh": "不许我们再动它。" }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "/ˈvɪzɪtə/",
+      "meaning": "n. 来访者，客人",
+      "examples": [
+        { "en": "Recently it was damaged by a visitor.", "zh": "最近它被一个客人弄坏了。" }
+      ]
+    },
+    {
+      "word": "Germany",
+      "phonetic": "/ˈdʒɜːməni/",
+      "meaning": "n. 德国",
+      "examples": [
+        { "en": "It was made in Germany.", "zh": "它是在德国造的。" }
+      ]
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "meaning": "v. 属于",
+      "examples": [
+        { "en": "It has belonged to our family for a long time.", "zh": "我们家有这件乐器已经很久了。" }
+      ]
+    },
+    {
+      "word": "living-room",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meaning": "n. 客厅",
+      "examples": [
+        { "en": "Our clavichord is kept in the living-room.", "zh": "我们的这架古钢琴存放在起居室里。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "We have an old musical instrument and it is called a clavichord.",
+      "zh": "我家有件古乐器，它叫古钢琴。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "an", "roles": ["定语"] },
+        { "text": "old", "roles": ["定语"] },
+        { "text": "musical", "roles": ["定语"] },
+        { "text": "instrument", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "called", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "clavichord", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "It was made in Germany in 1681.",
+      "zh": "它是1681年在德国造的。",
+      "analysis": [
+        { "text": "It", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "made", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "Germany", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "1681", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Our clavichord is kept in the living-room.",
+      "zh": "我们的这架古钢琴存放在起居室里。",
+      "analysis": [
+        { "text": "Our", "roles": ["定语"] },
+        { "text": "clavichord", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "kept", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "living-room", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Recently it was damaged by a visitor.",
+      "zh": "可它最近被一个客人弄坏了。",
+      "analysis": [
+        { "text": "Recently", "roles": ["状语"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "damaged", "roles": ["谓语"] },
+        { "text": "by", "roles": ["状语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "visitor", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "My father was shocked and now we are not allowed to touch it.",
+      "zh": "我父亲大为吃惊，不许我们再动它。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "father", "roles": ["主语"] },
+        { "text": "was", "roles": ["谓语"] },
+        { "text": "shocked", "roles": ["谓语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "now", "roles": ["状语"] },
+        { "text": "we", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "allowed", "roles": ["谓语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "touch", "roles": ["谓语"] },
+        { "text": "it", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "We have an old musical instrument and it is called a clavichord.", "zh": "我家有件古乐器，它叫古钢琴。" },
+    { "en": "It was made in Germany in 1681.", "zh": "它是1681年在德国造的。" },
+    { "en": "Our clavichord is kept in the living-room.", "zh": "我们的这架古钢琴存放在起居室里。" },
+    { "en": "It has belonged to our family for a long time.", "zh": "我们家有这件乐器已经很久了。" },
+    { "en": "The instrument was bought by my grandfather many years ago.", "zh": "它是我祖父在很多年以前买的。" },
+    { "en": "Recently it was damaged by a visitor.", "zh": "可它最近被一个客人弄坏了。" },
+    { "en": "She tried to play jazz on it!", "zh": "因为她竟用它来弹奏爵士乐！" },
+    { "en": "She struck the keys too hard and two of the strings were broken.", "zh": "她在击琴键时用力过猛，损坏了两根琴弦。" },
+    { "en": "My father was shocked and now we are not allowed to touch it.", "zh": "我父亲大为吃惊，不许我们再动它。" },
+    { "en": "It is being repaired by a friend of my father's.", "zh": "父亲的一个朋友正在修理这件乐器。" }
+  ]
+}

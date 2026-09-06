@@ -1,0 +1,255 @@
+{
+  "id": "L037",
+  "title": "Lesson 37 · The Olympic Games",
+  "titleZh": "第37课 奥林匹克运动会",
+  "words": [
+    {
+      "word": "game",
+      "phonetic": "/ɡeɪm/",
+      "meaning": "n. 比赛，运动会",
+      "examples": [
+        { "en": "The Olympic Games will be held in our country.", "zh": "奥林匹克运动会将在我们国家举行。" },
+        { "en": "We won the football game.", "zh": "我们赢了那场足球赛。" }
+      ]
+    },
+    {
+      "word": "hold",
+      "phonetic": "/həʊld/",
+      "meaning": "v. 举行，举办（held, held）",
+      "examples": [
+        { "en": "The Games will be held just outside the capital.", "zh": "运动会将在首都郊外举行。" },
+        { "en": "The meeting will be held next week.", "zh": "会议将于下周举行。" }
+      ]
+    },
+    {
+      "word": "government",
+      "phonetic": "/ˈɡʌvənmənt/",
+      "meaning": "n. 政府",
+      "examples": [
+        { "en": "The government will be building new hotels.", "zh": "政府将建造新的旅馆。" },
+        { "en": "He works for the local government.", "zh": "他在当地政府工作。" }
+      ]
+    },
+    {
+      "word": "hotel",
+      "phonetic": "/həʊˈtel/",
+      "meaning": "n. 旅馆，饭店",
+      "examples": [
+        { "en": "They will build new hotels for the visitors.", "zh": "他们将为游客建造新的旅馆。" },
+        { "en": "We stayed at a hotel by the sea.", "zh": "我们住在海边的一家旅馆里。" }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meaning": "adj. 巨大的",
+      "examples": [
+        { "en": "They will build an immense stadium.", "zh": "他们将建造一个大型体育场。" },
+        { "en": "The ship was immense.", "zh": "那艘船非常巨大。" }
+      ]
+    },
+    {
+      "word": "stadium",
+      "phonetic": "/ˈsteɪdiəm/",
+      "meaning": "n. 露天体育场",
+      "examples": [
+        { "en": "The new stadium is immense.", "zh": "新体育场非常大。" },
+        { "en": "The match will be played in the stadium.", "zh": "比赛将在体育场举行。" }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "/puːl/",
+      "meaning": "n. 游泳池",
+      "examples": [
+        { "en": "They will build a fine new swimming pool.", "zh": "他们将建造一个漂亮的新游泳池。" },
+        { "en": "The children are swimming in the pool.", "zh": "孩子们在游泳池里游泳。" }
+      ]
+    },
+    {
+      "word": "special",
+      "phonetic": "/ˈspeʃl/",
+      "meaning": "adj. 专门的，特别的",
+      "examples": [
+        { "en": "They will build a special railway line.", "zh": "他们将修建一条专用铁路线。" },
+        { "en": "This is a special day for us.", "zh": "对我们来说，这是个特别的日子。" }
+      ]
+    },
+    {
+      "word": "railway",
+      "phonetic": "/ˈreɪlweɪ/",
+      "meaning": "n. 铁路",
+      "examples": [
+        { "en": "A new railway line is being built.", "zh": "一条新的铁路线正在修建。" },
+        { "en": "The railway station is over there.", "zh": "火车站在那边。" }
+      ]
+    },
+    {
+      "word": "capital",
+      "phonetic": "/ˈkæpɪtl/",
+      "meaning": "n. 首都",
+      "examples": [
+        { "en": "The Games will be held just outside the capital.", "zh": "运动会将在首都郊外举行。" },
+        { "en": "London is the capital of England.", "zh": "伦敦是英国的首都。" }
+      ]
+    },
+    {
+      "word": "design",
+      "phonetic": "/dɪˈzaɪn/",
+      "meaning": "v. 设计",
+      "examples": [
+        { "en": "The buildings have been designed by Kurt Gunter.", "zh": "这些建筑是由库尔特·冈特设计的。" },
+        { "en": "She designs beautiful clothes.", "zh": "她设计漂亮的服装。" }
+      ]
+    },
+    {
+      "word": "fantastic",
+      "phonetic": "/fænˈtæstɪk/",
+      "meaning": "adj. 极好的，奇异的",
+      "examples": [
+        { "en": "The fantastic buildings are very modern.", "zh": "这些奇异的建筑非常现代化。" },
+        { "en": "We had a fantastic holiday.", "zh": "我们度过了一个极好的假期。" }
+      ]
+    },
+    {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "meaning": "adj. 兴奋的，激动的",
+      "examples": [
+        { "en": "We are all very excited.", "zh": "我们都非常兴奋。" },
+        { "en": "The children were excited about the trip.", "zh": "孩子们对这次旅行很兴奋。" }
+      ]
+    },
+    {
+      "word": "look forward to",
+      "phonetic": "/lʊk ˈfɔːwəd tə/",
+      "meaning": "v. 盼望，期待",
+      "examples": [
+        { "en": "We are looking forward to the Olympic Games.", "zh": "我们盼望着奥运会的到来。" },
+        { "en": "I look forward to seeing you again.", "zh": "我盼望着再次见到你。" }
+      ]
+    },
+    {
+      "word": "Kurt Gunter",
+      "phonetic": "/kɜːt ˈɡʌntə(r)/",
+      "meaning": "n. 库尔特·冈特（人名）",
+      "examples": [
+        { "en": "The buildings were designed by Kurt Gunter.", "zh": "这些建筑是由库尔特·冈特设计的。" },
+        { "en": "Kurt Gunter is a famous designer.", "zh": "库尔特·冈特是一位著名的设计师。" }
+      ]
+    },
+    {
+      "word": "Olympic",
+      "phonetic": "/əˈlɪmpɪk/",
+      "meaning": "adj. 奥林匹克的",
+      "examples": [
+        { "en": "The Olympic Games will be held here.", "zh": "奥林匹克运动会将在这里举行。" },
+        { "en": "He won two Olympic gold medals.", "zh": "他赢得两枚奥运会金牌。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Olympic Games will be held in our country in four years.",
+      "zh": "四年以后，奥林匹克运动会将在我们国家举行。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "Olympic", "roles": ["定语"] },
+        { "text": "Games", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "held", "roles": ["谓语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "our", "roles": ["定语"] },
+        { "text": "country", "roles": ["状语"] },
+        { "text": "in", "roles": ["状语"] },
+        { "text": "four", "roles": ["定语"] },
+        { "text": "years", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "They will also be building new roads and a special railway line.",
+      "zh": "他们还将修建新的道路和一条专用铁路线。",
+      "analysis": [
+        { "text": "They", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "also", "roles": ["状语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "building", "roles": ["谓语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "roads", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "special", "roles": ["定语"] },
+        { "text": "railway", "roles": ["定语"] },
+        { "text": "line", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "The whole area will be called Olympic City.",
+      "zh": "整个地区将被称为奥林匹克城。",
+      "analysis": [
+        { "text": "The", "roles": ["定语"] },
+        { "text": "whole", "roles": ["定语"] },
+        { "text": "area", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "be", "roles": ["谓语"] },
+        { "text": "called", "roles": ["谓语"] },
+        { "text": "Olympic", "roles": ["定语"] },
+        { "text": "City", "roles": ["补语"] }
+      ]
+    },
+    {
+      "en": "By the end of next year, the workers will have finished work on the new stadium.",
+      "zh": "到明年年底，工人们将建成新的体育场。",
+      "analysis": [
+        { "text": "By", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "end", "roles": ["状语"] },
+        { "text": "of", "roles": ["状语"] },
+        { "text": "next", "roles": ["定语"] },
+        { "text": "year", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "workers", "roles": ["主语"] },
+        { "text": "will", "roles": ["谓语"] },
+        { "text": "have", "roles": ["谓语"] },
+        { "text": "finished", "roles": ["谓语"] },
+        { "text": "work", "roles": ["宾语"] },
+        { "text": "on", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "stadium", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "We are all very excited and are looking forward to the Olympic Games.",
+      "zh": "我们都非常兴奋，盼望着奥运会的到来。",
+      "analysis": [
+        { "text": "We", "roles": ["主语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "all", "roles": ["状语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "excited", "roles": ["表语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "looking", "roles": ["谓语"] },
+        { "text": "forward", "roles": ["状语"] },
+        { "text": "to", "roles": ["状语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "Olympic", "roles": ["定语"] },
+        { "text": "Games", "roles": ["宾语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "The Olympic Games will be held in our country in four years.", "zh": "四年以后，奥林匹克运动会将在我们国家举行。" },
+    { "en": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium and a fine new swimming pool.", "zh": "由于将有大批的人来我国访问，政府将建造新的旅馆、一个大型体育场和一个漂亮的新游泳池。" },
+    { "en": "They will also be building new roads and a special railway line.", "zh": "他们还将修建新的道路和一条专用铁路线。" },
+    { "en": "The Games will be held just outside the capital.", "zh": "运动会将在首都郊外举行。" },
+    { "en": "The whole area will be called Olympic City.", "zh": "整个地区将被称为奥林匹克城。" },
+    { "en": "By the end of next year, the workers will have finished work on the new stadium.", "zh": "到明年年底，工人们将建成新的体育场。" },
+    { "en": "The fantastic modern buildings have been designed by Kurt Gunter.", "zh": "这些壮观的现代化建筑是由库尔特·冈特设计的。" },
+    { "en": "Everybody will be watching anxiously as the new buildings go up.", "zh": "当新建筑拔地而起时，人人都将焦急地注视着。" },
+    { "en": "We are all very excited and are looking forward to the Olympic Games.", "zh": "我们都非常兴奋，盼望着奥运会的到来。" }
+  ]
+}

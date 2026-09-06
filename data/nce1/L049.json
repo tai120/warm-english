@@ -1,0 +1,218 @@
+{
+  "id": "L049",
+  "title": "Lesson 49 · At the butcher's",
+  "titleZh": "第49课 在肉店",
+  "words": [
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə(r)/",
+      "meaning": "n. 屠夫，肉商",
+      "examples": [
+        { "en": "The butcher sells good meat.", "zh": "肉店老板卖好肉。" },
+        { "en": "We buy meat at the butcher's.", "zh": "我们在肉店买肉。" }
+      ]
+    },
+    {
+      "word": "meat",
+      "phonetic": "/miːt/",
+      "meaning": "n. 肉",
+      "examples": [
+        { "en": "Do you want any meat today, Mrs. Bird?", "zh": "伯德夫人，您今天要买点肉吗？" },
+        { "en": "I don't eat meat.", "zh": "我不吃肉。" }
+      ]
+    },
+    {
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meaning": "n. 牛肉",
+      "examples": [
+        { "en": "Do you want beef or lamb?", "zh": "您要牛肉还是羔羊肉？" },
+        { "en": "Beef, please.", "zh": "请来点牛肉。" }
+      ]
+    },
+    {
+      "word": "lamb",
+      "phonetic": "/læm/",
+      "meaning": "n. 羔羊肉",
+      "examples": [
+        { "en": "Do you want beef or lamb?", "zh": "您要牛肉还是羔羊肉？" },
+        { "en": "This lamb's very good.", "zh": "这羔羊肉很好。" }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meaning": "n. 丈夫",
+      "examples": [
+        { "en": "My husband doesn't like chicken.", "zh": "我丈夫不喜欢吃鸡。" },
+        { "en": "My husband likes steak.", "zh": "我丈夫喜欢吃牛排。" }
+      ]
+    },
+    {
+      "word": "steak",
+      "phonetic": "/steɪk/",
+      "meaning": "n. 牛排",
+      "examples": [
+        { "en": "What about some steak?", "zh": "来点牛排怎么样？" },
+        { "en": "My husband likes steak.", "zh": "我丈夫喜欢吃牛排。" }
+      ]
+    },
+    {
+      "word": "mince",
+      "phonetic": "/mɪns/",
+      "meaning": "n. 肉馅，绞肉",
+      "examples": [
+        { "en": "And a pound of mince, too.", "zh": "再来一磅肉馅。" }
+      ]
+    },
+    {
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meaning": "n. 鸡；鸡肉",
+      "examples": [
+        { "en": "Do you want a chicken, Mrs. Bird?", "zh": "伯德夫人，您要买只鸡吗？" },
+        { "en": "He doesn't like chicken.", "zh": "他不喜欢吃鸡。" }
+      ]
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meaning": "n. 实情，真相",
+      "examples": [
+        { "en": "To tell you the truth, I don't like chicken either!", "zh": "老实说，我也不喜欢鸡！" },
+        { "en": "Tell me the truth.", "zh": "对我说实话。" }
+      ]
+    },
+    {
+      "word": "either",
+      "phonetic": "/ˈaɪðə(r)/",
+      "meaning": "adv. 也（用于否定句）",
+      "examples": [
+        { "en": "I don't like chicken either!", "zh": "我也不喜欢吃鸡！" },
+        { "en": "He can't swim, and I can't either.", "zh": "他不会游泳，我也不会。" }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meaning": "adj. 好的，美味的",
+      "examples": [
+        { "en": "This is a nice piece.", "zh": "这块很好。" },
+        { "en": "They're very nice.", "zh": "这些鸡很好。" }
+      ]
+    },
+    {
+      "word": "tell",
+      "phonetic": "/tel/",
+      "meaning": "v. 告诉",
+      "examples": [
+        { "en": "To tell you the truth.", "zh": "老实说。" },
+        { "en": "Tell me about your day.", "zh": "跟我说说你今天的情况。" }
+      ]
+    },
+    {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "meaning": "prep. 关于",
+      "examples": [
+        { "en": "What about some steak?", "zh": "来点牛排怎么样？" },
+        { "en": "Tell me about your family.", "zh": "跟我讲讲你的家人。" }
+      ]
+    },
+    {
+      "word": "today",
+      "phonetic": "/təˈdeɪ/",
+      "meaning": "adv. 今天",
+      "examples": [
+        { "en": "Do you want any meat today, Mrs. Bird?", "zh": "伯德夫人，您今天要买点肉吗？" },
+        { "en": "It's cold today.", "zh": "今天很冷。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you want any meat today, Mrs. Bird?",
+      "zh": "伯德夫人，您今天要买点肉吗？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "any", "roles": ["定语"] },
+        { "text": "meat", "roles": ["宾语"] },
+        { "text": "today", "roles": ["状语"] },
+        { "text": "Mrs", "roles": ["定语"] },
+        { "text": "Bird", "roles": ["感叹词"] }
+      ]
+    },
+    {
+      "en": "Do you want beef or lamb?",
+      "zh": "您要牛肉还是羔羊肉？",
+      "analysis": [
+        { "text": "Do", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "want", "roles": ["谓语"] },
+        { "text": "beef", "roles": ["宾语"] },
+        { "text": "or", "roles": ["连词"] },
+        { "text": "lamb", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "I like lamb, but my husband doesn't.",
+      "zh": "我喜欢羔羊肉，可我丈夫不喜欢。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "lamb", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "husband", "roles": ["主语"] },
+        { "text": "doesn't", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "My husband likes steak, but he doesn't like chicken.",
+      "zh": "我丈夫喜欢吃牛排，但他不喜欢吃鸡。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "husband", "roles": ["主语"] },
+        { "text": "likes", "roles": ["谓语"] },
+        { "text": "steak", "roles": ["宾语"] },
+        { "text": "but", "roles": ["连词"] },
+        { "text": "he", "roles": ["主语"] },
+        { "text": "doesn't", "roles": ["谓语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "chicken", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "To tell you the truth, I don't like chicken either!",
+      "zh": "老实说，我也不喜欢吃鸡！",
+      "analysis": [
+        { "text": "To", "roles": ["状语"] },
+        { "text": "tell", "roles": ["状语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "the", "roles": ["定语"] },
+        { "text": "truth", "roles": ["宾语"] },
+        { "text": "I", "roles": ["主语"] },
+        { "text": "don't", "roles": ["谓语"] },
+        { "text": "like", "roles": ["谓语"] },
+        { "text": "chicken", "roles": ["宾语"] },
+        { "text": "either", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Do you want any meat today, Mrs. Bird?", "zh": "伯德夫人，您今天要买点肉吗？" },
+    { "en": "Do you want beef or lamb?", "zh": "您要牛肉还是羔羊肉？" },
+    { "en": "This lamb's very good.", "zh": "这羔羊肉很好。" },
+    { "en": "I like lamb, but my husband doesn't.", "zh": "我喜欢羔羊肉，可我丈夫不喜欢。" },
+    { "en": "What about some steak?", "zh": "来点牛排怎么样？" },
+    { "en": "This is a nice piece.", "zh": "这块很好。" },
+    { "en": "Give me that piece, please.", "zh": "请把那一块给我。" },
+    { "en": "And a pound of mince, too.", "zh": "再来一磅肉馅。" },
+    { "en": "Do you want a chicken, Mrs. Bird?", "zh": "伯德夫人，您要买只鸡吗？" },
+    { "en": "No, thank you.", "zh": "不，谢谢。" },
+    { "en": "My husband likes steak, but he doesn't like chicken.", "zh": "我丈夫喜欢吃牛排，但他不喜欢吃鸡。" },
+    { "en": "To tell you the truth, I don't like chicken either!", "zh": "老实说，我也不喜欢吃鸡！" }
+  ]
+}
