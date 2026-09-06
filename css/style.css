@@ -270,6 +270,7 @@ html, body {
 .set-row b { width: 44px; text-align: right; color: var(--primary-dark); font-size: 14px; }
 .sec-sub { display: block; font-size: 15px; margin-bottom: 8px; }
 .set-p { font-size: 13px; color: var(--muted); margin: 4px 0; line-height: 1.7; }
+.set-select { width: 100%; margin-top: 6px; padding: 10px; border: 1px solid #F0DFCE; border-radius: 10px; background: #FFFDF9; font-size: 15px; color: var(--text); }
 .danger { border-color: #F5D5CF; }
 .about { text-align: center; color: var(--faint); font-size: 12px; margin-top: 18px; }
 

@@ -957,9 +957,23 @@ function renderSettings() {
       </div>
     </div>
     <div class="card set-card">
+      <b class="sec-sub">🔊 发音设置</b>
+      ${('speechSynthesis' in window) ? `
+      <div class="set-row" style="flex-wrap:wrap">
+        <label>英文音色</label>
+        <select class="set-select" id="set-voice"></select>
+      </div>
+      <button class="btn btn-sm" id="set-voice-test">🔊 试听所选音色</button>
+      <p class="set-p">每台设备的音色都不一样（电脑、平板、手机各是各的），在这里挑一个你喜欢的。手机上若完全没声音，请用系统浏览器（Chrome / Safari / Edge）打开本网站 —— 微信内置浏览器不支持发音。</p>`
+      : `<p class="set-p" style="color:#D95D4E">当前浏览器不支持系统发音。请用 Chrome / Safari / Edge 等系统浏览器打开本网站（微信里点右上角「···」→「在浏览器中打开」）。</p>`}
+    </div>
+    <div class="card set-card">
       <b class="sec-sub">📲 安装到手机桌面（像 App 一样用）</b>
-      <p class="set-p">iPhone：用 Safari 打开网址 → 点底部「分享」→ 「添加到主屏幕」</p>
-      <p class="set-p">安卓：用 Chrome 打开网址 → 右上角菜单 → 「安装应用 / 添加到主屏幕」</p>
+      <button class="btn btn-primary btn-block hidden" id="install-btn">📲 一键安装到桌面</button>
+      <p class="set-p">上面没有按钮时，手动操作：</p>
+      <p class="set-p">iPhone / iPad：用 <b>Safari</b> 打开网址 → 点底部「分享」→ 「添加到主屏幕」</p>
+      <p class="set-p">安卓：用 <b>Chrome / Edge</b> 打开网址 → 右上角菜单「⋮」→ 「安装应用」或「添加到主屏幕」</p>
+      <p class="set-p">⚠️ 微信里打开的页面不能安装也不能发音，请点微信右上角「···」→「在浏览器中打开」。</p>
     </div>
     <div class="card set-card">
       <b class="sec-sub">💾 数据说明</b>
@@ -968,7 +982,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.1.5 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.1.6 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
@@ -979,6 +993,49 @@ function renderSettings() {
   }
   bindSlider('set-dict', 'v-dict', 'dictRate');
   bindSlider('set-shadow', 'v-shadow', 'shadowRate');
+
+  /* 音色选择：列出设备上的英文声音，挑中后保存 */
+  if ('speechSynthesis' in window) {
+    const sel = $('#set-voice', s);
+    const fill = () => {
+      const vs = listVoices();
+      if (!vs.length) { sel.innerHTML = '<option>声音列表加载中…请稍候</option>'; return; }
+      const cur = ttsVoice && ttsVoice.name;
+      sel.innerHTML = vs.map(v =>
+        `<option value="${esc(v.name)}" ${v.name === cur ? 'selected' : ''}>${esc(v.name)}（${esc(v.lang)}）</option>`).join('');
+    };
+    fill();
+    speechSynthesis.addEventListener('voiceschanged', fill);
+    sel.addEventListener('change', () => {
+      Settings.set({ voice: sel.value });
+      pickVoice();
+      toast('已切换音色');
+    });
+    $('#set-voice-test', s).addEventListener('click', () => {
+      if (sel.value) Settings.set({ voice: sel.value });
+      pickVoice();
+      speak('Nice to meet you. Let us learn English together.');
+    });
+  }
+
+  /* 一键安装到桌面（支持此功能的浏览器会显示按钮） */
+  const ib = $('#install-btn', s);
+  if (ib) {
+    if (window.__deferredInstall) ib.classList.remove('hidden');
+    ib.addEventListener('click', () => {
+      const ev = window.__deferredInstall;
+      if (ev) {
+        ev.prompt();
+        ev.userChoice.then(c => {
+          window.__deferredInstall = null;
+          ib.classList.add('hidden');
+          if (c.outcome === 'accepted') toast('正在安装…');
+        });
+      } else {
+        toast('当前浏览器不支持一键安装，请按下面说明手动操作');
+      }
+    });
+  }
 
   $('#set-clear', s).addEventListener('click', () => {
     if (confirm('确定清空所有学习数据吗？此操作无法恢复。')) {
@@ -1004,4 +1061,16 @@ document.addEventListener('DOMContentLoaded', () => {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   }
+  /* 浏览器提示「可以安装」时拦下来，改为在设置页显示安装按钮 */
+  window.__deferredInstall = null;
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    window.__deferredInstall = e;
+    const ib = $('#install-btn');
+    if (ib) ib.classList.remove('hidden');
+  });
+  window.addEventListener('appinstalled', () => {
+    window.__deferredInstall = null;
+    toast('安装成功 🎉');
+  });
 });
