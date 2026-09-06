@@ -1,0 +1,151 @@
+{
+  "id": "L007",
+  "title": "Lesson 7 · Are you a teacher?",
+  "titleZh": "第7课 你是教师吗？",
+  "words": [
+    {
+      "word": "I",
+      "phonetic": "/aɪ/",
+      "meaning": "pron. 我",
+      "examples": [
+        { "en": "I am a new student.", "zh": "我是一名新来的学生。" },
+        { "en": "I like English.", "zh": "我喜欢英语。" }
+      ]
+    },
+    {
+      "word": "am",
+      "phonetic": "/æm/",
+      "meaning": "v. be 动词（和 I 连用，是）",
+      "examples": [
+        { "en": "I am a student.", "zh": "我是一名学生。" },
+        { "en": "Yes, I am.", "zh": "是的，我是。" }
+      ]
+    },
+    {
+      "word": "are",
+      "phonetic": "/ɑː(r)/",
+      "meaning": "v. be 动词（和 you/复数连用，是）",
+      "examples": [
+        { "en": "Are you French?", "zh": "你是法国人吗？" },
+        { "en": "Are you a teacher?", "zh": "你是教师吗？" }
+      ]
+    },
+    {
+      "word": "name",
+      "phonetic": "/neɪm/",
+      "meaning": "n. 名字",
+      "examples": [
+        { "en": "My name's Robert.", "zh": "我的名字叫罗伯特。" },
+        { "en": "What's your name?", "zh": "你叫什么名字？" }
+      ]
+    },
+    {
+      "word": "what",
+      "phonetic": "/wɒt/",
+      "meaning": "pron. 什么",
+      "examples": [
+        { "en": "What nationality are you?", "zh": "你是哪国人？" },
+        { "en": "What's your job?", "zh": "你是做什么工作的？" }
+      ]
+    },
+    {
+      "word": "nationality",
+      "phonetic": "/ˌnæʃəˈnæləti/",
+      "meaning": "n. 国籍",
+      "examples": [
+        { "en": "What nationality are you?", "zh": "你是哪国人？" }
+      ]
+    },
+    {
+      "word": "job",
+      "phonetic": "/dʒɒb/",
+      "meaning": "n. 工作",
+      "examples": [
+        { "en": "What's your job?", "zh": "你是做什么工作的？" },
+        { "en": "My job is teaching English.", "zh": "我的工作是教英语。" }
+      ]
+    },
+    {
+      "word": "keyboard",
+      "phonetic": "/ˈkiːbɔːd/",
+      "meaning": "n. 键盘",
+      "examples": [
+        { "en": "I'm a keyboard operator.", "zh": "我是一名电脑录入员。" },
+        { "en": "This keyboard is new.", "zh": "这个键盘是新的。" }
+      ]
+    },
+    {
+      "word": "operator",
+      "phonetic": "/ˈɒpəreɪtə(r)/",
+      "meaning": "n. 操作人员",
+      "examples": [
+        { "en": "I'm a keyboard operator.", "zh": "我是一名电脑录入员。" }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə(r)/",
+      "meaning": "n. 工程师",
+      "examples": [
+        { "en": "He is an engineer.", "zh": "他是一名工程师。" },
+        { "en": "My father is an engineer.", "zh": "我爸爸是一名工程师。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I am a new student.",
+      "zh": "我是一名新来的学生。",
+      "analysis": [
+        { "text": "I", "roles": ["主语"] },
+        { "text": "am", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "student", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Are you French?",
+      "zh": "你是法国人吗？",
+      "analysis": [
+        { "text": "Are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "French", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "What nationality are you?",
+      "zh": "你是哪国人？",
+      "analysis": [
+        { "text": "What nationality", "roles": ["表语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "I'm a keyboard operator.",
+      "zh": "我是一名电脑录入员。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语", "谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "keyboard operator", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "I am a new student.", "zh": "我是一名新来的学生。" },
+    { "en": "My name's Robert.", "zh": "我的名字叫罗伯特。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+    { "en": "My name's Sophie.", "zh": "我的名字叫索菲娅。" },
+    { "en": "Are you French?", "zh": "你是法国人吗？" },
+    { "en": "Yes, I am.", "zh": "是的，我是。" },
+    { "en": "Are you French, too?", "zh": "你也是法国人吗？" },
+    { "en": "No, I am not.", "zh": "不，我不是。" },
+    { "en": "What nationality are you?", "zh": "你是哪国人？" },
+    { "en": "I'm Italian.", "zh": "我是意大利人。" },
+    { "en": "Are you a teacher?", "zh": "你是教师吗？" },
+    { "en": "No, I'm not.", "zh": "不，我不是。" },
+    { "en": "What's your job?", "zh": "你是做什么工作的？" },
+    { "en": "I'm a keyboard operator.", "zh": "我是一名电脑录入员。" }
+  ]
+}

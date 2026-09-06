@@ -1,0 +1,145 @@
+{
+  "id": "L009",
+  "title": "Lesson 9 · How are you today?",
+  "titleZh": "第9课 你今天好吗？",
+  "words": [
+    {
+      "word": "hello",
+      "phonetic": "/həˈləʊ/",
+      "meaning": "int. 喂（表示问候）",
+      "examples": [
+        { "en": "Hello, Helen.", "zh": "你好，海伦。" },
+        { "en": "Hello, how are you?", "zh": "你好，你好吗？" }
+      ]
+    },
+    {
+      "word": "hi",
+      "phonetic": "/haɪ/",
+      "meaning": "int. 喂，嗨",
+      "examples": [
+        { "en": "Hi, Steven.", "zh": "你好，史蒂文。" },
+        { "en": "Hi, nice to see you.", "zh": "嗨，见到你很高兴。" }
+      ]
+    },
+    {
+      "word": "how",
+      "phonetic": "/haʊ/",
+      "meaning": "adv. 怎样",
+      "examples": [
+        { "en": "How are you today?", "zh": "你今天好吗？" },
+        { "en": "How is Tony?", "zh": "托尼好吗？" }
+      ]
+    },
+    {
+      "word": "today",
+      "phonetic": "/təˈdeɪ/",
+      "meaning": "adv. 今天",
+      "examples": [
+        { "en": "How are you today?", "zh": "你今天好吗？" },
+        { "en": "I'm fine today.", "zh": "我今天很好。" }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "/wel/",
+      "meaning": "adj. 身体好，健康的",
+      "examples": [
+        { "en": "I'm very well, thank you.", "zh": "我很好，谢谢你。" },
+        { "en": "She is well today.", "zh": "她今天身体很好。" }
+      ]
+    },
+    {
+      "word": "fine",
+      "phonetic": "/faɪn/",
+      "meaning": "adj. 美好的；身体好的",
+      "examples": [
+        { "en": "I'm fine, thanks.", "zh": "我很好，谢谢。" },
+        { "en": "What a fine day!", "zh": "多好的天气啊！" }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "meaning": "int. 谢谢",
+      "examples": [
+        { "en": "I'm fine, thanks.", "zh": "我很好，谢谢。" },
+        { "en": "Thanks a lot.", "zh": "多谢。" }
+      ]
+    },
+    {
+      "word": "goodbye",
+      "phonetic": "/ˌɡʊdˈbaɪ/",
+      "meaning": "int. 再见",
+      "examples": [
+        { "en": "Goodbye, Helen.", "zh": "再见，海伦。" }
+      ]
+    },
+    {
+      "word": "see",
+      "phonetic": "/siː/",
+      "meaning": "v. 看见，见到",
+      "examples": [
+        { "en": "Nice to see you.", "zh": "见到你很高兴。" },
+        { "en": "I see a bird.", "zh": "我看见一只鸟。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How are you today?",
+      "zh": "你今天好吗？",
+      "analysis": [
+        { "text": "How", "roles": ["表语"] },
+        { "text": "are", "roles": ["谓语"] },
+        { "text": "you", "roles": ["主语"] },
+        { "text": "today", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "I'm very well, thank you.",
+      "zh": "我很好，谢谢你。",
+      "analysis": [
+        { "text": "I'm", "roles": ["主语", "谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "well", "roles": ["表语"] },
+        { "text": "thank", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Nice to see you.",
+      "zh": "见到你很高兴。",
+      "analysis": [
+        { "text": "Nice", "roles": ["表语"] },
+        { "text": "to see", "roles": ["状语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "She's very well, too.",
+      "zh": "她也很好。",
+      "analysis": [
+        { "text": "She's", "roles": ["主语", "谓语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "well", "roles": ["表语"] },
+        { "text": "too", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Hello, Helen.", "zh": "你好，海伦。" },
+    { "en": "Hi, Steven.", "zh": "你好，史蒂文。" },
+    { "en": "How are you today?", "zh": "你今天好吗？" },
+    { "en": "I'm very well, thank you.", "zh": "我很好，谢谢你。" },
+    { "en": "And you?", "zh": "你好吗？" },
+    { "en": "I'm fine, thanks.", "zh": "我很好，谢谢。" },
+    { "en": "How is Tony?", "zh": "托尼好吗？" },
+    { "en": "He's fine, thanks.", "zh": "他很好，谢谢。" },
+    { "en": "How's Emma?", "zh": "埃玛好吗？" },
+    { "en": "She's very well, too, Helen.", "zh": "她也很好，海伦。" },
+    { "en": "Goodbye, Helen.", "zh": "再见，海伦。" },
+    { "en": "Nice to see you.", "zh": "见到你很高兴。" },
+    { "en": "Nice to see you, too, Steven.", "zh": "见到你也很高兴，史蒂文。" },
+    { "en": "Goodbye.", "zh": "再见。" }
+  ]
+}

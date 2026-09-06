@@ -1,0 +1,9 @@
+{
+  "lessons": [
+    { "id": "L001", "title": "Lesson 1 · Excuse me!", "titleZh": "第1课 对不起！", "wordCount": 11, "sentenceCount": 4 },
+    { "id": "L003", "title": "Lesson 3 · Sorry, sir.", "titleZh": "第3课 对不起，先生。", "wordCount": 10, "sentenceCount": 4 },
+    { "id": "L005", "title": "Lesson 5 · Nice to meet you.", "titleZh": "第5课 很高兴见到你。", "wordCount": 14, "sentenceCount": 4 },
+    { "id": "L007", "title": "Lesson 7 · Are you a teacher?", "titleZh": "第7课 你是教师吗？", "wordCount": 10, "sentenceCount": 4 },
+    { "id": "L009", "title": "Lesson 9 · How are you today?", "titleZh": "第9课 你今天好吗？", "wordCount": 9, "sentenceCount": 4 }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "L003",
+  "title": "Lesson 3 · Sorry, sir.",
+  "titleZh": "第3课 对不起，先生。",
+  "words": [
+    {
+      "word": "umbrella",
+      "phonetic": "/ʌmˈbrelə/",
+      "meaning": "n. 伞",
+      "examples": [
+        { "en": "Is this your umbrella?", "zh": "这把伞是您的吗？" },
+        { "en": "It's raining. Take an umbrella.", "zh": "下雨了，带把伞吧。" }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meaning": "int. 请",
+      "examples": [
+        { "en": "My coat and my umbrella please.", "zh": "请把我的大衣和伞拿给我。" },
+        { "en": "A cup of tea, please.", "zh": "请来一杯茶。" }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə(r)/",
+      "meaning": "adv. 这里",
+      "examples": [
+        { "en": "Here is my ticket.", "zh": "这是我的牌子。" },
+        { "en": "Here you are.", "zh": "给你。" }
+      ]
+    },
+    {
+      "word": "my",
+      "phonetic": "/maɪ/",
+      "meaning": "pron. 我的",
+      "examples": [
+        { "en": "This is my coat.", "zh": "这是我的大衣。" },
+        { "en": "My name is Robert.", "zh": "我的名字叫罗伯特。" }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meaning": "n. 票；牌子",
+      "examples": [
+        { "en": "Here is my ticket.", "zh": "这是我的（寄存）牌。" },
+        { "en": "I have two tickets.", "zh": "我有两张票。" }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "/ˈnʌmbə(r)/",
+      "meaning": "n. 号码",
+      "examples": [
+        { "en": "Number five.", "zh": "是5号。" },
+        { "en": "What's your phone number?", "zh": "你的电话号码是多少？" }
+      ]
+    },
+    {
+      "word": "five",
+      "phonetic": "/faɪv/",
+      "meaning": "num. 五",
+      "examples": [
+        { "en": "Number five.", "zh": "5号。" },
+        { "en": "I'm five years old.", "zh": "我五岁了。" }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meaning": "adj. 对不起的，抱歉的",
+      "examples": [
+        { "en": "Sorry, sir.", "zh": "对不起，先生。" },
+        { "en": "I'm sorry.", "zh": "我很抱歉。" }
+      ]
+    },
+    {
+      "word": "sir",
+      "phonetic": "/sɜː(r)/",
+      "meaning": "n. 先生",
+      "examples": [
+        { "en": "Sorry, sir.", "zh": "对不起，先生。" },
+        { "en": "Yes, sir.", "zh": "是的，先生。" }
+      ]
+    },
+    {
+      "word": "cloakroom",
+      "phonetic": "/ˈkləʊkruːm/",
+      "meaning": "n. 衣帽存放处",
+      "examples": [
+        { "en": "Where is the cloakroom?", "zh": "衣帽存放处在哪儿？" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "My coat and my umbrella please.",
+      "zh": "请把我的大衣和伞拿给我。",
+      "analysis": [
+        { "text": "My", "roles": ["定语"] },
+        { "text": "coat", "roles": ["宾语"] },
+        { "text": "and", "roles": ["连词"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "umbrella", "roles": ["宾语"] },
+        { "text": "please", "roles": ["状语"] }
+      ]
+    },
+    {
+      "en": "Here is my ticket.",
+      "zh": "这是我的（寄存）牌。",
+      "analysis": [
+        { "text": "Here", "roles": ["状语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "ticket", "roles": ["主语"] }
+      ]
+    },
+    {
+      "en": "This is not my umbrella.",
+      "zh": "这不是我的伞。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "not", "roles": ["状语"] },
+        { "text": "my", "roles": ["定语"] },
+        { "text": "umbrella", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Is this your umbrella?",
+      "zh": "这把伞是您的吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "your", "roles": ["定语"] },
+        { "text": "umbrella", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "My coat and my umbrella please.", "zh": "请把我的大衣和伞拿给我。" },
+    { "en": "Here is my ticket.", "zh": "这是我的（寄存）牌。" },
+    { "en": "Thank you, sir.", "zh": "谢谢，先生。" },
+    { "en": "Number five.", "zh": "是5号。" },
+    { "en": "Here's your umbrella and your coat.", "zh": "这是您的伞和大衣。" },
+    { "en": "This is not my umbrella.", "zh": "这不是我的伞。" },
+    { "en": "Sorry, sir.", "zh": "对不起，先生。" },
+    { "en": "Is this your umbrella?", "zh": "这把伞是您的吗？" },
+    { "en": "No, it isn't.", "zh": "不，不是！" },
+    { "en": "Is this it?", "zh": "这把是吗？" },
+    { "en": "Yes, it is.", "zh": "是，是这把。" },
+    { "en": "Thank you very much.", "zh": "非常感谢。" }
+  ]
+}

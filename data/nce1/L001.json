@@ -1,0 +1,151 @@
+{
+  "id": "L001",
+  "title": "Lesson 1 · Excuse me!",
+  "titleZh": "第1课 对不起！",
+  "words": [
+    {
+      "word": "excuse",
+      "phonetic": "/ɪkˈskjuːz/",
+      "meaning": "v. 原谅",
+      "examples": [
+        { "en": "Excuse me!", "zh": "对不起，请原谅！" },
+        { "en": "Excuse me, is this your handbag?", "zh": "对不起，这是你的手提包吗？" }
+      ]
+    },
+    {
+      "word": "me",
+      "phonetic": "/miː/",
+      "meaning": "pron. 我（宾格）",
+      "examples": [
+        { "en": "Excuse me!", "zh": "对不起！" },
+        { "en": "Please give me the book.", "zh": "请把书给我。" }
+      ]
+    },
+    {
+      "word": "yes",
+      "phonetic": "/jes/",
+      "meaning": "adv. 是的",
+      "examples": [
+        { "en": "Yes, it is.", "zh": "是的，它是。" }
+      ]
+    },
+    {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "meaning": "v. be 动词第三人称单数（是）",
+      "examples": [
+        { "en": "Is this your handbag?", "zh": "这是你的手提包吗？" },
+        { "en": "This is my book.", "zh": "这是我的书。" }
+      ]
+    },
+    {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "meaning": "pron. 这，这个",
+      "examples": [
+        { "en": "Is this your handbag?", "zh": "这是你的手提包吗？" }
+      ]
+    },
+    {
+      "word": "your",
+      "phonetic": "/jɔː(r)/",
+      "meaning": "pron. 你的，你们的",
+      "examples": [
+        { "en": "Is this your handbag?", "zh": "这是你的手提包吗？" },
+        { "en": "Your coat, please.", "zh": "请把您的大衣给我。" }
+      ]
+    },
+    {
+      "word": "handbag",
+      "phonetic": "/ˈhændbæɡ/",
+      "meaning": "n. （女用）手提包",
+      "examples": [
+        { "en": "This is my handbag.", "zh": "这是我的（女用）手提包。" },
+        { "en": "Your handbag is very nice.", "zh": "你的手提包很漂亮。" }
+      ]
+    },
+    {
+      "word": "pardon",
+      "phonetic": "/ˈpɑːdn/",
+      "meaning": "int. 原谅，请再说一遍",
+      "examples": [
+        { "en": "Pardon?", "zh": "请再说一遍？" },
+        { "en": "Pardon? I didn't hear you.", "zh": "请再说一遍？我没听清。" }
+      ]
+    },
+    {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "meaning": "pron. 它",
+      "examples": [
+        { "en": "Yes, it is.", "zh": "是的，它是。" },
+        { "en": "It is my book.", "zh": "它是我的书。" }
+      ]
+    },
+    {
+      "word": "thank",
+      "phonetic": "/θæŋk/",
+      "meaning": "v. 感谢",
+      "examples": [
+        { "en": "Thank you very much.", "zh": "非常感谢。" }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meaning": "adv. 很，非常",
+      "examples": [
+        { "en": "Thank you very much.", "zh": "非常感谢。" },
+        { "en": "I like English very much.", "zh": "我非常喜欢英语。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Excuse me!",
+      "zh": "对不起！",
+      "analysis": [
+        { "text": "Excuse", "roles": ["谓语"] },
+        { "text": "me", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "Is this your handbag?",
+      "zh": "这是你的手提包吗？",
+      "analysis": [
+        { "text": "Is", "roles": ["谓语"] },
+        { "text": "this", "roles": ["主语"] },
+        { "text": "your", "roles": ["定语"] },
+        { "text": "handbag", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Yes, it is.",
+      "zh": "是的，它是。",
+      "analysis": [
+        { "text": "Yes", "roles": ["感叹词"] },
+        { "text": "it", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] }
+      ]
+    },
+    {
+      "en": "Thank you very much.",
+      "zh": "非常感谢。",
+      "analysis": [
+        { "text": "Thank", "roles": ["谓语"] },
+        { "text": "you", "roles": ["宾语"] },
+        { "text": "very", "roles": ["状语"] },
+        { "text": "much", "roles": ["状语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Excuse me!", "zh": "对不起！" },
+    { "en": "Yes?", "zh": "什么事？" },
+    { "en": "Is this your handbag?", "zh": "这是你的手提包吗？" },
+    { "en": "Pardon?", "zh": "对不起，请再说一遍。" },
+    { "en": "Is this your handbag?", "zh": "这是你的手提包吗？" },
+    { "en": "Yes, it is.", "zh": "是的，是我的。" },
+    { "en": "Thank you very much.", "zh": "非常感谢！" }
+  ]
+}

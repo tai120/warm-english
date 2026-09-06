@@ -1,0 +1,191 @@
+{
+  "id": "L005",
+  "title": "Lesson 5 · Nice to meet you.",
+  "titleZh": "第5课 很高兴见到你。",
+  "words": [
+    {
+      "word": "Mr.",
+      "phonetic": "/ˈmɪstə(r)/",
+      "meaning": "n. 先生（用在姓氏前）",
+      "examples": [
+        { "en": "Good morning, Mr. Blake.", "zh": "早上好，布莱克先生。" }
+      ]
+    },
+    {
+      "word": "good",
+      "phonetic": "/ɡʊd/",
+      "meaning": "adj. 好",
+      "examples": [
+        { "en": "Good morning.", "zh": "早上好。" },
+        { "en": "She is a good student.", "zh": "她是个好学生。" }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meaning": "n. 早晨",
+      "examples": [
+        { "en": "Good morning.", "zh": "早上好。" },
+        { "en": "I get up early in the morning.", "zh": "我早晨起得早。" }
+      ]
+    },
+    {
+      "word": "Miss",
+      "phonetic": "/mɪs/",
+      "meaning": "n. 小姐（用在姓氏前）",
+      "examples": [
+        { "en": "This is Miss Sophie Dupont.", "zh": "这位是索菲娅·杜邦小姐。" }
+      ]
+    },
+    {
+      "word": "new",
+      "phonetic": "/njuː/",
+      "meaning": "adj. 新的",
+      "examples": [
+        { "en": "Sophie is a new student.", "zh": "索菲娅是新来的学生。" },
+        { "en": "This is my new car.", "zh": "这是我的新车。" }
+      ]
+    },
+    {
+      "word": "student",
+      "phonetic": "/ˈstjuːdnt/",
+      "meaning": "n. 学生",
+      "examples": [
+        { "en": "Sophie is a new student.", "zh": "索菲娅是新来的学生。" },
+        { "en": "I am a student.", "zh": "我是一名学生。" }
+      ]
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meaning": "adj. & n. 法国人；法语",
+      "examples": [
+        { "en": "She is French.", "zh": "她是法国人。" },
+        { "en": "I can speak French.", "zh": "我会说法语。" }
+      ]
+    },
+    {
+      "word": "German",
+      "phonetic": "/ˈdʒɜːmən/",
+      "meaning": "adj. & n. 德国人；德语",
+      "examples": [
+        { "en": "He is German.", "zh": "他是德国人。" },
+        { "en": "This car is German.", "zh": "这辆车是德国产的。" }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meaning": "adj. 美好的，令人愉快的",
+      "examples": [
+        { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+        { "en": "What a nice day!", "zh": "多好的天气啊！" }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meaning": "v. 遇见，见面",
+      "examples": [
+        { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+        { "en": "I meet my friend every day.", "zh": "我每天见我的朋友。" }
+      ]
+    },
+    {
+      "word": "Japanese",
+      "phonetic": "/ˌdʒæpəˈniːz/",
+      "meaning": "adj. & n. 日本人；日语",
+      "examples": [
+        { "en": "She's Japanese.", "zh": "她是日本人。" }
+      ]
+    },
+    {
+      "word": "Korean",
+      "phonetic": "/kəˈriən/",
+      "meaning": "adj. & n. 韩国人；韩语",
+      "examples": [
+        { "en": "He's Korean.", "zh": "他是韩国人。" }
+      ]
+    },
+    {
+      "word": "Chinese",
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "meaning": "adj. & n. 中国人；汉语",
+      "examples": [
+        { "en": "He's Chinese.", "zh": "他是中国人。" },
+        { "en": "I'm Chinese.", "zh": "我是中国人。" }
+      ]
+    },
+    {
+      "word": "too",
+      "phonetic": "/tuː/",
+      "meaning": "adv. 也",
+      "examples": [
+        { "en": "She's Chinese, too.", "zh": "她也是中国人。" },
+        { "en": "I like it, too.", "zh": "我也喜欢它。" }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Sophie is a new student.",
+      "zh": "索菲娅是一名新来的学生。",
+      "analysis": [
+        { "text": "Sophie", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "a", "roles": ["定语"] },
+        { "text": "new", "roles": ["定语"] },
+        { "text": "student", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "She is French.",
+      "zh": "她是法国人。",
+      "analysis": [
+        { "text": "She", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "French", "roles": ["表语"] }
+      ]
+    },
+    {
+      "en": "Nice to meet you.",
+      "zh": "很高兴见到你。",
+      "analysis": [
+        { "text": "Nice", "roles": ["表语"] },
+        { "text": "to meet", "roles": ["状语"] },
+        { "text": "you", "roles": ["宾语"] }
+      ]
+    },
+    {
+      "en": "This is Miss Sophie Dupont.",
+      "zh": "这位是索菲娅·杜邦小姐。",
+      "analysis": [
+        { "text": "This", "roles": ["主语"] },
+        { "text": "is", "roles": ["谓语"] },
+        { "text": "Miss Sophie Dupont", "roles": ["表语"] }
+      ]
+    }
+  ],
+  "article": [
+    { "en": "Good morning.", "zh": "早上好。" },
+    { "en": "Good morning, Mr. Blake.", "zh": "早上好，布莱克先生。" },
+    { "en": "This is Miss Sophie Dupont.", "zh": "这位是索菲娅·杜邦小姐。" },
+    { "en": "Sophie is a new student.", "zh": "索菲娅是新来的学生。" },
+    { "en": "She is French.", "zh": "她是法国人。" },
+    { "en": "Sophie, this is Hans.", "zh": "索菲娅，这位是汉斯。" },
+    { "en": "He is German.", "zh": "他是德国人。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+    { "en": "And this is Naoko.", "zh": "这位是直子。" },
+    { "en": "She's Japanese.", "zh": "她是日本人。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+    { "en": "And this is Chang-woo.", "zh": "这位是昌宇。" },
+    { "en": "He's Korean.", "zh": "他是韩国人。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+    { "en": "And this is Luming.", "zh": "这位是鲁明。" },
+    { "en": "He's Chinese.", "zh": "他是中国人。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" },
+    { "en": "And this is Xiaohui.", "zh": "这位是晓惠。" },
+    { "en": "She's Chinese, too.", "zh": "她也是中国人。" },
+    { "en": "Nice to meet you.", "zh": "很高兴见到你。" }
+  ]
+}
