@@ -416,6 +416,7 @@ function renderDictation() {
           </span>`).join('')}
       </div>
       <div class="dict-actions">
+        <button class="btn" id="dict-fix" style="display:none">✏️ 只重写错词</button>
         <button class="btn" id="dict-retry" style="display:none">🔄 再试一次</button>
         <button class="btn btn-primary" id="dict-submit">提交答案</button>
         <button class="btn" id="dict-next" style="display:none">下一个句子 ›</button>
@@ -426,6 +427,23 @@ function renderDictation() {
   speak(sen.en, Settings.get().dictRate);
   $('#dict-play', s).addEventListener('click', () => speak(sen.en, Settings.get().dictRate));
   $('#dict-submit', s).addEventListener('click', () => submitDictation(sen, tokens));
+  /* 只重写错词：写错的空格清空重填，写对的保持不动 */
+  $('#dict-fix', s).addEventListener('click', () => {
+    const wrongs = $$('.dict-inp.wrong', s);
+    wrongs.forEach(inp => {
+      inp.classList.remove('wrong');
+      inp.value = '';
+      inp.disabled = false;
+      delete inp.dataset.done;
+    });
+    state.dictFinished = false;
+    $('#dict-fix', s).style.display = 'none';
+    $('#dict-retry', s).style.display = 'none';
+    $('#dict-next', s).style.display = 'none';
+    $('#dict-submit', s).style.display = '';
+    $('#dict-result', s).innerHTML = `<p class="hint" style="margin:8px 0 0">还剩 ${wrongs.length} 个词，改写后再提交</p>`;
+    if (wrongs[0]) wrongs[0].focus();
+  });
   $('#dict-retry', s).addEventListener('click', () => renderDictation());
   $('#dict-next', s).addEventListener('click', nextSentence);
   const line = $('.dict-line', s); /* 注意：这里是 class 选择器 */
@@ -491,6 +509,7 @@ function submitDictation(sen, tokens) {
   state.dictFinished = true;
   $('#dict-submit', s).style.display = 'none';
   $('#dict-retry', s).style.display = '';
+  if ($$('.dict-inp.wrong', s).length) $('#dict-fix', s).style.display = '';
   const nextBtn = $('#dict-next', s);
   nextBtn.style.display = '';
   nextBtn.textContent = state.dictIdx + 1 < state.lesson.sentences.length ? '下一个句子 ›' : '本课完成 ✓';
@@ -982,7 +1001,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.2.0 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.2.1 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
