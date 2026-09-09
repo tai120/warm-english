@@ -407,6 +407,7 @@ function renderDictation() {
     <div class="card dict-body">
       <button class="btn btn-primary btn-big" id="dict-play">🔊 播放发音</button>
       <p class="hint" style="text-align:center;margin:12px 0 0">共 ${tokens.length} 个单词 · 写完一个单词自动跳下一个空（空格键也可以跳）</p>
+      <p class="hint" style="text-align:center;margin:6px 0 0;color:var(--primary-dark)">💡 中文提示：${esc(sen.zh)}</p>
       <div class="dict-line">
         ${tokens.map((t, i) => `
           <span class="dict-tok">
@@ -1001,7 +1002,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.2.1 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.2.2 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
