@@ -144,20 +144,13 @@ async function renderHome() {
       return;
     }
   }
-  const due = Book.due().length;
-  const total = Object.keys(Book.all()).length;
   s.innerHTML = `
     <header class="hero">
       <img src="icons/icon-192.png" class="hero-logo" alt="logo">
       <h1>暖学英语</h1>
       <p>温暖的英语学习小助手</p>
     </header>
-    <div class="card stats-row" id="go-book">
-      <div><b>${total}</b><span>生词本单词</span></div>
-      <div><b>${due}</b><span>待复习</span></div>
-      <div class="link">去复习 ›</div>
-    </div>
-    <h2 class="sec-title">选择教材</h2>
+    <h2 class="sec-title">开始学习</h2>
     ${state.textbooks.map(tb => `
       <div class="card tb-card" data-tb="${tb.id}">
         <div class="tb-icon">📘</div>
@@ -169,7 +162,6 @@ async function renderHome() {
         <div class="tb-arrow">›</div>
       </div>`).join('')}
   `;
-  $('#go-book', s).addEventListener('click', () => go('book'));
   $$('.tb-card', s).forEach(el => el.addEventListener('click', () => {
     state.textbook = state.textbooks.find(t => t.id === el.dataset.tb);
     go('lessons');
@@ -200,19 +192,15 @@ async function renderLessons() {
       <button class="icon-btn" data-back>‹</button>
       <div class="head-title"><b>${esc(tb.name)}</b><small>${esc(tb.nameEn)}</small></div>
     </div>
-    <p class="hint">已上线 ${index.lessons.length} 课 · 更多课程持续更新中</p>
+    <p class="hint">共 ${index.lessons.length} 课 · 每课若干重点句，听发音写句子</p>
     ${index.lessons.map(L => {
       const lp = Progress.lesson(p, L.id);
-      const wDone = `${lp.words.length}/${L.wordCount}`;
       const sDone = `${Object.keys(lp.scores).length}/${L.sentenceCount}`;
-      const aDone = lp.article;
       return `<div class="card lesson-card" data-id="${L.id}">
-        <div class="lc-num">${parseInt(L.id.replace(/\D/g, ''), 10)}</div>
+        <div class="lc-num">${parseInt(L.id.split('-').pop().replace(/\D/g, ''), 10)}</div>
         <div class="lc-info"><b>${esc(L.title)}</b><small>${esc(L.titleZh || '')}</small></div>
         <div class="lc-progress">
-          <span class="mini-chip">词 ${wDone}</span>
           <span class="mini-chip">句 ${sDone}</span>
-          <span class="mini-chip ${aDone ? 'done' : ''}">文 ${aDone ? '✓' : '✗'}</span>
         </div>
       </div>`;
     }).join('')}`;
@@ -229,7 +217,10 @@ async function renderLesson() {
   const { lessonId } = state.pageData;
   let L;
   try {
-    L = await (await fetch(`data/${state.textbook.id}/${lessonId}.json`)).json();
+    /* 合并后的课程编号形如 nce1-L001：前半是册，后半是文件名 */
+    const dash = lessonId.indexOf('-');
+    L = await (await fetch(`data/${lessonId.slice(0, dash)}/${lessonId.slice(dash + 1)}.json`)).json();
+    L.id = lessonId; /* 两册编号有重复，进度统一按“册-课”记录 */
   } catch (e) {
     s.innerHTML = '<div class="page-head"><button class="icon-btn" data-back>‹</button></div>' +
       '<div class="err-box">课程内容加载失败，请重试</div>';
@@ -238,34 +229,14 @@ async function renderLesson() {
   state.lesson = L;
   const p = Progress.get(state.textbook.id);
   const lp = Progress.lesson(p, L.id);
-  const wDone = lp.words.length;
-  const wdDone = Object.keys(lp.wScores || {}).length;
   const sDone = Object.keys(lp.scores).length;
-  const wPct = L.words.length ? Math.round(wDone / L.words.length * 100) : 0;
-  const wdPct = L.words.length ? Math.round(wdDone / L.words.length * 100) : 0;
   const sPct = L.sentences.length ? Math.round(sDone / L.sentences.length * 100) : 0;
   s.innerHTML = `
     <div class="page-head">
       <button class="icon-btn" data-back>‹</button>
       <div class="head-title"><b>${esc(L.title)}</b><small>${esc(L.titleZh || '')}</small></div>
     </div>
-    <p class="hint">词汇 ${wDone}/${L.words.length} · 单词听写 ${wdDone}/${L.words.length} · 句子 ${sDone}/${L.sentences.length} · 文章 ${lp.article ? '已完成' : '未完成'}</p>
-    <div class="card module-card" data-m="words">
-      <div class="mc-row">
-        <div class="mc-ico">📖</div>
-        <div class="mc-info"><b>词汇学习</b><span>${L.words.length} 个单词 · 卡片 + 例句</span></div>
-        <div class="mc-arrow">›</div>
-      </div>
-      <div class="mc-bar"><i style="width:${wPct}%"></i></div>
-    </div>
-    <div class="card module-card" data-m="wdict">
-      <div class="mc-row">
-        <div class="mc-ico">🔤</div>
-        <div class="mc-info"><b>单词听写</b><span>听音写单词 + 例句听写</span></div>
-        <div class="mc-arrow">›</div>
-      </div>
-      <div class="mc-bar"><i style="width:${wdPct}%"></i></div>
-    </div>
+    <p class="hint">本课 ${L.sentences.length} 个重点句 · 已完成 ${sDone} 句 · 听发音写句子，完成后点单词查词义</p>
     <div class="card module-card" data-m="sentences">
       <div class="mc-row">
         <div class="mc-ico">🎧</div>
@@ -273,14 +244,6 @@ async function renderLesson() {
         <div class="mc-arrow">›</div>
       </div>
       <div class="mc-bar"><i style="width:${sPct}%"></i></div>
-    </div>
-    <div class="card module-card" data-m="article">
-      <div class="mc-row">
-        <div class="mc-ico">🗣️</div>
-        <div class="mc-info"><b>文章跟读</b><span>影子跟读 · 逐句听 + 录音对比</span></div>
-        <div class="mc-arrow">›</div>
-      </div>
-      <div class="mc-bar"><i style="width:${lp.article ? 100 : 0}%"></i></div>
     </div>`;
   $$('.module-card', s).forEach(el => el.addEventListener('click', () => {
     if (el.dataset.m === 'wdict') { state.wdMode = 'list'; state.wdStep = 0; }
@@ -521,7 +484,7 @@ function submitDictation(sen, tokens) {
       <div class="res-ana">
         <b>句子成分解析</b>
         <div class="chips">${(sen.analysis || []).map(a => `
-          <span class="chip" style="--rc:${ROLE_COLOR[a.roles[0]] || ROLE_COLOR['其他']}">
+          <span class="chip" style="--rc:${ROLE_COLOR[a.roles[0]] || ROLE_COLOR['其他']};cursor:pointer">
             <b>${esc(a.text)}</b><i>${esc(a.roles.join('·'))}</i>
           </span>`).join('')}
         </div>
@@ -529,8 +492,21 @@ function submitDictation(sen, tokens) {
           `<span><i style="background:${ROLE_COLOR[k]}"></i>${k}</span>`).join('')}
         </div>
       </div>
+      <div class="word-tip" id="word-tip" style="margin:10px 0 0;padding:8px 10px;border-radius:8px;background:rgba(0,0,0,.04);font-size:14px;text-align:center">👆 点击上面的单词，查看词义和词性</div>
       <p class="res-note">💡 看一遍成分解析，再点「再试一次」练到全对</p>
     </div>`;
+  /* 点单词查词义：本课词表里有就显示音标+词性+词义，没有就显示句子成分 */
+  const wmap = {};
+  state.lesson.words.forEach(w => { wmap[normWord(w.word)] = w; });
+  $('.chips', $('#dict-result', s)).addEventListener('click', e => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    const text = chip.querySelector('b').textContent;
+    const w = wmap[normWord(text)];
+    $('#word-tip', s).textContent = w
+      ? `${w.word} ${w.phonetic || ''} — ${w.meaning}`
+      : `${text}：不在本课词表 · 成分：${chip.querySelector('i').textContent}`;
+  });
   if (score === 100) toast('太棒了！全部正确 🎉');
 }
 
@@ -1002,7 +978,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.2.2 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.3.0 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);

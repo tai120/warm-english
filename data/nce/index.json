@@ -1,0 +1,1180 @@
+{
+  "lessons": [
+    {
+      "id": "nce1-L001",
+      "title": "Lesson 1 · Excuse me!",
+      "titleZh": "第1课 对不起！（第一册）",
+      "wordCount": 11,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L003",
+      "title": "Lesson 3 · Sorry, sir.",
+      "titleZh": "第3课 对不起，先生。（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L005",
+      "title": "Lesson 5 · Nice to meet you.",
+      "titleZh": "第5课 很高兴见到你。（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L007",
+      "title": "Lesson 7 · Are you a teacher?",
+      "titleZh": "第7课 你是教师吗？（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L009",
+      "title": "Lesson 9 · How are you today?",
+      "titleZh": "第9课 你今天好吗？（第一册）",
+      "wordCount": 9,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L011",
+      "title": "Lesson 11 · Is this your shirt?",
+      "titleZh": "第11课 这是你的衬衫吗？（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L013",
+      "title": "Lesson 13 · A new dress",
+      "titleZh": "第13课 一件新连衣裙（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L015",
+      "title": "Lesson 15 · Your passports, please.",
+      "titleZh": "第15课 请出示你们的护照。（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L017",
+      "title": "Lesson 17 · How do you do?",
+      "titleZh": "第17课 你好！（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L019",
+      "title": "Lesson 19 · Tired and thirsty",
+      "titleZh": "第19课 又累又渴（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L021",
+      "title": "Lesson 21 · Which book?",
+      "titleZh": "第21课 哪一本书？（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L023",
+      "title": "Lesson 23 · Which glasses?",
+      "titleZh": "第23课 哪只杯子？（第一册）",
+      "wordCount": 10,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L025",
+      "title": "Lesson 25 · Mrs. Smith's kitchen",
+      "titleZh": "第25课 史密斯太太的厨房（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L027",
+      "title": "Lesson 27 · Mrs. Smith's living room",
+      "titleZh": "第27课 史密斯太太的客厅（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L029",
+      "title": "Lesson 29 · Come in, Amy.",
+      "titleZh": "第29课 进来，艾米。（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L031",
+      "title": "Lesson 31 · Where's Sally?",
+      "titleZh": "第31课 萨莉在哪里？（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L033",
+      "title": "Lesson 33 · A fine day",
+      "titleZh": "第33课 晴天（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L035",
+      "title": "Lesson 35 · Our village",
+      "titleZh": "第35课 我们的村庄（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L037",
+      "title": "Lesson 37 · Making a bookcase",
+      "titleZh": "第37课 做书架（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L039",
+      "title": "Lesson 39 · Don't drop it!",
+      "titleZh": "第39课 别摔了！（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L041",
+      "title": "Lesson 41 · Penny's bag",
+      "titleZh": "第41课 彭妮的提包（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce1-L043",
+      "title": "Lesson 43 · Hurry up!",
+      "titleZh": "第43课 快点！（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L045",
+      "title": "Lesson 45 · The boss's letter",
+      "titleZh": "第45课 老板的信（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L047",
+      "title": "Lesson 47 · A cup of coffee",
+      "titleZh": "第47课 一杯咖啡（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L049",
+      "title": "Lesson 49 · At the butcher's",
+      "titleZh": "第49课 在肉店（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L051",
+      "title": "Lesson 51 · A pleasant climate",
+      "titleZh": "第51课 宜人的气候（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L053",
+      "title": "Lesson 53 · An interesting climate",
+      "titleZh": "第53课 有趣的气候（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L055",
+      "title": "Lesson 55 · The Sawyer family",
+      "titleZh": "第55课 索耶一家人（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L057",
+      "title": "Lesson 57 · An unusual day",
+      "titleZh": "第57课 很不平常的一天（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L059",
+      "title": "Lesson 59 · Is that all?",
+      "titleZh": "第59课 就这些吗？（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L061",
+      "title": "Lesson 61 · A bad cold",
+      "titleZh": "第61课 重感冒（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L063",
+      "title": "Lesson 63 · Thank you, doctor.",
+      "titleZh": "第63课 谢谢你，医生。（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L065",
+      "title": "Lesson 65 · Not a baby",
+      "titleZh": "第65课 不是一个孩子（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L067",
+      "title": "Lesson 67 · The weekend",
+      "titleZh": "第67课 周末（第一册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L069",
+      "title": "Lesson 69 · The car race",
+      "titleZh": "第69课 汽车比赛（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L071",
+      "title": "Lesson 71 · He's awful!",
+      "titleZh": "第71课 他讨厌透了！（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L073",
+      "title": "Lesson 73 · The way to King Street",
+      "titleZh": "第73课 到国王街的走法（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L075",
+      "title": "Lesson 75 · Uncomfortable shoes",
+      "titleZh": "第75课 不舒适的鞋子（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L077",
+      "title": "Lesson 77 · Terrible toothache",
+      "titleZh": "第77课 要命的牙痛（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L079",
+      "title": "Lesson 79 · Carol's shopping list",
+      "titleZh": "第79课 卡罗尔的购物单（第一册）",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L081",
+      "title": "Lesson 81 · Roast beef and potatoes",
+      "titleZh": "第81课 烤牛肉和土豆（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L083",
+      "title": "Lesson 83 · Going on holiday",
+      "titleZh": "第83课 度假（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L085",
+      "title": "Lesson 85 · Paris in the spring",
+      "titleZh": "第85课 巴黎之春（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L087",
+      "title": "Lesson 87 · A car crash",
+      "titleZh": "第87课 车祸（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L089",
+      "title": "Lesson 89 · For sale",
+      "titleZh": "第89课 待售（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L091",
+      "title": "Lesson 91 · Poor Ian!",
+      "titleZh": "第91课 可怜的伊恩！（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L093",
+      "title": "Lesson 93 · Our new neighbour",
+      "titleZh": "第93课 我们的新邻居（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L095",
+      "title": "Lesson 95 · Tickets, please.",
+      "titleZh": "第95课 请把车票拿出来。（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L097",
+      "title": "Lesson 97 · A small blue case",
+      "titleZh": "第97课 一只蓝色的小箱子（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L099",
+      "title": "Lesson 99 · Ow!",
+      "titleZh": "第99课 啊哟！（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L101",
+      "title": "Lesson 101 · A card from Jimmy",
+      "titleZh": "第101课 吉米的明信片（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L103",
+      "title": "Lesson 103 · The French test",
+      "titleZh": "第103课 法语考试（第一册）",
+      "wordCount": 16,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L105",
+      "title": "Lesson 105 · Full of mistakes",
+      "titleZh": "第105课 错误百出（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L107",
+      "title": "Lesson 107 · It's too small.",
+      "titleZh": "第107课 太小了。（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L109",
+      "title": "Lesson 109 · A good idea",
+      "titleZh": "第109课 好主意（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L111",
+      "title": "Lesson 111 · The most expensive model",
+      "titleZh": "第111课 最昂贵的型号（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L113",
+      "title": "Lesson 113 · Small change",
+      "titleZh": "第113课 零钱（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L115",
+      "title": "Lesson 115 · Knock, knock!",
+      "titleZh": "第115课 敲敲门！（第一册）",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L117",
+      "title": "Lesson 117 · Tommy's breakfast",
+      "titleZh": "第117课 汤米的早餐（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L119",
+      "title": "Lesson 119 · A true story",
+      "titleZh": "第119课 一个真实的故事（第一册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L121",
+      "title": "Lesson 121 · The man in a hat",
+      "titleZh": "第121课 戴帽子的男士（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L123",
+      "title": "Lesson 123 · A trip to Australia",
+      "titleZh": "第123课 澳大利亚之行（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L125",
+      "title": "Lesson 125 · Tea for two",
+      "titleZh": "第125课 两个人一起喝茶（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L127",
+      "title": "Lesson 127 · A famous actress",
+      "titleZh": "第127课 著名的女演员（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L129",
+      "title": "Lesson 129 · Seventy miles an hour",
+      "titleZh": "第129课 时速七十英里（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L131",
+      "title": "Lesson 131 · Don't be so sure!",
+      "titleZh": "第131课 别那么肯定！（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L133",
+      "title": "Lesson 133 · Sensational news!",
+      "titleZh": "第133课 爆炸性新闻！（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L135",
+      "title": "Lesson 135 · The latest report",
+      "titleZh": "第135课 最新消息（第一册）",
+      "wordCount": 12,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L137",
+      "title": "Lesson 137 · A pleasant dream",
+      "titleZh": "第137课 美好的梦（第一册）",
+      "wordCount": 13,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L139",
+      "title": "Lesson 139 · Is that you, John?",
+      "titleZh": "第139课 是你吗，约翰？（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce1-L141",
+      "title": "Lesson 141 · Sally's first train ride",
+      "titleZh": "第141课 萨莉第一次乘火车旅行（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce1-L143",
+      "title": "Lesson 143 · A walk through the woods",
+      "titleZh": "第143课 林中散步（第一册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L001",
+      "title": "Lesson 1 · A private conversation",
+      "titleZh": "第1课 私人谈话（第二册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L002",
+      "title": "Lesson 2 · Breakfast or lunch?",
+      "titleZh": "第2课 早餐还是午餐？（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L003",
+      "title": "Lesson 3 · Please send me a card",
+      "titleZh": "第3课 请给我寄一张明信片（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L004",
+      "title": "Lesson 4 · An exciting trip",
+      "titleZh": "第4课 激动人心的旅行（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L005",
+      "title": "Lesson 5 · No wrong numbers",
+      "titleZh": "第5课 无错号之虞（第二册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L006",
+      "title": "Lesson 6 · Percy Buttons",
+      "titleZh": "第6课 珀西·巴顿斯（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L007",
+      "title": "Lesson 7 · Too late",
+      "titleZh": "第7课 为时太晚（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L008",
+      "title": "Lesson 8 · The best and the worst",
+      "titleZh": "第8课 最好的和最差的（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L009",
+      "title": "Lesson 9 · A cold welcome",
+      "titleZh": "第9课 冷遇（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L010",
+      "title": "Lesson 10 · Not for jazz",
+      "titleZh": "第10课 不适于演奏爵士乐（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L011",
+      "title": "Lesson 11 · One good turn deserves another",
+      "titleZh": "第11课 礼尚往来（第二册）",
+      "wordCount": 13,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L012",
+      "title": "Lesson 12 · Goodbye and good luck",
+      "titleZh": "第12课 再见，一路顺风（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L013",
+      "title": "Lesson 13 · The Greenwood Boys",
+      "titleZh": "第13课 绿林少年（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L014",
+      "title": "Lesson 14 · Do you speak English?",
+      "titleZh": "第14课 你会讲英语吗？（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L015",
+      "title": "Lesson 15 · Good news",
+      "titleZh": "第15课 佳音（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L016",
+      "title": "Lesson 16 · A polite request",
+      "titleZh": "第16课 彬彬有礼的要求（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L017",
+      "title": "Lesson 17 · Always young",
+      "titleZh": "第17课 青春常驻（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce2-L018",
+      "title": "Lesson 18 · He often does this!",
+      "titleZh": "第18课 他经常干这种事！（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L019",
+      "title": "Lesson 19 · Sold out",
+      "titleZh": "第19课 票已售完（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce2-L020",
+      "title": "Lesson 20 · One man in a boat",
+      "titleZh": "第20课 独坐孤舟（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L021",
+      "title": "Lesson 21 · Mad or not?",
+      "titleZh": "第21课 是不是疯了？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L022",
+      "title": "Lesson 22 · A glass envelope",
+      "titleZh": "第22课 玻璃信封（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce2-L023",
+      "title": "Lesson 23 · A new house",
+      "titleZh": "第23课 新居（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L024",
+      "title": "Lesson 24 · It could be worse",
+      "titleZh": "第24课 不幸中之万幸（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L025",
+      "title": "Lesson 25 · Do the English speak English?",
+      "titleZh": "第25课 英国人讲的是英语吗？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L026",
+      "title": "Lesson 26 · The best art critics",
+      "titleZh": "第26课 最佳美术评论家（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L027",
+      "title": "Lesson 27 · A wet night",
+      "titleZh": "第27课 雨夜（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L028",
+      "title": "Lesson 28 · No parking",
+      "titleZh": "第28课 禁止停车（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L029",
+      "title": "Lesson 29 · Taxi!",
+      "titleZh": "第29课 出租汽车！（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L030",
+      "title": "Lesson 30 · Football or polo?",
+      "titleZh": "第30课 足球还是水球？（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L031",
+      "title": "Lesson 31 · Success story",
+      "titleZh": "第31课 成功者的故事（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L032",
+      "title": "Lesson 32 · Shopping made easy",
+      "titleZh": "第32课 购物变得很方便（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L033",
+      "title": "Lesson 33 · Out of the darkness",
+      "titleZh": "第33课 冲出黑暗（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L034",
+      "title": "Lesson 34 · Quick work",
+      "titleZh": "第34课 破案“神速”（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L035",
+      "title": "Lesson 35 · Stop thief!",
+      "titleZh": "第35课 捉贼！（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L036",
+      "title": "Lesson 36 · Across the Channel",
+      "titleZh": "第36课 横渡海峡（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L037",
+      "title": "Lesson 37 · The Olympic Games",
+      "titleZh": "第37课 奥林匹克运动会（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L038",
+      "title": "Lesson 38 · Everything except the weather",
+      "titleZh": "第38课 唯独没有考虑到天气（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L039",
+      "title": "Lesson 39 · Am I all right?",
+      "titleZh": "第39课 我是否痊愈？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L040",
+      "title": "Lesson 40 · Food and talk",
+      "titleZh": "第40课 进餐与交谈（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L041",
+      "title": "Lesson 41 · Do you call that a hat?",
+      "titleZh": "第41课 你把那个叫帽子吗？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L042",
+      "title": "Lesson 42 · Not very musical",
+      "titleZh": "第42课 并非很懂音乐（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L043",
+      "title": "Lesson 43 · Over the South Pole",
+      "titleZh": "第43课 飞越南极（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L044",
+      "title": "Lesson 44 · Through the forest",
+      "titleZh": "第44课 穿过森林（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L045",
+      "title": "Lesson 45 · A clear conscience",
+      "titleZh": "第45课 问心无愧（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L046",
+      "title": "Lesson 46 · Expensive and uncomfortable",
+      "titleZh": "第46课 既昂贵又受罪（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L047",
+      "title": "Lesson 47 · A thirsty ghost",
+      "titleZh": "第47课 嗜酒的鬼魂（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L048",
+      "title": "Lesson 48 · Did you want to tell me something?",
+      "titleZh": "第48课 你想对我说什么吗？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L049",
+      "title": "Lesson 49 · The end of a dream",
+      "titleZh": "第49课 美梦告终（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L050",
+      "title": "Lesson 50 · Taken for a ride",
+      "titleZh": "第50课 乘车兜风（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L051",
+      "title": "Lesson 51 · Reward for virtue",
+      "titleZh": "第51课 对美德的奖赏（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L052",
+      "title": "Lesson 52 · A pretty carpet",
+      "titleZh": "第52课 漂亮的地毯（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L053",
+      "title": "Lesson 53 · Hot snake",
+      "titleZh": "第53课 触电的蛇（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L054",
+      "title": "Lesson 54 · Sticky fingers",
+      "titleZh": "第54课 粘糊的手指（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L055",
+      "title": "Lesson 55 · Not a gold mine",
+      "titleZh": "第55课 并非金矿（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L056",
+      "title": "Lesson 56 · Faster than sound!",
+      "titleZh": "第56课 比声音还快！（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L057",
+      "title": "Lesson 57 · Can I help you, madam?",
+      "titleZh": "第57课 您要买什么，夫人？（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L058",
+      "title": "Lesson 58 · A blessing in disguise?",
+      "titleZh": "第58课 是因祸得福吗？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L059",
+      "title": "Lesson 59 · In or out?",
+      "titleZh": "第59课 进来还是出去？（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L060",
+      "title": "Lesson 60 · The future",
+      "titleZh": "第60课 卜算未来（第二册）",
+      "wordCount": 14,
+      "sentenceCount": 6
+    },
+    {
+      "id": "nce2-L061",
+      "title": "Lesson 61 · Trouble with the Hubble",
+      "titleZh": "第61课 哈勃望远镜的困境（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L062",
+      "title": "Lesson 62 · After the fire",
+      "titleZh": "第62课 大火之后（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L063",
+      "title": "Lesson 63 · She was not amused",
+      "titleZh": "第63课 她并不觉得好笑（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L064",
+      "title": "Lesson 64 · The Channel Tunnel",
+      "titleZh": "第64课 海峡隧道（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L065",
+      "title": "Lesson 65 · Jumbo versus the police",
+      "titleZh": "第65课 小象对警察（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L066",
+      "title": "Lesson 66 · Sweet as honey!",
+      "titleZh": "第66课 像蜜一样甜！（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L067",
+      "title": "Lesson 67 · Volcanoes",
+      "titleZh": "第67课 火山（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce2-L068",
+      "title": "Lesson 68 · Persistent",
+      "titleZh": "第68课 纠缠不休（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L069",
+      "title": "Lesson 69 · But not murder!",
+      "titleZh": "第69课 并非谋杀！（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L070",
+      "title": "Lesson 70 · Red for danger",
+      "titleZh": "第70课 危险的红色（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L071",
+      "title": "Lesson 71 · A famous clock",
+      "titleZh": "第71课 一个著名的大钟（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L072",
+      "title": "Lesson 72 · A car called Bluebird",
+      "titleZh": "第72课 '蓝鸟'汽车（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L073",
+      "title": "Lesson 73 · The record-holder",
+      "titleZh": "第73课 纪录保持者（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L074",
+      "title": "Lesson 74 · Out of the limelight",
+      "titleZh": "第74课 舞台之外（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 4
+    },
+    {
+      "id": "nce2-L075",
+      "title": "Lesson 75 · SOS",
+      "titleZh": "第75课 呼救信号（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L076",
+      "title": "Lesson 76 · April Fools' Day",
+      "titleZh": "第76课 愚人节（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L077",
+      "title": "Lesson 77 · A successful operation",
+      "titleZh": "第77课 一例成功的手术（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L078",
+      "title": "Lesson 78 · The last one?",
+      "titleZh": "第78课 最后一支吗？（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L079",
+      "title": "Lesson 79 · By air",
+      "titleZh": "第79课 乘飞机（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L080",
+      "title": "Lesson 80 · The Crystal Palace",
+      "titleZh": "第80课 水晶宫（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L081",
+      "title": "Lesson 81 · Escape",
+      "titleZh": "第81课 脱逃（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L082",
+      "title": "Lesson 82 · Monster or fish?",
+      "titleZh": "第82课 是妖还是鱼？（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L083",
+      "title": "Lesson 83 · After the elections",
+      "titleZh": "第83课 大选之后（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L084",
+      "title": "Lesson 84 · On strike",
+      "titleZh": "第84课 罢工（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L085",
+      "title": "Lesson 85 · Never too old to learn",
+      "titleZh": "第85课 活到老学到老（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L086",
+      "title": "Lesson 86 · Out of control",
+      "titleZh": "第86课 失控（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L087",
+      "title": "Lesson 87 · A perfect alibi",
+      "titleZh": "第87课 极好的不在犯罪现场的证据（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L088",
+      "title": "Lesson 88 · Trapped in a mine",
+      "titleZh": "第88课 困在矿井里（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L089",
+      "title": "Lesson 89 · A slip of the tongue",
+      "titleZh": "第89课 口误（第二册）",
+      "wordCount": 15,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L090",
+      "title": "Lesson 90 · What's for supper?",
+      "titleZh": "第90课 晚餐吃什么？（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L091",
+      "title": "Lesson 91 · Three men in a basket",
+      "titleZh": "第91课 三人同篮（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L092",
+      "title": "Lesson 92 · Asking for trouble",
+      "titleZh": "第92课 自找麻烦（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L093",
+      "title": "Lesson 93 · A noble gift",
+      "titleZh": "第93课 崇高的礼物（第二册）",
+      "wordCount": 18,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L094",
+      "title": "Lesson 94 · Future champions",
+      "titleZh": "第94课 未来的冠军（第二册）",
+      "wordCount": 17,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L095",
+      "title": "Lesson 95 · A fantasy",
+      "titleZh": "第95课 纯属虚构（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    },
+    {
+      "id": "nce2-L096",
+      "title": "Lesson 96 · The dead return",
+      "titleZh": "第96课 亡灵返乡（第二册）",
+      "wordCount": 16,
+      "sentenceCount": 5
+    }
+  ]
+}
