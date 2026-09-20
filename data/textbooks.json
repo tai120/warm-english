@@ -1,10 +1,16 @@
 {
   "textbooks": [
     {
-      "id": "nce",
-      "name": "英语入门必学句子",
-      "nameEn": "Warm English Sentences",
-      "desc": "新概念英语 1·2 精华句子 · 共 168 课"
+      "id": "nce1",
+      "name": "英语入门1",
+      "nameEn": "Warm English 1",
+      "desc": "第一册 · 72 课基础情景对话"
+    },
+    {
+      "id": "nce2",
+      "name": "英语入门2",
+      "nameEn": "Warm English 2",
+      "desc": "第二册 · 96 篇经典短文"
     }
   ]
 }

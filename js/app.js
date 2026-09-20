@@ -49,6 +49,7 @@ const state = {
   textbooks: [],
   textbook: null,      /* 当前教材 */
   lesson: null,        /* 当前课程数据 */
+  lessons: [],         /* 当前教材课程列表（写完一课按回车续下一课） */
   dictIdx: 0,          /* 当前听写的句子下标 */
   dictFinished: false, /* 当前听写是否已提交 */
   wdictIdx: 0,         /* 单词听写：当前单词下标 */
@@ -186,6 +187,7 @@ async function renderLessons() {
       '<div class="err-box">课程列表加载失败，请重试</div>';
     return;
   }
+  state.lessons = index.lessons; /* 记住课程列表：写完一课按回车直接续下一课 */
   const p = Progress.get(tb.id);
   s.innerHTML = `
     <div class="page-head">
@@ -217,10 +219,7 @@ async function renderLesson() {
   const { lessonId } = state.pageData;
   let L;
   try {
-    /* 合并后的课程编号形如 nce1-L001：前半是册，后半是文件名 */
-    const dash = lessonId.indexOf('-');
-    L = await (await fetch(`data/${lessonId.slice(0, dash)}/${lessonId.slice(dash + 1)}.json`)).json();
-    L.id = lessonId; /* 两册编号有重复，进度统一按“册-课”记录 */
+    L = await (await fetch(`data/${state.textbook.id}/${lessonId}.json`)).json();
   } catch (e) {
     s.innerHTML = '<div class="page-head"><button class="icon-btn" data-back>‹</button></div>' +
       '<div class="err-box">课程内容加载失败，请重试</div>';
@@ -476,7 +475,10 @@ function submitDictation(sen, tokens) {
   if ($$('.dict-inp.wrong', s).length) $('#dict-fix', s).style.display = '';
   const nextBtn = $('#dict-next', s);
   nextBtn.style.display = '';
-  nextBtn.textContent = state.dictIdx + 1 < state.lesson.sentences.length ? '下一个句子 ›' : '本课完成 ✓';
+  const lIdx = state.lessons.findIndex(l => l.id === state.pageData.lessonId);
+  const hasNextLesson = lIdx >= 0 && lIdx + 1 < state.lessons.length;
+  nextBtn.textContent = state.dictIdx + 1 < state.lesson.sentences.length ? '下一个句子 ›'
+    : hasNextLesson ? '下一课 ›' : '本册完成 ✓';
   $('#dict-result', s).innerHTML = `
     <div class="card res-card">
       <div class="res-score ${score === 100 ? 'all-right' : ''}">${score === 100 ? '🎉 全部正确！' : '得分 ' + score}</div>
@@ -510,16 +512,35 @@ function submitDictation(sen, tokens) {
   if (score === 100) toast('太棒了！全部正确 🎉');
 }
 
-/* 学习下一个句子（听写完成后按回车或点按钮） */
+/* 学习下一个句子（听写完成后按回车或点按钮）；本课写完直接续下一课 */
 function nextSentence() {
   const L = state.lesson;
   if (state.dictIdx + 1 < L.sentences.length) {
     state.dictIdx++;
     renderDictation();
   } else {
-    toast('本课句子全部学完啦 🎉');
-    back();
+    const idx = state.lessons.findIndex(l => l.id === state.pageData.lessonId);
+    const nx = state.lessons[idx + 1];
+    if (!nx) { toast('本册全部学完啦 🎉'); back(); return; }
+    loadLessonStart(nx);
   }
+}
+
+/* 跨课续学：加载下一课，从第一句开始听写 */
+async function loadLessonStart(nx) {
+  if (state.dictLoading) return;
+  state.dictLoading = true;
+  try {
+    const L = await (await fetch(`data/${state.textbook.id}/${nx.id}.json`)).json();
+    state.lesson = L;
+    state.pageData.lessonId = nx.id;
+    state.dictIdx = 0;
+    toast(`${nx.titleZh || nx.title} 开始 🎧`);
+    renderDictation();
+  } catch (e) {
+    toast('下一课加载失败，请检查网络');
+  }
+  state.dictLoading = false;
 }
 
 /* ---------- 单词听写（听音写单词 + 例句听写） ---------- */
@@ -978,7 +999,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.3.0 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.4.0 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
