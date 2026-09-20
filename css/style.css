@@ -193,6 +193,7 @@ html, body {
   border-radius: 6px 6px 0 0;
 }
 .dict-inp:focus { background: #FFF3E4; }
+.dict-inp:disabled { background: #F0EFEA; color: #8A8577; border-bottom-style: dashed; } /* 已填好的人名/地名 */
 .dict-inp.ok { border-color: var(--ok); color: var(--ok-text); background: var(--ok-bg); }
 .dict-inp.wrong { border-color: var(--bad); color: var(--bad); background: var(--bad-bg); }
 .punct { font-size: 16px; font-style: normal; }

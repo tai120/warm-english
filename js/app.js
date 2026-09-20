@@ -122,7 +122,9 @@ document.addEventListener('keydown', e => {
     if (!inp || !inp.classList || !inp.classList.contains('dict-inp')) return;
     e.preventDefault();
     const line = inp.closest('.dict-line');
-    const next = line && line.querySelector(`.dict-inp[data-i="${+inp.dataset.i + 1}"]`);
+    let i = +inp.dataset.i + 1;
+    let next = line && line.querySelector(`.dict-inp[data-i="${i}"]`);
+    while (next && next.disabled) next = line.querySelector(`.dict-inp[data-i="${++i}"]`); /* 跳过已填好的人名格子 */
     if (next) next.focus();
     return;
   }
@@ -361,6 +363,28 @@ function renderDictation() {
   const sen = L.sentences[state.dictIdx];
   const tokens = tokenize(sen.en);
   state.dictFinished = false;
+  /* 专有名词（人名/地名等）不用默写，直接在格子里填好：
+     词表里带（人名）（地名）（汽车名）标注的必填；没有标注的按
+     “大写开头 + 不是本课要背的词 + 不是常见小词”来识别 */
+  const nameSet = new Set();
+  L.words.forEach(w => {
+    if (/（人名）|（地名）|（汽车名）/.test(w.meaning || ''))
+      w.word.split(/\s+/).forEach(p => nameSet.add(normWord(p)));
+  });
+  const wordSet = new Set(L.words.map(w => normWord(w.word)));
+  const STOP = ('i im ive ill id the it this that he she we you they there here what where who how why when ' +
+    'which is are am was were do does did have has had can may must will would should could and but or so if in on ' +
+    'at of for to from with by as no not yes a an last yesterday today tomorrow every some most many much little ' +
+    'few each both all any only even never always sometimes often suddenly then now later finally soon next once ' +
+    'twice again very quite rather almost nearly hardly perhaps maybe however therefore because although though ' +
+    'while since until before after during against between about above below inside outside without within please ' +
+    'thank sorry hello good nice').split(' ');
+  const isName = t => {
+    const n = normWord(t.word);
+    if (nameSet.has(n)) return true;
+    if (!/^[A-Z]/.test(t.word) || STOP.includes(n) || wordSet.has(n)) return false;
+    return true;
+  };
   s.innerHTML = `
     <div class="page-head">
       <button class="icon-btn" data-back>‹</button>
@@ -368,15 +392,19 @@ function renderDictation() {
     </div>
     <div class="card dict-body">
       <button class="btn btn-primary btn-big" id="dict-play">🔊 播放发音</button>
-      <p class="hint" style="text-align:center;margin:12px 0 0">共 ${tokens.length} 个单词 · 写完一个单词自动跳下一个空（空格键也可以跳）</p>
+      <p class="hint" style="text-align:center;margin:12px 0 0">共 ${tokens.length} 个单词 · 人名地名已自动填好 · 写完一个单词自动跳下一个空（空格键也可以跳）</p>
       <p class="hint" style="text-align:center;margin:6px 0 0;color:var(--primary-dark)">💡 中文提示：${esc(sen.zh)}</p>
       <div class="dict-line">
-        ${tokens.map((t, i) => `
+        ${tokens.map((t, i) => {
+          const pre = isName(t);
+          return `
           <span class="dict-tok">
-            <input class="dict-inp" data-i="${i}" style="width:${Math.max(t.word.length, 3) + 1}ch"
+            <input class="dict-inp" data-i="${i}" ${pre ? `value="${esc(t.word)}" disabled` : ''}
+              style="width:${Math.max(t.word.length, 3) + 1}ch"
               autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done">
             ${t.punct ? `<i class="punct">${esc(t.punct)}</i>` : ''}
-          </span>`).join('')}
+          </span>`;
+        }).join('')}
       </div>
       <div class="dict-actions">
         <button class="btn" id="dict-fix" style="display:none">✏️ 只重写错词</button>
@@ -412,7 +440,9 @@ function renderDictation() {
   const line = $('.dict-line', s); /* 注意：这里是 class 选择器 */
   const isInput = el => el && el.classList.contains('dict-inp');
   const focusNext = inp => {
-    const next = $(`.dict-inp[data-i="${+inp.dataset.i + 1}"]`, line);
+    let i = +inp.dataset.i + 1;
+    let next = $(`.dict-inp[data-i="${i}"]`, line);
+    while (next && next.disabled) next = $(`.dict-inp[data-i="${++i}"]`, line); /* 跳过已填好的人名格子 */
     if (next) next.focus();
   };
   /* 自动跳下一个空：写对单词，或字母数已经写够，就跳。
@@ -451,7 +481,7 @@ function renderDictation() {
       submitDictation(sen, tokens);
     }
   });
-  const first = $('.dict-inp', s);
+  const first = $('.dict-inp:not(:disabled)', s);
   if (first) first.focus();
 }
 
@@ -475,7 +505,7 @@ function submitDictation(sen, tokens) {
   if ($$('.dict-inp.wrong', s).length) $('#dict-fix', s).style.display = '';
   const nextBtn = $('#dict-next', s);
   nextBtn.style.display = '';
-  const lIdx = state.lessons.findIndex(l => l.id === state.pageData.lessonId);
+  const lIdx = state.lessons.findIndex(l => l.id === state.lesson.id);
   const hasNextLesson = lIdx >= 0 && lIdx + 1 < state.lessons.length;
   nextBtn.textContent = state.dictIdx + 1 < state.lesson.sentences.length ? '下一个句子 ›'
     : hasNextLesson ? '下一课 ›' : '本册完成 ✓';
@@ -519,7 +549,7 @@ function nextSentence() {
     state.dictIdx++;
     renderDictation();
   } else {
-    const idx = state.lessons.findIndex(l => l.id === state.pageData.lessonId);
+    const idx = state.lessons.findIndex(l => l.id === state.lesson.id);
     const nx = state.lessons[idx + 1];
     if (!nx) { toast('本册全部学完啦 🎉'); back(); return; }
     loadLessonStart(nx);
@@ -999,7 +1029,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.4.0 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.4.1 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
