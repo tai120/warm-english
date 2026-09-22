@@ -480,6 +480,17 @@ function renderDictation() {
       e.preventDefault();
       submitDictation(sen, tokens);
     }
+    if (e.key === 'Backspace' && !inp.value) {
+      /* 空着的格子按退格 → 回到上一个格子（跳过已填好的人名格），光标停在末尾 */
+      e.preventDefault();
+      let i = +inp.dataset.i - 1;
+      let prev = $(`.dict-inp[data-i="${i}"]`, line);
+      while (prev && prev.disabled) prev = $(`.dict-inp[data-i="${--i}"]`, line);
+      if (prev) {
+        prev.focus();
+        prev.setSelectionRange(prev.value.length, prev.value.length);
+      }
+    }
   });
   const first = $('.dict-inp:not(:disabled)', s);
   if (first) first.focus();
@@ -1029,7 +1040,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.4.1 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.4.2 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
