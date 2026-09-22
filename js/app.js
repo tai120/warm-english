@@ -538,7 +538,7 @@ function submitDictation(sen, tokens) {
           `<span><i style="background:${ROLE_COLOR[k]}"></i>${k}</span>`).join('')}
         </div>
       </div>
-      <div class="word-tip" id="word-tip" style="margin:10px 0 0;padding:8px 10px;border-radius:8px;background:rgba(0,0,0,.04);font-size:14px;text-align:center">👆 点击上面的单词，查看词义和词性</div>
+      <div class="word-tip" id="word-tip" style="margin:10px 0 0;padding:8px 10px;border-radius:8px;background:rgba(0,0,0,.04);font-size:14px;text-align:center">👆 点击单词：读出读音 + 显示词义词性</div>
       <p class="res-note">💡 看一遍成分解析，再点「再试一次」练到全对</p>
     </div>`;
   /* 点单词查词义：本课词表里有就显示音标+词性+词义，没有就显示句子成分 */
@@ -548,6 +548,7 @@ function submitDictation(sen, tokens) {
     const chip = e.target.closest('.chip');
     if (!chip) return;
     const text = chip.querySelector('b').textContent;
+    speak(text); /* 点单词读出读音（来自点击，手机浏览器允许发音） */
     const w = wmap[normWord(text)];
     $('#word-tip', s).textContent = w
       ? `${w.word} ${w.phonetic || ''} — ${w.meaning}`
@@ -1051,7 +1052,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.4.3 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.4.4 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
