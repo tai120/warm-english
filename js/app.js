@@ -66,6 +66,7 @@ const ROOT = ['home', 'book', 'settings'];
 const SCREENS = ['home', 'lessons', 'lesson', 'words', 'sentences', 'dictation', 'wdict', 'article', 'book', 'settings'];
 
 function show(id) {
+  if (id !== 'dictation') { const g = $('#dict-ghost'); if (g) g.remove(); } /* 离开听写页收掉隐形输入框，防止键盘不关 */
   SCREENS.forEach(s => $('#screen-' + s).classList.toggle('active', s === id));
   $('#bottom-nav').classList.toggle('hidden', !ROOT.includes(id));
   $$('#bottom-nav button').forEach(b => b.classList.toggle('active', b.dataset.nav === id));
@@ -129,7 +130,7 @@ document.addEventListener('keydown', e => {
     return;
   }
   /* 回车：听写提交后再按 → 学下一个（句子听写和单词听写都支持） */
-  if (e.key !== 'Enter') return;
+  if (e.key !== 'Enter' && e.keyCode !== 13) return; /* 老设备键盘可能只给 keyCode */
   if (e.target && e.target.classList && e.target.classList.contains('dict-inp')) return;
   if (state.screen === 'dictation' && state.dictFinished) nextSentence();
   else if (state.screen === 'wdict' && state.wdFinished) wdNext();
@@ -433,6 +434,8 @@ function renderDictation() {
     $('#dict-next', s).style.display = 'none';
     $('#dict-submit', s).style.display = '';
     $('#dict-result', s).innerHTML = `<p class="hint" style="margin:8px 0 0">还剩 ${wrongs.length} 个词，改写后再提交</p>`;
+    const g = $('#dict-ghost', s);
+    if (g) g.remove(); /* 收掉隐形输入框，把键盘还给要改写的格子 */
     if (wrongs[0]) wrongs[0].focus();
   });
   $('#dict-retry', s).addEventListener('click', () => renderDictation());
@@ -476,7 +479,7 @@ function renderDictation() {
   line.addEventListener('keydown', e => {
     const inp = e.target;
     if (!isInput(inp)) return;
-    if (e.key === 'Enter') {
+    if (e.key === 'Enter' || e.keyCode === 13) {
       e.preventDefault();
       submitDictation(sen, tokens);
     }
@@ -551,6 +554,14 @@ function submitDictation(sen, tokens) {
       : `${text}：不在本课词表 · 成分：${chip.querySelector('i').textContent}`;
   });
   if (score === 100) toast('太棒了！全部正确 🎉');
+  /* 手机/平板：提交后输入框全禁用、键盘会收起，放一个隐形输入框接住焦点，
+     软键盘上的回车就能直接进下一句/下一课 */
+  const ghost = document.createElement('input');
+  ghost.id = 'dict-ghost';
+  ghost.type = 'text';
+  ghost.style.cssText = 'position:fixed;bottom:0;left:0;width:1px;height:1px;opacity:0;border:0;padding:0';
+  s.appendChild(ghost);
+  ghost.focus();
 }
 
 /* 学习下一个句子（听写完成后按回车或点按钮）；本课写完直接续下一课 */
@@ -1040,7 +1051,7 @@ function renderSettings() {
     <div class="card set-card danger">
       <button class="btn btn-danger btn-block" id="set-clear">清空所有学习数据</button>
     </div>
-    <p class="about">暖学英语 v0.4.2 · 白色暖色主题</p>`;
+    <p class="about">暖学英语 v0.4.3 · 白色暖色主题</p>`;
 
   function bindSlider(id, valId, key) {
     const slider = $('#' + id, s);
